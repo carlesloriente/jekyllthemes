@@ -1,0 +1,29 @@
+---
+layout: post
+title: NOCC A responsive theme
+date: 2024-11-23 11:50:00
+homepage: https://bootstrap-theme.notesoncloudcomputing.com/
+download: https://github.com/carlesloriente/bootstrap-theme-jekyll/archive/refs/heads/main.zip
+demo:  https://demo-bootstrap-theme.notesoncloudcomputing.com/
+author: carlesloriente
+thumbnail: nocc-showcase.png
+license: MIT
+license_link: https://github.com/carlesloriente/bootstrap-theme-jekyll/blob/main/LICENSE
+---
+
+NOCC Jekyll Bundle. A fully featured bundle site for Jekyll.
+Features a homepage, about page, tags cloud page, gallery of images page, examples post pages with comments powered by Disqus and a contact form powered by Formspree. 
+
+Features
+
+* Use of the latest Bootstrap 5 library
+* Fully Responsive and Dual Color (light and dark)
+* CSS and JS files are minimized by default
+* Self-hosted Google web fonts
+* Local and remote environments built-in
+* Extensive use of SVG and WeBP
+
+Plugins
+
+* SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag))
+* RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed))
