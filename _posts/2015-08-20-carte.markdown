@@ -4,7 +4,7 @@ title: Carte
 date: 2015-08-20 00:00:00
 homepage: https://github.com/Wiredcraft/carte
 download: https://github.com/Wiredcraft/carte/archive/gh-pages.zip
-demo: http://wiredcraft.com/carte/
+demo: https://wiredcraft.com/carte/
 author: Wiredcraft
 thumbnail: carte.jpg
 license: MIT License

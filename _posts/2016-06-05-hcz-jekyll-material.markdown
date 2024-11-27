@@ -11,6 +11,4 @@ license: MIT License
 license_link: https://github.com/ashutosh2k12/hcz-jekyll-blog/blob/gh-pages/LICENSE
 ---
 
-This is a personal material theme best suited for authors, bloggers,
-programmars. I just needed a simple theme to showcase my portfolio,
-then this came to my mind. Hence, I've added a project section as well.
+This is a personal material theme best suited for authors, bloggers, programmars. I just needed a simple theme to showcase my portfolio, then this came to my mind. Hence, I've added a project section as well.

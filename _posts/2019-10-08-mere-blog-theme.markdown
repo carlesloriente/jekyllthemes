@@ -11,9 +11,7 @@ license: MIT License
 license_link: https://github.com/chrisrhymes/mere-blog-theme/blob/master/LICENSE.txt
 ---
 
-# mere-blog-theme
-
-Mere is a minimal and simple blog theme, and nothing more, for use with Jekyll and GitHub Pages. 
+Mere is a minimal and simple blog theme, and nothing more, for use with Jekyll and GitHub Pages.
 
 ## Features
 
@@ -42,11 +40,11 @@ theme: mere-blog-theme
 
 And then execute:
 
-    $ bundle
+`$ bundle`
 
 Or install it yourself as:
 
-    $ gem install mere-blog-theme
+`$ gem install mere-blog-theme`
 
 ## Use with GitHub Pages
 

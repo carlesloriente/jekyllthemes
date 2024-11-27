@@ -10,19 +10,19 @@ thumbnail: simple-elegant.jpg
 license: MIT License
 ---
 
-## About
-
 Simple Elegant Jekyll theme, hope you will like it!
 
 ## Usage
-1. First please fork my project, rename to USER.github.io as you need!  
-2. Then, modify _config.yml and files under _includes to your own!  
-3. Please remain a friend link to www.panxw.com  
+
+1. First please fork my project, rename to `USER.github.io` as you need!  
+2. Then, modify `_config.yml` and files under `_includes` to your own!  
+3. Please remain a friend link to [www.panxw.com](https://www.panxw.com)
 4. That's all, have fun!  
 
 ## Demo shot
-![](https://github.com/panxw/jekyllthemes/blob/master/thumbnails/simple-elegant.jpg?raw=true)
 
-#### License
+![Demo](https://github.com/panxw/jekyllthemes/blob/master/thumbnails/simple-elegant.jpg?raw=true)
+
+### License
 
 MIT License

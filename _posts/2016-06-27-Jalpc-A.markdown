@@ -10,10 +10,6 @@ license: MIT License
 license_link: https://github.com/ashutosh2k12/hcz-jekyll-blog/blob/gh-pages/LICENSE
 ---
 
-Jalpc-A is a front end web application, it is written in Angularjs and
-the style and theme is similar with Jalpc-A.
+Jalpc-A is a front end web application, it is written in Angularjs and the style and theme is similar with Jalpc-A.
 
-We can register an account at this website then login to do other
-things, besides we can login with github account,since the backhend
-platform is based on Leancloud,you can use Parse as well.
-
+We can register an account at this website then login to do other things, besides we can login with github account,since the backhend platform is based on Leancloud,you can use Parse as well.

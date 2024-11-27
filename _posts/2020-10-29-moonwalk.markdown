@@ -13,7 +13,7 @@ license_link: https://github.com/abhinavs/moonwalk/blob/master/LICENSE.txt
 
 A fast and minimalistic blog theme with clean dark mode.
 
-Features
+## Features
 
 * Light & dark mode with theme switcher
 * Vertical list, horizontal list, card list

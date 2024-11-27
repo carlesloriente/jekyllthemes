@@ -10,10 +10,8 @@ license: MIT License
 license_link: https://github.com/rowanoulton/travelog-theme/blob/master/LICENSE
 ---
 
-Travelog is a theme for Jekyll that is both elegant and downright
-simple.
+Travelog is a theme for Jekyll that is both elegant and downright simple.
 
-In addition to being devilishly handsome, it is responsive down to
-mobile and has a very light footprint.
+In addition to being devilishly handsome, it is responsive down to mobile and has a very light footprint.
 
 Travelog lends itself well to photography and travel journaling.

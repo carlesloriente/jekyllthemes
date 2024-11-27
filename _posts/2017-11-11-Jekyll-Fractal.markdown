@@ -11,8 +11,6 @@ license: MIT License
 license_link: https://github.com/yvesespinosa/jekyll-html5up-fractal/blob/master/LICENSE.txt
 ---
 
-# Jekyll-fractal Theme
-
 ![Fractal Theme](https://github.com/yvesespinosa/jekyll-html5up-fractal/blob/master/assets/images/fractal.jpg?raw=true)
 
 See the [demo here](https://yvesespinosa.github.io/jekyll-html5up-fractal/).
@@ -24,20 +22,20 @@ A template for personal website portfolio that is simple yet elegant. It is also
 ## Setup
 
 1. Install Jekyll (use the command `sudo gem install jekyll`)
-3. Clone and fork [Jekyll-fractal Template](https://github.com/yvesespinosa/jekyll-html5up-fractal)
-4. Edit `_config.yml` to personalize your site
+2. Clone and fork [Jekyll-fractal Template](https://github.com/yvesespinosa/jekyll-html5up-fractal)
+3. Edit `_config.yml` to personalize your site
 
 ## Settings
 
 You have to fill some informations on `_config.yml` to customize your site.
 
-```
+```md
 # Site settings
 title: Jekyll fractal
 email: youremailaddress@gmail.com
 description: Just a simple, single page responsive template brought to you by HTML5 UP.
 baseurl: "/fractal-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site e.g. http://yvesespinosa.com
+url: "" # the base hostname & protocol for your site e.g. https://yvesespinosa.com
 download_button_url: ""
 
 # Social settings
@@ -57,7 +55,7 @@ markdown: kramdown
 
 ## Questions?
 
-Drop me a line anytime [website](http://yvesespinosa.com) or file a [GitHub Issue](https://github.com/yvesespinosa/jekyll-html5up-fractal/issues/new).
+Drop me a line anytime [website](https://yvesespinosa.com) or file a [GitHub Issue](https://github.com/yvesespinosa/jekyll-html5up-fractal/issues/new).
 
 ## Like It?
 
@@ -65,7 +63,7 @@ Fork or Star [this](https://github.com/yvesespinosa/jekyll-html5up-fractal)
 
 ## Author
 
-Design made by [Html5](http://html5up.net).
+Design made by [Html5](https://html5up.net).
 Jekyll integrations made by me
 
 ## License

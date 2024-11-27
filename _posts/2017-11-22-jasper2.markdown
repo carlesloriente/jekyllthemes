@@ -11,13 +11,11 @@ license: MIT License
 license_link: https://github.com/myJekyll/jasper2/blob/master/LICENSE
 ---
 
-## Welcome to Jasper2
-
-Full-featured Jekyll port of Ghost's default theme [Casper](https://github.com/tryghost/casper) v2
+Jasper2, full-featured Jekyll port of Ghost's default theme [Casper](https://github.com/tryghost/casper) v2
 
 Created by [Fábio Madeira](https://biomadeira.github.io/) ([Twitter](https://twitter.com/@biomadeira))
 
-### Features
+## Features
 
 * Out of the box support for multiple authors (via `_data/authors.yml`)
 * Full author information including: picture, bio, website, twitter, facebook, etc.
@@ -31,6 +29,6 @@ Created by [Fábio Madeira](https://biomadeira.github.io/) ([Twitter](https://tw
 * Support for Google Analytics tracking
 * Support for Disqus comments (not Ghost standard)
 
-### Getting Started
+## Getting Started
 
-More information on [GitHub](https://github.com/jekyller/jasper2)...
+More information on [GitHub](https://github.com/jekyller/jasper2)

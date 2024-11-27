@@ -13,13 +13,14 @@ license_link: https://gitlab.com/lorepirri/jekyll-theme-simple-blog/blob/master/
 
 _Jekyll Theme Simple Blog_ is a Jekyll theme for GitLab and GitHub Pages. It is based on the nice Cayman Blog theme from the same author. It has everything you need to start blogging like a hacker, today.
 
-Features:
-- Blog
-- Responsive
-- Minimal
-- Multi-language
-- SEO optimized for Facebook preview
-- Facebook plugins integration (Page, Comments, Messenger, Like)
-- Facebook Mirring Comments
-- Social buttons (facebook, instagram, linkedin, twitter, github, gitlab)
-- RSS feed multi-language
+## Features
+
+* Blog
+* Responsive
+* Minimal
+* Multi-language
+* SEO optimized for Facebook preview
+* Facebook plugins integration (Page, Comments, Messenger, Like)
+* Facebook Mirring Comments
+* Social buttons (facebook, instagram, linkedin, twitter, github, gitlab)
+* RSS feed multi-language

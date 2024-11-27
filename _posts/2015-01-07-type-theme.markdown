@@ -11,5 +11,4 @@ license: MIT License
 license_link: https://github.com/rohanchandra/type-theme/blob/master/LICENSE
 ---
 
-Type Theme is a free and open-source Jekyll theme, that’s highly
-customizable and built for blogging.
+Type Theme is a free and open-source Jekyll theme, that’s highly customizable and built for blogging.

@@ -4,7 +4,7 @@ title: JBlog
 date: 2017-07-18 00:10:00
 homepage: https://github.com/alperenbozkurt/JBlog
 download: https://github.com/alperenbozkurt/JBlog/archive/master.zip
-demo: http://alperenbozkurt.net/JBlog/
+demo: https://alperenbozkurt.net/JBlog/
 author: Alperen Bozkurt
 thumbnail: JBlog.png
 license: MIT License

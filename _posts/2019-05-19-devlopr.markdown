@@ -11,9 +11,9 @@ license: MIT License
 license_link: https://opensource.org/licenses/MIT
 ---
 
-Devlopr is a modern Jekyll theme built for Developers focused on speed performance & SEO best practices. 
+Devlopr is a modern Jekyll theme built for Developers focused on speed performance & SEO best practices.
 
-### Features
+## Features
 
 * Minimal, responsive and speed performance optimized
 * Compatible with GitHub Pages and Netlify
@@ -27,8 +27,8 @@ Devlopr is a modern Jekyll theme built for Developers focused on speed performan
 * Add your **social profiles** easily in `_config.yml`. Only the social icons you enter in `config.yml` will show up on the site footer.
 * Custom 404 page
 
-### Installation 
+## Installation
 
 Check out this tutorial :
 
- - [Devlopr Theme Install Guide](https://sujaykundu.com/github/jekyll/2019/05/19/setup-devlopr-for-blog.html)
+* [Devlopr Theme Install Guide](https://sujaykundu.com/github/jekyll/2019/05/19/setup-devlopr-for-blog.html)

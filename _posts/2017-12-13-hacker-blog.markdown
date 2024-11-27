@@ -11,26 +11,24 @@ license: CC0 1.0 Universal
 license_link: https://github.com/tocttou/hacker-blog/blob/master/license.md
 ---
 
-# The Hacker-Blog theme
-
-*Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. It is based on the [hacker theme](https://github.com/pages-themes/hacker) for project pages.*
+Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. It is based on the [hacker theme](https://github.com/pages-themes/hacker) for project pages.
 
 Demo: [https://ashishchaudhary.in/hacker-blog](https://ashishchaudhary.in/hacker-blog)
 
-### Included
+## Included
 
 1. Pagination
 2. SEO tags
 3. Archive Page
 4. RSS
-5. Sitemap 
+5. Sitemap
 
 ## Usage
 
 1. Fork and Clone the project repository
 2. Customize your blog
 3. Add a new post in `_posts/` directory with proper name format (as shown in placeholder posts)
-4. Commit and push to master 
+4. Commit and push to master
 
 ## Local Build
 
@@ -49,7 +47,7 @@ docker run --rm -p 8000:8000 \
   jekyll serve --watch --port 8000
 ```
 
-Replace `LOCATION_OF_YOUR_JEKYLL_BLOG` with the full path of your blog repository. Visit `http://localhost:8000` to access the blog.
+Replace `LOCATION_OF_YOUR_JEKYLL_BLOG` with the full path of your blog repository. Visit `https://localhost:8000` to access the blog.
 
 ## Customizing
 
@@ -85,7 +83,7 @@ Edit `about.md`
 
 If you would like to modify the site style:
 
-**HTML**
+#### HTML
 
 Footer: Edit `_includes/footer.html`
 
@@ -99,13 +97,13 @@ Index page layout: Edit `_layouts/default.html`
 
 Post layout: Edit `_layouts/post.html`
 
-**CSS**
+#### CSS
 
 Site wide CSS: Edit `_sass/base.scss`
 
 Custom CSS: Make `_sass/custom.scss` and use it. Then add `@import "custom";` to `css/main.scss`
 
-**404 page**
+#### 404 page
 
 Edit `404.md`
 

@@ -13,6 +13,8 @@ license_link: https://github.com/CloudCannon/edition-jekyll-template/blob/master
 
 Write documentation for your product using Edition.
 
+## Features
+
 * Clearly document how you use your product.
 * Fully integrated search allows your customers to find the content they’re looking for.
 * Write a change log to keep customers up-to-date with the latest changes.

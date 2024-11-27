@@ -11,11 +11,8 @@ license: MIT License
 license_link: https://github.com/jameshamann/jekyll-material-theme/blob/master/LICENSE.txt
 ---
 
-## Welcome to Jekyll Material Theme
-
-A Jekyll Theme based on [Material Design](https://material.io/) using [Materialize](http://materializecss.com/).
-
+Welcome to Jekyll Material Theme: A Jekyll Theme based on [Material Design](https://material.io/) using [Materialize](https://materializecss.com/).
 
 This theme is also available as a gem [Gem](https://rubygems.org/gems/jekyll-material-theme). For more information visit the [Github Repo.](https://github.com/jameshamann/jekyll-material-theme)
 
-##### Created by [James Hamann](https://jameshamann.com)
+Created by [James Hamann](https://jameshamann.com)

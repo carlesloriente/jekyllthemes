@@ -14,8 +14,10 @@ license_link: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages/LICENS
 **Jekyll Doc Theme** is a simple and modern design for publishing blog posts, documentation and many more things for your project.
 You can now clone and start to create a website for your project like this one.
 
-- Bootstrap Sass
-- Font Awesome
-- Bootwatch Paper Bootstrap Theme
-- Typeahead title search
-- SEO and RSS feed
+## Features
+
+* Bootstrap Sass
+* Font Awesome
+* Bootwatch Paper Bootstrap Theme
+* Typeahead title search
+* SEO and RSS feed

@@ -11,5 +11,4 @@ license: MIT License
 license_link: https://github.com/hemangsk/safarnama/blob/master/LICENSE.md
 ---
 
-Super Flexible, Uncluttered, Minimal Jekyll theme designed for the free
-flying spirit.
+Super Flexible, Uncluttered, Minimal Jekyll theme designed for the free flying spirit.

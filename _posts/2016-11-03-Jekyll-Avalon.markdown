@@ -13,7 +13,8 @@ license_link: https://opensource.org/licenses/MIT
 
 Jekyll-Avalon is a Materialize Jekyll theme.
 
-Featuring:
+## Features
+
 * Material Design
 * Responsive Web Design
 * Tags and categories browsing

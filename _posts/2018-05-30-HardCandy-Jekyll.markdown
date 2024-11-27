@@ -10,13 +10,11 @@ license: MIT License
 license_link: https://github.com/xukimseven/HardCandy-Jekyll/blob/master/LICENSE
 ---
 
-## HardCandy-Jekyll
+HardCandy-Jekyll
 
+## Preview
 
-
-### Preview
-
-[在线预览 view demo →](http://xseven.me/)
+[在线预览 view demo →](https://xseven.me/)
 
 ![1](https://github.com/xukimseven/HardCandy-Jekyll/raw/master/screenshot/1.png)
 
@@ -28,9 +26,7 @@ license_link: https://github.com/xukimseven/HardCandy-Jekyll/blob/master/LICENSE
 
 ![4](https://github.com/xukimseven/HardCandy-Jekyll/raw/master/screenshot/4.png)
 
-
-
-### 主题特性
+## 主题特性
 
 - 主题基于 `jekyll 3.8.1` 开发
 - 响应式布局
@@ -43,15 +39,13 @@ license_link: https://github.com/xukimseven/HardCandy-Jekyll/blob/master/LICENSE
 - 支持13款不同社交平台图标及链接地址指向
 - 支持11个不同平台的文章分享路口
 
+## 开始使用
 
-
-### 开始使用
-
-#### 线上部署
+### 线上部署
 
 ​	首先在 `github` 上开启一个仓库起名为 `你的github用户名.github.io` 。并 `clone` 你的仓库到本地。 然后下载 `HardCandy-Jekyll` 的 [源码](https://github.com/xukimseven/HardCandy-Jekyll) 到本地之后，将 `_config.yml` 文件更改为自己的配置（下面会介绍）。之后，将所有文件拷贝至自己的本地仓库根目录下，再上传至自己的 `github` 线上仓库，即可通过域名 `https://你的github用户名.github.io` 访问看到自己的博客页面。
 
-#### 本地部署
+### 本地部署
 
 ​	首先在本地安装 `Jekyll` [详情请戳](https://www.jekyll.com.cn/docs/quickstart/)
 
@@ -59,15 +53,13 @@ license_link: https://github.com/xukimseven/HardCandy-Jekyll/blob/master/LICENSE
 
 ​	使用 `gem install jekyll-paginate` 或 `sudo gem install jekyll-paginate` 安装Jekyll的分页插件。
 
-​	将源码 `clone` 到本地后，在终端进入 `HardCandy-Jekyll` 根目录，运行 `jekyll server` 或 `bundle exec jekyll serve` ，即可开启jekyll的服务。通过浏览器访问 [http://localhost:4000](http://localhost:4000) ，即可看到本地部署的 `HardCandy-Jekyll` 博客了。
+​	将源码 `clone` 到本地后，在终端进入 `HardCandy-Jekyll` 根目录，运行 `jekyll server` 或 `bundle exec jekyll serve` ，即可开启jekyll的服务。通过浏览器访问 [https://localhost:4000](https://localhost:4000) ，即可看到本地部署的 `HardCandy-Jekyll` 博客了。
 
 > warning！值得注意的地方：
 >
 > ​	由于本主题是基于 `jekyll 3.8.1` 开发 ，jekyll的版本差异也许会导致相关显示效果的差异。详情请参考官方文档：[news](https://jekyllrb.com/news/)
 
-
-
-### 配置文档
+## 配置文档
 
 - 开始
   - [关于博客](#关于博客)
@@ -86,13 +78,9 @@ license_link: https://github.com/xukimseven/HardCandy-Jekyll/blob/master/LICENSE
   - [文章分享的路口](#文章分享的路口)
   - [网站流量追综的配置](#网站流量追综的配置)
 
-
-
 > ​	通用修改 `_config.yml` 文件，你便可以轻松搭建属于你自己的个人博客。
 >
 > ​	一部分配置，默认已经是配置好的，你只需要修改下面列出的内容即可完成搭建。
-
-
 
 #### 关于博客
 
@@ -113,8 +101,6 @@ url: 'https://abc.github.io' # your host
 `keywords` ：网站的关键词
 
 `url` ：网站域名
-
-
 
 #### 写文章
 
@@ -147,8 +133,6 @@ cover: ''
 
 ![5](https://github.com/xukimseven/HardCandy-Jekyll/raw/master/screenshot/5.png)
 
-
-
 #### 博主个人信息
 
 ```yaml
@@ -175,9 +159,7 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 
 ​	使用 `true` 或者 `false` 来打开或关闭博主关于信息，即是否显示 aboutyou 部分的信息。默认 true ，该部分需要在 aboutyou 中输入相关信息，支持在此填写html代码。
 
-
-
-#### 社交媒体
+### 社交媒体
 
 ```yaml
 # SNS
@@ -202,9 +184,7 @@ SNS-icon: #['mail', 'weixin', 'QQ', 'weibo', 'instagram', 'twitter', 'github', '
 
 ​	在 `SNS` 后填写  `true` 或者 `false` 来打开或者关闭这一部分。
 
-
-
-#### 首页显示信息
+### 首页显示信息
 
 ```yaml
 ---
@@ -220,9 +200,7 @@ description: description
 
 ![7](https://github.com/xukimseven/HardCandy-Jekyll/raw/master/screenshot/7.png)
 
-
-
-#### 导航栏
+### 导航栏
 
 ```yaml
 # nav 中文字符空格：&emsp;
@@ -236,9 +214,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 ​	默认全部开启他们，当然如果想要自己添加，按照格式填在下方即可，当然页面显示顺序与每一行的位置有关。
 
-
-
-#### 分页
+### 分页
 
 ```yaml
 # 分页
@@ -250,9 +226,7 @@ paginatepath: ['page:num']
 
 ​	本地部署的需要使用 `gem install jekyll-paginate` 或 `sudo gem install jekyll-paginate` 安装Jekyll的分页插件。
 
-
-
-#### 代码高亮主题
+### 代码高亮主题
 
 ```yaml
 # 代码高亮 使用rouge
@@ -274,9 +248,7 @@ pygmentsTheme: 'default'
 ```
 ~~~
 
-
-
-#### 友情链接
+### 友情链接
 
 ```yaml
 # 友情链接
@@ -285,8 +257,6 @@ friends:
 ```
 
 ​	按格式填写即可，排序与配置文件里的排序有关。
-
-
 
 #### 页脚
 
@@ -298,9 +268,7 @@ footer:
 
 ​	用于页脚显示时间。
 
-
-
-#### 评论系统的切换
+### 评论系统的切换
 
 ```yaml
 # 评论 最佳体验 在disqus、livere和Gitment之间三选一
@@ -338,8 +306,6 @@ Gitment评论：
 
 ​	三款评论各有各的优势与坏处。出于显示样式与中国大陆网络环境考虑，主题默认开启 `来必力` 评论为最佳体验。当然需要填写好相关的 `livere_uid` 代码。
 
-
-
 #### 文章分享的路口
 
 ```yaml
@@ -348,11 +314,9 @@ social-share: true
 social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
 ```
 
-​	为了让文章更方便地分享，使用了第三方分享插件[Share.js](http://overtrue.github.io/share.js/)，支持一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等社交网站。
+​	为了让文章更方便地分享，使用了第三方分享插件[Share.js](https://overtrue.github.io/share.js/)，支持一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等社交网站。
 
 ​	只需要填写相关的名称在 `social-share-items` 后即可，显示顺序与书写顺序有关。
-
-
 
 #### 网站流量追综的配置
 
@@ -367,13 +331,9 @@ google-ID: ''
 
 ​	在 `baidu-url` 和 `google-ID` 分别填上注册获取的相关信息。使用 `true` 或者 `false` 开启或关闭他们。出于中国大陆网络环境，默认开启 百度统计 ，当然可以多开。
 
-
-
 ### License 许可证
 
 HardCandy-Jekyll is licensed under [MIT](https://github.com/xukimseven/HardCandy-Jekyll/blob/master/LICENSE).
-
-
 
 ### 求Star 求关注
 

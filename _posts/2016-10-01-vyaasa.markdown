@@ -4,7 +4,7 @@ title: Vyaasa
 date: 2016-10-01 00:00:00
 homepage: https://github.com/sharu725/vyaasa
 download: https://github.com/sharu725/vyaasa/archive/master.zip
-demo: http://webjeda.com/vyaasa
+demo: https://webjeda.com/vyaasa
 author: webjeda
 thumbnail: vyaasa.png
 license: MIT License
@@ -13,15 +13,15 @@ license_link: https://opensource.org/licenses/MIT
 
 Default Theme
 
-![Vyaasa Jekyll Theme](http://webjeda.com/vyaasa/images/vyaasa-jekyll-theme-1.png)
+![Vyaasa Jekyll Theme](https://webjeda.com/vyaasa/images/vyaasa-jekyll-theme-1.png)
 
 A post would look like
 
-![Vyaasa Jekyll Theme](http://webjeda.com/vyaasa/images/vyaasa-jekyll-theme-2.png)
+![Vyaasa Jekyll Theme](https://webjeda.com/vyaasa/images/vyaasa-jekyll-theme-2.png)
 
 Responsive Theme
 
-![Vyaasa Jekyll Theme](http://webjeda.com/vyaasa/images/vyaasa-responsive-jekyll-theme-1.png)
+![Vyaasa Jekyll Theme](https://webjeda.com/vyaasa/images/vyaasa-responsive-jekyll-theme-1.png)
 
 ## How to install this Theme
 

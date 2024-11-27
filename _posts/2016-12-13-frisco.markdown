@@ -13,6 +13,8 @@ license_link: https://github.com/CloudCannon/frisco-jekyll-template/blob/master/
 
 Build a marketing site for your app with Frisco.
 
+## Features
+
 * Add your team and write your company story.
 * Write about your latest release and findings in the blog.
 * Get customers using your app.

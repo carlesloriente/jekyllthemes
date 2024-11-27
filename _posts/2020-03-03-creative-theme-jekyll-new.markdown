@@ -11,12 +11,7 @@ license: Apache License Version 2.0
 license_link: https://github.com/vvalchev/creative-theme-jekyll-new/blob/master/LICENCE
 ---
 
-# Description
-
-Creative is a one page Bootstrap theme for creatives, small businesses, and
-other multipurpose use. A modern, flat design style works in unison with rich
-features and plugins making this theme a great boilerplate for your next
-Bootstrap based project!
+Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose use. A modern, flat design style works in unison with rich features and plugins making this theme a great boilerplate for your next Bootstrap based project!
 
 ## Features
 

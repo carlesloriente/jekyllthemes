@@ -13,13 +13,15 @@ license_link: https://github.com/Sylhare/Type-on-Strap/blob/master/LICENSE
 
 A free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chandra's [type-theme](https://github.com/rohanchandra/type-theme). Its features includes:
 
-- Compatible with Github pages
-- Bundled as a Ruby theme gem
-- Responsive design
-- Include bootstrap and Jekyll search
-- Portfolio, tags, search page layout
-- Disqus Comments and Google Analytics support
-- Free of rights images from [pexels](https://www.pexels.com/) included
+## Features
+
+* Compatible with Github pages
+* Bundled as a Ruby theme gem
+* Responsive design
+* Include bootstrap and Jekyll search
+* Portfolio, tags, search page layout
+* Disqus Comments and Google Analytics support
+* Free of rights images from [pexels](https://www.pexels.com/) included
 
 [![Default Type on Strap blog][2]][1]
 

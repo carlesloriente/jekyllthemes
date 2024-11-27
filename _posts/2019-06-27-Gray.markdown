@@ -11,10 +11,4 @@ license: MIT License
 license_link: https://github.com/brunofolle/gray/blob/master/LICENSE.txt
 ---
 
-Gray is a simple blog for bloggers
-
-Documentation:
-
-https://github.com/brunofolle/gray
-
-Guide Styles on template post
+Gray is a simple blog for bloggers [Documentation](https://github.com/brunofolle/gray)

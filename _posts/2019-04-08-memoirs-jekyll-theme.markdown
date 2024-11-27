@@ -11,24 +11,22 @@ license: MIT License
 license_link: https://raw.githubusercontent.com/wowthemesnet/jekyll-theme-memoirs/master/LICENSE.txt
 ---
 
-![Screenshot](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
+## Features
 
-### Features
-
-- 100% Github Pages Compatibility
-- Bootstrap 4.x
-- SEO Integration
-- Search
-- Categories
-- Related Post
-- Pagination
-- External Image Thumbnails
-- Disqus Comments
-- Sitemap
-- Feed
-- Formspree Contact Form
-- Share
-- Google Analytics
-- Font Awesome 5+
-- Privacy Policy
-- More
+* 100% Github Pages Compatibility
+* Bootstrap 4.x
+* SEO Integration
+* Search
+* Categories
+* Related Post
+* Pagination
+* External Image Thumbnails
+* Disqus Comments
+* Sitemap
+* Feed
+* Formspree Contact Form
+* Share
+* Google Analytics
+* Font Awesome 5+
+* Privacy Policy
+* More

@@ -13,6 +13,8 @@ license_link: https://github.com/CloudCannon/justice-jekyll-template/blob/master
 
 Justice is a law firm themed template for Jekyll which can be modified to fit any local business.
 
+## Features
+
 * Show testimonials to add credibility to the business.
 * Your clients post advice on their blog.
 * Inbound leads get in touch on the contact form.

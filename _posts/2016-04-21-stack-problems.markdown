@@ -11,11 +11,9 @@ license: MIT License
 license_link: https://github.com/agusmakmun/agusmakmun.github.io/blob/master/LICENSE
 ---
 
-## Stack Problems
+Stack Problems, this project forked and has been modified from ["**A simple grey theme for Jekyll**"](https://github.com/liamsymonds/simplygrey-jekyll), and the search posts using [**Super Search**](https://github.com/chinchang/super-search).
 
-This project forked and has been modified from ["**A simple grey theme for Jekyll**"](https://github.com/liamsymonds/simplygrey-jekyll), and the search posts using [**Super Search**](https://github.com/chinchang/super-search).
-
-### Feature
+## Features
 
 * Sitemap and XML Feed
 * Paginations in homepage
@@ -30,6 +28,6 @@ This project forked and has been modified from ["**A simple grey theme for Jekyl
 * Share on social media
 * Google analytics
 
-### Screenshot
+## Screenshot
 
 ![Screenshot Post Page](https://raw.githubusercontent.com/agusmakmun/agusmakmun.github.io/master/static/img/screenshot-post-page.png "Screenshot Post Page")

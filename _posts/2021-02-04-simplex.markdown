@@ -11,12 +11,15 @@ license: MIT License
 license_link: https://github.com/andreondra/jekyll-theme-simplex/blob/master/LICENSE.txt
 ---
 
-A blog theme I've developed for my blog. The theme is simple but full of useful features. Some of the features are:
-- responsivity
-- automatic dark mode
-- Open Graph tags support (link preview image)
-- built-in buttons
-- built-in lightbox
+A blog theme I've developed for my blog. The theme is simple but full of useful features.
+
+## Features
+
+* responsivity
+* automatic dark mode
+* Open Graph tags support (link preview image)
+* built-in buttons
+* built-in lightbox
 
 The theme is licensed under MIT, so feel free to add more features or edit.
 It is packaged as a gem, so it can be installed easily with bundle.

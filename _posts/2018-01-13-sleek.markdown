@@ -15,7 +15,7 @@ Sleek is a modern Jekyll theme focused on speed performance & SEO best practices
 
 ![Screenshot](https://github.com/janczizikow/sleek/blob/master/sleek.jpg)
 
-### Features
+## Features
 
 * Minimal, responsive and speed performance optimized
 * Compatible with GitHub Pages

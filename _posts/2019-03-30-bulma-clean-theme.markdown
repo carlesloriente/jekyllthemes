@@ -11,9 +11,7 @@ license: MIT License
 license_link: https://github.com/chrisrhymes/bulma-clean-theme/blob/master/LICENSE.txt
 ---
 
-# bulma-clean-theme
-
-This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/) framework, providing a modern looking site to start working with. 
+Bulma-clean-theme, this is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/) framework, providing a modern looking site to start working with.
 
 ## Features
 
@@ -42,11 +40,11 @@ theme: bulma-clean-theme
 
 And then execute:
 
-    $ bundle
+`$ bundle`
 
 Or install it yourself as:
 
-    $ gem install bulma-clean-theme
+`$ gem install bulma-clean-theme`
 
 ## Use with GitHub Pages
 

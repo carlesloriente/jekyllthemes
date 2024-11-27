@@ -12,8 +12,6 @@ license_link: https://github.com/vszhub/not-pure-poole/blob/master/LICENSE.md
 
 A simple, beautiful, and powerful Jekyll theme for blogs.
 
-![](https://github.com/vszhub/not-pure-poole/blob/master/screenshot.png?raw=true)
-
 ## Features
 
 - [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
