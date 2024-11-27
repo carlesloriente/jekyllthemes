@@ -1,0 +1,70 @@
+---
+layout: default
+title: Best Jekyll Themes
+---
+
+<section class="py-5 text-center container">
+  <div class="row py-lg-5">
+    <div class="col-lg-6 col-md-8 mx-auto">
+      <h1 class="fw-light">The directory of the best-looking themes for Jekyll</h1>
+    </div>
+  </div>
+</section>
+
+<div class="album py-5 bg-body-tertiary">
+  <div class="container">
+
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4">
+      {% for post in paginator.posts %}
+      <div class="col">
+        <a class="item-inner" href="{{ post.url }}">
+
+        <div class="card shadow-sm">
+          <div class="item-image"><img src="/thumbnails/{{ post.thumbnail }}" alt="{{ post.title | append: ' thumbnail' }}"></div>
+          <div class="card-body">
+            <p class="card-text">{{ post.title }}</p>
+          </div>
+        </div>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<!-- Pager -->
+<div class="container">
+  <div class="row">
+    <div class="col-lg-10 mx-auto">
+      <nav aria-label="Page navigation">
+        <ul class="pagination">
+        {% if paginator.previous_page %}
+          {% if paginator.previous_page == 1 %}
+            <li class="page-item"><a class="page-link" href="/" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ page.previous.title }}">Previous</a></li>
+          {% else %}
+            <li class="page-item"><a class="page-link" href="/themes/page{{ paginator.previous_page }}" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ page.previous.title }}">Previous</a></li>
+          {% endif %}
+        {% else %}
+        <li class="page-item"><a class="page-link disabled" href="#" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ page.previous.title }}">Previous</a></li>
+        {% endif %}
+        {% if paginator.page == 1 %}
+        <li class="page-item"><a class="page-link active" href="#" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ count }}">1</a></li>
+        {% else %}
+        <li class="page-item"><a class="page-link" href="/" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="1">1</a></li>
+        {% endif %}
+        {% for count in (2..paginator.total_pages) %}
+          {% if count == paginator.page %}
+          <li class="page-item"><a class="page-link active" href="#" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ count }}">{{ count }}</a></li>
+          {% else %}
+          <li class="page-item"><a class="page-link" href="/themes/page{{ count }}" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ count }}">{{ count }}</a></li>
+          {% endif %}
+        {% endfor %}
+        {% if paginator.next_page %}
+        <li class="page-item"><a class="page-link" href="/themes/page{{ paginator.next_page }}" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ page.next.title }}">Next</a></li>
+        {% else %}
+        <li class="page-item"><a class="page-link disabled" href="#" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="Next">Next</a></li>
+        {% endif %}
+        </ul>
+      </nav>
+  </div>
+</div>

@@ -1,0 +1,44 @@
+---
+layout: none
+---
+
+{
+  "id": "/index.html",
+  "lang": "{{ site.language }}",
+  "dir": "{{ site.lang_direction }}",
+  "name": {{ site.name | smartify | jsonify }},
+  "short_name": {{ site.short_name | smartify | jsonify }},
+  "description": "{{ site.description }}",
+  "categories": ["jekyll", "jekyll-themes", "bestjekyllthemes"],
+  "icons": [
+      {
+        "src": "\/assets\/images\/favicon_io\/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image\/png"
+      }
+  ],
+  "screenshots": [
+    {
+      "src": "\/assets\/images\/jekyllthemes-showroom.png",
+      "sizes": "1280x720",
+      "type": "image\/png"
+    }
+  ],
+  "launch_handler": {
+    "client_mode": ["focus-existing", "auto"]
+  },
+  "theme_color": "{{ site.color }}",
+  "background_color": "{{ site.color }}",
+  "start_url": "{{ site.url }}",
+  "scope": "/",
+  "scope_extensions": [
+    {
+      "origin": "{{ site.url }}"
+    }
+  ],
+  "display": "standalone",
+  "orientation": "natural",
+  "launch_handler": {
+    "client_mode": ["focus-existing", "auto"]
+  }
+}

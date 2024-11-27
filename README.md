@@ -1,8 +1,9 @@
-Jekyll Themes
+Best Jekyll Themes
 =============
 
-A directory of the best-looking themes for Jekyll blogs
+An up-to-date directory of the best-looking themes for [Jekyll](https://jekyllrb.com/) a static site generator in [Ruby](https://www.ruby-lang.org/es/).
 
+Forked from the discontinued project [JekyllThemes](https://github.com/mattvh/jekyllthemes) created by [Matt Harzewski](https://github.com/mattvh).
 
 Submitting a Theme
 ------------------
@@ -13,7 +14,6 @@ Have a theme you want to share?
 * Create a new post in the `_posts` directory and fill out the relevant YAML fields
 * Make a 250x200 thumbnail and drop it in the thumbnails directory. List its filename in the post's markdown file.
 * Test it out, then push your changes up and open a pull request.
-
 
 License
 -------

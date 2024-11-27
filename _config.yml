@@ -1,16 +1,79 @@
-name: Jekyll Themes
-url: http://matt.harzewski.com
-description: Insert tagline here
+landing                 : false
+title                   : Best Jekyll Themes
+author                  : Carles Loriente
+url                     : "https://www.bestjekyllthemes.site"
+baseurl                 : "/" 
+timezone                : "Europe/Madrid"
+description             : A directory of the best-looking themes for Jekyll.
+full_description        : >
+ A directory of the best-looking themes for Jekyll forked from the abandoned project jekyllthemes.org.
+gh_repository           : https://github.com/carlesloriente/jekyllthemes/
+encoding                : "utf-8"
+locale                  : "en-US"
+lang                    : "en"
+formemail               : xwkglaqr
+date                    : 2024-11-25 12:10:45 +0200
+
+# Manifest
+name                    : "Best Jekyll Themes"
+short_name              : "BJT"
+language                : "en"
+lang_direction          : "ltr"
+color                   : "#FFFFFF"
+
+# Features
+critical_css            : false
+
+# Social Profiles
+email                   : "fi1nziulf@mozmail.com"
+twitter_username        : godarthvader
+github_username         : carlesloriente
+linkedin_username       : carles-loriente
+kofi                    : S6S1O2GTU
+
+# Add your google-analytics ID here to activate google analytics
+google_site_verification: imA3xlKv43a50bTrOlAa3eWQ3VBCazAY4Y20KImDXOM
+google_analytics        : G-TN9FHBGP98
+
+# Disqus Comments
+# Leave shortname blank to disable comments site-wide.
+# Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+disqus_shortname        : best-jekyll-themes
+
+data_dir                : _data
+includes_dir            : _includes
+layouts_dir             : _layouts
+plugins_dir             : _plugins
+tags_dir                : tags
 
 permalink: /themes/:title/
 
-plugins: [jekyll-paginate]
-
 highlighter: pygments
-paginate: 20
 
-markdown: rdiscount
+# Markdown Processors
+kramdown:
+  auto_ids              : true
+  entity_output         : as_char
+  toc_levels            : [1, 2, 3, 4, 5, 6]
+  smart_quotes          : lsquo,rsquo,ldquo,rdquo
+  input                 : GFM
+  hard_wrap             : false
+  footnote_nr           : 1
+  show_warnings         : false
 rdiscount:
     extensions: ['smart']
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
+# Build settings
+paginate                : 20
+paginate_path           : "/themes/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+
+sass:
+  load_paths:
+    - ./_sass
+  style                 : compressed
+
+exclude: ["AUTHORS.md", "CODE_OF_CONDUCT.md", "CONTRIBUTING.md", "CODEOWNERS", "LICENSE", "package.json", "package-lock.json", "README.md", "SECURITY.md", "techstack.md", "techstack.yml", "WORKFLOW.md", "bin", "CNAME", "Gemfile", "Gemfile.lock", "vendor"]
