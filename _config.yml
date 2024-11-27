@@ -76,4 +76,4 @@ sass:
     - ./_sass
   style                 : compressed
 
-exclude: ["AUTHORS.md", "CODE_OF_CONDUCT.md", "CONTRIBUTING.md", "CODEOWNERS", "LICENSE", "package.json", "yandex_e73c652c8f5aa535.html", "package-lock.json", "README.md", "SECURITY.md", "techstack.md", "techstack.yml", "WORKFLOW.md", "bin", "CNAME", "Gemfile", "Gemfile.lock", "vendor"]
+exclude: ["AUTHORS.md", "CODE_OF_CONDUCT.md", "CONTRIBUTING.md", "CODEOWNERS", "LICENSE", "package.json", "package-lock.json", "README.md", "SECURITY.md", "techstack.md", "techstack.yml", "WORKFLOW.md", "bin", "CNAME", "Gemfile", "Gemfile.lock", "vendor"]
