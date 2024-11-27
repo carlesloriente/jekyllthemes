@@ -11,10 +11,6 @@ license: MIT License
 license_link: https://github.com/macrod68/jekyll-materialize-starter-template/blob/master/LICENSE.txt
 ---
 
-# A Site Starter Materialize Templates.
-
-
-Jekyll Materialize is a fork of the [minima][1] theme
-
+A Site Starter Materialize Templates, Jekyll Materialize is a fork of the [minima][1] theme.
 
 [1]:https://github.com/jekyll/minima

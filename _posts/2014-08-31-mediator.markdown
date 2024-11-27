@@ -4,7 +4,7 @@ title: Mediator
 date: 2014-08-31 18:03:00
 homepage: https://github.com/dirkfabisch/mediator
 download: https://github.com/dirkfabisch/mediator/archive/master.zip
-demo: http://blog.base68.com
+demo: https://blog.base68.com
 author: Dirk Fabisch
 thumbnail: mediator.png
 license: MIT License
@@ -12,6 +12,8 @@ license_link: https://github.com/dirkfabisch/mediator/blob/master/LICENCE
 ---
 
 A medium inspired Jekyll blog theme.
+
+## Features
 
 * Fully Responsive layout
 * Use header images in articles

@@ -13,9 +13,9 @@ license_link: https://github.com/kkninjae/book/blob/master/LICENSE
 
 Book, a simple Jekyll theme.
 
-### Features
+## Features
 
 * Responsive layout and mobile first
-* Customized [404](http://kkninjae.github.io/book/hehe) page
+* Customized [404](https://kkninjae.github.io/book/hehe) page
 * An off-canvas list for post archive on the mobile screen
 * A timeline style for post list

@@ -11,8 +11,6 @@ license: GNU General Public License Version 3
 license_link: https://github.com/researcher/blob/gh-pages/LICENSE
 ---
 
-Researcher is a clean, single column, monospace, resume template built
-for jekyll.
+Researcher is a clean, single column, monospace, resume template built for jekyll.
 
-Instructions for installation/customization are on the
-[GitHub](https://github.com/ankitsultana/researcher) page.
+Instructions for installation/customization are on the [GitHub](https://github.com/ankitsultana/researcher) page.

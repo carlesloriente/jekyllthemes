@@ -13,33 +13,35 @@ license_link: https://github.com/murraco/jekyll-theme-minimal-resume/blob/master
 
 This is a simple Jekyll theme for a minimal resume website.
 
-### Features
+## Features
 
-- 100% Github Pages Compatibility
-- Easy to configure particles animation
-- SEO Integration
-- Extremely simple and minimalistic
-- Responsive
-- Font Awesome 5+
+* 100% Github Pages Compatibility
+* Easy to configure particles animation
+* SEO Integration
+* Extremely simple and minimalistic
+* Responsive
+* Font Awesome 5+
 
-### Quick Setup
+## Quick Setup
 
 1. Install Jekyll: `gem install jekyll bundler`
 2. For this repository and clone your fork
 3. Edit `_config.yml` to personalize your site
 
-### Settings
+## Settings
 
 You have to fill some informations on `_config.yml` to customize your site:
 
-#### Site settings
+### Site settings
+
 ```yml
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site
+url: "https://localhost:3000" # the base hostname & protocol for your site
 ```
 
-#### User settings
+### User settings
+
 ```yml
 username: Lorem Ipsum
 user_description: Software Engineer at Lorem Ipsum Dolor
@@ -52,11 +54,11 @@ personal_website: https://mauriciourraco.com
 
 ### Color and Particle Customization
 
-- Color Customization
-  - Edit the `.sass` variables
-- Particle Customization
-  - Edit the json data in particle function in `app.js`
-  - Refer to `Particle.js` for help
+* Color Customization
+  * Edit the `.sass` variables
+* Particle Customization
+  * Edit the json data in particle function in `app.js`
+  * Refer to `Particle.js` for help
   
 ### Content
 

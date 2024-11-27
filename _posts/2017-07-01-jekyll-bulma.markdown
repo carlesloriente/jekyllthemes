@@ -11,4 +11,4 @@ license: MIT License
 license_link: https://github.com/erayaydin/jekyll-bulma/blob/master/LICENSE.md
 ---
 
-Jekyll theme with using bulma.io css framework. There is a `syntax highlighter` support in this theme. Check [demo](http://erayaydin.github.io/jekyll-bulma)
+Jekyll theme with using bulma.io css framework. There is a `syntax highlighter` support in this theme. Check [demo](https://erayaydin.github.io/jekyll-bulma)

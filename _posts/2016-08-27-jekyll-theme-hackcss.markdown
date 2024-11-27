@@ -11,6 +11,6 @@ license: MIT License
 license_link: https://github.com/wemake-services/jekyll-theme-hackcss/blob/gh-pages/LICENSE
 ---
 
-[Dead simple CSS](http://hackcss.com) framework now with Jekyll.
+[Dead simple CSS](https://hackcss.com) framework now with Jekyll.
 
 Mobile-ready, modern, stylish, simple.

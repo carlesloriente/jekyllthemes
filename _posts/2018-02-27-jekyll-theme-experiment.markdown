@@ -23,12 +23,13 @@ Includes a basic style for pages, if you want to include extra pages to your sit
 
 ### DESKTOP
 
-![](https://cl.ly/2F3f432B0z09/Screen%20Recording%202018-02-24%20at%2011.23%20p.m..gif)
+![Desktop](https://cl.ly/2F3f432B0z09/Screen%20Recording%202018-02-24%20at%2011.23%20p.m..gif)
 
 ### TABLET
 
-![](https://cl.ly/2K073B372j3Y/Screen%20Recording%202018-02-27%20at%2011.03%20p.m..gif)
+![Tablet](https://cl.ly/2K073B372j3Y/Screen%20Recording%202018-02-27%20at%2011.03%20p.m..gif)
 
 ### MOBILE
 
-![](https://cl.ly/1j362c0G0w1m/Screen%20Recording%202018-02-27%20at%2011.11%20p.m..gif)  ![](https://cl.ly/0g130m2r2x1S/Screen%20Recording%202018-02-27%20at%2011.17%20p.m..gif)
+![Mobile 1](https://cl.ly/1j362c0G0w1m/Screen%20Recording%202018-02-27%20at%2011.11%20p.m..gif)
+![Mobile 2](https://cl.ly/0g130m2r2x1S/Screen%20Recording%202018-02-27%20at%2011.17%20p.m..gif)

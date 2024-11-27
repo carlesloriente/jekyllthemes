@@ -13,6 +13,8 @@ license_link: https://github.com/CloudCannon/cause-jekyll-template/blob/master/L
 
 Cause is the perfect way for a non-profit to get started with Jekyll.
 
+## Features
+
 * Build a community through a mailing list.
 * Accept donations from around the world.
 * Post the latest milestones to your community.

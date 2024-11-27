@@ -29,13 +29,9 @@ Note: You can even include the github wiki as a submodule and enable the conf, b
 ## Installation instructions
 
 1. Fork or copy this repository
-
-2. copy and rename _config.yml.dist in _config.yml changing settings inside
-
+2. copy and rename _config.yml.dist in `_config.yml` changing settings inside
 3. create your index.md in root directory
-
 4. push your changes in your repository, then configure the github pages in your repository settings
-
 5. Your wiki is ready!
 
 ## License

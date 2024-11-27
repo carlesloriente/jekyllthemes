@@ -4,33 +4,30 @@ title: Freshman21
 date: 2014-12-20 16:55:00
 homepage: https://github.com/yulijia/freshman21
 download: https://github.com/yulijia/freshman21/archive/master.zip
-demo: http://yulijia.net/freshman21/
+demo: https://yulijia.net/freshman21/
 author: Lijia Yu
 thumbnail: freshman21.png
 license: MIT License
 license_link: https://github.com/yulijia/freshman21/blob/master/LICENSE
 ---
 
-### Freshman21
-
-Freshman21 is a Jekyll blog theme, base on theme
-[Freshman](http://github.com/yulijia/freshman).
+Freshman21 is a Jekyll blog theme, base on theme [Freshman](https://github.com/yulijia/freshman).
 
 A tribute to WordPress Theme Twenty-Twelve and Twenty-eleven.
 
 Enjoy.
 
-![Screen](http://i.imgur.com/oSp7kacl.png)
+![Screen](https://i.imgur.com/oSp7kacl.png)
 
-### A Summary of Features
+## Features
 
-- Provide single column and two columns layout
-- Powerful configure file
-- Comments by Disqus
-- Support LaTeX (by MathJax)
-- Syntax highlighting
+* Provide single column and two columns layout
+* Powerful configure file
+* Comments by Disqus
+* Support LaTeX (by MathJax)
+* Syntax highlighting
 
-### Demo
+## Demo
 
-Single column, please see [my own blog](http://yulijia.net/en/)
-Two columns, please see the [theme website](http://yulijia.net/freshman21/)
+Single column, please see [my own blog](https://yulijia.net/en/)
+Two columns, please see the [theme website](https://yulijia.net/freshman21/)

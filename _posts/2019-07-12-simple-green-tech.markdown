@@ -11,16 +11,16 @@ license: WTFPL
 license_link: https://github.com/alainpham/alainpham.github.io/blob/master/LICENSE
 ---
 
-SIMPLE GREEN TECHBLOG is a forkable minimal responsive theme with a green/black/white color scheme.
+Simple Green TechBlog is a forkable minimal responsive theme with a green/black/white color scheme.
 It's Ideal for techblogs as it gives the nostalgic matrix look.
 
-Features
+## Features
 
-- Responsive
-- SEO including optimizations for Twitter and OpenGraph
-- Meta Data for social media link sharing
-- Sitemap
-- RSS Feed
-- Disqus
-- Google Analytics
-- Syntax coloration for code
+* Responsive
+* SEO including optimizations for Twitter and OpenGraph
+* Meta Data for social media link sharing
+* Sitemap
+* RSS Feed
+* Disqus
+* Google Analytics
+* Syntax coloration for code

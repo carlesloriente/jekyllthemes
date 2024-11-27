@@ -4,7 +4,7 @@ title: Contrast
 date: 2014-09-14 00:03:00
 homepage: https://github.com/niklasbuschmann/contrast
 download: https://github.com/niklasbuschmann/contrast/archive/gh-pages.zip
-demo: http://niklasbuschmann.github.io/contrast
+demo: https://niklasbuschmann.github.io/contrast
 author: Niklas Buschmann
 thumbnail: contrast.png
 license: MIT License
@@ -13,9 +13,10 @@ license_link: https://github.com/niklasbuschmann/contrast/blob/gh-pages/LICENSE.
 
 Lightweight Jekyll theme
 
-- mobile first
-- syntax highlighting
-- automatic [disqus](https://disqus.com/) /
-  [isso](http://posativ.org/isso/) integration
+## Features
+
+* mobile first
+* syntax highlighting
+* automatic [disqus](https://disqus.com/) / [isso](https://posativ.org/isso/) integration
 
 Released under *public domain*.

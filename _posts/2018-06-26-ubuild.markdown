@@ -19,7 +19,7 @@ uBuild is an open-source Jekyll based theme and comes with 16 fully responsive d
 
 Take a look at our [live demo](https://forestryio.github.io/ubuild-jekyll/) to get a feel for what it looks like!
 
-Created by [Nichlas W. Andersen](http://itsnwa.com/) ([Twitter](https://twitter.com/nichlaswa))
+Created by [Nichlas W. Andersen](https://itsnwa.com/) ([Twitter](https://twitter.com/nichlaswa))
 
 ### Features
 

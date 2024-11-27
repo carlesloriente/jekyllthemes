@@ -11,5 +11,4 @@ license: GPL-3.0
 license_link: https://github.com/melvinchng/jekyll-for-everyone/blob/master/LICENSE
 ---
 
-# Jekyll For Everyone
-Please refer to [this repository](https://github.com/melvinchng/jekyll-for-everyone) for instructions on how to use it.
+Jekyll For Everyone, Please refer to [this repository](https://github.com/melvinchng/jekyll-for-everyone) for instructions on how to use it.

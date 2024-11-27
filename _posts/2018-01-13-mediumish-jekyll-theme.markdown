@@ -15,31 +15,31 @@ license_link: https://github.com/wowthemesnet/mediumish-theme-jekyll/blob/master
 
 ![Screenshot](https://wowthemesnet.github.io/mediumish-theme-jekyll/assets/images/mediumish-jekyll-template.png)
 
-### Features
+## Features
 
-- Built for Jekyll
-- Compatible with Github pages
-- Featured Posts
-- Index Pagination
-- Post Share
-- Post Categories
-- Prev/Next Link
-- Category Archives (this featured is not compatible with Github Pages)
-- Jumbotron Categories
-- Integrations:
-    - Disqus Comments
-    - Google Analaytics
-    - Mailchimp Integration
-- Design Features:
-    - Bootstrap v4.0.0-alpha.6
-    - Font Awesome
-    - Masonry
-- Layouts:
-    - Default
-    - Post
-    - Page
-    - Archive
-	
-### Guide
+* Built for Jekyll
+* Compatible with Github pages
+* Featured Posts
+* Index Pagination
+* Post Share
+* Post Categories
+* Prev/Next Link
+* Category Archives (this featured is not compatible with Github Pages)
+* Jumbotron Categories
+* Integrations:
+  * Disqus Comments
+  * Google Analaytics
+  * Mailchimp Integration
+* Design Features:
+  * Bootstrap v4.0.0-alpha.6
+  * Font Awesome
+  * Masonry
+* Layouts:
+  * Default
+  * Post
+  * Page
+  * Archive
+
+## Guide
 
 More information on [GitHub](https://github.com/wowthemesnet/mediumish-theme-jekyll/)...

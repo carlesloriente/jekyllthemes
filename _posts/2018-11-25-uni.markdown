@@ -4,7 +4,7 @@ title: Uni One-Page Jekyll Theme
 date: 2018-11-25 23:09:00
 homepage: https://github.com/brianmaierjr/uni
 download: https://github.com/brianmaierjr/uni/archive/master.zip
-demo: http://brianmaierjr.com/uni
+demo: https://brianmaierjr.com/uni
 author: Brian Maier
 thumbnail: uni.jpg
 license: MIT License
@@ -14,10 +14,6 @@ license_link: https://github.com/brianmaierjr/uni/blob/master/LICENSE
 ## Uni One-page Jekyll Theme
 
 ![Uni Jekyll Theme](https://github.com/brianmaierjr/uni/raw/master/assets/img/share.jpg)
-
-# Uni – A one-page Jekyll theme
-
-[View Half Demo](http://brianmaierjr.com/uni/) | [View Full Demo](http://brianmaierjr.com/uni/full.html) | [View Card Demo](http://brianmaierjr.com/uni/card.html)
 
 ## Features
 
@@ -38,19 +34,15 @@ license_link: https://github.com/brianmaierjr/uni/blob/master/LICENSE
 
 This theme will look great and work in most newer browsers. If you see an issue please feel free to [contact me](mailto:brimaidesigns@gmail.com).
 
----
-
 ## Setup
 
-1. [Install Jekyll](http://jekyllrb.com)
-2. [Install Bundler](http://bundler.io/)
+1. [Install Jekyll](https://jekyllrb.com)
+2. [Install Bundler](https://bundler.io/)
 3. Run `bundle install`
 4. Install gulp dependencies by running `npm install`
 5. Run Jekyll and watch files by running `bundle exec gulp`
 
 Please note that any changes made to the `config.yml` will require that you stop gulp and start it again.
-
----
 
 ## Site/Layout Settings
 
@@ -66,15 +58,11 @@ The main settings can be found inside the `_config.yml` file:
   * **url**: destination for the link
 * **google_analytics** Google Analytics key (optional)
 
----
-
 ![Uni Jekyll Theme](https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--half.jpg)
 
 ### Half Layout
 
 * **half_side:** which side of the page your content is on [left or right]
-
----
 
 ![Uni Jekyll Theme](https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--full.jpg)
 
@@ -82,15 +70,11 @@ The main settings can be found inside the `_config.yml` file:
 
 * **full_text_position:** where on the page the text will appear [left, center, or right]
 
----
-
 ![Uni Jekyll Theme](https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--card.jpg)
 
 ### Card layout
 
 The background image and other style customizations can be changed in `assets/scss/layouts/_card.scss`
-
----
 
 ## Further Customizations
 
@@ -100,7 +84,7 @@ By default, Uni is set to use the `half` layout. To change the `layout` change t
 
 For example, the layout below is using the `full` layout. The other options are `half` and `card`
 
-```
+```md
 ---
 layout: full
 title: Uni – A one-page Jekyll theme
@@ -127,13 +111,13 @@ As stated above, the images are set in the respective stylesheets found in `asse
 
 We are using responsive images that require three different images. This allows the browser to serve the appropriate image based on the screen size. Recommended image widths are:
 
-* #### Small: 768px wide
-* #### Medium: 1200px wide
-* #### Large: 1600px wide
+* Small: 768px wide
+* Medium: 1200px wide
+* Large: 1600px wide
 
 To replace the image replace the image names in the `responsivebackground` mixin as shown below:
 
-```
+```css
 @include responsivebackground("half-sm.jpg", "half-md.jpg", "half-lg.jpg");
 ```
 

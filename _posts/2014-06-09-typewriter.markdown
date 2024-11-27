@@ -2,9 +2,9 @@
 layout: post
 title: Typewriter
 date: 2014-06-09 17:37:30
-homepage: http://alixedi.github.io/typewriter
+homepage: https://alixedi.github.io/typewriter
 download: https://github.com/alixedi/typewriter/zipball/master
-demo: http://alixedi.github.io
+demo: https://alixedi.github.io
 author: alixedi
 thumbnail: typewriter.png
 license: BSD License

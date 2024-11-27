@@ -10,5 +10,4 @@ license: MIT License
 license_link: https://github.com/camporez/Thinny/blob/master/LICENSE
 ---
 
-[Thinny](https://github.com/camporez/Thinny) is a beautiful and simple
-Jekyll theme.
+[Thinny](https://github.com/camporez/Thinny) is a beautiful and simple Jekyll theme.

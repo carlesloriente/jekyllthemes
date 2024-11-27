@@ -11,5 +11,4 @@ license: MIT
 license_link: https://github.com/lightfish-zhang/pinghsu-jekyll/blob/master/LICENSE
 ---
 
-
-a jekyll theme which is based on a typecho theme pinghsu, it count make you homepage illustrated !
+A jekyll theme which is based on a typecho theme pinghsu, it count make you homepage illustrated !

@@ -2,9 +2,9 @@
 layout: post
 title: Hydejack
 date: 2017-10-25 00:00:00
-homepage: http://qwtel.com/hydejack/
+homepage: https://qwtel.com/hydejack/
 download: https://github.com/qwtel/hydejack/archive/v7.zip
-demo: http://qwtel.com/hydejack/
+demo: https://qwtel.com/hydejack/
 author: Florian Klampfer (@qwtel)
 thumbnail: hydejack.jpg
 license: GPL-3.0
@@ -24,9 +24,11 @@ a showcase for your projects, and a resume that fits with the rest of the design
 ![Screenshot](https://qwtel.com/assets/img/projects/default.jpg)
 
 ## Demo
+
 It's best to just [see it in action](https://qwtel.com/hydejack/).
 
 ## Features
+
 Both versions include *all* of these features:
 
 * Full in-app page loading, powered by [hy-push-state]
@@ -51,9 +53,11 @@ Both versions include *all* of these features:
 * SEO meta tags via `jekyll-seo-tag` (optional)
 
 ## Documentation
+
 Hydejack is well documented. You can read it [on the Jekyll site][docs], or [on GitHub][wiki], or [download the PDF][pdf].
 
 ## Download
+
 There are two versions of **Hydejack**: The *free version* includes basic blogging functionality,
 as did previous versions of the theme.
 The *PRO version* includes additional features for professionals:

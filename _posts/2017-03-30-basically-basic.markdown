@@ -11,18 +11,16 @@ license: MIT License
 license_link: https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/LICENSE.md
 ---
 
-**Basically Basic** is a Jekyll theme meant as a substitute for the default 
---- Minima. Conventions and features found there are fully supported by 
-Basically Basic, with a few enhancements thrown in for good measure:
+**Basically Basic** is a Jekyll theme meant as a substitute for the default Minima. Conventions and features found there are fully supported by basically Basic, with a few enhancements thrown in for good measure.
 
-- Bundled as a Ruby theme gem
-- Clean responsive design with six customizable skins
-- Curriculum Vitæ/Resume layout powered by 
-  [JSON data](http://registry.jsonresume.org/)
-- About page layout
-- Disqus Comments and Google Analytics support
-- SEO best practices via 
-  [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+## Features
+
+* Bundled as a Ruby theme gem
+* Clean responsive design with six customizable skins
+* Curriculum Vitæ/Resume layout powered by [JSON data](https://registry.jsonresume.org/)
+* About page layout
+* Disqus Comments and Google Analytics support
+* SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
 
 [![Basically Basic live preview][2]][1]
 

@@ -8,29 +8,27 @@ demo: https://simpleyyt.github.io/jekyll-theme-next/
 author: Yitao Yao
 thumbnail: jekyll-theme-next.png
 license: MIT License
-license_link: http://opensource.org/licenses/MIT
+license_link: https://opensource.org/licenses/MIT
 ---
 
-> NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme
-> ported from [Hexo NexT](https://github.com/iissnan/hexo-theme-next).
-> It is crafted from scratch, with love.
+NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo NexT](https://github.com/iissnan/hexo-theme-next).
+It is crafted from scratch, with love.
 
-
-[Live Preview](http://simpleyyt.github.io/jekyll-theme-next/)
+[Live Preview](https://simpleyyt.github.io/jekyll-theme-next/)
 
 ## Screenshots
 
 * Desktop
-![Desktop Preview](http://iissnan.com/nexus/next/desktop-preview.png)
+![Desktop Preview](https://iissnan.com/nexus/next/desktop-preview.png)
 
 * Sidebar
 
-![Desktop Sidebar Preview](http://iissnan.com/nexus/next/desktop-sidebar-preview.png)
+![Desktop Sidebar Preview](https://iissnan.com/nexus/next/desktop-sidebar-preview.png)
 
 * Sidebar (Post details page)
 
-![Desktop Sidebar Preview](http://iissnan.com/nexus/next/desktop-sidebar-toc.png)
+![Desktop Sidebar Preview](https://iissnan.com/nexus/next/desktop-sidebar-toc.png)
 
 * Mobile
 
-![Mobile Preview](http://iissnan.com/nexus/next/mobile.png)
+![Mobile Preview](https://iissnan.com/nexus/next/mobile.png)

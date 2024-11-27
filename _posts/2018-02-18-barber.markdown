@@ -4,7 +4,7 @@ title: Barber
 date: 2018-02-18 00:00:00
 homepage: https://github.com/samesies/barber-jekyll
 download: https://github.com/samesies/barber-jekyll/archive/master.zip
-demo: http://barber.samesies.io/
+demo: https://barber.samesies.io/
 author: Thomas Vaeth
 thumbnail: barber.jpg
 license: MIT License

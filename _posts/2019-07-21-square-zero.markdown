@@ -14,8 +14,9 @@ license_link: https://github.com/squarezero/squarezero.github.io/blob/master/LIC
 Square Zero is a dark, minimal responsive theme, with an awesome look and feel.
 Ideal for personal blogs, with focus on minimizing clutter.
 
-Features
-- Minimalist
-- Responsive
-- Share feature to copy article links.
-- Thumbnails of articles, with credits to authors.
+## Features
+
+* Minimalist
+* Responsive
+* Share feature to copy article links.
+* Thumbnails of articles, with credits to authors.

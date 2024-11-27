@@ -17,15 +17,15 @@ The original purpose of this theme is to be a replacement of the default Jekyll 
 
 ## Features
 
-- [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
-- [Jekyll Feed](https://github.com/jekyll/jekyll-feed)
-- [Jekyll Sitemap](https://github.com/jekyll/jekyll-sitemap)
-- [Google Analytics](https://analytics.google.com/)
-- [MathJax](https://www.mathjax.org/)
-- [Disqus](https://disqus.com/)
-- [Font Awesome](https://fontawesome.com/)
-- Customizable head
-- Configurable page navigation
-- Customizable styles and skins
-- Archive pages implemented in pure Liquid
-- An elegant way to import images on posts
+* [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
+* [Jekyll Feed](https://github.com/jekyll/jekyll-feed)
+* [Jekyll Sitemap](https://github.com/jekyll/jekyll-sitemap)
+* [Google Analytics](https://analytics.google.com/)
+* [MathJax](https://www.mathjax.org/)
+* [Disqus](https://disqus.com/)
+* [Font Awesome](https://fontawesome.com/)
+* Customizable head
+* Configurable page navigation
+* Customizable styles and skins
+* Archive pages implemented in pure Liquid
+* An elegant way to import images on posts

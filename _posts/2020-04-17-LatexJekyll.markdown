@@ -12,9 +12,9 @@ license: WTFPL
 
 A super simple LaTeX style website. Feel free to build upon this however you like.
 
-Features
+## Features
 
-- Super easy
-- Super fast
-- Open source
-- Do what you want with it!
+* Super easy
+* Super fast
+* Open source
+* Do what you want with it!

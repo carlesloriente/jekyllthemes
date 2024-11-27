@@ -11,12 +11,12 @@ license: MIT License
 license_link: https://github.com/clarkhacks/Minimal-Text/blob/master/LICENSE
 ---
 
-## Minimal Text
+Minimal Text, a clean and lightweight Jekyll Theme.
 
-A clean and lightweight Jekyll Theme.
+## Features
 
 * Minimal CSS
 * No JS
 * Simple
 
-##### Created by [Clark Hacks](https://clarkhacks.com)
+Created by [Clark Hacks](https://clarkhacks.com)

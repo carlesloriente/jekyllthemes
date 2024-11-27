@@ -11,5 +11,4 @@ license: GPL-3.0
 license_link: https://github.com/melvinchng/business-jekyll-theme/blob/master/LICENSE
 ---
 
-# Business Jekyll Theme
-Please refer to [this repository](https://github.com/melvinchng/business-jekyll-theme) for instructions on how to use it.
+Business Jekyll Theme, please refer to [this repository](https://github.com/melvinchng/business-jekyll-theme) for instructions on how to use it.

@@ -13,6 +13,8 @@ license_link: https://github.com/CloudCannon/urban-jekyll-template/blob/master/L
 
 Urban is the perfect starting point for your Agency website.
 
+## Features
+
 * Show off your latest work on the portfolio page.
 * Talk about the latest trends in the industry on the blog.
 * Get new business through the contact form.

@@ -4,7 +4,7 @@ title: H2O
 date: 2017-05-15 00:00:00
 homepage: https://github.com/kaeyleo/jekyll-theme-H2O
 download: https://github.com/kaeyleo/jekyll-theme-H2O/archive/master.zip
-demo: http://liaokeyu.com
+demo: https://liaokeyu.com
 author: liaokeyu
 thumbnail: jekyll-theme-h2o.png
 license: MIT License
@@ -13,11 +13,11 @@ license_link: https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/LICENSE
 
 ## H2O
 
-[在线预览 view demo →](http://liaokeyu.com/)
+[在线预览 view demo →](https://liaokeyu.com/)
 
-![](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-realhome.jpg?raw=true)
+![Demo](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-realhome.jpg?raw=true)
 
-![](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-realm.png?raw=true)
+![Demo](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-realm.png?raw=true)
 
 If you like this theme or using it, please give a ⭐️ for motivation ;)
 
@@ -25,14 +25,14 @@ If you like this theme or using it, please give a ⭐️ for motivation ;)
 
 ### 主题特性
 
-- 代码高亮
-- 支持Disqus评论系统
-- 粉蓝两种主题色
-- 头图个性化底纹
-- 响应式设计
-- 社交图标
-- SEO标题优化
-- 文章标签索引
+* 代码高亮
+* 支持Disqus评论系统
+* 粉蓝两种主题色
+* 头图个性化底纹
+* 响应式设计
+* 社交图标
+* SEO标题优化
+* 文章标签索引
 
 ### 介绍
 
@@ -42,9 +42,9 @@ You can easily get started by modifying _config.yml
 
 #### 侧边栏
 
-![](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-sideBar.png?raw=true)
+![侧边栏](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-sideBar.png?raw=true)
 
-侧边栏分为两个部分：【个人简介】和【推荐标签】。当屏幕宽度小于960px时，侧边栏会被隐藏。 
+侧边栏分为两个部分：【个人简介】和【推荐标签】。当屏幕宽度小于960px时，侧边栏会被隐藏
 
 #### 社交图标
 
@@ -52,29 +52,29 @@ You can easily get started by modifying _config.yml
 
 #### 代码高亮
 
-模板引入了[Prism.js](http://prismjs.com)，一款轻量、可扩展的代码语法高亮库。
+模板引入了[Prism.js](https://prismjs.com)，一款轻量、可扩展的代码语法高亮库。
 
 很多知名网站如[MDN](https://developer.mozilla.org/)、[css-tricks](https://css-tricks.com/)也在用它，就连 JavaScript 之父 [Brendan Eich](https://brendaneich.com/) 也在个人博客上使用。
 
-![代码高亮](http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-highlight.png)
+![代码高亮](https://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-highlight.png)
 
 支持语言：
 
-- HTML
-- CSS
-- Sass
-- JavaScript
-- CoffeeScript
-- Java
-- C-like
-- Swift
-- PHP
-- Go
-- Python
+* HTML
+* CSS
+* Sass
+* JavaScript
+* CoffeeScript
+* Java
+* C-like
+* Swift
+* PHP
+* Go
+* Python
 
 #### 主题皮肤
 
-![](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-themecolor.jpg?raw=true)
+![主题皮肤](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-themecolor.jpg?raw=true)
 
 支持两种主题颜色蓝色（默认）和粉色
 
@@ -82,7 +82,7 @@ You can easily get started by modifying _config.yml
 
 #### 头图底纹
 
-![](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-heroPatterns.png?raw=true)
+![头图底纹](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-heroPatterns.png?raw=true)
 
 在没有图片的情况下单纯显示颜色会不会太无趣了点？于是想到了加入底纹元素，底纹素材是SVG格式的（保存在css样式里），加载比图片快很多。六种底纹（电路、食物、云海、钻石等等）供你选择。
 
@@ -96,7 +96,7 @@ You can easily get started by modifying _config.yml
 
 #### Share.js
 
-为了让文章更方便地分享，使用了第三方分享插件[Share.js](http://overtrue.me/share.js/)，支持一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等社交网站。
+为了让文章更方便地分享，使用了第三方分享插件[Share.js](https://overtrue.me/share.js/)，支持一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等社交网站。
 
 ### 许可证
 
