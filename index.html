@@ -1,68 +1,101 @@
 ---
 layout: default
-title: Jekyll Themes
+title: Best Jekyll Themes
+description: The directory of the best-looking themes for Jekyll
 ---
 
-<div class="row-fluid">
-  <div class="col-lg-12 text-center">
-    <div class="form-group">
-      <form action="/search/" method="get">
-        <input type="text" id="search_box" placeholder="Search..." name="query" class="form-control" style="width:100%">
-      </form>
+<main class="flex-shrink-0">
+  <section class="masthead">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="mx-auto">
+          <div class="page-heading">
+            <h1>{{ page.description }}</h1>
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
-</div>
+  </section>
 
-<div class="gallery">
-  {% for post in paginator.posts %}
-  <div class="item">
-    <a class="item-inner" href="{{ post.url }}">
-      <div class="item-image"><img src="/thumbnails/{{ post.thumbnail }}"></div>
-      <div class="item-name">{{ post.title }}</div>
-    </a>
-  </div>
-  {% endfor %}
-</div>
+  <section>
+    <div class="album py-5 bg-body-tertiary">
+      <div class="container">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4">
+          {% for post in paginator.posts %}
+          <div class="col">
+            <a class="item-inner" href="{{ post.url }}">
 
-<!-- Pager -->
-
-<div class="row-fluid">
-  <div class="span12">
-    <div class="pagination">
-      <ul>
-        {% if paginator.previous_page %}
-
-          {% if paginator.previous_page == 1 %}
-            <li><a href="/">Prev</a></li>
-          {% else %}
-            <li><a href="/page{{ paginator.previous_page }}">Prev</a></li>
-          {% endif %}
-
-        {% else %}
-          <li><span class="disabled">Prev</span></li>
-        {% endif %}
-
-        {% if paginator.page == 1 %}
-          <li><span class="active">1</span></li>
-        {% else %}
-          <li><a href="/">1</a></li>
-        {% endif %}
-
-        {% for count in (2..paginator.total_pages) %}
-
-          {% if count == paginator.page %}
-            <li><span class="active">{{ count }}</span></li>
-          {% else %}
-            <li><a href="/page{{ count }}">{{ count }}</a></li>
-          {% endif %}
-        {% endfor %}
-
-        {% if paginator.next_page %}
-          <li><a href="/page{{ paginator.next_page }}">Next</a></li>
-        {% else %}
-          <li><span class="disabled">Next</span></li>
-        {% endif %}
-      </ul>
+            <div class="card shadow">
+              <div class="item-image text-center"><img src="/thumbnails/{{ post.thumbnail }}" class="rounded mx-auto d-block" alt="{{ post.title | append: ' thumbnail' }}"></div>
+              <div class="card-body">
+                <p class="card-text">{{ post.title }}</p>
+              </div>
+            </div>
+            </a>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
     </div>
-  </div>
-</div>
+  </section>
+
+  <section>
+    <div class="bg-body-tertiary">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 mx-auto">
+            <nav aria-label="Page navigation">
+              <ul class="pagination">
+              {% if paginator.previous_page %}
+                {% if paginator.previous_page == 1 %}
+                  <li class="page-item"><a class="page-link" href="/" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ page.previous.title }}">Previous</a></li>
+                {% else %}
+                  <li class="page-item"><a class="page-link" href="/themes/page{{ paginator.previous_page }}" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ page.previous.title }}">Previous</a></li>
+                {% endif %}
+              {% else %}
+              <li class="page-item"><a class="page-link disabled" href="#" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ page.previous.title }}">Previous</a></li>
+              {% endif %}
+              {% if paginator.page == 1 %}
+              <li class="page-item"><a class="page-link active" href="#" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ count }}">1</a></li>
+              {% else %}
+              <li class="page-item"><a class="page-link" href="/" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="1">1</a></li>
+              {% endif %}
+              {% for count in (2..paginator.total_pages) %}
+                {% if count == paginator.page %}
+                <li class="page-item"><a class="page-link active" href="#" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ count }}">{{ count }}</a></li>
+                {% else %}
+                <li class="page-item"><a class="page-link" href="/themes/page{{ count }}" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ count }}">{{ count }}</a></li>
+                {% endif %}
+              {% endfor %}
+              {% if paginator.next_page %}
+              <li class="page-item"><a class="page-link" href="/themes/page{{ paginator.next_page }}" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ page.next.title }}">Next</a></li>
+              {% else %}
+              <li class="page-item"><a class="page-link disabled" href="#" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="Next">Next</a></li>
+              {% endif %}
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="home-divider">
+      <div class="container my-4">
+        <div class="row">
+          <div class="col-lg-10 mx-auto">
+            <p class="text-center"><strong>How to submit a theme</strong></p>
+            <ul>
+              <li>Fork <a href="https://github.com/carlesloriente/jekyllthemes" rel="noopener noreferrer" target="_blank">our site</a> on GitHub</li>
+              <li>Create a new post in the <code>_posts</code> directory and fill out the relevant YAML fields</li>
+              <li>Make a 250x200 thumbnail and drop it in the <code>thumbnails</code> directory. List its filename in the post's markdown file.</li>
+              <li>Test it out, then push your changes up and open a pull request.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>

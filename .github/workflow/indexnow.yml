@@ -1,0 +1,19 @@
+name: "IndexNow"
+on:
+  schedule: # Run workflow automatically
+  - cron: '0 11 * * *' # Runs every day at 11, for faster indexing time. Scheduled in UTC.
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  check-and-submit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: indexnow-action
+        uses: bojieyang/indexnow-action@v2
+        with:
+          sitemap-location: "https://www.bestjekyllthemes.site/sitemap.xml"
+          since: 1
+          since-unit: "week"
+          key: ${{ secrets.INDEXNOW_KEY }}

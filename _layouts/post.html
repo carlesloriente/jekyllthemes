@@ -2,37 +2,104 @@
 layout: default
 ---
 
-<div id="post" class="container">
+<main class="flex-shrink-0">
+  <section class="sechead">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class=" mx-auto">
+          <div class="post-heading">
+            <h1 class="mx-auto">{{ page.title }}</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="container my-4">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <div class="postthumb"><img src="/thumbnails/{{ page.thumbnail }}" alt="Theme thumbnail"/></div>
+          <div class="meta text-center clearfix">
+            <strong>Author:</strong> {{ page.author }}
+            {% if page.license %}
+              <br /><strong>License:</strong> {{ page.license }}
+            {% endif %}	
+            <br /><br />
+            {% if page.homepage %}
+              <a class="btn" href="{{ page.homepage }}">Homepage</a>
+            {% endif %}
+            {% if page.download %}
+              <a class="btn" href="{{ page.download }}">Download</a>
+            {% endif %}
+            {% if page.demo %}
+              <a class="btn" href="{{ page.demo }}">Demo</a>
+            {% endif %}
+            {% if page.license_link %}
+              <a class="btn" href="{{ page.license_link }}">License</a>
+            {% endif %}
+		      </div>
+          <div class="post-content">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="home-divider"></div>
+  </section>
 
-	<div class="postthumb"><img src="/thumbnails/{{ page.thumbnail }}" /></div>
+  <section>
+    <div class="container my-4">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <div class="clearfix">
+            <nav aria-label="Page navigation">
+              <ul class="pagination justify-content-center">
+              {% if page.previous.url %}
+                <li class="page-item"><a class="page-link" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ page.previous.title }}">Previous</a></li>
+              {% endif %}
+              {% if page.next.url %}
+                <li class="page-item"><a class="page-link" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" hreflang="{{ site.lang }}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{ page.next.title }}">Next</a></li>
+              {% endif %}
+            </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="home-divider"></div>
+  </section>
+  <section class="disqus-section">
+    <div class="container my-4">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <div class="clearfix">
+            {% if page.comments %}
+              {% if site.disqus_shortname %}
+                {% include disqus_comments.html %}
+              {% endif %}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-	<h1>{{ page.title }}</h1>
-
-	<div class="meta clearfix">
-		<strong>Author:</strong> {{ page.author }}
-
-		{% if page.license %}
-			<br /><strong>License:</strong> {{ page.license }}
-		{% endif %}
-
-		<br /><br />
-		{% if page.homepage %}
-			<a class="btn" href="{{ page.homepage }}"><i class="icon-home"></i> Homepage</a>
-		{% endif %}
-		{% if page.download %}
-			<a class="btn" href="{{ page.download }}"><i class="icon-download-alt"></i> Download</a>
-		{% endif %}
-		{% if page.demo %}
-			<a class="btn" href="{{ page.demo }}"><i class="icon-road"></i> Demo</a>
-		{% endif %}
-		{% if page.license_link %}
-			<a class="btn" href="{{ page.license_link }}"><i class="icon-file"></i> License</a>
-		{% endif %}
-	</div>
-
-
-	<div class="post-content">
-	{{ content }}
-	</div>
-
-</div>
+  <section>
+    <div class="home-divider">
+      <div class="container my-4 bg-body-tertiary">
+        <div class="row">
+          <div class="col-lg-10 mx-auto">
+            <p class="text-center"><strong>How to submit a theme</strong></p>
+            <ul>
+              <li>Fork <a href="https://github.com/carlesloriente/jekyllthemes" rel="noopener noreferrer" target="_blank">our site</a> on GitHub</li>
+              <li>Create a new post in the <code>_posts</code> directory and fill out the relevant YAML fields</li>
+              <li>Make a 250x200 thumbnail and drop it in the <code>thumbnails</code> directory. List its filename in the post's markdown file.</li>
+              <li>Test it out, then push your changes up and open a pull request.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>

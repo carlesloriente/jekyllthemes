@@ -1,0 +1,61 @@
+
+<!-- Footer -->
+<footer class="footer mt-auto">
+  <div class="container">
+    <ul class="list-inline text-center">
+      {% if site.email -%}
+      <li class="list-inline-item rounded-circle">
+        <a href="mailto:{{ site.email | encode_email }}" hreflang="{{ site.lang }}" aria-label="{{ site.email }} address">
+          <img class="filter-white" src="{{ '/assets/images/icons/1.11.0/envelope-at-fill.svg' | relative_url }}" width="32px" height="32px" aria-hidden="true" alt="Carles Loriente's Contact email">
+        </a>
+      </li>
+      {%- endif -%}
+      {% if site.twitter_username -%}
+      <li class="list-inline-item rounded-circle">
+        <a href="https://twitter.com/{{ site.twitter_username }}" hreflang="{{ site.lang }}" target="_blank" rel="noopener noreferrer" aria-label="{{ site.twitter_username }} Twitter">
+          <img class="filter-white" src="{{ '/assets/images/icons/1.11.0/twitter-x.svg' | relative_url }}" width="32px" height="32px" aria-hidden="true" alt="Carles Loriente's Twitter username">
+        </a>
+      </li>
+      {%- endif -%}
+      {% if site.facebook_username -%}
+      <li class="list-inline-item rounded-circle">
+        <a href="https://www.facebook.com/{{ site.facebook_username }}" hreflang="{{ site.lang }}" target="_blank" rel="noopener noreferrer" aria-label="{{ site.facebook_username }} Facebook">
+          <img class="filter-white" src="{{ '/assets/images/icons/1.11.0/facebook.svg' | relative_url }}" width="32px" height="32px" aria-hidden="true" alt="Facebook username">
+        </a>
+      </li>
+      {%- endif -%}
+      {% if site.linkedin_username -%}
+      <li class="list-inline-item rounded-circle">
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" hreflang="{{ site.lang }}" target="_blank" rel="noopener noreferrer" aria-label="{{ site.linkedin_username }} Linkedin">
+          <img class="filter-white" src="{{ '/assets/images/icons/1.11.0/linkedin.svg' | relative_url }}" width="32px" height="32px" aria-hidden="true" alt="Carles Loriente's Linkedin profile">
+        </a>
+      </li>
+      {%- endif -%}
+      {% if site.github_username -%}
+      <li class="list-inline-item rounded-circle">
+        <a href="https://github.com/{{ site.github_username }}" hreflang="{{ site.lang }}" target="_blank" rel="noopener noreferrer" aria-label="{{ site.github_username }} GitHub">
+          <img class="filter-white" src="{{ '/assets/images/icons/1.11.0/github.svg' | relative_url }}" width="32px" height="32px" aria-hidden="true" alt="Carles Loriente's GitHub account">
+        </a>
+      </li>
+      {%- endif -%}
+      {% if site.instagram_username -%}
+      <li class="list-inline-item">
+        <a href="https://instagram.com/{{ site.instagram_username }}" hreflang="{{ site.lang }}" target="_blank" rel="noopener noreferrer" aria-label="{{ site.instagram_username }} Instagram">
+          <img class="filter-white" src="{{ '/assets/images/icons/1.11.0/instagram.svg' | relative_url }}" width="32px" height="32px" aria-hidden="true" alt="Instagram username">
+        </a>
+      </li>
+      {%- endif -%}
+    </ul>
+    <p class="copyright text-copyright">Copyright &copy; {{ 'now' | date: "%Y" }} {{ site.author }} Forked from Jekyllthemes created by Matt Harzewski.<br />
+      Build with <a href="https://jekyllrb.com" hreflang="{{ site.lang }}" target="_blank" rel="noopener noreferrer" aria-label="Jekyll">Jekyll</a><br />
+      Proudly hosted by <a href="https://github.com" hreflang="{{ site.lang }}" target="_blank" rel="noopener noreferrer" aria-label="Github"><strong>GitHub</strong></a>
+    </p>
+  </div>
+</footer>
+<script type="text/javascript">
+if (!navigator.serviceWorker.controller) {
+  navigator.serviceWorker.register("{{ '/assets/js/serviceworker.js' | relative_url }}").then(function(reg) {
+    console.log("Service worker has been registered for scope: " + reg.scope);
+  });
+}
+</script>
