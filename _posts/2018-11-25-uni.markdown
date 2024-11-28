@@ -11,7 +11,7 @@ license: MIT License
 license_link: https://github.com/brianmaierjr/uni/blob/master/LICENSE
 ---
 
-## Uni One-page Jekyll Theme
+Uni One-page Jekyll Theme
 
 ![Uni Jekyll Theme](https://github.com/brianmaierjr/uni/raw/master/assets/img/share.jpg)
 
@@ -71,58 +71,3 @@ The main settings can be found inside the `_config.yml` file:
 * **full_text_position:** where on the page the text will appear [left, center, or right]
 
 ![Uni Jekyll Theme](https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--card.jpg)
-
-### Card layout
-
-The background image and other style customizations can be changed in `assets/scss/layouts/_card.scss`
-
-## Further Customizations
-
-### Change Layout
-
-By default, Uni is set to use the `half` layout. To change the `layout` change the front matter in `index.html`
-
-For example, the layout below is using the `full` layout. The other options are `half` and `card`
-
-```md
----
-layout: full
-title: Uni – A one-page Jekyll theme
----
-```
-
-### Styling
-
-While running `bundle exec gulp` modify any of the files in the `assets/scss/` folder and watch the changes happen.
-
-The layouts all have their own stylesheets found in `assets/scss/layouts/`. This is where images for each of the three layouts can be found. In addition, this is where you can change text color, layout, etc.
-
-#### Primary color
-
-The one color this theme makes use of is the `$primary-color`. It can be changed in the `assets/scss/base/_config.scss` file. This color is used for headings, accents, and buttons.
-
-### Add Content
-
-Add content in `config.yml` or alter `index.html` and change `{{ content }}` to be whatever you want.
-
-### Imagery
-
-As stated above, the images are set in the respective stylesheets found in `assets/scss/layouts/`.
-
-We are using responsive images that require three different images. This allows the browser to serve the appropriate image based on the screen size. Recommended image widths are:
-
-* Small: 768px wide
-* Medium: 1200px wide
-* Large: 1600px wide
-
-To replace the image replace the image names in the `responsivebackground` mixin as shown below:
-
-```css
-@include responsivebackground("half-sm.jpg", "half-md.jpg", "half-lg.jpg");
-```
-
-When uploading image please keep file size in mind. For optimizing images we recommend using [TinyPNG](https://tinypng.com) and [TinyJPG](https://tinyjpg.com)
-
-### Favicon
-
-To add your own favicon, replace the image found at `assets/img/favicon.png`.
