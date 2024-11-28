@@ -23,7 +23,7 @@ Theme Monos, simple and lightweight theme for Jekyll
 
 ## _config.yml
 
-ç> Code block will look like this.
+Code block will look like this.
 
 ```yml
 highlighter-theme: monokai //you can change your syntax color scheme.

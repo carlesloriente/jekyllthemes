@@ -28,15 +28,11 @@ This theme is available as a [Ruby Gem](https://rubygems.org/gems/bulma-clean-th
 
 Add this line to your Jekyll site's `Gemfile`:
 
-```ruby
-gem "bulma-clean-theme"
-```
+`gem "bulma-clean-theme"`
 
 And add this line to your Jekyll site's `_config.yml`:
 
-```yaml
-theme: bulma-clean-theme
-```
+`theme: bulma-clean-theme`
 
 And then execute:
 
@@ -50,6 +46,4 @@ Or install it yourself as:
 
 The theme can also be used with GitHub Pages by adding this line to your `_config.yml`
 
-```yaml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
+`remote_theme: chrisrhymes/bulma-clean-theme`

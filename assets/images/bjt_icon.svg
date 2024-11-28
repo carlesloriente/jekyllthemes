@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="290"
+   height="290"
+   viewBox="0 0 290 290"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     style="display:inline"
+     transform="translate(15.195734,0.66258774)">
+    <g
+       id="g2"
+       transform="matrix(3.7879601,0,0,3.7786125,-266.29181,-416.61321)">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.646419"
+         id="rect3-0"
+         width="76.558357"
+         height="76.747749"
+         x="66.287941"
+         y="110.08025" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.3703px;line-height:1.7;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4400aa;fill-opacity:0.761139;stroke-width:12.6107;stroke-linecap:round;stroke-linejoin:round"
+         x="67.606743"
+         y="183.72409"
+         id="text1"
+         transform="scale(1.0389933,0.96247012)"><tspan
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.3703px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#4400aa;fill-opacity:0.761139;stroke-width:12.6107"
+           x="67.606743"
+           y="183.72409">B</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -12,5 +12,5 @@ gem "kramdown-parser-gfm", "~> 1.1.0"
 gem "kramdown-syntax-coderay"
 gem "jekyll-debug"
 gem "csv", "~> 3.3"
-
+gem "jemoji"
 gem "base64", "~> 0.2.0"
