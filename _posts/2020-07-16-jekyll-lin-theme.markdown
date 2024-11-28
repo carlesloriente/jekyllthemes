@@ -13,10 +13,10 @@ license_link: https://github.com/ssokurenko/jekyll-lin-theme/blob/master/LICENSE
 
 A slick minimalist theme for Jekyll built with [lin.css](https://lin-css.netlify.com/).
 
-Features
+## Features
 
-- Blog oriented
-- Responsive
-- RSS
-- Disqus
-- Google Analytics
+* Blog oriented
+* Responsive
+* RSS
+* Disqus
+* Google Analytics

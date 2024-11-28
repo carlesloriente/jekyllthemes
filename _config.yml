@@ -6,7 +6,7 @@ baseurl                 : "/"
 timezone                : "Europe/Madrid"
 description             : A directory of the best-looking themes for Jekyll.
 full_description        : >
- A directory of the best-looking themes for Jekyll forked from the abandoned project jekyllthemes.org.
+ A directory of the best-looking themes for Jekyll, forked from the abandoned project jekyllthemes.org.
 gh_repository           : https://github.com/carlesloriente/jekyllthemes/
 encoding                : "utf-8"
 locale                  : "en-US"
@@ -23,6 +23,10 @@ color                   : "#FFFFFF"
 
 # Features
 critical_css            : false
+
+# Emoji
+emoji:
+  src                   : "https://github.githubassets.com/images/icons/"
 
 # Social Profiles
 email                   : "fi1nziulf@mozmail.com"
@@ -70,6 +74,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
+  - jemoji
 
 sass:
   load_paths:
