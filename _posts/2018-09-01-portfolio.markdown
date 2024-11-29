@@ -6,9 +6,13 @@ homepage: https://github.com/abhn/portfolio
 download: https://github.com/abhn/portfolio/archive/master.zip
 demo: https://abhn.io
 author: Abhishek Nagekar
-thumbnail: portfolio.png
 license: GPLv3
 license_link: https://github.com/abhn/portfolio/blob/master/LICENSE
+thumbnail: portfolio.png
+carousel:
+  - '/assets/images/bg-index.webp'
+  - '/assets/images/bg-index-2.webp'
+  - '/assets/images/bg-index-3.webp'
 ---
 
 Portfolio, a simple and modern portfolio template that is lightweight, mobile responsive and looks modern.
