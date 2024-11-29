@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Ice Bear
 date: 2016-10-02 00:52:00
 homepage: https://github.com/songkong/Blog/tree/gh-pages

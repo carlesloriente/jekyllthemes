@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: front-cover
 date: 2016-02-21 12:21:00
 homepage: https://github.com/dashingcode/front-cover

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: dark-poole
 date: 2020-08-03 00:00:00
 homepage: https://github.com/andrewhwanpark/dark-poole

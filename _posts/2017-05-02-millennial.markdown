@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Millennial
 date: 2017-05-02 00:00:00
 homepage: https://github.com/LeNPaul/Millennial

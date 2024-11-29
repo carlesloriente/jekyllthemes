@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Docster
 date: 2015-07-06 10:44:00
 homepage: https://github.com/DigitalMindCH/docster-jekyll-theme

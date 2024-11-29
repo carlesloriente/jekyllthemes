@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: pink-theme
 date: 2016-06-12 23:01:03
 homepage: https://adagio-cantabile.github.io/

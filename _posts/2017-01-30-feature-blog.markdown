@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Feature Blog
 date: 2017-01-30 01:38:11
 homepage: https://github.com/lavkumarv/feature-blog-jekyll

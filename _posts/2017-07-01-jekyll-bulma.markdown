@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Jekyll Bulma
 date: 2017-07-01 07:46:00
 homepage: https://github.com/erayaydin/jekyll-bulma

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Centrarium
 date: 2015-08-02 07:42:00
 homepage: https://github.com/bencentra/centrarium

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Dark Kimochi
 date: 2016-01-30 01:42:00
 homepage: https://spaghetti.ga/

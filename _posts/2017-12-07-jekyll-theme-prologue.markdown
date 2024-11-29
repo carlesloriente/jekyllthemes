@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Prologue
 date: 2018-01-10 00:00:00
 homepage: https://github.com/chrisbobbe/jekyll-theme-prologue

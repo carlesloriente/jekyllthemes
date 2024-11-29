@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Holo Alfa
 date: 2015-07-29 02:19:00
 homepage: https://github.com/stijnvc/holo-alfa

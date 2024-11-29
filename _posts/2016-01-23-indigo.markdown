@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Indigo
 date: 2016-01-23 21:54:00
 homepage: https://github.com/sergiokopplin/indigo

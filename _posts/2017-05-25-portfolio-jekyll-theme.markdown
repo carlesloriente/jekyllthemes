@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Portfolio Jekyll Theme
 date: 2017-05-25 00:00:00
 homepage: https://github.com/LeNPaul/portfolio-jekyll-theme

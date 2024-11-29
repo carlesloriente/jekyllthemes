@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Polar Bear
 date: 2015-05-25 07:42:00
 homepage: https://github.com/diezcami/polar-bear-theme/

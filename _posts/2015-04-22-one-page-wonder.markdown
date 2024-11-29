@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: One Page Wonder
 date: 2015-04-22 00:00:00
 homepage: https://github.com/mushishi78/one-page-wonder-jekyll

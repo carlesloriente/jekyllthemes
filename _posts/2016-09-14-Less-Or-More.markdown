@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Less Or More
 date: 2016-09-14 23:22:00
 homepage: https://github.com/luoyan35714/LessOrMore

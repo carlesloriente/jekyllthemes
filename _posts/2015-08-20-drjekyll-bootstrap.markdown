@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Dr Jekyll's Bootstrap
 date: 2015-08-20 00:00:00
 homepage: https://github.com/drjekyllthemes/jekyll-bootstrap-theme

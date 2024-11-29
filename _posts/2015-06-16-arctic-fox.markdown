@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Arctic Fox
 date: 2015-06-16 07:42:00
 homepage: https://github.com/diezcami/arctic-fox-theme/

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Ultra-Minimalista
 date: 2016-12-25 19:00:00
 homepage: https://brxyxncorp.github.io/ultra-minimalista/

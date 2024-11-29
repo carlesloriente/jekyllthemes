@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 简单博客
 date: 2016-04-07 12:00:00
 homepage: https://github.com/liungkejin/liungkejin.github.io

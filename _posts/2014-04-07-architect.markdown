@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: architect
 date: 2014-04-07 08:31:00
 homepage: https://github.com/pietromenna/jekyll-architect-theme

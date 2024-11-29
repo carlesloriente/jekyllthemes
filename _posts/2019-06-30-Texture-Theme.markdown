@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Texture
 date: 2019-06-29 08:00:00
 homepage: https://github.com/samarsault/texture

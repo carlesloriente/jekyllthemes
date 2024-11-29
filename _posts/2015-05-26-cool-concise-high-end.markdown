@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Cool Concise High-end
 date: 2015-05-26 08:20:00
 homepage: https://github.com/Gaohaoyang/gaohaoyang.github.io

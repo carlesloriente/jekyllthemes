@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Blade Theme
 date: 2017-01-31 12:02:00
 homepage: https://github.com/mateussmedeiros/blade-theme

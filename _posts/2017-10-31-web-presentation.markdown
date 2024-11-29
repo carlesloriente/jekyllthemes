@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Web-presentation
 date: 2017-10-31 00:00:00
 homepage: https://deepidea.github.io/web-presentation/

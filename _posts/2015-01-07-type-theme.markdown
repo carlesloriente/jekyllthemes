@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Type Theme
 date: 2015-01-07 09:00:00
 homepage: https://rohanchandra.github.io/project/type/

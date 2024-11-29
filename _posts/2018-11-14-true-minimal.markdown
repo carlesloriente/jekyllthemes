@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: True Minimal
 date: 2018-11-14 12:17:00
 homepage: https://github.com/cyevgeniy/jekyll-true-minimal

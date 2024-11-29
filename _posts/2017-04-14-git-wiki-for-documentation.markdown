@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Git-Wiki
 date: 2017-04-14 00:00:00
 homepage: https://github.com/drassil/git-wiki

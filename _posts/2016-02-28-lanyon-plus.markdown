@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: lanyon-plus
 date: 2016-02-28 00:00:00
 homepage: https://github.com/dyndna/lanyon-plus

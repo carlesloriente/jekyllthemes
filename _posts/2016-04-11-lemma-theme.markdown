@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Lemma
 date: 2016-04-11 07:17:27
 homepage: https://github.com/neizod/lemma-theme

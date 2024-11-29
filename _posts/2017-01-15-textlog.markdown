@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: TextLog
 date: 2017-01-15 16:41:00
 homepage: https://github.com/heiswayi/textlog

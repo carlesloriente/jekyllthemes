@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Progress
 date: 2016-06-24 11:25:00
 homepage: https://alexanderussell.github.io/progress-for-jekyll

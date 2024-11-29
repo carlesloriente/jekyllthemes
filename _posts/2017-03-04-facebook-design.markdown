@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: facebook.design theme
 date: 2017-03-04 22:00:00
 homepage: https://github.com/wnglmng/wnglmng.github.io

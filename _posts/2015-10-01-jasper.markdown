@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Jasper
 date: 2015-10-01 00:00:00
 homepage: https://github.com/biomadeira/jasper

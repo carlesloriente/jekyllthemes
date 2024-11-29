@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Swift
 date: 2013-12-01 03:55:00
 homepage: https://github.com/pranavrajs/swift/

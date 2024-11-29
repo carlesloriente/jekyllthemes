@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Toasty Jekyll
 date: 2018-02-18 00:00:00
 homepage: https://github.com/regmtait/Toasty-Jekyll

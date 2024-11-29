@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Jekyll lin theme
 date: 2019-07-16 22:30:00
 homepage: https://github.com/ssokurenko/jekyll-lin-theme

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: DevJournal
 date: 2016-05-12 21:24:48
 homepage: https://github.com/hemangsk/DevJournal

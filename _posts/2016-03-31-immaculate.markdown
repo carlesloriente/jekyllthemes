@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Immaculate
 date: 2016-03-31 13:46:00
 homepage: https://github.com/siawyoung/immaculate

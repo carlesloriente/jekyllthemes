@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Sandslate
 date: 2020-08-05 13:25:29
 homepage: https://github.com/tareqdandachi/sandslate

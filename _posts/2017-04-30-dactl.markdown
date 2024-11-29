@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: dactl
 date: 2017-03-31 20:02:00
 homepage: https://github.com/melangue/dactl

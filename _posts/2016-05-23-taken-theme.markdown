@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Taken
 date: 2016-05-23 08:14:00
 homepage: https://github.com/vfalanis/taken

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: project-pages
 date: 2016-09-17 23:01:03
 homepage: https://projectpages.github.io/

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: end2end
 date: 2015-12-17 21:42:09
 homepage: https://github.com/nandomoreirame/end2end

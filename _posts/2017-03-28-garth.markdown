@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Garth
 date: 2017-03-28 00:00:00
 homepage: https://github.com/daviddarnes/garth

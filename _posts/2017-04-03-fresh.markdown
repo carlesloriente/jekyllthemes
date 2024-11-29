@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Fresh
 date: 2017-04-03 00:00:00
 homepage: https://github.com/artemsheludko/fresh

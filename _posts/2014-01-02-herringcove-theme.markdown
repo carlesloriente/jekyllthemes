@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Herring Cove
 date: 2014-01-02 10:40:30
 homepage: https://github.com/arnp/herring-cove

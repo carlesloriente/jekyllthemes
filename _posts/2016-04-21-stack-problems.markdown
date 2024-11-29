@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Stack Problems
 date: 2016-04-21 01:16:00
 homepage: https://github.com/agusmakmun/agusmakmun.github.io

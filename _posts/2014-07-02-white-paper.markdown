@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: White Paper
 date: 2014-07-02 00:00:00
 homepage: https://github.com/vinitkumar/white-paper

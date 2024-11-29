@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Emping Theme
 date: 2016-11-24 19:40:00
 homepage: https://github.com/rmsubekti/emping

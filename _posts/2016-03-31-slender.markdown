@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Slender
 date: 2016-03-31 13:34:00
 homepage: https://github.com/nikrich/jekyll-slender-template

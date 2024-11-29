@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Artist Theme
 date: 2016-02-26 15:45:45 +05:30
 homepage: https://github.com/ninapetrop/Artist-Theme

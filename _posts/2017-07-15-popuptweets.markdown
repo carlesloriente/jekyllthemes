@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Popup Tweets
 date: 2017-07-15 11:32:00
 homepage: https://github.com/junlulocky/PopupTweets

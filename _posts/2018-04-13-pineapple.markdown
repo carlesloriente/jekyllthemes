@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Pineapple
 date: 2018-04-13 00:00:00
 homepage: https://github.com/arnolds/pineapple

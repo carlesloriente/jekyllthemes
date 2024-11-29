@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: mug
 date: 2015-11-21 11:42:09
 homepage: https://github.com/nandomoreirame/mug

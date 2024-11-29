@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: So Simple
 date: 2013-07-13 23:42:00
 homepage: https://github.com/mmistakes/so-simple-theme

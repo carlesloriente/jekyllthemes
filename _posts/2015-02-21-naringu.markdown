@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Naringu
 date: 2015-02-21 02:30:00
 homepage: https://github.com/ariestiyansyah/naringu

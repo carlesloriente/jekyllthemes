@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: SIMPLE GREEN TECHBLOG
 date: 2019-07-12 22:30:00
 homepage: https://github.com/alainpham/alainpham.github.io

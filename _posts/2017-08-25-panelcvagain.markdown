@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Panel CV - V2
 date: 2017-08-24 11:32:00
 homepage: https://github.com/jekyller/online-cv

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Mediumish
 date: 2017-01-13 00:00:00
 homepage: https://www.wowthemes.net/mediumish-free-jekyll-template/

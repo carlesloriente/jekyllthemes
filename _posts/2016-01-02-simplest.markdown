@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Simplest
 date: 2016-01-02 15:05:09
 homepage: https://github.com/nandomoreirame/simplest

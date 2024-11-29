@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: BoHu
 date: 2016-04-23 12:00:00
 homepage: https://github.com/Clark-Zhao/bohu-jekyll-theme

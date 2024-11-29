@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Chirpy
 date: 2020-08-05 00:17:00 +0800
 homepage: https://github.com/cotes2020/jekyll-theme-chirpy/

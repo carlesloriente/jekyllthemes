@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Wing
 date: 2016-07-28 21:28:00
 homepage: https://github.com/nikrich/jekyll-wing-template

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 2 column Blog with Video
 date: 2015-12-24 00:00:00
 homepage: https://www.digitalroots.io/

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Mediator
 date: 2014-08-31 18:03:00
 homepage: https://github.com/dirkfabisch/mediator

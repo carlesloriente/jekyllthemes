@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Jekyll-Uno
 date: 2016-01-14 10:00:00
 homepage: https://github.com/joshgerdes/jekyll-uno

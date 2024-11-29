@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: HMFAYSAL Theme
 date: 2013-12-14 01:36:00
 homepage: https://hmfaysal.github.io

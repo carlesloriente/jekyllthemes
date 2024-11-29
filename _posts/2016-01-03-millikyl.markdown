@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Millikyl
 date: 2016-01-03 15:45:45 +05:30
 homepage: https://github.com/fareez-ahamed/millikyl

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Xixia
 date: 2017-09-19 16:26:00
 homepage: https://github.com/zxixia/jekyll-xixia

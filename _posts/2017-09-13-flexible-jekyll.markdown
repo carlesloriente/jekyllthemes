@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Flexible Jekyll
 date: 2017-09-13 00:00:00
 homepage: https://github.com/artemsheludko/flexible-jekyll

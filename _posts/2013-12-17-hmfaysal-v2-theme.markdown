@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: HMFAYSAL V2 Theme
 date: 2013-12-17 09:48:00
 homepage: https://faysal.name.qa

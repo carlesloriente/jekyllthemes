@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Dasper
 date: 2016-05-22 00:00:00
 homepage: https://github.com/ozgrozer/dasper

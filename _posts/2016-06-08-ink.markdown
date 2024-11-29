@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Ink
 date: 2016-06-08 10:45:00
 homepage: https://github.com/thinker3197/ink

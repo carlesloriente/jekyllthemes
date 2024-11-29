@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Minimal Resume
 date: 2019-06-12 00:00:00
 homepage: https://github.com/murraco/jekyll-theme-minimal-resume

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Harmony
 date: 2014-09-09 00:16:00
 homepage: https://github.com/gayanvirajith/harmony

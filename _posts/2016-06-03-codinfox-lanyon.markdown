@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Codinfox Lanyon
 date: 2016-06-03 00:00:00
 homepage: https://github.com/codinfox/codinfox-lanyon

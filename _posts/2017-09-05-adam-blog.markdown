@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Adam Blog
 date: 2017-09-05 00:00:00
 homepage: https://github.com/artemsheludko/adam-blog

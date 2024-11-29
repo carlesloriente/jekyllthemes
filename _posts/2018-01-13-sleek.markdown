@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Sleek
 date: 2017-01-13 00:00:00
 homepage: https://github.com/janczizikow/sleek

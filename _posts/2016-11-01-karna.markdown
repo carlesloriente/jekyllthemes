@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Webjeda Karna
 date: 2016-11-01 00:00:00
 homepage: https://github.com/sharu725/karna

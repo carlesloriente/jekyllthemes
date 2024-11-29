@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Mr.Brown
 date: 2017-02-23 00:00:00
 homepage: https://github.com/artemsheludko/mr-brown

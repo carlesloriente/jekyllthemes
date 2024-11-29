@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Business
 date: 2018-04-11 00:00:00
 homepage: https://github.com/melvinchng/business-jekyll-theme

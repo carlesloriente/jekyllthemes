@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Uno with timeline
 date: 2020-02-03 22:30:00
 homepage: https://github.com/tzuehlke/jekyll-uno-timeline/

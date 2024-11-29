@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Simple Elegant
 date: 2017-03-20 00:00:00
 homepage: https://github.com/panxw/panxw.github.com

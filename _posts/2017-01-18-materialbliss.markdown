@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Material Bliss
 date: 2017-01-18 20:17:14
 homepage: https://github.com/InsidiousMind/material-bliss-jekyll-theme

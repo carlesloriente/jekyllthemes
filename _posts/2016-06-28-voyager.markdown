@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Voyager
 date: 2016-06-28 14:05:03
 homepage: https://redvi.github.io/voyager/

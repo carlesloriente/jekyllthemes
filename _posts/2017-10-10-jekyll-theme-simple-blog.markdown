@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Jekyll Theme Simple Blog
 date: 2017-10-10 08:00:00
 homepage: https://gitlab.com/lorepirri/jekyll-theme-simple-blog

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: HMFAYSAL OMEGA Theme
 date: 2014-01-12 09:37:16
 homepage: https://alum.mit.edu/www/hmfaysal

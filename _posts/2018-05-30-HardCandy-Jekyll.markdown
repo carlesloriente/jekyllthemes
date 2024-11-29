@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: HardCandy-Jekyll
 date: 2017-12-08 09:20:00
 homepage: https://github.com/xukimseven/HardCandy-Jekyll
@@ -101,6 +102,7 @@ url: 'https://abc.github.io' # your host
 
 ```yaml
 layout: post
+comments: true
 title:  "post title"
 subtitle: 'post subtitle'
 date:   2018-05-29 08:44:13

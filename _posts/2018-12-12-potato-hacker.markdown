@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Potato Hacker
 date: 2018-12-12 00:00:00
 homepage: https://github.com/luxedo/jekyll-theme-potato-hacker

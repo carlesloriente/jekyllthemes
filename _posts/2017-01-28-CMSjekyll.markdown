@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: CMS-jekyll
 date: 2017-01-28 00:00:00
 homepage: https://github.com/Xu-Jian/Xu-Jian.github.io

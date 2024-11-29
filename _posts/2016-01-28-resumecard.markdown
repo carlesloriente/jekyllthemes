@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: resumecard
 date: 2016-01-28 08:08:00
 homepage: https://github.com/ddbullfrog/resumecard

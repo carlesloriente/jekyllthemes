@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Leonids
 date: 2015-08-29 23:22:00
 homepage: https://github.com/renyuanz/leonids

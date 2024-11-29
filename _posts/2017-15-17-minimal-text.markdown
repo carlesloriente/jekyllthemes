@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Minimal Text
 date: 2017-12-15 05:00:00
 homepage: https://github.com/clarkhacks/Minimal-Text

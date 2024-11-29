@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Jekyll Plus Materialize
 date: 2015-07-01 00:00:00
 homepage: https://github.com/enterthecrucible/materialized_jekyll_theme
