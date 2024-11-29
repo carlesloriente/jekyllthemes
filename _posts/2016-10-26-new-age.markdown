@@ -13,12 +13,6 @@ license_link: https://github.com/jekynewage/jekynewage.github.io/blob/master/LIC
 
 New Age Jekyll theme, Jekyll theme based on [New Age bootstrap theme](https://startbootstrap.com/template-overviews/new-age/).
 
-## Demo
-
-View this jekyll theme in action [here](https://jekynewage.github.io/)
-
-This Jekyll template was created to develop, landing pages, squeeze pages, portfolio and blog or all the above.
-
 ## Features
 
 * Google analytics
@@ -26,6 +20,8 @@ This Jekyll template was created to develop, landing pages, squeeze pages, portf
 * Add This social sharing
 
 External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, and WOW.js.
+
+## Installation
 
 In order to set your log data to applications `_config.yml` just open the file and find the associated items.
 

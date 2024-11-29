@@ -9,13 +9,11 @@ author: Alid Castano
 thumbnail: utterson.png
 license: MIT License
 license_link: https://github.com/alidcastano/Utterson/blob/master/LICENSE.md
+carousel: 
+  - 'https://cloud.githubusercontent.com/assets/11031952/14027042/22c27794-f1cc-11e5-8a25-9bab1e7920f2.png'
 ---
 
-**Make it yours in under 20 minutes.** Download on [Github](https://utterson.alidcastano.com/). Or see the [demo](https://utterson.alidcastano.com/) in action.
-
 Utterson was designed and developed by [@alidcastano](https://twitter.com/alidcastano), to provide a minimal and unassuming theme, focused on what matters: you and your content.
-
-![Home](https://cloud.githubusercontent.com/assets/11031952/14027042/22c27794-f1cc-11e5-8a25-9bab1e7920f2.png)
 
 ## Features
 
@@ -25,4 +23,6 @@ Utterson was designed and developed by [@alidcastano](https://twitter.com/alidca
 * **Scrolling navigation bar** for posts lets readers can easily go back to your home page.
 * **Fade-in footer** allows you to have one last call to action at the bottom of each post, without getting in the way of your content.
 
-**Make it yours in under 20 minutes.** [Download on Github](https://utterson.alidcastano.com/)
+## Installation
+
+**Make it yours in under 20 minutes.** Download on [Github](https://utterson.alidcastano.com/).

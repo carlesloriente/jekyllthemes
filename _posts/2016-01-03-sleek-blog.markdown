@@ -12,7 +12,7 @@ license: MIT License
 
 Sleek is minimal blog template built using jade, sass and Gulp.
 
-## System Preparation
+## Installation
 
 To use this project, you'll need the following things installed on your machine.
 
@@ -20,12 +20,12 @@ To use this project, you'll need the following things installed on your machine.
 2. [NodeJS](https://nodejs.org) - use the installer.
 3. [GulpJS](https://github.com/gulpjs/gulp) - `$ npm install -g gulp` (mac users may need sudo)
 
-## Local Installation
+### Local Installation
 
 1. Clone this repo, or download it into a directory of your choice.
 2. Inside the directory, run `npm install`.
 
-## Usage
+### Usage
 
 development mode
 

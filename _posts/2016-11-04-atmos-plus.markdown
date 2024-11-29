@@ -21,8 +21,6 @@ Thanks to Corey, Dhrubajyoti and Dan for their awesome work which i followed as 
 * [https://dhrubajyoti-das.github.io/](https://dhrubajyoti-das.github.io/)
 * [https://danhixon.github.io/](https://danhixon.github.io/)
 
-The [theme demo site](https://meliodus.github.io/) is my source code for personal blogging, build and hosted with Jekyll.
-
 I started this _project as a part of my learning and curiosity. Many thanks to İsmail_Demirbilek for his responsive website on Jekyll and providing his blog as a reference.
 I would also like to thank Dale-Anthony for the his awesome website as a next-reference.
 

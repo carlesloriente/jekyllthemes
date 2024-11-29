@@ -14,5 +14,3 @@ license_link: https://github.com/ankitsultana/accent/blob/gh-pages/LICENSE
 accent is a customizable, single column theme for Jekyll.
 
 You can change the main color of the theme to any color you want.
-
-Instructions for this and installation are on the [demo](https://ankitsultana.com/accent)  website itself.

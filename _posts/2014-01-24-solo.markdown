@@ -13,7 +13,7 @@ license_link: https://chibicode.mit-license.org/
 
 [Solo](https://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 
-Solo is useful if...
+## Features
 
 * You want to create an "about me" page from a single markdown file and host it under a custom domain name.
 * You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).

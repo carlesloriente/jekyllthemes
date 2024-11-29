@@ -11,6 +11,8 @@ license: MIT License
 license_link: https://github.com/AkshayAgarwal007/Jekyll-Mono/blob/master/LICENSE.txt
 ---
 
-Jekyll-Mono is a simple and elegant GitHub Profile cum Blog theme for 
-Github Pages. For installation instructions, please read the README.md [on
-GitHub!](https://github.com/AkshayAgarwal007/Jekyll-Mono) 
+Jekyll-Mono is a simple and elegant GitHub Profile cum Blog theme for Github Pages.
+
+## Installation
+
+For installation instructions, please read the README.md [on GitHub!](https://github.com/AkshayAgarwal007/Jekyll-Mono)

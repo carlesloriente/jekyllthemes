@@ -9,9 +9,20 @@ author: Alexander Terenin
 thumbnail: minima-reboot.png
 license: MIT
 license_link: https://github.com/aterenin/minima-reboot/blob/master/LICENSE.txt
+carousel:
+  - 'https://raw.githubusercontent.com/aterenin/minima-reboot/master/screenshot.png'
 ---
 
 Minima Reboot, a responsive [Bootstrap](https://getbootstrap.com) port of Jekyll's default theme, [Minima](https://github.com/jekyll/minima).
+
+## Features
+
+* Uses `bootstrap.css` only, and does not load `bootstrap.js`.
+* Very lightweight, easy to understand, customizable.
+* GitHub Pages friendly.
+* Does not override Bootstrap styles.
+* Supports Jekyll's syntax highlighting.
+* Supports Jekyll's pagination, with fallback if plugin not enabled.
 
 ## Installation
 
@@ -25,15 +36,3 @@ Jekyll will automatically download and enable the theme, provided it is up to da
 
 Alternatively, Minima Reboot is a [gem-based theme](https://jekyllrb.com/docs/themes/) and can be installed from [rubygems.org](https://rubygems.org/gems/minima-reboot).
 
-## Features
-
-* Uses `bootstrap.css` only, and does not load `bootstrap.js`.
-* Very lightweight, easy to understand, customizable.
-* GitHub Pages friendly.
-* Does not override Bootstrap styles.
-* Supports Jekyll's syntax highlighting.
-* Supports Jekyll's pagination, with fallback if plugin not enabled.
-
-## Screenshot
-
-![minima-reboot screenshot](https://raw.githubusercontent.com/aterenin/minima-reboot/master/screenshot.png)

@@ -1,0 +1,30 @@
+      <div id="carouselRide" class="carousel slide carousel-fade" data-bs-ride="true">
+        <div class="carousel-inner">
+        {%- if page.carousel %}
+          {%- for image in page.carousel %}
+          <div class="carousel-item" data-bs-interval="20000">
+            <img src="{{ image }}" class="d-block w-100" aria-hidden="true">
+          </div>
+          {% endfor -%}
+        {% else %}
+          <div class="carousel-item" data-bs-interval="20000">
+            <img src="{{ page.thumbnail | prepend: 'thumbnails/' | relative_url }}" class="d-block w-100" aria-hidden="true">
+          </div>
+        {% endif %}
+        </div>
+        {%- if page.carousel %}
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselRide" data-bs-slide="prev" title="Previous">
+          <span class="btn"><span class="carousel-control-prev-icon" aria-hidden="true"></span></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselRide" data-bs-slide="next" title="Next">
+          <span class="btn"><span class="carousel-control-next-icon" aria-hidden="true"></span></span>
+        </button>
+        {% endif %}
+      </div>
+      <script type="text/javascript">
+      document.addEventListener('DOMContentLoaded', (event) => {
+        var carouselInner = document.getElementsByClassName('carousel-item');
+        var carouselItem = carouselInner[0];
+        carouselItem.className += ' active';
+      });
+      </script>

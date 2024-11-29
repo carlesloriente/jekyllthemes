@@ -22,8 +22,3 @@ This theme is good for any blog.
 * Fast and light
 * Font Awesome
 * Disqus comments integration
-
-If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
-
-Warm Regards and Stay Creative,
-Hossain Mohd. Faysal

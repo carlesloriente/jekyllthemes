@@ -13,6 +13,8 @@ license_link: https://github.com/ashutosh2k12/hcz-jekyll-blog/blob/gh-pages/LICE
 
 This is a simple, beautiful and swift theme for Jekyll. It's mobile first, fluidly responsive, and delightfully lightweight.It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.The landing page of the blog is multilingual page.
 
+## Installation
+
 **[3 Steps (2 minutes) to Setup Your Personal Website with Jalpc](https://jarrekk.github.io/Jalpc/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html)**
 
 Start by [forking the repository](https://github.com/jarrekk/Jalpc).

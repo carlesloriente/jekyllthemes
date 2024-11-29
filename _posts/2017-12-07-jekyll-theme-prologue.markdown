@@ -25,6 +25,6 @@ This is Prologue, a simple, single page responsive site template from [HTML5 UP]
 * Google Analytics built-in; just put your [Tracking ID](https://support.google.com/analytics/answer/1008080?hl=en) in `_config.yml` as `google_analytics`
 * Custom 404 page (called 404.html; to activate, move it to your project directory).
 
-## Getting Started
+## Installation
 
 Information and **special instructions** on [GitHub](https://github.com/chrisbobbe/jekyll-theme-prologue)

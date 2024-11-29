@@ -14,24 +14,13 @@ license_link: https://github.com/Clark-Zhao/bohu-jekyll-theme/blob/gh-pages/LICE
 BoHu, it's a simple jekyll blog theme.
 
 A style of ZhiHu - the best-known website to share knowledge in China.
-In the ZhiHu, you can learn knowledge from all over the world.
-In the BoHu, you can share knowledge to all over the world!
+In the ZhiHu, you can learn knowledge from all over the world. In the BoHu, you can share knowledge to all over the world!
 
 ## Features
 
-* **Use paging as 1,2,3,4,5......**
-* **Searchable for blog.**
-* **Classification is supported.**
-* **Good compatibility on mobile devices.**
-* **Built-in wordart for English and Chinese.**
-* **Music player.**
-
-**Make it yours in under 10 minutes.**  
-
-## Author
-
-[Clark Zhao](https://zhaoyuxiang.cn)
-
-## License
-
-Use MIT License
+* Use paging as 1,2,3,4,5......
+* Searchable for blog.
+* Classification is supported.
+* Good compatibility on mobile devices.
+* Built-in wordart for English and Chinese.
+* Music player.

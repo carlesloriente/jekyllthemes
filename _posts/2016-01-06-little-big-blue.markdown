@@ -12,7 +12,7 @@ license_link: https://github.com/ninapetrop/Little-Big-Blue/blob/master/license.
 
 A Jekyll theme for blogging. With built in category sorting and author blocks,  this theme is perfect for collaborative projects.
 
-## How to use it
+## Installation
 
 1. Star & fork the [repo][repo]
 2. Rename the repo and clone the master branch to your local directory

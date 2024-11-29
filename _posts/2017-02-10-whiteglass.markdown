@@ -9,10 +9,12 @@ author: Chayoung You
 thumbnail: whiteglass.png
 license: MIT License
 license_link: https://github.com/yous/whiteglass/blob/master/LICENSE.txt
+carousel:
+  - 'https://raw.githubusercontent.com/yous/whiteglass/master/screenshot.png'
 ---
 
 Minimal, responsive Jekyll theme for hackers.
 
-![whiteglass theme](https://raw.githubusercontent.com/yous/whiteglass/master/screenshot.png)
+## Installation
 
-## [Installation and Usage](https://github.com/yous/whiteglass/blob/master/README.md)
+[Setup](https://github.com/yous/whiteglass/blob/master/README.md)

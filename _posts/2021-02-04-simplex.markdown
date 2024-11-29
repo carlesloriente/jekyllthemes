@@ -11,7 +11,7 @@ license: MIT License
 license_link: https://github.com/andreondra/jekyll-theme-simplex/blob/master/LICENSE.txt
 ---
 
-A blog theme I've developed for my blog. The theme is simple but full of useful features.
+Simplex, a blog theme I've developed for my blog. The theme is simple but full of useful features.
 
 ## Features
 
@@ -21,8 +21,6 @@ A blog theme I've developed for my blog. The theme is simple but full of useful 
 * built-in buttons
 * built-in lightbox
 
-The theme is licensed under MIT, so feel free to add more features or edit.
-It is packaged as a gem, so it can be installed easily with bundle.
-More information and installation steps are in the [repository](https://github.com/andreondra/jekyll-theme-simplex).
+## Installation
 
-Enjoy!
+More information and installation steps are in the [repository](https://github.com/andreondra/jekyll-theme-simplex).

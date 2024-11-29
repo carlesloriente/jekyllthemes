@@ -9,13 +9,12 @@ author: Miguel Gonzalez Sanchez
 thumbnail: dash.jpg
 license: MIT License
 license_link: https://github.com/bitbrain/jekyll-dash/blob/master/LICENSE
+carousel:
+  - 'https://raw.githubusercontent.com/bitbrain/jekyll-dash/master/screenshot.png'
 ---
 
 A dark theme for Jekyll, inspired by Dash UI for Atom. 🌒
-
 This theme for [Jekyll](https://jekyllrb.com/) has been inspired by [dash-ui](https://atom.io/themes/dash-ui), a dark theme for [Atom](https://atom.io).
-
-![screenshot](https://raw.githubusercontent.com/bitbrain/jekyll-dash/master/screenshot.png)
 
 ## Installation
 
@@ -39,7 +38,7 @@ Or install it yourself as:
 
 `$ gem install jekyll-dash`
 
-## Configuration
+### Configuration
 
 Add the following configuration to your site. Customise it to your needs!
 
@@ -73,7 +72,7 @@ dash:
       color: purple
 ```
 
-## Additional Features
+### Additional Features
 
 * **Tagging** add the `jekyll/tagging` plugin to your `_config.yml` file to enable tagging. Do not forget to also add the following to your `Gemfile`:
 
@@ -86,7 +85,3 @@ gem "jekyll-tagging"
 ```Gemfile
 gem "liquid-md5"
 ```
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).

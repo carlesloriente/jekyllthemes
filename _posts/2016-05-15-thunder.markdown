@@ -8,18 +8,10 @@ author: sharathdt
 thumbnail: thunder.jpg
 license: MIT License
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'https://webjeda.com/thunder/images/thunder-jekyll-theme.jpg'
+  - 'https://webjeda.com/thunder/images/thunder-responsive-jekyll-theme.jpg'
+  - 'https://webjeda.com/thunder/images/thunder-jekyll-theme-2.jpg'
 ---
 
 [Thunder](https://webjeda.com/thunder/) minimal and light-weight jekyll theme.
-
-Default theme
-
-![Thunder default jekyll theme](https://webjeda.com/thunder/images/thunder-jekyll-theme.jpg)
-
-Responsive
-
-![Thunder responsive jekyll theme](https://webjeda.com/thunder/images/thunder-responsive-jekyll-theme.jpg)
-
-Color schemes
-
-![Thunder jekyll theme color scheme](https://webjeda.com/thunder/images/thunder-jekyll-theme-2.jpg)

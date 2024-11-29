@@ -23,6 +23,8 @@ A peaceful theme for Jekyll and GitHub Pages.
 * Google Analytics and Disqus integration
 * Customizable syntax highlighting color scheme
 
+## Installation
+
 Visit [project homepage][project-home] for instructions on installation and configuration.
 
 [project-home]: https://github.com/kamikat/jekyll-theme-kagami

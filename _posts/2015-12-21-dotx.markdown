@@ -11,7 +11,7 @@ license: MIT License
 license_link: https://github.com/nandomoreirame/dotX/blob/master/LICENSE
 ---
 
-## Start in 4 steps
+## Installation
 
 1. Download or clone repo `git clone git@github.com:nandomoreirame/dotX.git`
 2. Enter the folder: `cd dotX/`
@@ -20,27 +20,12 @@ license_link: https://github.com/nandomoreirame/dotX/blob/master/LICENSE
 
 Access, [localhost:4000/dotX](https://localhost:4000/dotX)
 
-## Deploy in Github pages in 2 steps
+### Deploy in Github pages in 2 steps
 
 1. Change the variables `GITHUB_REPONAME` and `GITHUB_REPO_BRANCH` in `Rakefile`
 2. Run `rake` or `rake publish` for build and publish on Github
 
-## Using Rake tasks
+### Using Rake tasks
 
 * Create a new page: `rake page name="contact.md"`
 * Create a new post: `rake post title="TITLE OF THE POST"`
-
-## Demo and Download
-
-[Demo](https://nandomoreira.me/dotX/)
-[Download](https://github.com/nandomoreirame/dotX/archive/master.zip)
-
-![dotx - free Jekyll theme](https://raw.githubusercontent.com/nandomoreirame/dotX/master/screenshot.png)
-
----
-
-## Copyright and license
-
-It is under [the MIT license](https://github.com/nandomoreirame/dotX/blob/master/LICENSE).
-
-Enjoy

@@ -9,12 +9,12 @@ author: webjeda
 thumbnail: webjeda-ashwath.png
 license: MIT License
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'https://webjeda.com/ashwath/images/Default.png'
 ---
 
 Default Theme
 
-![ashwath Jekyll Theme](https://webjeda.com/ashwath/images/Default.png)
-
-## How to install this Theme
+## Installation
 
 Detailled [Installation and Theme Guidelines](https://blog.webjeda.com/jekyll-themes/)

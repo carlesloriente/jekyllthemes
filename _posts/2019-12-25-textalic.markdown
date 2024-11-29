@@ -11,7 +11,7 @@ license: MIT License
 license_link: https://github.com/UniFreak/jekyll-theme-textalic/blob/master/LICENCE
 ---
 
-Jekyll Theme **Textalic** is a simple, responsive jekyll theme focus on blogging. Here is a [live demo](https://unifreak.github.io).
+Jekyll Theme **Textalic** is a simple, responsive jekyll theme focus on blogging.
 
 ## Features
 
@@ -25,7 +25,7 @@ Jekyll Theme **Textalic** is a simple, responsive jekyll theme focus on blogging
 * Atom feed
 * Sitemap
 
-## Install & Configuration
+## Installation
 
 ### Set up jekyll
 
@@ -104,10 +104,6 @@ Sereis are implemented using [Jekyll's collections](https://jekyllrb.com/docs/co
 
 3. By adding new post under series folder, you add post under the corresponding series
 
-## Deployment
+### Deployment
 
 See [Jekyll doc on deployment](https://jekyllrb.com/docs/deployment/)
-
-## That's it
-
-Happy blogging!

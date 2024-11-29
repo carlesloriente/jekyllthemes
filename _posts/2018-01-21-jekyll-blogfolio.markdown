@@ -12,7 +12,3 @@ license_link: https://github.com/lamccloskey/jekyll-theme-blogfolio/blob/master/
 ---
 
 Welcome to Jekyll Blogfolio Theme, provides an outlet for writing blog posts and chronicling projects. The navigation bar allows you to highlight the social media accounts you want to show your visitors. With everything available in the navigation bar, from blog, portfolio, about me, and social media outlets your visitors will immediately feel comfortable navigating your site.
-
-Powered by [Jekyll](https://jekyllrb.com/) and styled using [Bulma](https://bulma.io/)_
-
-Created by [Logan McCloskey](https://lamccloskey.github.io)

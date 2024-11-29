@@ -9,15 +9,12 @@ author: Lijia Yu
 thumbnail: freshman21.png
 license: MIT License
 license_link: https://github.com/yulijia/freshman21/blob/master/LICENSE
+carousel:
+  - 'https://i.imgur.com/oSp7kacl.png'
 ---
 
 Freshman21 is a Jekyll blog theme, base on theme [Freshman](https://github.com/yulijia/freshman).
-
 A tribute to WordPress Theme Twenty-Twelve and Twenty-eleven.
-
-Enjoy.
-
-![Screen](https://i.imgur.com/oSp7kacl.png)
 
 ## Features
 
@@ -26,8 +23,3 @@ Enjoy.
 * Comments by Disqus
 * Support LaTeX (by MathJax)
 * Syntax highlighting
-
-## Demo
-
-Single column, please see [my own blog](https://yulijia.net/en/)
-Two columns, please see the [theme website](https://yulijia.net/freshman21/)

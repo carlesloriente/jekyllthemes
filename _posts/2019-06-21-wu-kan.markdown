@@ -12,9 +12,4 @@ license_link: https://github.com/wu-kan/wu-kan.github.io/blob/master/LICENSE
 ---
 
 Jekyll-theme-WuK, a content-first, sliding sidebar theme for Jekyll.
-
 Based on [lanyon](https://github.com/poole/lanyon).
-
-See more at [home page](https://jekyll-theme-WuK.wu-kan.cn) & [this post](https://wu-kan.cn/_posts/2019-01-18-%E5%9F%BA%E4%BA%8EJekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/).
-
-[Demo](https://wu-kan.cn)

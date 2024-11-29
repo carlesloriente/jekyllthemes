@@ -13,7 +13,7 @@ license_link: https://brxyxncorp.mit-license.org/
 
 [Ultra-Minimalista](https://brxyxncorp.github.io/ultra-minimal-theme/) is a Jekyll theme that supports **multi-page websites**, and it's no full responsive, 'cause was my first theme.
 
-Ultra-Minimalista is useful if...
+## Features
 
 * You want to create an "about me" page from a single markdown file and   host it under a custom domain name.
 * You want to write blog from markdown file.

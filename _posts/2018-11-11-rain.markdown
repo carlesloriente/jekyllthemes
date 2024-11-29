@@ -8,13 +8,13 @@ author: Inela Avdic Hukic
 thumbnail: rain.png
 license: MIT License
 license_link: https://github.com/inelaah/rain/blob/master/LICENSE
+carousel:
+  - 'https://github.com/inelaah/rain/blob/master/images/screenshot.png?raw=true'
 ---
 
 Rain is a simple and clean Jekyll theme with focus on content.
 
-![Screenshot](https://github.com/inelaah/rain/blob/master/images/screenshot.png?raw=true)
-
-### Features
+## Features
 
 * Compatible with GitHub Pages
 * Responsive design

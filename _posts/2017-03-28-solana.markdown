@@ -9,6 +9,8 @@ author: Ryan Lue
 thumbnail: solana.png
 license: MIT License
 license_link: https://github.com/rlue/jekyll-solana/blob/master/LICENSE
+carousel:
+  - 'https://raw.githubusercontent.com/rlue/i/master/solana/device_mockup.png'
 ---
 
 A Wholesome, Flat, Sunshiny Jekyll Theme
@@ -22,4 +24,3 @@ A Wholesome, Flat, Sunshiny Jekyll Theme
 * Obfuscates email addresses for protection against email harvesting bots
 * Comments via outbound links to Reddit
 
-![Mockup](https://raw.githubusercontent.com/rlue/i/master/solana/device_mockup.png)

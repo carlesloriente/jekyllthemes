@@ -12,5 +12,3 @@ license_link: https://github.com/lukas-h/material-theme/blob/gh-pages/LICENSE
 ---
 
 Light Material, uncomplicated theme, good to build your personal site.
-
-[See it](https://himsel.me/material-theme)

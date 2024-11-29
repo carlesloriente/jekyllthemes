@@ -12,5 +12,3 @@ license_link: https://github.com/cyevgeniy/jekyll-true-minimal/blob/master/LICEN
 ---
 
 Another minimal theme for jekyll.
-
-You can check out!

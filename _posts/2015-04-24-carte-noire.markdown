@@ -13,7 +13,7 @@ license_link: https://github.com/jacobtomlinson/carte-noire/blob/gh-pages/LICENS
 
 Carte Noire, a dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes Carte Noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect.
 
-## Setup and usage
+## Installation
 
 Carte Noire may be installed by simply downloading the [zip file]({{ page.download }}) from the [repository on Github]({{ page.homepage }}).
 
@@ -25,7 +25,3 @@ Additionally it is possible to fork the repository and use Github Pages as hosti
 
 * Website: [www.jacobtomlinson.co.uk](https://www.jacobtomlinson.co.uk)
 * Twitter: [_jacobtomlinson](https://twitter.com/_JacobTomlinson)
-
-## License
-
-Carte Noire is released under the [GPLv3 License]({{ page.license_link }}).

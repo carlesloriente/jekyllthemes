@@ -8,6 +8,11 @@ demo: https://ejjoo.github.io/
 author: Euijong Joo
 thumbnail: monos.png
 license: MIT License
+carousel:
+  - 'https://github.com/ejjoo/jekyll-theme-monos/blob/master/public/img/screenshot-1.png?raw=true'
+  - 'https://github.com/ejjoo/jekyll-theme-monos/blob/master/public/img/screenshot-2.png?raw=true'
+  - 'https://github.com/ejjoo/jekyll-theme-monos/blob/master/public/img/screenshot-m1.png?raw=true'
+  - 'https://github.com/ejjoo/jekyll-theme-monos/blob/master/public/img/screenshot-m2.png?raw=true'
 ---
 
 Theme Monos, simple and lightweight theme for Jekyll
@@ -21,7 +26,9 @@ Theme Monos, simple and lightweight theme for Jekyll
 * Easy to customize.
 * Offers category menu.
 
-## _config.yml
+## Installation
+
+Open `_config.yml`
 
 Code block will look like this.
 
@@ -29,21 +36,3 @@ Code block will look like this.
 highlighter-theme: monokai //you can change your syntax color scheme.
 date_format: "%Y-%M-%D" //and date format.
 ```
-
-### Screenshots
-
-#### Page
-
-![alt text](https://github.com/ejjoo/jekyll-theme-monos/blob/master/public/img/screenshot-1.png?raw=true)
-
-#### Articles
-
-![alt text](https://github.com/ejjoo/jekyll-theme-monos/blob/master/public/img/screenshot-2.png?raw=true)
-
-#### Page - Mobile
-
-![alt text](https://github.com/ejjoo/jekyll-theme-monos/blob/master/public/img/screenshot-m1.png?raw=true)
-
-#### Page - Articles
-
-![alt text](https://github.com/ejjoo/jekyll-theme-monos/blob/master/public/img/screenshot-m2.png?raw=true)

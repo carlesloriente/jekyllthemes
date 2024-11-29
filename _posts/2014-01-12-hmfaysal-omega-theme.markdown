@@ -41,21 +41,3 @@ HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll designed 
 * Designed by an Electrical Engineer
 
 For a full list of features, visit [this link](https://hmfaysal.github.io/hmfaysal-omega-theme/theme-setup/about-hmfaysal-omega/)
-
-## Questions?
-
-Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@hmfaysal](https://twitter.com/hmfaysal) or [file a GitHub Issue](https://github.com/hmfaysal/hmfaysal-omega-theme/issues/new).
-
-## Requests?
-
-If you have some specific requests for this theme, or if you need help custom coding some elements, message me on Twitter [@hmfaysal](https://twitter.com/hmfaysal) or email me at [hmfaysal@alum.mit.edu](mailto:hmfaysal@alum.mit.edu)
-
-## License
-
-This theme is free and open source software, distributed under the [The MIT License](https://hmfaysal.github.io/hmfaysal-omega-theme/license/).
-So feel free to use this Jekyll theme on your site without linking backto me or using a disclaimer.
-
-If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
-
-Warm Regards and Stay Creative,
-Hossain Mohd. Faysal

@@ -18,5 +18,3 @@ Minimal Text, a clean and lightweight Jekyll Theme.
 * Minimal CSS
 * No JS
 * Simple
-
-Created by [Clark Hacks](https://clarkhacks.com)

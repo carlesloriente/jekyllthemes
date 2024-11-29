@@ -9,8 +9,8 @@ author: rmsubekti
 thumbnail: emping.png
 license: MIT License
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'https://cdn.rawgit.com/rmsubekti/emping/master/Screenshot.png'
 ---
 
 Emping - Amp theme for jekyll, an Amphtml theme for your jekyll blog, based on default Jekyll theme.
-
-![emping](https://cdn.rawgit.com/rmsubekti/emping/master/Screenshot.png)

@@ -9,25 +9,17 @@ author: webjeda
 thumbnail: online-cv.png
 license: Creative Commons Attribution 3.0 Unported License
 license_link: https://creativecommons.org/licenses/by/3.0/
+carousel:
+  - 'https://raw.githubusercontent.com/sharu725/online-cv/master/assets/images/online-cv-jekyll-theme.png'
+  - 'https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-jekyll-theme-2.png'
+  - 'https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-responsive-jekyll-theme.png'
 ---
 
-Default Theme
-
-![online CV](https://raw.githubusercontent.com/sharu725/online-cv/master/assets/images/online-cv-jekyll-theme.png)
-
-Color Customization
-
-![online CV](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-jekyll-theme-2.png)
-
-Responsive Theme
-
-![online CV](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-responsive-jekyll-theme.png)
-
-## How to install this Theme
+## Installation
 
 [Detailed Installation and Theme Guidelines](https://blog.webjeda.com/jekyll-themes/online-cv/)
 
-## Changing color schemes
+### Changing color schemes
 
 Enable a color scheme by removing # in the **_config.yml** file.
 

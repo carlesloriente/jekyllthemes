@@ -13,8 +13,6 @@ license_link: https://github.com/DougBeney/jekyll-pug-material/blob/master/LICEN
 
 This is a template, originally created by Materialize, ported over to Jekyll-Pug.
 
-Created by [Doug Beney](https://dougie.io/) ([Twitter](https://twitter.com/@dougbeney))
-
 ## Features
 
 * Responsive

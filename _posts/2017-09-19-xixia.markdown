@@ -9,19 +9,19 @@ author: Xixia
 thumbnail: xixia.png
 license: Creative Commons Attribution 4.0 International License
 license_link: https://creativecommons.org/licenses/by/4.0/legalcode
+carousel:
+  - 'https://raw.githubusercontent.com/zxixia/jekyll-xixia/gh-pages/assets/images/preview.png'
 ---
 
 Xixia is a succinct theme for blogging that be made from Bootstrap.
 
-## Preview
+## Installation
 
-![Xixia](https://raw.githubusercontent.com/zxixia/jekyll-xixia/gh-pages/assets/images/preview.png)
-
-## Custom your own side bar
+### Custom your own side bar
 
 You can easier to add other modules such likes the Tags panel or the Categories panel by modified the `/_includes/sidebar.html`.
 
-## Custom your own nav bar
+### Custom your own nav bar
 
 You can change the nav bar color to get your own nar bar by modified the follow theme code in the `/assets/css/theme.css`.
 
@@ -64,7 +64,3 @@ You can change the nav bar color to get your own nar bar by modified the follow 
     background-color:#28323C;
 }
 ```
-
-## Last
-
-Check out the demo - that's the live github branch and exactly what you'll get when you clone it.

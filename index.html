@@ -29,7 +29,8 @@ description: The directory of the best-looking themes for Jekyll
             <div class="card shadow">
               <div class="item-image text-center"><img src="/thumbnails/{{ post.thumbnail }}" class="rounded mx-auto d-block" alt="{{ post.title | append: ' thumbnail' }}"></div>
               <div class="card-body">
-                <p class="card-text">{{ post.title }}</p>
+                <p class="card-text text-start"><strong>{{ post.title }}</strong></p>
+                <p class="text-start">{% if post.price %} <span class="badge rounded-pill text-bg-warning fs-6">{{ post.price }}</span>{% else %}<span class="badge rounded-pill text-bg-success fs-6">FREE</span>{% endif %}</p>
               </div>
             </div>
             </a>

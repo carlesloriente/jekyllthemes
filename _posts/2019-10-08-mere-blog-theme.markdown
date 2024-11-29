@@ -46,7 +46,7 @@ Or install it yourself as:
 
 `$ gem install mere-blog-theme`
 
-## Use with GitHub Pages
+### Use with GitHub Pages
 
 The theme can also be used with GitHub Pages by adding this line to your `_config.yml`
 

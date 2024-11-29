@@ -11,6 +11,8 @@ license: MIT License
 license_link: https://raw.githubusercontent.com/wowthemesnet/jekyll-theme-memoirs/master/LICENSE.txt
 ---
 
+Memoirs Jekyll Theme
+
 ## Features
 
 * 100% Github Pages Compatibility
