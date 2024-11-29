@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Jekyll theme HackCSS
 date: 2016-08-27 01:42:00
 homepage: https://wemake-services.github.io/jekyll-theme-hackcss/

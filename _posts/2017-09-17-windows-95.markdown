@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Windows 95
 date: 2017-09-17 21:10:00
 homepage: https://h01000110.github.io/20170917/windows-95

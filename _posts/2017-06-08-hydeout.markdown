@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Hydeout
 date: 2017-06-08 17:00:00
 homepage: https://github.com/fongandrew/hydeout

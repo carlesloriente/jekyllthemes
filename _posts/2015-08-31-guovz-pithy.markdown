@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Guovz Pithy
 date: 2015-08-31 14:37:00
 homepage: https://github.com/guovz/pithy

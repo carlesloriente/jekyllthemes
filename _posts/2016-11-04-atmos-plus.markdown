@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Atmos Plus
 date: 2016-11-04 02:45:00
 homepage: https://github.com/meliodus/meliodus.github.io

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Basically Basic
 date: 2017-03-30 11:32:00
 homepage: https://github.com/mmistakes/jekyll-theme-basically-basic

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Stepbystep
 date: 2016-08-31 14:32:18
 homepage: https://github.com/jokinkuang/stepbystep#stepbystep

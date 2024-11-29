@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Not Pure Poole
 homepage: https://github.com/vszhub/not-pure-poole
 download: https://github.com/vszhub/not-pure-poole/zipball/master

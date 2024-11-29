@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Neo-HPSTR Jekyll template
 date: 2015-09-05 12:00:00
 homepage: https://github.com/aron-bordin/neo-hpstr-jekyll-theme

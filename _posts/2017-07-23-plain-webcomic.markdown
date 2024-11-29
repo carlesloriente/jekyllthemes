@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Plain Webcomic
 date: 2017-07-23 20:06:00
 homepage: https://peahatlanding.github.io/Plain-Webcomic/docs/index.html

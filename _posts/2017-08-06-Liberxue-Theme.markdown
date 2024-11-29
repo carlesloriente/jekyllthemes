@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Liberxue Theme
 date: 2017-08-06 13:45:39
 homepage: https://github.com/Liberxue/liberxue.github.io

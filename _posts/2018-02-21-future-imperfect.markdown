@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Future Imperfect
 date: 2018-02-21 13:26:00
 homepage: https://github.com/kaptn3/future-imperfect

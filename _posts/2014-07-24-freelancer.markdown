@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Freelancer
 date: 2014-07-24 00:00:00
 homepage: https://github.com/jeromelachaud/freelancer-theme

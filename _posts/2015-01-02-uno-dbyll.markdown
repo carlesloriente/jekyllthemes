@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Uno-dbyll
 date: 2015-01-02 03:26:00
 homepage: https://github.com/meliodus/uno-dbyll

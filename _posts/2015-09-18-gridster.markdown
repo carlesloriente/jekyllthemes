@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Gridster
 date: 2015-09-18 11:15:00
 homepage: https://github.com/DigitalMindCH/gridster-jekyll-theme

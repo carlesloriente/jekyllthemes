@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Textalic
 date: 2019-12-24 21:20:00
 homepage: https://github.com/UniFreak/jekyll-theme-textalic

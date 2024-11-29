@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Project Gaia
 date: 2017-01-10 00:00:00
 homepage: https://github.com/szhielelp/JekyllTheme-ProjectGaia

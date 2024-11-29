@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: HPSTR Version 2 - Vietnamese
 date: 2015-06-02 00:10:00
 homepage: https://github.com/minhhuy150894/minhhuy150894.github.io

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Halve
 date: 2016-05-30 22:47:00
 homepage: https://github.com/TaylanTatli/Halve

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Princess Diaries
 date: 2015-11-22 00:00:00
 homepage: https://github.com/laixintao/Princess-Diaries

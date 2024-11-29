@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: PHOTORAMA
 date: 2016-03-28 00:00:00
 homepage: https://github.com/sunbliss/photorama

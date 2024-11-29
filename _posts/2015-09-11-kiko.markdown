@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Kiko
 date: 2015-09-11 17:03:00
 homepage: https://github.com/gfjaru/Kiko

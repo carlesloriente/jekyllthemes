@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: MAD4Jekyll
 date: 2015-11-25 00:00:00
 homepage: https://github.com/madforjekyll/madforjekyll.github.io

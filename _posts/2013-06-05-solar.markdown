@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Solar
 date: 2013-06-05 01:42:00
 homepage: https://github.com/mattvh/solar-theme-jekyll

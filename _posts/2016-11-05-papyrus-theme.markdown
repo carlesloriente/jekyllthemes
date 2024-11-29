@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Papyrus
 date: 2016-11-05 22:35:00
 homepage: https://github.com/hugoferreira/papyrus-theme

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Sciblog
 date: 2016-03-14 03:03:00
 homepage: https://github.com/airrayagroupwebdesign/sciblog

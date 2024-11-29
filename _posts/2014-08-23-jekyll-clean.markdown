@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Jekyll Clean
 date: 2014-08-23 15:31:11
 homepage: https://github.com/scotte/jekyll-clean

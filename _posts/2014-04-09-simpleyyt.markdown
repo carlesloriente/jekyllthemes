@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Simpleyyt
 date: 2014-04-09 00:00:00
 homepage: https://github.com/Simpleyyt/jekyll-simpleyyt

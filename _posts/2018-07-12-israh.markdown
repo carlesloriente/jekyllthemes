@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Israh
 date: 2018-07-12 00:00:00
 homepage: https://github.com/ezrasavard/israh-jekyll-theme

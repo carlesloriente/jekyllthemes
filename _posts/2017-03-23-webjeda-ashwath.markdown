@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Webjeda Ashwath
 date: 2017-03-23 00:00:00
 homepage: https://github.com/sharu725/ashwath

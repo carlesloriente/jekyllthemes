@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: SinglePaged
 date: 2014-09-21 08:20:00
 homepage: https://github.com/t413/SinglePaged

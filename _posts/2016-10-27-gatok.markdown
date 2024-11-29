@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Webjeda Gatok
 date: 2016-10-27 00:00:00
 homepage: https://github.com/sharu725/gatok

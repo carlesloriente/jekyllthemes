@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Parchment
 date: 2020-04-27 22:18:00 +0530
 homepage: https://github.com/pro-panda/parchment/

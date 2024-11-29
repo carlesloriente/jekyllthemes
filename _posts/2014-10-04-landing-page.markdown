@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Landing Page
 date: 2014-10-04 00:00:00
 homepage: https://github.com/swcool/landing-page-theme

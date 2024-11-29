@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: SparrowX 
 date: 2018-05-30 09:20:00
 homepage: https://github.com/mighildotcom/sparrowx

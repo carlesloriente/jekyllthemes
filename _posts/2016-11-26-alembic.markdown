@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Alembic
 date: 2016-11-26 00:00:00
 homepage: https://github.com/daviddarnes/alembic

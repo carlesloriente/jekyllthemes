@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Stylish Portfolio
 date: 2015-09-08 01:03:00
 homepage: https://github.com/volny/stylish-portfolio-jekyll

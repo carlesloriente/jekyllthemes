@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: GridGallery
 date: 2014-06-21 00:00:00
 homepage: https://github.com/nadjetey/GridGallery

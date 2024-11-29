@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: OpenTheme
 date: 2014-12-16 12:00:00
 homepage: https://github.com/open-start/opentheme

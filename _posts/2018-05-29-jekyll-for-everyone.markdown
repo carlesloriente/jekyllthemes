@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Everyone
 date: 2018-05-29 00:00:00
 homepage: https://github.com/melvinchng/jekyll-for-everyone

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: MaterializeHG Theme
 date: 2016-06-10 04:43:00
 homepage: https://github.com/hugocarreira/jekyll-materializecss

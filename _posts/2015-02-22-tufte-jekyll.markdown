@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Tufte-Jekyll
 date: 2015-02-22 08:46:00
 homepage: https://github.com/clayh53/tufte-jekyll

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Onepage
 date: 2016-11-06 00:00:00
 homepage: https://github.com/lukas-h/onepage

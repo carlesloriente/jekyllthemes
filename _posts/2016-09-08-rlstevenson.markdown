@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: RLStevenson
 date: 2013-09-08 00:00:00
 homepage: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme

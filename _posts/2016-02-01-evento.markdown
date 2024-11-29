@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Evento
 date: 2016-02-01 10:11:00
 homepage: https://github.com/boyney123/evento

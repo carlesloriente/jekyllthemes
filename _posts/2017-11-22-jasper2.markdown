@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Jasper2
 date: 2017-11-22 15:00:00
 homepage: https://github.com/jekyller/jasper2

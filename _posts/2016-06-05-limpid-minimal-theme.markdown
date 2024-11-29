@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Limpid Theme
 date: 2016-06-05 00:00:00
 homepage: https://github.com/pranavrajs/limpid

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Good Clean Read
 date: 2016-01-16 10:00:00
 homepage: https://github.com/adueck/good-clean-read

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Sweet 16
 homepage: https://github.com/jdh8/sweet-16/
 download: https://github.com/jdh8/sweet-16/archive/master.zip

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Memoirs Jekyll Theme
 date: 2020-04-08 09:20:00
 homepage: https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/

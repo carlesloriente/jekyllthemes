@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Murmur
 date: 2016-12-01 15:35:00
 homepage: https://github.com/songroger/murmur

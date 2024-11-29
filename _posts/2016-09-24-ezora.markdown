@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Ezora
 date: 2016-09-24 00:00:00
 homepage: https://github.com/ezrasavard/ezora-jekyll-theme

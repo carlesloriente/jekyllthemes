@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Kiko Plus
 date: 2016-08-16 01:45:03
 homepage: https://github.com/AWEEKJ

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Compass
 date: 2015-01-07 19:33:00
 homepage: https://github.com/excentris/compass

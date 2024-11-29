@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Massively
 date: 2017-11-12 07:00:00
 homepage: https://github.com/iwiedenm/jekyll-theme-massively-src

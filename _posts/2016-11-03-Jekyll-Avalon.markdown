@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Jekyll Avalon
 date: 2016-11-03 00:00:00
 homepage: https://github.com/joshuaavalon/Jekyll-Avalon

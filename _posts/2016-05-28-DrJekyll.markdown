@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Dr. Jekyll
 date: 2016-05-28 11:40:00
 homepage: https://github.com/tyler-abbot/DrJekyll

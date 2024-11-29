@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Post template
 date: 2030-01-01 00:00:00
 homepage: https://homepage.url

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: sunshine
 date: 2015-12-09 12:00:00
 homepage: https://github.com/limingyang2012/limingyang2012.github.io

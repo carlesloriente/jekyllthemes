@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Grayscale
 date: 2015-02-04 00:00:00
 homepage: https://github.com/jeromelachaud/grayscale-theme

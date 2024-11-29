@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Jekyll Help Center Theme
 date: 2017-12-07 17:00:00
 homepage: https://github.com/gustavoquinalha/jekyll-help-center-theme
@@ -51,6 +52,7 @@ localhost:4000/jekyll-help-center-theme/
 ```md
 ---
 layout: post
+comments: true
 title: 'First category'
 description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 date: 2017-11-12 17:46:41 -0300

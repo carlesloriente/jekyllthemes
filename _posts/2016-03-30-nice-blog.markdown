@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Nice Blog
 date: 2016-03-30
 homepage: https://github.com/gabriel-chen/Nice_Blog

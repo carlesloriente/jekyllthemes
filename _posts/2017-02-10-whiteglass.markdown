@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: whiteglass
 date: 2017-02-10 17:03:43 +0900
 homepage: https://github.com/yous/whiteglass

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Thinkspace
 date: 2016-06-11 21:13:00
 homepage: https://github.com/heiswayi/thinkspace

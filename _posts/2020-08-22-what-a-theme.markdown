@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: What A THeme
 date: 2020-08-22 00:15:00 +0530
 homepage: https://github.com/thedevslot/WhatATheme

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Yummy Theme
 date: 2016-05-19 11:40:00
 homepage: https://github.com/DONGChuan/Yummy-Jekyll

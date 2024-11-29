@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Library Amokläufer
 date: 2016-03-22 00:00:00
 homepage: https://github.com/SpaceG/library

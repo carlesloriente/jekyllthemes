@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Hacker Blog
 date: 2017-12-13 06:49:20
 homepage: https://github.com/tocttou/hacker-blog

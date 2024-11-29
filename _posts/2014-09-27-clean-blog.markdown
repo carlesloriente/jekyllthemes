@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Clean Blog
 date: 2014-09-27 15:09:00
 homepage: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll

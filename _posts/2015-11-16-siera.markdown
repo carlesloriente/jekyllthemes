@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Siera
 date: 2015-11-16 07:11:00
 homepage: https://github.com/KazumaSATO/Siera

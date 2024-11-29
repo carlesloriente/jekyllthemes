@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Lone Wolf Theme
 date: 2020-08-23 23:43:04 +05:30
 homepage: https://github.com/manid2/lone-wolf-theme/

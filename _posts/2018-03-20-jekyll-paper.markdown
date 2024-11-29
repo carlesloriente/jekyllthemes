@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Jekyll Paper
 date: 2018-03-20 00:00:00
 homepage: https://github.com/ghosind/Jekyll-Paper

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Dev-Blog-Portfolio
 date: 2020-02-24 00:00:00
 homepage: https://github.com/rohitjain00/dev-portfolio-blog

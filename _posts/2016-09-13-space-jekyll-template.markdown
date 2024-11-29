@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Space
 date: 2016-09-13 16:08:00
 homepage: https://github.com/victorvoid/space-jekyll-template/

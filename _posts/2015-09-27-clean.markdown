@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Clean
 date: 2015-09-27 00:00:00
 homepage: https://github.com/knaman2609/clean

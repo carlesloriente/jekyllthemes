@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Minima Reboot
 date: 2017-12-27 00:00:00
 homepage: https://github.com/aterenin/minima-reboot

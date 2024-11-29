@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Type
 date: 2017-11-13 07:00:00
 homepage: https://github.com/aspirethemes/type

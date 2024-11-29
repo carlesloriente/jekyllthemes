@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: TtskchTheme
 date: 2016-09-23 00:00:00
 homepage: https://github.com/ttskch/jekyll-ttskch-theme

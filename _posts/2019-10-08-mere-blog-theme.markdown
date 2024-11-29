@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Mere Blog Theme
 date: 2019-10-08 10:11:00
 homepage: https://github.com/chrisrhymes/mere-blog-theme

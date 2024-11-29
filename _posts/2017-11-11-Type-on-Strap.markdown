@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Type on Strap
 date: 2017-11-11 07:00:00
 homepage: https://github.com/Sylhare/Type-on-Strap

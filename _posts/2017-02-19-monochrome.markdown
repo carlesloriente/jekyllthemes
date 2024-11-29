@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Monochrome
 date: 2017-02-19 00:00:00
 homepage: https://github.com/dyutibarma/monochrome

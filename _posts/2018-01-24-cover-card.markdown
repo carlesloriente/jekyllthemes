@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Cover Card
 date: 2018-01-24 21:30:10 +02:00
 homepage: https://github.com/epidrome/cover-card

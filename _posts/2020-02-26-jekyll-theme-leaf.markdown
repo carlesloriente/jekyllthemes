@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Leaf
 date: 2020-02-26 
 homepage: https://github.com/SupunKavinda/jekyll-theme-leaf

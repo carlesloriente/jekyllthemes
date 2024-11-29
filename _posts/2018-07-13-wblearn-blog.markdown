@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: wblearn blog
 date: 2018-07-13 12:00:00
 homepage: https://github.com/wblearn/wblearn.github.io

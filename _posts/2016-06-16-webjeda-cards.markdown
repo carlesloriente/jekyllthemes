@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Webjeda Cards
 date: 2016-06-16 00:00:00
 homepage: https://github.com/sharu725/cards

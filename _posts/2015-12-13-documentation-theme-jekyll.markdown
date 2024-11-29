@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Documentation Theme for Jekyll
 date: 2015-12-13 12:55
 homepage: https://idratherbewriting.com/documentation-theme-jekyll/

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Smart Material
 date: 2016-09-20 20:00:00
 homepage: https://github.com/ssokurenko/jekyll-smart-material

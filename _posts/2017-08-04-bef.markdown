@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Bef
 date: 2017-08-04 00:00:00
 homepage: https://github.com/artemsheludko/bef

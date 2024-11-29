@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Simplex
 date: 2021-02-04 00:00:00
 homepage: https://github.com/andreondra/jekyll-theme-simplex

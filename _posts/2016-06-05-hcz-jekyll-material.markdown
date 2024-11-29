@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: HCZ Material
 date: 2016-06-05 14:30:00
 homepage: https://github.com/codeasashu/hcz-jekyll-blog

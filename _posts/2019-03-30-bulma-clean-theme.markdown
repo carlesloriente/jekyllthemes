@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Bulma Clean Theme
 date: 2019-03-30 10:11:00
 homepage: https://github.com/chrisrhymes/bulma-clean-theme

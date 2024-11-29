@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Plainwhite
 date: 2019-05-05 09:20:00
 homepage: https://github.com/samarsault/plainwhite-jekyll

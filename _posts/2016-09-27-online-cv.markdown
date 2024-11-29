@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Online CV
 date: 2016-09-27 00:00:00
 homepage: https://github.com/sharu725/online-cv

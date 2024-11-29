@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: jekyll-rtd-theme
 homepage: https://github.com/rundocs/jekyll-rtd-theme
 download: https://github.com/rundocs/jekyll-rtd-theme/zipball/master

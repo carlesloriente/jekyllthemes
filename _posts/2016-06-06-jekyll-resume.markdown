@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: jekyll-resume
 date: 2016-06-06 00:00:00
 homepage: https://github.com/mattcouchman/jekyll-resume
