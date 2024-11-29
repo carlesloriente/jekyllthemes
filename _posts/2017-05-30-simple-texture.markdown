@@ -9,16 +9,12 @@ author: Yi Zeng
 thumbnail: simple-texture.png
 license: MIT License
 license_link: https://github.com/yizeng/jekyll-theme-simple-texture/blob/master/LICENSE
+carousel:
+  - 'https://github.com/yizeng/jekyll-theme-simple-texture/raw/master/assets/images/screenshots/home.png'
+  - 'https://github.com/yizeng/jekyll-theme-simple-texture/raw/master/assets/images/screenshots/post.png'
 ---
 
 **Simple Texture** is a gem-based responsive simple texture styled Jekyll theme for [Jekyll][Jekyll] 3.3 or above, which can also be forked as a boilerplate for older versions of Jekyll.
-
-* Starter-kit demo: <https://yizeng.github.io/jekyll-theme-simple-texture/>
-* My own personal blog: <https://yizeng.me/blog/>
-
-![Screenshot - Home](https://github.com/yizeng/jekyll-theme-simple-texture/raw/master/assets/images/screenshots/home.png)
-
-![Screenshot - Blog](https://github.com/yizeng/jekyll-theme-simple-texture/raw/master/assets/images/screenshots/post.png)
 
 ## Installation
 
@@ -27,22 +23,18 @@ license_link: https://github.com/yizeng/jekyll-theme-simple-texture/blob/master/
 If you are creating a new website or blog, please follow the commands below first:
 
 1. Install Jekyll and [Bunlder][Bunlder]
-
-       gem install jekyll bundler
+`gem install jekyll bundler`
 
 2. Create a new Jekyll app
-
-       jekyll new jekyllapp
+`jekyll new jekyllapp`
 
 3. Enter the new directory
-
-       cd jekyllapp
+`cd jekyllapp`
 
 Then for newly created or existing Jekyll app,
 
 1. Install Bundler if haven't done so.
-
-       gem install bundler
+`gem install bundler`
 
 2. Remove Jekyll auto-generated default pages `about.md` and `index.md`.
 
@@ -58,38 +50,34 @@ Then for newly created or existing Jekyll app,
 
 ### As a fork
 
-1. Fork the repo [here](https://github.com/yizeng/jekyll-theme-simple-texture#fork-destination-box)
+* Fork the repo [here](https://github.com/yizeng/jekyll-theme-simple-texture#fork-destination-box)
 
-2. Clone the repo just forked.
+* Clone the repo just forked.
+`git clone git@github.com:[YOUR_USERNAME]/jekyll-theme-simple-texture.git`
 
-       git clone git@github.com:[YOUR_USERNAME]/jekyll-theme-simple-texture.git
+* Delete `starter-kit` folder and `jekyll-theme-simple-texture.gemspec` file (they're for people installing via gem)
 
-3. Delete `starter-kit` folder and `jekyll-theme-simple-texture.gemspec` file (they're for people installing via gem)
+* Install Bundler if haven't done so.
+`gem install bundler`
 
-4. Install Bundler if haven't done so.
+* Update the `Gemfile` to look like the following:
 
-       gem install bundler
+```ruby
+source "https://rubygems.org"
+  gem 'jekyll'
+  group :jekyll_plugins do
+    gem 'jekyll-feed'
+    gem 'jekyll-redirect-from'
+    gem 'jekyll-seo-tag'
+    gem 'jekyll-sitemap'
+  end
+```
 
-5. Update the `Gemfile` to look like the following:
+* Run `bundle install` to install dependencies.
 
-   ```ruby
-   source "https://rubygems.org"
+* Run Jekyll with `bundle exec jekyll serve`
 
-   gem 'jekyll'
-
-   group :jekyll_plugins do
-     gem 'jekyll-feed'
-     gem 'jekyll-redirect-from'
-     gem 'jekyll-seo-tag'
-     gem 'jekyll-sitemap'
-   end
-   ```
-
-6. Run `bundle install` to install dependencies.
-
-7. Run Jekyll with `bundle exec jekyll serve`
-
-8. Hack away at <https://localhost:4000>!
+* Hack away at [https://localhost:4000](https://localhost:4000)!
 
 [Jekyll]: https://jekyllrb.com/
 [Bunlder]: https://bundler.io/

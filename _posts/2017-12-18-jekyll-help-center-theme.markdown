@@ -9,17 +9,13 @@ author: Gustavo Quinalha
 thumbnail: jekyll-help-center.png
 license: MIT License
 license_link: https://github.com/gustavoquinalha/jekyll-help-center-theme/blob/master/LICENSE.txt
+carousel:
+  - 'https://gustavoquinalha.github.io/jekyll-help-center-theme/assets/img/readme/responsive.png'
 ---
 
 Jekyll | Help Center, simple and responsive Jekyll theme for help center.
 
-## Demo
-
-[Demo online](https://gustavoquinalha.github.io/jekyll-help-center-theme/)
-
-![Color Theme](https://gustavoquinalha.github.io/jekyll-help-center-theme/assets/img/readme/responsive.png)
-
-## Color theme
+## Installation
 
 edit in _config.yml
 
@@ -27,8 +23,6 @@ edit in _config.yml
 color_theme:  "#0081ff"
 color_text:  "#fff"
 ```
-
-## Install
 
 ```bash
 git clone https://github.com/gustavoquinalha/jekyll-help-center-theme
@@ -40,7 +34,7 @@ or
 npm install jekyll-help-center-theme
 ```
 
-## How to use
+### How to use
 
 ```bash
 npm run dev
@@ -52,7 +46,7 @@ Server address
 localhost:4000/jekyll-help-center-theme/
 ```
 
-## Post Example
+### Post Example
 
 ```md
 ---
@@ -78,14 +72,3 @@ questions:
     image: "4.gif"
 ---
 ```
-
-### License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-## Inspired by
-
-* [https://help.market.envato.com/hc/en-us](https://help.market.envato.com/hc/en-us)
-* [https://www.intercom.com/](https://www.intercom.com/)
-
-Created by [Gustavo Quinalha](https://github.com/gustavoquinalha/)

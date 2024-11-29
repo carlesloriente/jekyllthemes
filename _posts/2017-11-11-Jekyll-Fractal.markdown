@@ -11,21 +11,17 @@ license: MIT License
 license_link: https://github.com/yvesespinosa/jekyll-html5up-fractal/blob/master/LICENSE.txt
 ---
 
-![Fractal Theme](https://github.com/yvesespinosa/jekyll-html5up-fractal/blob/master/assets/images/fractal.jpg?raw=true)
+Fractal Theme, a template for personal website portfolio that is simple yet elegant. It is also responsive!
 
-See the [demo here](https://yvesespinosa.github.io/jekyll-html5up-fractal/).
+## Installation
 
-## What is it?
-
-A template for personal website portfolio that is simple yet elegant. It is also responsive!
-
-## Setup
+### Setup
 
 1. Install Jekyll (use the command `sudo gem install jekyll`)
 2. Clone and fork [Jekyll-fractal Template](https://github.com/yvesespinosa/jekyll-html5up-fractal)
 3. Edit `_config.yml` to personalize your site
 
-## Settings
+### Settings
 
 You have to fill some informations on `_config.yml` to customize your site.
 
@@ -53,19 +49,6 @@ twitter_url:
 markdown: kramdown
 ```
 
-## Questions?
+## Contact
 
 Drop me a line anytime [website](https://yvesespinosa.com) or file a [GitHub Issue](https://github.com/yvesespinosa/jekyll-html5up-fractal/issues/new).
-
-## Like It?
-
-Fork or Star [this](https://github.com/yvesespinosa/jekyll-html5up-fractal)
-
-## Author
-
-Design made by [Html5](https://html5up.net).
-Jekyll integrations made by me
-
-## License
-
-*Jekyll-Fractal* is available under the MIT license. See the LICENSE file for more info.

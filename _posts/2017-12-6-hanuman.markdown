@@ -16,8 +16,6 @@ Is a minimal yet powerful Jekyll theme for your blogs and websites.
 
 It is built using the open source AMP Start framework and can be customized as per your requirements.
 
-Created by [Samanyou Garg](https://samanyougarg.com) ([Twitter](https://twitter.com/@samanyougarg))
-
 ## Features
 
 * Minimal
@@ -32,6 +30,6 @@ Created by [Samanyou Garg](https://samanyougarg.com) ([Twitter](https://twitter.
 * Github Pages support
 * Easily Customisable
 
-## Getting Started
+## Installation
 
 Information and instructions on [Github](https://github.com/samanyougarg/hanuman)

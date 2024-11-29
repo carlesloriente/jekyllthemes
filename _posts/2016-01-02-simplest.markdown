@@ -11,7 +11,7 @@ license: MIT License
 license_link: https://github.com/nandomoreirame/simplest/blob/master/LICENSE
 ---
 
-## Start in 5 steps
+## Installation
 
 1. Download or clone repo `git clone git@github.com:nandomoreirame/simplest.git`
 2. Enter the folder: `cd simplest/`
@@ -21,15 +21,9 @@ license_link: https://github.com/nandomoreirame/simplest/blob/master/LICENSE
 
 Access, [localhost:4000/simplest](https://localhost:4000/simplest)
 
-## Demo and Download
+### Demo and Download
 
 [Demo](https://nandomoreira.me/simplest/)
 [Download](https://github.com/nandomoreirame/simplest/archive/master.zip)
 
 ![simplest - free Jekyll theme](https://raw.githubusercontent.com/nandomoreirame/simplest/master/screenshot.png)
-
-## Copyright and license
-
-It is under [the MIT license](https://github.com/nandomoreirame/simplest/blob/master/LICENSE).
-
-Enjoy!

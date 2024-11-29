@@ -13,4 +13,6 @@ license_link: https://opensource.org/licenses/MIT
 
 Just a simple Jekyll theme.
 
-✅ it's responsive.
+## Features
+
+* it's responsive.

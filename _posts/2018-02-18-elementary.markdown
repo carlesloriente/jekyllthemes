@@ -8,17 +8,16 @@ demo: https://elementary-jekyll.github.io/
 author: Abhishek Nagekar
 thumbnail: elementary.png
 license: GPLv3
+carousel:
+  - 'https://github.com/abhn/Elementary/blob/master/tmp/multi-display.png?raw=true'
+  - 'https://github.com/abhn/Elementary/blob/master/tmp/multi-display.png?raw=true'
+  - 'https://github.com/abhn/Elementary/blob/master/tmp/desktop.png?raw=true'
+  - 'https://github.com/abhn/Elementary/blob/master/tmp/mobile.png?raw=true'
 ---
 
 Elementary is a zero Javascript and minimal CSS ultra lightweight Jekyll theme for those of you who love simplicity, yet don't want to compromise on mobile responsiveness, readability and asthetics. Elementary is mobile first, content first and is aimed towards content heavy blogs.
 
 The theme is highly customizable, takes less than 100 miliseconds to load, weighs less than 10K gzip'd and looks great on mobile. As vanilla as a website can get, this theme reminds the visitor of the pre 2000s era Internet, yet is backed by the modern CSS flexbox layout and has a sticky footer made with the same.
-
-![Multi display](https://github.com/abhn/Elementary/blob/master/tmp/multi-display.png?raw=true)
-
-## Demo
-
-Find it here: [https://elementary-jekyll.github.io/](https://elementary-jekyll.github.io/)
 
 ## Features
 
@@ -29,17 +28,3 @@ Find it here: [https://elementary-jekyll.github.io/](https://elementary-jekyll.g
 * Content focussed, great for text heavy personal blogs with focus on blog material
 * Homepage is the archive page
 * Sticky footer (is it 2018 yet? ;)
-
-## Screenshots
-
-![Screenshot1](https://github.com/abhn/Elementary/blob/master/tmp/multi-display.png?raw=true)
-![Screenshot2](https://github.com/abhn/Elementary/blob/master/tmp/desktop.png?raw=true)
-![Screenshot2](https://github.com/abhn/Elementary/blob/master/tmp/mobile.png?raw=true)
-
-## Performance
-
-![Performance](https://github.com/abhn/Elementary/blob/master/tmp/perf.png?raw=true)
-
-## License
-
-GNU GENERAL PUBLIC LICENSE Version 3.

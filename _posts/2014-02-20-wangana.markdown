@@ -12,11 +12,3 @@ license_link: https://github.com/nadjetey/wangana/blob/master/LICENSE
 ---
 
 Wangana is responsive Jekyll theme, perfect for powering your GitHub hosted blog -- by developer and design hacker [Nii](https://twitter.com/_nadjetey).
-
-## Contribute
-
-You are welcome to help make Wangana even better. Start by [forking](https://github.com/nadjetey/wangana/fork) this repository.
-
-## Contact
-
-I'd love to hear from you, send me a [tweet](https://twitter.com/_nadjetey). Feel free to [open issues](https://github.com/nadjetey/wangana/issues/new) if you run into trouble or have suggestions. Pull Requests always welcome.

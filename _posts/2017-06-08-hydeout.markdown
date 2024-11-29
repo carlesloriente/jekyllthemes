@@ -9,6 +9,8 @@ author: Andrew Fong
 thumbnail: hydeout.png
 license: MIT License
 license_link: https://github.com/fongandrew/hydeout/blob/master/LICENSE.md
+carousel:
+  - 'https://raw.githubusercontent.com/fongandrew/hydeout/master/_screenshots/1.png'
 ---
 
 **Hydeout** is an updated version of @mdo's original [Hyde](https://github.com/poole/hyde) theme. It works with Jekyll 3.x.
@@ -21,9 +23,7 @@ license_link: https://github.com/fongandrew/hydeout/blob/master/LICENSE.md
 * Google analytics
 * Google search
 
-## Usage
+## Installation
 
-* To use as a gem, add `gem "jekyll-theme-hydeout", "~> 3.3"` to your `Gemfile` and run `bundle install`.
-* Alternatively, fork [https://github.com/fongandrew/hydeout](https://github.com/fongandrew/hydeout)
-
-[![Hydeout Live Preview](https://raw.githubusercontent.com/fongandrew/hydeout/master/_screenshots/1.png)](https://fongandrew.github.io/hydeout/)
+1. To use as a gem, add `gem "jekyll-theme-hydeout", "~> 3.3"` to your `Gemfile` and run `bundle install`.
+2. Alternatively, fork [https://github.com/fongandrew/hydeout](https://github.com/fongandrew/hydeout)

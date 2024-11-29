@@ -38,6 +38,7 @@ kofi                    : S6S1O2GTU
 # Add your google-analytics ID here to activate google analytics
 google_site_verification: imA3xlKv43a50bTrOlAa3eWQ3VBCazAY4Y20KImDXOM
 google_analytics        : G-TN9FHBGP98
+google_adsense_account  : ca-pub-4415526626304056
 
 # Disqus Comments
 # Leave shortname blank to disable comments site-wide.
@@ -81,4 +82,4 @@ sass:
     - ./_sass
   style                 : compressed
 
-exclude: ["AUTHORS.md", "CODE_OF_CONDUCT.md", "CONTRIBUTING.md", "CODEOWNERS", "LICENSE", "package.json", "package-lock.json", "README.md", "SECURITY.md", "techstack.md", "techstack.yml", "WORKFLOW.md", "bin", "CNAME", "Gemfile", "Gemfile.lock", "vendor"]
+exclude: ["AUTHORS.md", "CODE_OF_CONDUCT.md", "CONTRIBUTING.md", "CODEOWNERS", "LICENSE", "package.json", "package-lock.json", "README.md", "SECURITY.md", "techstack.md", "techstack.yml", "WORKFLOW.md", "bin", "CNAME", "Gemfile", "Gemfile.lock", "vendor", "_posts/template.md"]

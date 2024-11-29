@@ -29,7 +29,7 @@ Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability a
 
 And much more.
 
-## Getting started
+## Installation
 
 If you're new to Jekyll, [check out](https://jekyllrb.com/) and read up on Jekyll. It's worth it.
 
@@ -38,11 +38,9 @@ If you're new to Jekyll, [check out](https://jekyllrb.com/) and read up on Jekyl
 
 If you run one of the latest versions of Jekyll, this theme will work with no* problems.
 
-## Installing
-
 As simple as forking the repository, and then clone it so you can edit the files locally.
 
-## Configuration
+### Configuration
 
 Edit `_config.yml`!
 
@@ -58,7 +56,7 @@ These include:
 
 Also make sure to replace the placeholder favicons and the `\img\og-image.jpg` with your own.
 
-## Start the Jekyll server
+### Start the Jekyll server
 
 Run this command at the root of your site:
 

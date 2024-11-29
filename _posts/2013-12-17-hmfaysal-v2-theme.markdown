@@ -21,6 +21,3 @@ The theme features the following and more:
 * Large feature images for posts and pages.
 * Author sidebar to pimp your bio, photo[^2], and social media links.
 * Simple and clear permalink structure *(ie: domain.com/category/post-title)*
-
-Warm regards and stay creative,
-Hossain Mohd Faysal

@@ -9,39 +9,13 @@ author: Mighil
 thumbnail: sparrowx-thumbnail.png
 license: MIT License
 license_link: https://github.com/mighildotcom/sparrowx/blob/master/LICENSE.txt
+carousel:
+  - 'https://raw.githubusercontent.com/mighildotcom/sparrowx/master/screenshot.png'
 ---
 
 SparrowX, a clean minimal Jekyll theme for SEO-focused writers. The theme loads fast and it's Netlify CMS-ready. SparrowX is a remix of sparrow by [lingxz](https://github.com/lingxz/sparrow).
 
-[Live Demo](https://sparrowx.mighil.com/)
-
-* [SparrowX](https://sparrowx.mighil.com/)
-  * [Screenshot](#screenshot)
-  * [Website Speed Test](#website-speed-test)
-  * [Original Sparrow Features](#original-sparrow-features)
-  * [SparrowX Features](#sparrowx-features)
-  * [Install](#install)
-  * [Up and running with Netlify CMS](#up-and-running-with-netlify-cms)
-    * [General configuration](#general-configuration)
-    * [Disqus](#disqus)
-    * [Google analytics](#google-analytics)
-    * [Collections](#collections)
-    * [Pagination](#pagination)
-    * [Navigation](#navigation)
-    * [Front matter defaults](#front-matter-defaults)
-  * [How tags work](#how-tags-work)
-  * [Other](#other)
-  * [Credits](#credits)
-
-## Screenshot
-
-![Screenshot](https://raw.githubusercontent.com/mighildotcom/sparrowx/master/screenshot.png)
-
-## Website Speed Test
-
-![Speed test](https://raw.githubusercontent.com/mighildotcom/sparrowx/master/pagespeed.png)
-
-## Original Sparrow Features
+## Features
 
 * Fully compatible with Github Pages
 * Configurable and responsive multi layer menu, adapted from [slimmenu](https://github.com/adnantopal/slimmenu)
@@ -54,9 +28,6 @@ SparrowX, a clean minimal Jekyll theme for SEO-focused writers. The theme loads 
 * Atom feed generated with [jekyll-feed](https://github.com/jekyll/jekyll-feed)
 * Pagination enabled for blog using [jekyll-paginate](https://github.com/jekyll/jekyll-paginate)
 * Basic SEO with Facebook Open Graph tags and Twitter cards
-
-## SparrowX Features
-
 * Fully compatible with Netlify CMS (one-click setup).
 * Added new custom variables like updated, headerimage, feature-img, sitemap and tag.
 * The theme renders system font-stack.
@@ -64,11 +35,11 @@ SparrowX, a clean minimal Jekyll theme for SEO-focused writers. The theme loads 
 * Improved load time and reduced file requests.
 * redirects feature.
 
-## Install
+## Installation
 
 Just fork this repo and replace the posts with your own. Also rename the sample poetry collection to replace it with your own collection, or just delete it if you don't need to use collections. The example is poetry, but you can easily revamp this into essays, short stories, portfolio, or whatever your creative work is.
 
-## Up and running with Netlify CMS
+### Up and running with Netlify CMS
 
 [Click here](https://sparrowx.mighil.com/netlify-cms-jekyll-setup) to read the documentation for Netlify CMS.
 
@@ -168,11 +139,11 @@ defaults:
       share: false
 ```
 
-## How tags work
+### How tags work
 
 You should create specific .md files within `/tag/` before using the variable.
 
-## Other
+### Other
 
 To enhance SEO, you can add your twitter username to `_config.yml`.
 
@@ -183,8 +154,3 @@ Your default image Netlify CMS uploads will go to /images/.
 For the various config options see the [sample config file for the demo site](https://github.com/mighildotcom/sparrowx/blob/master/_config.yml)
 
 The color schemes and fonts can also be customized through scss, by editing the relevant variable in `_variables.scss`.
-
-## Credits
-
-* Base theme sparrow by [lingxz](https://github.com/lingxz/sparrow)
-* Icon made by [Freepik](https://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com)

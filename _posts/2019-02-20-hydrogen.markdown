@@ -9,14 +9,12 @@ author: Link
 thumbnail: hydrogen.png
 ---
 
-A concise and powerful Jekyll theme.
+ Hydrogen, a concise and powerful Jekyll theme.
 
-In the Hydrogen, you can enjoy:
+## Features
 
-1. Use the comment module integration
-2. More convenient custom theme options
-3. Transition animation more concise
-4. Automatic summary, automatic paging
-5. Add friend links more easily
-
-And more waiting for you to explore.
+* Use the comment module integration
+* More convenient custom theme options
+* Transition animation more concise
+* Automatic summary, automatic paging
+* Add friend links more easily

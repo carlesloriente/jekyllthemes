@@ -11,4 +11,4 @@ license: Apache License Version 2.0
 license_link: https://github.com/kxxvii/Kikofri/blob/master/LICENSE
 ---
 
-Kikofri, a plain no frills jekyll theme that takes pride in being ugly, old and barren. [See it](https://kxxvii.github.io/Kikofri)
+Kikofri, a plain no frills jekyll theme that takes pride in being ugly, old and barren.

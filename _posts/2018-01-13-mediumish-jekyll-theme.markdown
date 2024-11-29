@@ -9,11 +9,11 @@ author: WowThemesNet
 thumbnail: mediumish.png
 license: CC BY-NC-SA 4.0
 license_link: https://github.com/wowthemesnet/mediumish-theme-jekyll/blob/master/LICENSE.txt
+carousel:
+  - 'https://wowthemesnet.github.io/mediumish-theme-jekyll/assets/images/mediumish-jekyll-template.png'
 ---
 
 **Mediumish** is a modern Jekyll theme designed for bloggers who love the modern, minimalist, clean design.
-
-![Screenshot](https://wowthemesnet.github.io/mediumish-theme-jekyll/assets/images/mediumish-jekyll-template.png)
 
 ## Features
 
@@ -40,6 +40,6 @@ license_link: https://github.com/wowthemesnet/mediumish-theme-jekyll/blob/master
   * Page
   * Archive
 
-## Guide
+## Installation
 
-More information on [GitHub](https://github.com/wowthemesnet/mediumish-theme-jekyll/)...
+More information on [GitHub](https://github.com/wowthemesnet/mediumish-theme-jekyll/)

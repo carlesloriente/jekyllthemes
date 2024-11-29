@@ -22,6 +22,3 @@ A bold, minimal theme for Jekyll, perfect for bloggers.
 * Simple and clear permalink structure.
 * Tags for Open Graph and Twitter Cards for a better social sharing experience.
 * Vanilla custom 404 page to get you started.
-
-Warm regards and stay creative,
-Hossain Mohd Faysal

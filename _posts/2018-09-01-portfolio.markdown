@@ -10,9 +10,7 @@ license: GPLv3
 license_link: https://github.com/abhn/portfolio/blob/master/LICENSE
 thumbnail: portfolio.png
 carousel:
-  - '/assets/images/bg-index.webp'
-  - '/assets/images/bg-index-2.webp'
-  - '/assets/images/bg-index-3.webp'
+  - 'https://raw.githubusercontent.com/abhn/portfolio/master/tmp/screenshot.jpg'
 ---
 
 Portfolio, a simple and modern portfolio template that is lightweight, mobile responsive and looks modern.
@@ -24,10 +22,6 @@ Portfolio, a simple and modern portfolio template that is lightweight, mobile re
 * Smooth scrolling
 * Fully mobile responsive, made with latest CSS3 grid and flexbox, polyfills included
 * Lightweight and easily customizable
-
-## Screenshots
-
-![homepage](https://raw.githubusercontent.com/abhn/portfolio/master/tmp/screenshot.jpg "Homepage")
 
 ## Installation
 

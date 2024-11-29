@@ -1,5 +1,6 @@
 <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape | page.title }}{% elsif page.description %}{{ page.description | strip_html | normalize_whitespace | truncate: 160 | escape | page.title }}{% else %}{{ site.description | strip_html | normalize_whitespace | truncate: 160 | escape | page.title }}{% endif %}">
 <meta name="google-site-verification" content="{{ site.google_site_verification }}">
+<meta name="google-adsense-account" content="{{ site.google_adsense_account }}">
 <meta name="author" content="{{ site.author }}">
 <!-- Twitter Meta Tags -->
 {%- if site.twitter_username %}
@@ -37,5 +38,4 @@
 <link rel="icon" href="{{ '/assets/images/favicon_io/favicon.svg' | relative_url }}" type="image/svg+xml">
 <link rel="apple-touch-icon" href="{{ '/assets/images/favicon_io/favicon.png' | relative_url }}" type="image/png">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<!-- Add font awesome icons to buttons  -->
 <link rel="manifest" href="/manifest.json">

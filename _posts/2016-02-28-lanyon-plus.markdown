@@ -13,11 +13,6 @@ license_link: https://sbamin.com/disclosure/#theme-major-credit--license
 
 Lanyon-plus, based on Jekyll theme: [Lanyon](https://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
 
-* [Example contents](https://dyndna.github.io/lanyon-plus/blog/2013/01/01/example-content/)
-* License: Open sourced under the [MIT license](https://sbamin.com/disclosure/#theme-major-credit--license)
-
-[![Build Status](https://travis-ci.org/dyndna/lanyon-plus.svg?branch=master)](https://travis-ci.org/dyndna/lanyon-plus)
-
 ## Features
 
 * Inherits most of minimalistic and content-first design of parent [*lanyon*](https://lanyon.getpoole.com) theme

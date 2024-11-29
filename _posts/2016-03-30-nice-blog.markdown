@@ -9,20 +9,10 @@ author: Gabriel
 thumbnail: nice-blog.png
 license: MIT License
 license_link: https://github.com/gabriel-chen/Nice_Blog/blob/master/LICENSE
+carousel:
+  - 'https://i.imgur.com/BrmOMmv.png'
 ---
 
 I think many blog themes are over designed, so I created this one. Just for using, not showing off.
 
 Nice Blog, a Simple Jekyll Blog Theme.
-
-[Demo](https://gabriel-chen.github.io/Nice_Blog)
-
-![index-page](https://i.imgur.com/BrmOMmv.png)
-
-## Author
-
-[Gabriel](https://gabriel-chen.github.io), a normal person just wanna see this world.
-
-## License
-
-Use MIT License.

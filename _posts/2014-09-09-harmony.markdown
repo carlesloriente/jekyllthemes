@@ -9,6 +9,10 @@ author: Gayan Virajith
 thumbnail: harmony.jpg
 license: MIT License
 license_link: https://github.com/gayanvirajith/harmony/blob/master/LICENSE.md
+carousel: 
+  - 'https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony-home-page.png'
+  - 'https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony.png'
+  - 'https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony-blog-page.png'
 ---
 
 Harmony is a responsive jekyll theme.
@@ -20,17 +24,3 @@ Harmony is a responsive jekyll theme.
 * Sass based styles
 * Browser support: IE 8+, Chrome, Safari and Firefox
 * Fluidly responsive
-
-## Screenshots
-
-### Home page
-
-![Home page screenshot](https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony-home-page.png "Desktop screen")
-
-### Article page
-
-![Blog article page](https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony.png "Blog article page")
-
-### Blog archive page
-
-![Blog archive page](https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony-blog-page.png "Blog archive page")

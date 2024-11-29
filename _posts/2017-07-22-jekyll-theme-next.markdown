@@ -9,26 +9,12 @@ author: Yitao Yao
 thumbnail: jekyll-theme-next.png
 license: MIT License
 license_link: https://opensource.org/licenses/MIT
+carousel: 
+  - 'https://iissnan.com/nexus/next/desktop-preview.png'
+  - 'https://iissnan.com/nexus/next/desktop-sidebar-preview.png'
+  - 'https://iissnan.com/nexus/next/desktop-sidebar-toc.png'
+  - 'https://iissnan.com/nexus/next/mobile.png'
 ---
 
 NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo NexT](https://github.com/iissnan/hexo-theme-next).
 It is crafted from scratch, with love.
-
-[Live Preview](https://simpleyyt.github.io/jekyll-theme-next/)
-
-## Screenshots
-
-* Desktop
-![Desktop Preview](https://iissnan.com/nexus/next/desktop-preview.png)
-
-* Sidebar
-
-![Desktop Sidebar Preview](https://iissnan.com/nexus/next/desktop-sidebar-preview.png)
-
-* Sidebar (Post details page)
-
-![Desktop Sidebar Preview](https://iissnan.com/nexus/next/desktop-sidebar-toc.png)
-
-* Mobile
-
-![Mobile Preview](https://iissnan.com/nexus/next/mobile.png)

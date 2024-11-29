@@ -11,7 +11,7 @@ license: MIT License
 license_link: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/LICENSE
 ---
 
-What HPSTR brings to the table:
+## Features
 
 * Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
 * Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.

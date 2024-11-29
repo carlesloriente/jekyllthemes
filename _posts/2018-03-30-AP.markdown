@@ -9,6 +9,8 @@ author: kssim
 thumbnail: ap-theme.png
 license: MIT License
 license_link: https://github.com/kssim/ap/blob/master/LICENSE
+carousel:
+  - 'https://raw.githubusercontent.com/kssim/ap/master/screenshot.png'
 ---
 
 "AP" is Jekyll theme for career. This theme is free and open-source. Based on Chester How's [tale-theme](https://github.com/chesterhow/tale).
@@ -23,8 +25,3 @@ license_link: https://github.com/kssim/ap/blob/master/LICENSE
   * It can be written in simple resume form.
 * Change "Post" to "Project Portfolio"
   * You can manage your project experience just like running a blog.
-
-[![Default AP blog][2]][1]
-
-[1]: https://kssim.github.io/ap
-[2]: https://raw.githubusercontent.com/kssim/ap/master/screenshot.png

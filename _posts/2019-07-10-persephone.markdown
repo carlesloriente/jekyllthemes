@@ -9,6 +9,10 @@ author: Sharon Zhang
 thumbnail: persephone.jpg
 license: MIT License
 license_link: https://github.com/erlzhang/jekyll-theme-persephone/blob/master/LICENSE.txt
+carousel:
+  - 'https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/home.png'
+  - 'https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/blog.png'
+  - 'https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/post.png'
 ---
 
 Persephone is a minimal Jekyll theme designed for personal blog and your personal books/documents.
@@ -23,10 +27,6 @@ Persephone is a minimal Jekyll theme designed for personal blog and your persona
 * SEO friendly.
 * Several layout options.
 
-## Demo
+## Installation
 
-![home layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/home.png)
-![blog layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/blog.png)
-![post layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/post.png)
-
-**[More features and how to use.](https://github.com/erlzhang/jekyll-theme-persephone)**
+[How to use.](https://github.com/erlzhang/jekyll-theme-persephone)

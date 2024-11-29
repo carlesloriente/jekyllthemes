@@ -13,7 +13,7 @@ license_link:
 
 Webcomic Jekyll Theme, a simple webcomic theme powered by Bootstrap.
 
-This theme is meant to offer a free and relatively easy webcomic hosting solution for artists with little or no coding experience. [Here's the user guide for this theme](https://peahatlanding.github.io/Plain-Webcomic/docs/index.html).
+This theme is meant to offer a free and relatively easy webcomic hosting solution for artists with little or no coding experience.
 
 ## Features
 
@@ -21,3 +21,7 @@ This theme is meant to offer a free and relatively easy webcomic hosting solutio
 * Mobile-friendly
 * Archive
 * RSS feed
+
+## Installation
+
+[Here's the user guide for this theme](https://peahatlanding.github.io/Plain-Webcomic/docs/index.html).

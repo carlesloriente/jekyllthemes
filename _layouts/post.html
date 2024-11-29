@@ -21,9 +21,9 @@ comments: true
       <div class="row">
         <div class="col-lg-9 mx-auto">
           <div class="meta text-start">
-            <h2 class="mx-auto">{{ page.title }}</h2>
-            <p>By: <strong>{{ page.author }}</strong></p>
-            <div class="img placeholder"><img src="/thumbnails/{{ page.thumbnail | preppend: 'large' }}" alt="Theme thumbnail" class="img-fluid" alt="Responsive image" /></div>
+            <h2 class="mx-auto">{{ page.title }}{% if page.version %} <span class="badge rounded-pill text-bg-info fs-6">v. {{ page.version }}</span>{% endif %}{% if page.version %} <span class="badge rounded-pill text-bg-secondary fs-6">{{ page.license }}</span>{% endif %} </h2>
+            <p>By: <strong>{{ page.author }}</strong></p>           
+            {% include carousel.html %}
           </div>
           <div class="post-content">
             {{ content }}
@@ -31,7 +31,7 @@ comments: true
         </div>
         <div class="col-lg-3 mx-auto sidebar">
           {% if page.homepage %}
-          <a class="btn active" href="{{ page.homepage }}" target="_blank"><i class="fa fa-home" aria-hidden="true"></i> Homepage</a>
+          <a class="btn active" href="{{ page.homepage }}" target="_blank"><i class="fa fa-home" aria-hidden="true"></i> Website</a>
           {% endif %}
           {% if page.download %}
           <a class="btn active" href="{{ page.download }}" target="_blank"><i class="fa fa-download" aria-hidden="true"></i> Download</a><br>
@@ -41,7 +41,8 @@ comments: true
           {% endif %}
           {% if page.license_link %}
           <a class="btn active" href="{{ page.license_link }}" target="_blank"><i class="fa fa-id-card" aria-hidden="true"></i> License</a>
-          {% endif %}  
+          {% endif %}
+          <br><div class="page-image text-center"><img src="/thumbnails/{{ page.thumbnail }}" class="rounded mx-auto d-block" alt="{{ page.title | append: ' thumbnail' }}"></div>
         </div>
       </div>
     </div>

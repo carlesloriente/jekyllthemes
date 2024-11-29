@@ -13,7 +13,7 @@ license_link: https://github.com/aigarsdz/brume/blob/master/LICENSE.md
 
 I am not a designer so I cannot impress you with breathtaking Jekyll themes, but brume is something that just came to my mind and I had to build it.
 
-## Usage
+## Installation
 
 * Download the ZIP file and extract it's contents.
 * Open *_config.yml* file and enter your site's URL and add additional configuration or update the existing one if needed.

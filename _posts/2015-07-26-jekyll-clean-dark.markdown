@@ -13,10 +13,9 @@ license_link: https://creativecommons.org/licenses/by/4.0/legalcode
 
 Cool dark theme which looks nice on a desktop and on mobile devices.
 
-It was forked from [Jekyll Clean theme](https://jekyllthemes.org/themes/jekyll-clean/) modified a bit and 'darkified' with inspiration from [Carte Noire theme](https://jekyllthemes.org/themes/carte-noire/) colors.
-Please feel free to check/use/share/modify this theme.
+It was forked from [Jekyll Clean theme](https://jekyllthemes.org/themes/jekyll-clean/) modified a bit and 'darkified' with inspiration from [Carte Noire theme](https://jekyllthemes.org/themes/carte-noire/) colors. Please feel free to check/use/share/modify this theme.
 
-This theme supports:
+## Features
 
 * [Disqus comments](https://disqus.com);
 * [Google Analytics](https://www.google.com/analytics/);

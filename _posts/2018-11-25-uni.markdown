@@ -9,11 +9,11 @@ author: Brian Maier
 thumbnail: uni.jpg
 license: MIT License
 license_link: https://github.com/brianmaierjr/uni/blob/master/LICENSE
+carousel:
+  - ' https://github.com/brianmaierjr/uni/raw/master/assets/img/share.jpg'
 ---
 
 Uni One-page Jekyll Theme
-
-![Uni Jekyll Theme](https://github.com/brianmaierjr/uni/raw/master/assets/img/share.jpg)
 
 ## Features
 
@@ -30,11 +30,7 @@ Uni One-page Jekyll Theme
 * Responsive Images for performance
 * Social Meta Tags
 
-## Browser Support
-
-This theme will look great and work in most newer browsers. If you see an issue please feel free to [contact me](mailto:brimaidesigns@gmail.com).
-
-## Setup
+## Installation
 
 1. [Install Jekyll](https://jekyllrb.com)
 2. [Install Bundler](https://bundler.io/)
@@ -44,7 +40,7 @@ This theme will look great and work in most newer browsers. If you see an issue 
 
 Please note that any changes made to the `config.yml` will require that you stop gulp and start it again.
 
-## Site/Layout Settings
+### Site/Layout Settings
 
 The main settings can be found inside the `_config.yml` file:
 
@@ -60,13 +56,13 @@ The main settings can be found inside the `_config.yml` file:
 
 ![Uni Jekyll Theme](https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--half.jpg)
 
-### Half Layout
+#### Half Layout
 
 * **half_side:** which side of the page your content is on [left or right]
 
 ![Uni Jekyll Theme](https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--full.jpg)
 
-### Full layout
+#### Full layout
 
 * **full_text_position:** where on the page the text will appear [left, center, or right]
 

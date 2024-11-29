@@ -29,6 +29,4 @@ Devlopr is a modern Jekyll theme built for Developers focused on speed performan
 
 ## Installation
 
-Check out this tutorial :
-
-* [Devlopr Theme Install Guide](https://sujaykundu.com/github/jekyll/2019/05/19/setup-devlopr-for-blog.html)
+Check out this tutorial: [Devlopr Theme Install Guide](https://sujaykundu.com/github/jekyll/2019/05/19/setup-devlopr-for-blog.html)

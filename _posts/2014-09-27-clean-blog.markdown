@@ -9,14 +9,12 @@ author: Start Bootstrap
 thumbnail: clean-blog.png
 license: Apache License Version 2.0
 license_link: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll/blob/gh-pages/LICENSE
+carousel: 
+  - 'https://sbootstrap.startbootstrapc.netdna-cdn.com/assets/img/templates/clean-blog.jpg'
 ---
 
 Clean Blog is a Jekyll theme by [Start Bootstrap](https://startbootstrap.com). It is perfect for stylish personal blogs, or any other use you can think of! For support, you can open issues on the GitHub repository for the theme, or you can visit the theme's overview page on Start Bootstrap at [https://startbootstrap.com/template-overviews/clean-blog/](https://startbootstrap.com/template-overviews/clean-blog/).
 You can also download a raw HTML/CSS version of the theme there.
-
-## Screenshot
-
-![Screenshot](https://sbootstrap.startbootstrapc.netdna-cdn.com/assets/img/templates/clean-blog.jpg)
 
 ## Contribute
 

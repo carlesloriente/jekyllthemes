@@ -13,4 +13,6 @@ license_link: https://github.com/researcher/blob/gh-pages/LICENSE
 
 Researcher is a clean, single column, monospace, resume template built for jekyll.
 
+## Installation
+
 Instructions for installation/customization are on the [GitHub](https://github.com/ankitsultana/researcher) page.

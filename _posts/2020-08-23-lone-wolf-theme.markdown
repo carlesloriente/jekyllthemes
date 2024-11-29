@@ -24,9 +24,9 @@ Since there is no good boostrap based theme for [jekyll][jekyll] I have created 
 * Uses font awesome 5 for icons.
 * Optimized for search engines using [Jekyll Seo Tag][jst] gem.
 
-For more info checkout github repository [manid2/lone-wolf-theme][lwt_git_repo].
+## Installation
 
-Also visit the live [demo][lwt_live_demo] site for the theme.
+For more info checkout github repository [manid2/lone-wolf-theme][lwt_git_repo].
 
 <!-- External links -->
 [jekyll]: https://jekyllrb.com/
@@ -34,4 +34,3 @@ Also visit the live [demo][lwt_live_demo] site for the theme.
 [bootswatch]: https://bootswatch.com/
 [jst]: https://github.com/jekyll/jekyll-seo-tag
 [lwt_git_repo]: https://github.com/manid2/lone-wolf-theme/
-[lwt_live_demo]: https://manid2.github.io/lone-wolf-theme/

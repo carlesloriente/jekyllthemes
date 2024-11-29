@@ -13,10 +13,6 @@ license_link: https://github.com/limingyang2012/limingyang2012.github.io/blob/ma
 
 A Jekyll theme.
 
-## Sites using sunshine
-
-If you are using this theme, please click a `star` on [this respository](https://github.com/limingyang2012/limingyang2012.github.io), we will be happy to know where the theme has been used.
-
 ## Contributing
 
 If you want to contribute to this project, file and perform the following steps:

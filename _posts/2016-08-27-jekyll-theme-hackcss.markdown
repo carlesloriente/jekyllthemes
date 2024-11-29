@@ -13,4 +13,9 @@ license_link: https://github.com/wemake-services/jekyll-theme-hackcss/blob/gh-pa
 
 [Dead simple CSS](https://hackcss.com) framework now with Jekyll.
 
-Mobile-ready, modern, stylish, simple.
+## Features
+
+* Mobile-ready
+* Modern
+* Stylish
+* Simple

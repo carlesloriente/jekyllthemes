@@ -30,15 +30,13 @@ Hey, nice to meet you, you found this [Jekyll][jekyll] theme. Here the yet anoth
 * Google Translation support.
 * New post tag support.
 
-## Others
+## Installation
 
 For more info checkout github repository [jeffreytse/jekyll-theme-yat][yat-git-repo].  
-Also, visit the live [demo][yat-live-demo] site for the theme.
 
 <!-- External links -->
 [jekyll]: https://jekyllrb.com/
 [yat-git-repo]: https://github.com/jeffreytse/jekyll-theme-yat/
-[yat-live-demo]: https://jeffreytse.github.io/jekyll-theme-yat/
 [jekyll-spaceship]: https://github.com/jeffreytse/jekyll-spaceship
 [jekyll-seo-tag]: https://github.com/jekyll/jekyll-seo-tag
 [jekyll-sitemap]: https://github.com/jekyll/jekyll-sitemap

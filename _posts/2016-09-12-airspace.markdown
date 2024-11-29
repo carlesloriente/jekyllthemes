@@ -13,5 +13,3 @@ license_link: https://github.com/luminousrubyist/airspace-jekyll/blob/master/LIC
 
 Airspace for Jekyll, a port of ThemeFisher's Airspace theme for agency or organization.
 Includes a homepage, works page, contact page, and Jekyll blog.
-
-[Take a look!](https://luminousrubyist.github.io/airspace-jekyll/)

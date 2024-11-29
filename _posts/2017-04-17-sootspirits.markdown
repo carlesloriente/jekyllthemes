@@ -20,10 +20,6 @@ Soot Spirits is a responsive mobile ready lightweight two column Jekyll theme ma
 * Two column layout suitable for a wide range of blogging habits
 * Fully customisable theme including the 'hello' text, quotes, nav items and sidebar widgets
 
-### Usage
+## Installation
 
 [See this](https://github.com/abhn/Soot-Spirits/blob/master/README.md)
-
-### License
-
-MIT License

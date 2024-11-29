@@ -9,11 +9,11 @@ author: Jan Czizikow
 thumbnail: sleek.png
 license: MIT License
 license_link: https://github.com/janczizikow/sleek/blob/master/LICENSE.txt
+carousel:
+  - 'https://github.com/janczizikow/sleek/blob/master/sleek.jpg'
 ---
 
 Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. It features inlining critical CSS, silky-smooth animations, showing/hiding header on scroll and Asynchronous form submissions with Formspree.
-
-![Screenshot](https://github.com/janczizikow/sleek/blob/master/sleek.jpg)
 
 ## Features
 

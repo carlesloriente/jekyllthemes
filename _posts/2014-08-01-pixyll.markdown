@@ -14,5 +14,3 @@ license_link: https://github.com/johnotander/pixyll/blob/master/LICENSE.txt
 Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. Pixyll is mobile _first_, fluidly responsive, and delightfully lightweight.
 
 It’s pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.
-
-Crafted with <3 by [John Otander](https://johnotander.com) ([@4lpine](https://twitter.com/4lpine)).

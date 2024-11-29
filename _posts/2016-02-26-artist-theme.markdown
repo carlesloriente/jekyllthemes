@@ -12,7 +12,7 @@ license_link: https://github.com/ninapetrop/Artist-Theme/blob/master/license.txt
 
 Fully responsive. Sass files let you easily customize primary and accent colors. Built in support for sorting posts by category.
 
-## How to Get Started
+## Installation
 
 1. Star & fork the [repo][repo]
 2. Rename the repo and clone the master branch to your local directory

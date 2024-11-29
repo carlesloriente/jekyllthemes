@@ -18,14 +18,14 @@ Zebra is a minimal Jekyll theme. The idea of Zebra mainly comes from [https://ww
 
 ## Features
 
-1. Thanks to CSS framework Foundation, the site is mobile friendly.
-2. Highly customizable.
-3. Clear code syntax
-4. Support both Page and Post layouts.
-5. Enable Disqus comment.
-6. Custom code for centered and captioned images.
+* Thanks to CSS framework Foundation, the site is mobile friendly.
+* Highly customizable.
+* Clear code syntax
+* Support both Page and Post layouts.
+* Enable Disqus comment.
+* Custom code for centered and captioned images.
 
-## Get started
+## Installation
 
 1. Fork the repository.
 2. Clone the repository: `git clone https://github.com/<YOUR USERNAME>/zebra`

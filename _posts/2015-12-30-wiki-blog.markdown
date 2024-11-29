@@ -22,6 +22,6 @@ The theme is meant to be hosted on github.com directly.
 
 For more information, please see [here](https://lixizhi.github.io/about/)
 
-## Notes
+## Installation
 
 After you clone or fork the template, please delete `./downloads` and `./oldsite2005` folders. Please also delete any own posts in `_posts/` folder.

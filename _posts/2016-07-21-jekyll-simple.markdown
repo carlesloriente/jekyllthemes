@@ -14,5 +14,3 @@ license_link: https://github.com/wild-flame/jekyll-simple/blob/master/LICENSE
 A theme can be just `simple`!
 
 Designed for mobile as well as tablet for the first, also a minimalized and `simple` theme which looks great on desktop. Considering a large number of people using cellphones to surf the internet.
-
-Click here to view the [demo](https://wild-flame.github.io/jekyll-simple).

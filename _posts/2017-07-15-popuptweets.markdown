@@ -13,9 +13,11 @@ license_link: https://github.com/junlulocky/PopupTweets/blob/gh-pages/LICENSE
 
 Popup tweets plugin for your personal website (Linkedin, facebook liked features)
 
-- Put **poptweet.html** under the _includes folder of your Jekyll project.
-- Get your own twitter publish code at [https://publish.twitter.com/](https://publish.twitter.com/), for example, replace this code in **poptweet.html**
-- add css file to your own folder
+## Installation
+
+1. Put **poptweet.html** under the _includes folder of your Jekyll project.
+2. Get your own twitter publish code at [https://publish.twitter.com/](https://publish.twitter.com/), for example, replace this code in **poptweet.html**
+3. add css file to your own folder
 
 ```css
 /assets/css/junpopup.css

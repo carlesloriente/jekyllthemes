@@ -15,4 +15,6 @@ stars: 1
 
 The [Typing Jekyll Template](https://github.com/williamcanin/typing-jekyll-template/) show the main Theme. Feel free to Fork, Star it and make a New Version of it.
 
+## Contact
+
 If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/williamcanin/typing-jekyll-template/issues) or making a pull request for your fork!

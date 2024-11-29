@@ -9,6 +9,9 @@ author: Artem Sheludko
 thumbnail: zolan.png
 license: MIT
 license_link: https://github.com/artemsheludko/flexible-jekyll/blob/master/LICENSE.txt
+carousel:
+  - 'https://github.com/artemsheludko/zolan/blob/master/images/zolan-main-page.png?raw=true'
+  - 'https://github.com/artemsheludko/zolan/blob/master/images/zolan-post.png?raw=true'
 ---
 
 Zolan is a modern and minimal Jekyll theme for sharing your ideas.
@@ -26,17 +29,7 @@ Zolan is a modern and minimal Jekyll theme for sharing your ideas.
 * Ionicons Icons
 * Google Fonts
 
-### Demo
-
-Check the theme in action [Demo](https://artemsheludko.github.io/zolan/)
-
-![Main page preview](https://github.com/artemsheludko/zolan/blob/master/images/zolan-main-page.png?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/zolan/blob/master/images/zolan-post.png?raw=true)
-
-### Deployment
+## Installation
 
 To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
 
@@ -109,23 +102,7 @@ To integrate Google Analytics, open `_data/settings.yml`, and add your Google An
 
 You can find the current favicon (favicon.ico) inside the theme root directory, just replace it with your new favicon.
 
-### Credits
-
-I have used the following scripts, fonts or other files as listed.
-
-* [Google Fonts](https://fonts.google.com/specimen/Nunito) (Roboto, Sans Serif).
-* [Ionicons Icons](https://ionicons.com/)
-* [FitVids.js](https://fitvidsjs.com/)
-* [Medium’s Image Zoom](https://github.com/fat/zoom.js)
-* [Instafeed.js](https://instafeedjs.com/)
-* [jQuery.com](https://jquery.com/)
-* Preview Images form [unsplash.com](https://unsplash.com/), [pexels.com](https://www.pexels.com/)
-
-### License
-
-Mit License
-
-### Support
+## Support
 
 If you like the themes that I create you can become my sponsor on [Patreon](https://www.patreon.com/artemsheludko).
 Thank you for your support ❤️.

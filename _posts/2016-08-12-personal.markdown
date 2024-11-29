@@ -9,17 +9,14 @@ author: Panos Sakkos
 thumbnail: personal.jpg
 license: MIT License
 license_link: https://github.com/le4ker/personal-jekyll-theme/blob/master/LICENSE
+carousel:
+  - 'https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-mobile.mov.gif'
+  - 'https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-desktop.mov.gif'
 ---
 
 Personal is a free responsive Jekyll theme, about you :wink:
 
-You can watch it in action [here](https://le4ker.github.io/personal-jekyll-theme/)!
-
-![Mobile](https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-mobile.mov.gif)
-
-![Desktop](https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-desktop.mov.gif)
-
-## What value does { Personal } add
+## Features
 
 * Fork of [Timeline](https://github.com/kirbyt/timeline-jekyll-theme) (mashup of [Grayscale by Start Bootstrap](https://github.com/IronSummitMedia/startbootstrap-grayscale) and [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme))
   * Modern and minimal design
@@ -51,6 +48,6 @@ You can watch it in action [here](https://le4ker.github.io/personal-jekyll-theme
 * Sitemap
 * Travis CI integration with [html-proofer](https://github.com/gjtorikian/html-proofer)
 
-## Documentation
+## Installation
 
 The theme contains documentation in the form of [blog posts](https://le4ker.github.io/personal-jekyll-theme/blog/index.html).

@@ -13,7 +13,7 @@ license_link: https://github.com/fullit/fullit.github.io/blob/master/LICENSE.txt
 
 Jekyll FullIt Theme, publish your static website/blog on GitHub Pages using [Jekyll](https://jekyllrb.com/), [Bootstrap 4](https://github.com/twbs/bootstrap/tree/v4-dev) and [fullpage.js](https://github.com/alvarotrigo/fullPage.js/).
 
-## Usage
+## Installation
 
 ### 1. Create a Repo
 
@@ -38,11 +38,3 @@ Edit `_includes/themes/bootstrap/` to change information about your new website 
 ### 4. Enjoy
 
 - After giving 10 mins to GitHub of course.  
-
-## Demo
-
-Visit [Jekyll-Fullit](https://fullit.github.io) on GitHub Pages
-
-## License
-
-[MIT](https://opensource.org/licenses/MIT)

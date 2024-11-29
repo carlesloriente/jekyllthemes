@@ -9,13 +9,16 @@ author: Andrew Plaza
 thumbnail: materialbliss.jpg
 license: GNU General Public License Version 3
 license_link: https://github.com/InsidiousMind/material-bliss-jekyll-theme/blob/master/LICENSE
+carousel:
+  - 'https://i.imgur.com/GfFoLXS.png'
+  - 'https://i.imgur.com/cdIgtax.png'
+  - 'https://i.imgur.com/xsjkszO.png'
+  - 'https://i.imgur.com/VnLqCpi.png'
 ---
 
-The Material Bliss Jekyll Theme
+The Material Bliss Jekyll Theme.
 
-## Jekyll and React.js working together
-
-Statically rendered posts for SEO, dynamically rendered (by choice) pages for speed and interactivity. Visit homepage for more technical information.
+**Jekyll and React.js working together**: Statically rendered posts for SEO, dynamically rendered (by choice) pages for speed and interactivity. Visit homepage for more technical information.
 
 ## Features
 
@@ -31,15 +34,3 @@ Statically rendered posts for SEO, dynamically rendered (by choice) pages for sp
 * included RESTful-like API (with [jekyll-react plugin](https://github.com/InsidiousMind/Jekyll-React))
 * Static or Dynamic Pages with just a frontmatter option
 * MORE TO COME
-
-Dark Theme:
-![Dark Theme](https://i.imgur.com/GfFoLXS.png)
-
-Light Theme:
-![Light Theme](https://i.imgur.com/cdIgtax.png)
-
-Dark Theme with Push Out Menu Active
-![Dark Theme Push Out](https://i.imgur.com/xsjkszO.png)
-
-Project Page (Masonry Layout):
-![Project Page](https://i.imgur.com/VnLqCpi.png)

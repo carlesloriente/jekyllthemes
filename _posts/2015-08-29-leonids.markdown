@@ -21,9 +21,7 @@ license_link: https://github.com/renyuanz/leonids/blob/master/README.md
 * Support for multi-authors.
 * And the Leonids (/ˈliːənɪdz/ lee-ə-nidz) are a prolific meteor shower associated with the comet [Tempel-Tuttle](https://en.wikipedia.org/wiki/55P/Tempel%E2%80%93Tuttle).
 
-See a [demo](https://renyuanz.github.io/leonids/) hosted on GitHub.
-
-## Quick setup
+## Installation
 
 `git clone https://github.com/renyuanz/leonids.git`
 

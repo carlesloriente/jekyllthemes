@@ -11,13 +11,15 @@ license: MIT License
 license_link: https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE
 ---
 
-A Jekyll template inspired by Netflix. [[Demo here](https://www.rossener.com/jekflix-template)] [[Features here](https://github.com/thiagorossener/jekflix-template#features)] [[Setup here](https://github.com/thiagorossener/jekflix-template/#setup)]
+A Jekyll template inspired by Netflix.
 
-![Jekflix](https://camo.githubusercontent.com/743784c96f7e5569d7cd80162d33718cda410013/687474703a2f2f7265732e636c6f7564696e6172792e636f6d2f646d3768376538786a2f696d6167652f75706c6f61642f76313530353335343138322f6a656b666c69782d6c6f676f5f6d666e6770732e706e67)
+## Features
 
-## Did you like it? Star it
+[Features here](https://github.com/thiagorossener/jekflix-template#features).
 
-The [Jekflix Template](https://github.com/thiagorossener/jekflix-template/) show the main Theme. Feel free to Fork, Star it and make a New Version of it.
+## Installation
+
+[Setup here](https://github.com/thiagorossener/jekflix-template/#setup).
 
 ## Contribute
 

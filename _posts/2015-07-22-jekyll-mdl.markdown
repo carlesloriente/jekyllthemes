@@ -13,10 +13,6 @@ license_link: https://github.com/gdg-managua/jekyll-mdl/blob/master/LICENSE
 
 A Jekyll theme based in Google Material Design Lite library.
 
-## Sites using jekyll-mdl
-
-If you are using this cool jekyll theme, please open an issue or fork the project, add your site to the list and send us a pull request, we will be happy to know where the theme has been used.
-
 ## Contributing
 
 If you want to contribute to this project, please read the [CONTRIBUTING](https://github.com/gdg-managua/jekyll-mdl/blob/master/CONTRIBUTING.md) file and perform the following steps:

@@ -26,4 +26,6 @@ Don't just take my word for it, [check out the demo!](https://bencentra.com/cent
 * Google Analytics with custom page name tracking
 * Social media integration (Twitter, Facebook, LinkedIn, GitHub, and more)
 
+## Installation
+
 See the [README](https://github.com/bencentra/centrarium/blob/master/README.md) for full installation and customization details.
