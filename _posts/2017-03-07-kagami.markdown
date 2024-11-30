@@ -8,7 +8,7 @@ download: https://github.com/kamikat/jekyll-theme-kagami/releases
 demo: https://banana.moe/jekyll-theme-kagami/about.html
 author: Kamikat
 thumbnail: kagami.png
-license: MIT License
+license: MIT
 ---
 
 A peaceful theme for Jekyll and GitHub Pages.

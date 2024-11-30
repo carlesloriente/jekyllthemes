@@ -8,7 +8,7 @@ download: https://github.com/nandomoreirame/lora/archive/master.zip
 demo: https://nandomoreira.me/lora/
 author: nandomoreira.me
 thumbnail: lora.png
-license: MIT License
+license: MIT
 license_link: https://github.com/nandomoreirame/lora/blob/master/LICENSE
 ---
 

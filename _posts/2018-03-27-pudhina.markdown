@@ -8,7 +8,7 @@ download: https://github.com/Knhash/Pudhina/archive/master.zip
 demo: https://knhash.github.io/Pudhina/
 author: Knhash
 thumbnail: pudhina.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/Knhash/Pudhina/blob/master/LICENSE
 carousel:
   - 'https://raw.githubusercontent.com/Knhash/Pudhina/master/screenshots/home.png?raw=true'

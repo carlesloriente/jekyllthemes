@@ -8,7 +8,7 @@ download: https://github.com/heiswayi/textlog/archive/gh-pages.zip
 demo: https://heiswayi.github.io/textlog/
 author: Heiswayi Nrird
 thumbnail: textlog.png
-license: MIT License
+license: MIT
 license_link: https://github.com/heiswayi/textlog/blob/gh-pages/LICENSE.md
 ---
 

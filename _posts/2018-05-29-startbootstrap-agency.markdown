@@ -8,7 +8,7 @@ download: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/
 demo: http://www.vrachas.com/jekyll-theme-startbootstrap-agency/
 author: Sotirios Vrachas
 thumbnail: startbootstrap-agency.png
-license: MIT License
+license: MIT
 license_link: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/blob/master/LICENSE.txt
 carousel:
   - 'https://startbootstrap.com/assets/img/templates/agency.jpg'
@@ -21,7 +21,7 @@ The objective of this project is to provide a Jekyll theme that is line by line 
 
 ## Features
 
-* MIT License
+* MIT
 * Built to support the latest, stable releases of all major browsers and platforms.
 * Fully responsive HTML template created with Bootstrap 4
 * Custom collapsing navigation with active classes, smooth page scrolling, and responsive fallback stylings

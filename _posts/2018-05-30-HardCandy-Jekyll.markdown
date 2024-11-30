@@ -7,7 +7,7 @@ homepage: https://github.com/xukimseven/HardCandy-Jekyll
 download: https://github.com/xukimseven/HardCandy-Jekyll/archive/master.zip
 author: xujinqi
 thumbnail: HardCandy-Jekyll.png
-license: MIT License
+license: MIT
 license_link: https://github.com/xukimseven/HardCandy-Jekyll/blob/master/LICENSE
 carousel:
   - 'https://github.com/xukimseven/HardCandy-Jekyll/raw/master/screenshot/1.png'

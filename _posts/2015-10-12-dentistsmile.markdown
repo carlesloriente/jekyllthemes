@@ -8,7 +8,7 @@ download: https://github.com/obaez/dentistsmile/archive/master.zip
 demo: https://obaez.com/dentistsmile/
 author: Orlando Báez
 thumbnail: dentistsmile.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/obaez/dentistsmile/blob/master/LICENSE.md
 ---
 

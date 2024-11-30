@@ -8,7 +8,7 @@ download: https://github.com/mmistakes/minimal-mistakes/archive/master.zip
 demo: https://mmistakes.github.io/minimal-mistakes/
 author: Michael Rose
 thumbnail: minimal-mistakes.png
-license: MIT License
+license: MIT
 license_link: https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 carousel:
   - 'https://cloud.githubusercontent.com/assets/1376749/14541626/dac474f4-0258-11e6-83f6-40e752028222.png'

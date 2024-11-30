@@ -8,7 +8,7 @@ download: https://github.com/mighildotcom/sparrowx/archive/master.zip
 demo: https://sparrowx.mighil.com/
 author: Mighil
 thumbnail: sparrowx-thumbnail.png
-license: MIT License
+license: MIT
 license_link: https://github.com/mighildotcom/sparrowx/blob/master/LICENSE.txt
 carousel:
   - 'https://raw.githubusercontent.com/mighildotcom/sparrowx/master/screenshot.png'

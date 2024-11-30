@@ -8,7 +8,7 @@ download: https://github.com/zivong/jekyll-theme-hydure/archive/refs/heads/maste
 demo: https://zivong.blog/jekyll-theme-hydure/
 author: Song-Zi Vong
 thumbnail: hydure.png
-license: MIT License
+license: MIT
 license_link: https://github.com/zivong/jekyll-theme-hydure/blob/master/LICENSE.txt
 ---
 

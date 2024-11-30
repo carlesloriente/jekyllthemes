@@ -8,7 +8,7 @@ download: https://github.com/mateussmedeiros/blade-theme/archive/master.zip
 demo: https://mateussmedeiros.github.io/blade-theme/
 author: Mateus Medeiros
 thumbnail: blade-theme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/mateussmedeiros/blade-theme/blob/master/LICENSE
 ---
 

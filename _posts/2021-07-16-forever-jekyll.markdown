@@ -7,8 +7,7 @@ homepage: https://github.com/forever-jekyll/forever-jekyll
 download: https://github.com/forever-jekyll/forever-jekyll/archive/refs/heads/main.zip
 demo: https://forever-jekyll.github.io/
 author: forever-jekyll
-thumbnail: fj_submit_2.png
-license: ISC License
+license: ISC
 license_link: https://github.com/forever-jekyll/forever-jekyll/blob/main/LICENSE
 ---
 

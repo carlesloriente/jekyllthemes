@@ -8,7 +8,7 @@ download: https://github.com/fongandrew/hydeout/archive/master.zip
 demo: https://fongandrew.github.io/hydeout/
 author: Andrew Fong
 thumbnail: hydeout.png
-license: MIT License
+license: MIT
 license_link: https://github.com/fongandrew/hydeout/blob/master/LICENSE.md
 carousel:
   - 'https://raw.githubusercontent.com/fongandrew/hydeout/master/_screenshots/1.png'

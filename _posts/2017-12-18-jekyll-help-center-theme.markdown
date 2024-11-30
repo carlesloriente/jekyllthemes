@@ -8,7 +8,7 @@ download: https://github.com/gustavoquinalha/jekyll-help-center-theme
 demo: https://gustavoquinalha.github.io/jekyll-help-center-theme/
 author: Gustavo Quinalha
 thumbnail: jekyll-help-center.png
-license: MIT License
+license: MIT
 license_link: https://github.com/gustavoquinalha/jekyll-help-center-theme/blob/master/LICENSE.txt
 carousel:
   - 'https://gustavoquinalha.github.io/jekyll-help-center-theme/assets/img/readme/responsive.png'

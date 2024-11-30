@@ -7,7 +7,7 @@ homepage: https://github.com/jasoncostello/slate
 download: https://github.com/jasoncostello/slate/archive/master.zip
 author: Jason Costello
 thumbnail: slate.png
-license: MIT License
+license: MIT
 license_link: https://github.com/jasoncostello/slate/blob/master/LICENSE
 ---
 

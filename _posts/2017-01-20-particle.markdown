@@ -8,7 +8,7 @@ download: https://github.com/nrandecker/particle/archive/master.zip
 demo: https://nrandecker.github.io/particle
 author: Nathan Randecker
 thumbnail: particle.png
-license: MIT License
+license: MIT
 license_link: https://github.com/nrandecker/particle/blob/master/LICENSE.txt
 ---
 

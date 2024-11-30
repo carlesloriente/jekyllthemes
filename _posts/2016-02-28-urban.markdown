@@ -8,7 +8,7 @@ download: https://github.com/midzer/urban-theme/archive/master.zip
 demo: https://narkotyk.net/
 author: Dennis Rohner
 thumbnail: urban.png
-license: MIT License
+license: MIT
 license_link: https://github.com/midzer/urban-theme/blob/master/LICENSE
 ---
 

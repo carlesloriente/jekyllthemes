@@ -8,7 +8,7 @@ download: https://github.com/svmiller/steve-ngvb-jekyll-template/archive/master.
 demo: https://svmiller.com
 author: Steven V. Miller
 thumbnail: svm-ngvb.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

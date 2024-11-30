@@ -8,7 +8,7 @@ download: https://github.com/tybenz/exemplar/archive/master.zip
 demo: https://exemplar.tybenz.com
 author: Tyler Benziger
 thumbnail: exemplar.png
-license: MIT License
+license: MIT
 license_link: https://github.com/tybenz/exemplar/blob/master/LICENSE.txt
 ---
 

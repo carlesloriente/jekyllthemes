@@ -8,7 +8,7 @@ download: https://github.com/elotroalex/ed/archive/master.zip
 demo: https://elotroalex.github.io/ed/
 author: Alex Gil
 thumbnail: ed.png
-license: MIT License
+license: MIT
 license_link: https://github.com/elotroalex/ed/blob/master/LICENSE.md
 ---
 

@@ -8,7 +8,7 @@ download: https://github.com/erlzhang/jekyll-theme-persephone/archive/master.zip
 demo: https://erl.im
 author: Sharon Zhang
 thumbnail: persephone.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/erlzhang/jekyll-theme-persephone/blob/master/LICENSE.txt
 carousel:
   - 'https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/home.png'

@@ -8,7 +8,7 @@ download: https://github.com/mmistakes/so-simple-theme/archive/master.zip
 demo: https://mmistakes.github.io/so-simple-theme/
 author: Michael Rose
 thumbnail: so-simple.png
-license: MIT License
+license: MIT
 license_link: https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
 ---
 

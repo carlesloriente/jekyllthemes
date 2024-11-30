@@ -8,7 +8,7 @@ download: https://github.com/anxhe/jekyll-theme-experiment/archive/master.zip
 demo: https://anxhe.github.io/jekyll-theme-experiment
 author: Angelina Moreno
 thumbnail: jekyll-theme-experiment.png
-license: MIT License
+license: MIT
 license_link: https://github.com/anxhe/jekyll-theme-experiment/blob/master/LICENSE.txt
 carousel:
   - 'https://cl.ly/2F3f432B0z09/Screen%20Recording%202018-02-24%20at%2011.23%20p.m..gif'

@@ -8,7 +8,7 @@ download: https://github.com/dyutibarma/monochrome/archive/master.zip
 demo: https://dyutibarma.github.io/monochrome/
 author: Dyuti Barma
 thumbnail: monochrome.png
-license: MIT License
+license: MIT
 license_link: https://github.com/dyutibarma/monochrome/blob/master/license.md
 carousel:
   - 'https://raw.githubusercontent.com/dyutibarma/monochrome/master/img/monochrome-mobile.png'

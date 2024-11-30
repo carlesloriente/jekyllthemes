@@ -8,7 +8,7 @@ download: https://github.com/brxyxncorp/ultra-minimalista
 demo: https://brxyxncorp.github.io/ultra-minimalista/
 author: Brayan López
 thumbnail: ultra-minimalista.png
-license: MIT License
+license: MIT
 license_link: https://brxyxncorp.mit-license.org/
 ---
 

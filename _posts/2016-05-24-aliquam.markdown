@@ -8,7 +8,7 @@ download: https://github.com/grrinchas/aliquam/blob/master/aliquam-theme.zip
 demo: https://grrinchas.github.io/aliquam/
 author: grrinchas
 thumbnail: aliquam.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

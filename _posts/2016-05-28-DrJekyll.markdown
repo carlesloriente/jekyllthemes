@@ -8,7 +8,7 @@ download: https://github.com/tyler-abbot/DrJekyll/archive/master.zip
 demo: https://tyler-abbot.github.io/DrJekyll/
 author: Tyler Abbot
 thumbnail: DrJekyll.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

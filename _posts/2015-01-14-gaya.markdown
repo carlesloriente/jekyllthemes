@@ -8,7 +8,7 @@ download: https://github.com/gayanvirajith/gaya/archive/master.zip
 demo: https://gayan.me/gaya/
 author: Gayan Virajith
 thumbnail: gaya.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/gayanvirajith/gaya/blob/master/LICENSE.md
 ---
 

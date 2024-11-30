@@ -8,7 +8,7 @@ download: https://github.com/hemangsk/Gravity/archive/master.zip
 demo: https://hemangsk.github.io/Gravity
 author: Hemang Kumar (@hemangsk)
 thumbnail: gravity.png
-license: MIT License
+license: MIT
 license_link: https://github.com/hemangsk/Gravity/blob/master/LICENSE.txt
 ---
 

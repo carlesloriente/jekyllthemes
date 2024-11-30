@@ -8,7 +8,7 @@ download: https://github.com/hmfaysal/Notepad/archive/gh-pages.zip
 demo: https://hmfaysal.github.io/Notepad/
 author: Hossain Mohd Faysal
 thumbnail: hmfaysal-notepad.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

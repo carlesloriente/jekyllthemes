@@ -8,6 +8,6 @@ download: https://github.com/jamigibbs/phantom/archive/master.zip
 demo: https://jamigibbs.com
 author: Jami Gibbs
 thumbnail: phantom.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/jamigibbs/phantom/blob/master/LICENSE
 ---

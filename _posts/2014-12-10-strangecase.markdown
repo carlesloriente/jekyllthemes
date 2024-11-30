@@ -8,7 +8,7 @@ download: https://github.com/thephuse/strange_case/archive/gh-pages.zip
 demo: https://thephuse.github.io/strange_case/
 author: Phuse
 thumbnail: strange-case.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

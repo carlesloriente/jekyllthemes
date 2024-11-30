@@ -8,7 +8,7 @@ download: https://github.com/P0WEX/Gesko/generate
 demo: https://p0wex.github.io/Gesko/
 author: P0WEX
 thumbnail: light.png
-license: MIT License
+license: MIT
 license_link: https://github.com/P0WEX/Gesko/blob/master/LICENSE.md
 ---
 

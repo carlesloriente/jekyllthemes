@@ -8,7 +8,7 @@ download: https://github.com/guovz/pithy/archive/gh-pages.zip
 demo: https://www.guovz.com
 author: Jaylin Wang
 thumbnail: guovz-pithy.png
-license: MIT License
+license: MIT
 license_link: https://github.com/guovz/pithy/blob/gh-pages/LICENSE.md
 ---
 

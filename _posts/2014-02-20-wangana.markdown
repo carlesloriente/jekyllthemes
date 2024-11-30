@@ -8,7 +8,7 @@ download: https://github.com/nadjetey/wangana/archive/master.zip
 demo: https://nadjetey.github.io/
 author: Nii Adjetey Sowah
 thumbnail: wangana.png
-license: MIT License
+license: MIT
 license_link: https://github.com/nadjetey/wangana/blob/master/LICENSE
 ---
 

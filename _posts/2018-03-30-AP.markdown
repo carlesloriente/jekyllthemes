@@ -8,7 +8,7 @@ download: https://codeload.github.com/kssim/ap/zip/master
 demo: https://kssim.github.io/ap
 author: kssim 
 thumbnail: ap-theme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/kssim/ap/blob/master/LICENSE
 carousel:
   - 'https://raw.githubusercontent.com/kssim/ap/master/screenshot.png'

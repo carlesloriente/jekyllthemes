@@ -8,7 +8,7 @@ download: https://github.com/rohanchandra/type-theme/archive/master.zip
 demo: https://rohanchandra.github.io/type-theme/
 author: Rohan Chandra
 thumbnail: type-theme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/rohanchandra/type-theme/blob/master/LICENSE
 ---
 

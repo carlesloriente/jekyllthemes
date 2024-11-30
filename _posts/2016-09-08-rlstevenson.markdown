@@ -8,7 +8,7 @@ download: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme/archive/m
 demo: https://www.exchangerate-api.com/rlstevenson/
 author: ExchangeRate-API
 thumbnail: rlstevenson.png
-license: MIT License
+license: MIT
 license_link: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme/blob/master/LICENSE.txt
 ---
 

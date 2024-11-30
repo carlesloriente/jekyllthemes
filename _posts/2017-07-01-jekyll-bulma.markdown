@@ -8,7 +8,7 @@ download: https://github.com/erayaydin/jekyll-bulma/archive/master.zip
 demo: https://erayaydin.github.io/jekyll-bulma/
 author: Eray Aydın
 thumbnail: jekyll-bulma.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/erayaydin/jekyll-bulma/blob/master/LICENSE.md
 ---
 

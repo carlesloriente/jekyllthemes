@@ -8,7 +8,7 @@ download: https://github.com/willianjusten/will-jekyll-template/archive/master.z
 demo: https://willianjusten.com.br/will-jekyll-template/
 author: Willian Justen
 thumbnail: will-jekyll-template.png
-license: MIT License
+license: MIT
 license_link: https://github.com/willianjusten/will-jekyll-template/blob/master/LICENSE
 ---
 

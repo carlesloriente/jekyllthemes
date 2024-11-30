@@ -8,7 +8,7 @@ download: https://rubygems.org/gems/sandslate
 demo: https://tareqdandachi.github.io/sandslate
 author: Tareq El Dandachi
 thumbnail: sandslate.png
-license: MIT License
+license: MIT
 license_link: https://github.com/tareqdandachi/sandslate/blob/master/LICENSE
 ---
 

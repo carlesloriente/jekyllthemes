@@ -8,7 +8,7 @@ download: https://github.com/regmtait/Toasty-Jekyll/archive/master.zip
 demo: https://whitelabel.netlify.com/
 author: Reg Tait
 thumbnail: toasty-jekyll.png
-license: MIT License
+license: MIT
 license_link: https://github.com/regmtait/Toasty-Jekyll/blob/master/LICENSE.txt
 ---
 

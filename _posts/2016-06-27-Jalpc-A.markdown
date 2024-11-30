@@ -7,7 +7,7 @@ homepage: https://github.com/Jack614/Jalpc-A
 download: https://github.com/Jack614/Jalpc-A/archive/gh-pages.zip
 author: Kun Jia
 thumbnail: Jalpc-A-jekyll-theme.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/ashutosh2k12/hcz-jekyll-blog/blob/gh-pages/LICENSE
 ---
 

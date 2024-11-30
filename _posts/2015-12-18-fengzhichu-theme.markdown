@@ -8,7 +8,7 @@ download: https://github.com/fengzhichu/fengzhichu-theme/archive/master.zip
 demo: https://fengzhichu.com/fengzhichu-theme/
 author: 枫之楚 (@fengzhichu)
 thumbnail: fengzhichu-theme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/fengzhichu/fengzhichu-theme/blob/gh-pages/LICENSE
 carousel: 
   - 'https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot1.png'

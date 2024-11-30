@@ -8,7 +8,7 @@ download: https://github.com/Simpleyyt/jekyll-jacman/archive/master.zip
 demo: https://simpleyyt.github.io/jekyll-jacman
 author: Yitao Yao
 thumbnail: jacman.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

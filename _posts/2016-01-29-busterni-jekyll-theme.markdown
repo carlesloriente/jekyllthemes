@@ -8,7 +8,7 @@ download: https://github.com/muhajirframe/busterni-jekyll-theme/archive/gh-pages
 demo: https://muhajirframe.github.io/busterni-jekyll-theme
 author: Muhammad Muhajir
 thumbnail: busterni-jekyll-theme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/muhajirframe/busterni-jekyll-theme/blob/gh-pages/LICENSE
 ---
 

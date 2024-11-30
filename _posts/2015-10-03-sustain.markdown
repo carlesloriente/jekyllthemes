@@ -8,7 +8,7 @@ download: https://github.com/biomadeira/sustain/archive/gh-pages.zip
 demo: https://biomadeira.github.io/sustain/
 author: biomadeira
 thumbnail: sustain.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

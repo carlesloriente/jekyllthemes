@@ -8,7 +8,7 @@ download: https://github.com/nix1947/jekyll-hilmi/archive/master.zip
 demo: https://nix1947.github.io/jekyll-hilmi
 author: Manoj Gautam
 thumbnail: jekyll-hilmi.png
-license: MIT License
+license: MIT
 license_link: https://github.com/nix1947/jekyll-hilmi/blob/master/LICENSE.md
 ---
 

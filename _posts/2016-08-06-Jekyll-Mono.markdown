@@ -8,7 +8,7 @@ download: https://github.com/AkshayAgarwal007/Jekyll-Mono/archive/master.zip
 demo: https://akshayagarwal007.github.io/Jekyll-Mono
 author: Akshay Agarwal
 thumbnail: jekyll-mono.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/AkshayAgarwal007/Jekyll-Mono/blob/master/LICENSE.txt
 ---
 

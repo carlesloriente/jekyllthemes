@@ -8,7 +8,7 @@ download: https://github.com/minhhuy150894/minhhuy150894.github.io/archive/maste
 demo: https://minhhuy150894.github.io
 author: David Ng (Nguyen Minh Huy) - Michael Rose
 thumbnail: HPSTRversion2.png
-license: MIT License
+license: MIT
 license_link: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/LICENSE
 ---
 

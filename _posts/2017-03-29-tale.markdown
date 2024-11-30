@@ -8,7 +8,7 @@ download: https://github.com/chesterhow/tale/archive/master.zip
 demo: https://chesterhow.github.io/tale
 author: Chester How
 thumbnail: tale.png
-license: MIT License
+license: MIT
 license_link: https://github.com/chesterhow/tale/blob/master/LICENSE
 ---
 

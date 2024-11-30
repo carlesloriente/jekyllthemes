@@ -8,7 +8,7 @@ download: https://github.com/lukas-h/material-theme/archive/gh-pages.zip
 demo: https://himsel.me/material-theme/
 author: Lukas Himsel
 thumbnail: light-material.png
-license: MIT License
+license: MIT
 license_link: https://github.com/lukas-h/material-theme/blob/gh-pages/LICENSE
 ---
 

@@ -8,7 +8,7 @@ download: https://rubygems.org/gems/bay_jekyll_theme
 demo: https://eliottvincent.github.io/bay/
 author: eliottvincent
 thumbnail: bay.png
-license: ISC License
+license: ISC
 license_link: https://github.com/eliottvincent/bay/blob/master/LICENSE.md
 carousel:
   - 'https://raw.githubusercontent.com/eliottvincent/bay/master/screenshot.png'

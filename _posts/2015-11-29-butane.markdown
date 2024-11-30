@@ -8,6 +8,6 @@ download: https://github.com/alexcarpenter/butane-jekyll-theme/archive/gh-pages.
 demo: https://alexcarpenter.me
 author: alexcarpenter
 thumbnail: butane.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/alexcarpenter/butane-jekyll-theme/blob/gh-pages/LICENSE
 ---

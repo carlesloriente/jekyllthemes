@@ -8,7 +8,7 @@ download: https://github.com/Involts/jekyll-theme-fica/zipball/master
 demo: https://involts.github.io/jekyll-theme-fica/
 author: "Involts"
 thumbnail: Fica_Theme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/Involts/jekyll-theme-fica/blob/main/LICENSE.txt
 ---
 

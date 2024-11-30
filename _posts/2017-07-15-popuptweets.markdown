@@ -8,7 +8,7 @@ download: https://github.com/junlulocky/PopupTweets/archive/gh-pages.zip
 demo: https://jekyller.github.io/PopupTweets/
 author: Jun Lu
 thumbnail: popuptweets.png
-license: MIT License
+license: MIT
 license_link: https://github.com/junlulocky/PopupTweets/blob/gh-pages/LICENSE
 ---
 

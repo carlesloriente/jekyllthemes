@@ -8,7 +8,7 @@ download: https://github.com/Simpleyyt/jekyll-simpleyyt/archive/master.zip
 demo: https://simpleyyt.github.io/jekyll-simpleyyt
 author: Yitao Yao
 thumbnail: simpleyyt.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

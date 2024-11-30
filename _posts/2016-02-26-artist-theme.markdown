@@ -7,7 +7,7 @@ homepage: https://github.com/ninapetrop/Artist-Theme
 download: https://github.com/ninapetrop/Artist-Theme/archive/master.zip
 author: Nina Petropoulos
 thumbnail: artist-theme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/ninapetrop/Artist-Theme/blob/master/license.txt
 ---
 

@@ -8,7 +8,7 @@ download: https://github.com/essentialenemy/noir/archive/master.zip
 demo: https://noir.essentialenemy.com
 author: Victor Johnson
 thumbnail: noir.png
-license: MIT License
+license: MIT
 license_link: https://github.com/essentialenemy/noir/blob/master/LICENSE.md
 ---
 

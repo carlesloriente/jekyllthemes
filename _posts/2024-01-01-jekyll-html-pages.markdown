@@ -7,8 +7,7 @@ homepage: https://github.com/francescobianco/jekyll-html-pages
 download: https://github.com/francescobianco/jekyll-html-pages/archive/gh-pages.zip
 demo: http://yafb.net/jekyll-html-pages/
 author: Francesco Bianco
-thumbnail: jekyll-html-pages.png
-license: MIT License
+license: MIT
 license_link: https://francescobianco/jekyll-html-pages/blob/main/LICENSE
 ---
 

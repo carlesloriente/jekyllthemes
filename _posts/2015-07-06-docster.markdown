@@ -8,7 +8,7 @@ download: https://github.com/DigitalMindCH/docster-jekyll-theme/archive/gh-pages
 demo: https://digitalmind.ch/themes/docster-jekyll-theme/demo/
 author: Digitalmind
 thumbnail: docster.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/DigitalMindCH/twister/blob/master/LICENSE.md
 ---
 

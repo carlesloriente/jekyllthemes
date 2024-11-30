@@ -8,7 +8,7 @@ download: https://github.com/ngzhio/jekyll-theme-hamilton/archive/master.zip
 demo: https://ngzhio.github.io/jekyll-theme-hamilton/
 author: Shangzhi Huang
 thumbnail: hamilton.png
-license: MIT License
+license: MIT
 license_link: https://github.com/ngzhio/jekyll-theme-hamilton/blob/master/LICENSE.txt
 ---
 

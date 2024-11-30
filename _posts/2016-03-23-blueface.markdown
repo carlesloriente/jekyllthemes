@@ -8,7 +8,7 @@ download: https://github.com/tnguyen/blueface/archive/master.zip
 demo: https://thien.io/blueface
 author: Thien Nguyen
 thumbnail: blueface.png
-license: MIT License
+license: MIT
 license_link: https://github.com/tnguyen/blueface/blob/master/LICENSE
 ---
 

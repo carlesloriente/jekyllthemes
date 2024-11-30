@@ -8,7 +8,7 @@ download: https://github.com/yvesespinosa/jekyll-html5up-fractal/raw/master/arch
 demo: https://yvesespinosa.github.io/jekyll-html5up-fractal/
 author: Yves Espinosa
 thumbnail: fractal_thumbnail.png
-license: MIT License
+license: MIT
 license_link: https://github.com/yvesespinosa/jekyll-html5up-fractal/blob/master/LICENSE.txt
 ---
 

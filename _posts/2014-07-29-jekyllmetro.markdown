@@ -8,7 +8,7 @@ download: https://github.com/olakara/JekyllMetro/archive/master.zip
 demo: https://abdelraoof.com
 author: Abdel Raoof Olakara
 thumbnail: jekyll-metro.png
-license: MIT License
+license: MIT
 license_link: https://github.com/olakara/JekyllMetro/blob/master/LICENSE.md
 ---
 

@@ -8,7 +8,7 @@ download: https://github.com/mattcouchman/jekyll-resume/archive/gh-pages.zip
 demo: https://mattcouchman.co.uk/jekyll-resume
 author: Matt Couchman
 thumbnail: jekyll-resume.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

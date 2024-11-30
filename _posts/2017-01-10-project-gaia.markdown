@@ -8,7 +8,7 @@ download: https://github.com/szhielelp/JekyllTheme-ProjectGaia/archive/master.zi
 demo: https://szhielelp.github.io/JekyllTheme-ProjectGaia/
 author: szhshp
 thumbnail: project-gaia.png
-license: MIT License
+license: MIT
 license_link: https://github.com/szhielelp/JekyllTheme-ProjectGaia/blob/master/LICENSE
 carousel:
   - 'https://szhielelp.github.io/JekyllTheme-ProjectGaia/demo/1.jpg'

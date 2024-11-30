@@ -8,7 +8,7 @@ download: https://github.com/brianmaierjr/uni/archive/master.zip
 demo: https://brianmaierjr.com/uni
 author: Brian Maier
 thumbnail: uni.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/brianmaierjr/uni/blob/master/LICENSE
 carousel:
   - ' https://github.com/brianmaierjr/uni/raw/master/assets/img/share.jpg'

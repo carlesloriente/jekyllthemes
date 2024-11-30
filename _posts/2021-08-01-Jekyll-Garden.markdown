@@ -7,8 +7,7 @@ homepage: https://jekyll-garden.github.io
 download: https://github.com/Jekyll-Garden/jekyll-garden.github.io
 demo: https://jekyll-garden.github.io
 author: Mu-An Chiou
-thumbnail: Jekyll-Garden-Thumbnail.png
-license: MIT License
+license: MIT
 license_link: https://github.com/Jekyll-Garden/jekyll-garden.github.io/LICENSE
 ---
 

@@ -8,7 +8,7 @@ download: https://github.com/willianjusten/cards-jekyll-template/archive/master.
 demo: https://willianjusten.com.br/cards-jekyll-template/
 author: Willian Justen
 thumbnail: cards-jekyll-template.png
-license: MIT License
+license: MIT
 license_link: https://github.com/willianjusten/cards-jekyll-template/blob/master/LICENSE
 ---
 

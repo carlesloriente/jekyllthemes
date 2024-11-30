@@ -8,7 +8,7 @@ download: https://github.com/longpdo/neumorphism/archive/master.zip
 demo: https://longpdo.github.io/neumorphism/
 author: Long Do
 thumbnail: neumorphism.png
-license: MIT License
+license: MIT
 license_link: https://raw.githubusercontent.com/longpdo/neumorphism/master/LICENSE
 ---
 

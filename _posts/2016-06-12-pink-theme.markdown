@@ -8,7 +8,7 @@ download: https://github.com/Adagio-cantabile/Adagio-cantabile.github.io/archive
 demo: https://adagio-cantabile.github.io/
 author: Yiwen Gong
 thumbnail: pink-theme.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/Adagio-cantabile/Adagio-cantabile.github.io/blob/master/LICENSE.md
 ---
 

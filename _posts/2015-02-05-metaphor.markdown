@@ -8,7 +8,7 @@ download: https://github.com/prio101/metaphor-jekyll/archive/master.zip
 demo: https://mahabubislam.me
 author: Mahabub I.
 thumbnail: metaphor.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

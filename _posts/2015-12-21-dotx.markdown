@@ -8,7 +8,7 @@ download: https://github.com/nandomoreirame/dotX/archive/master.zip
 demo: https://nandomoreira.me/dotX/
 author: nandomoreira.me
 thumbnail: dotx.png
-license: MIT License
+license: MIT
 license_link: https://github.com/nandomoreirame/dotX/blob/master/LICENSE
 ---
 

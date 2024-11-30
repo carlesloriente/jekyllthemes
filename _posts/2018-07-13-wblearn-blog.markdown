@@ -8,7 +8,7 @@ download: https://github.com/wblearn/wblearn.github.io/archive/master.zip
 demo: https://wblearn.github.io/
 author: wblearn
 thumbnail: wblearn-blog.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/wblearn/wblearn.github.io/blob/master/LICENSE
 ---
 

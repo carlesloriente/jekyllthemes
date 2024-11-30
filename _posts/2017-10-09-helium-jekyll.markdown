@@ -8,7 +8,7 @@ download: https://github.com/heliumjk/heliumjk.github.io/archive/master.zip
 demo: https://heliumjk/heliumjk.github.io
 author: Antonio Trento
 thumbnail: helium.png
-license: MIT License
+license: MIT
 license_link: https://github.com/heliumjk/heliumjk.github.io/blob/master/LICENSE
 ---
 

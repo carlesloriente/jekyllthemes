@@ -8,7 +8,7 @@ download: https://github.com/biomadeira/vitae/archive/gh-pages.zip
 demo: https://biomadeira.github.io/vitae/
 author: biomadeira
 thumbnail: vitae.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

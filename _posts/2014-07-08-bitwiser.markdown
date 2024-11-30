@@ -8,7 +8,7 @@ download: https://goo.gl/iC85jv
 demo: https://bitwiser.in/bitwiser/demo.html
 author: Brijesh Bittu
 thumbnail: bitwiser.png
-license: MIT License
+license: MIT
 license_link: https://github.com/brijeshb42/bitwiser/blob/master/LICENSE
 ---
 

@@ -8,7 +8,7 @@ download: https://github.com/jonathanlilly/ghostly/archive/master.zip
 demo: http://www.jmlilly.net
 author: Jonathan M. Lilly
 thumbnail: ghostly.png
-license: MIT License
+license: MIT
 license_link: https://github.com/jonathanlilly/ghostly/blob/master/LICENSE
 ---
 

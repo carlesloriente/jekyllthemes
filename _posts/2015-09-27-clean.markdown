@@ -8,7 +8,7 @@ download: https://github.com/knaman2609/clean/archive/master.zip
 demo: https://knaman2609.github.io/clean/
 author: knaman2609
 thumbnail: clean.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

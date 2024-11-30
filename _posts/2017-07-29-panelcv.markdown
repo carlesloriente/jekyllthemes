@@ -8,7 +8,7 @@ download: https://github.com/jekyller/PanelCV/archive/master.zip
 demo: https://jekyller.github.io/PanelCV/
 author: Locky
 thumbnail: panelcv.png
-license: MIT License
+license: MIT
 license_link: https://github.com/jekyller/PanelCV/blob/master/LICENSE
 ---
 

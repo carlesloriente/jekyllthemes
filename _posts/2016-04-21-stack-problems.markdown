@@ -8,7 +8,7 @@ download: https://github.com/agusmakmun/agusmakmun.github.io/archive/master.zip
 demo: https://agusmakmun.github.io
 author: Agus Makmun
 thumbnail: stack-problems.png
-license: MIT License
+license: MIT
 license_link: https://github.com/agusmakmun/agusmakmun.github.io/blob/master/LICENSE
 carousel:
   - 'https://raw.githubusercontent.com/agusmakmun/agusmakmun.github.io/master/static/img/screenshot-post-page.png'

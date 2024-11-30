@@ -8,7 +8,7 @@ download: https://github.com/kkninjae/book/archive/master.zip
 demo: https://kkninjae.github.io/book
 author: Lang Liu
 thumbnail: book.png
-license: MIT License
+license: MIT
 license_link: https://github.com/kkninjae/book/blob/master/LICENSE
 ---
 

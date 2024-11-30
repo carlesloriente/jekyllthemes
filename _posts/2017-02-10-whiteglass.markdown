@@ -8,7 +8,7 @@ download: https://github.com/yous/whiteglass/archive/master.zip
 demo: https://yous.github.io/whiteglass/
 author: Chayoung You
 thumbnail: whiteglass.png
-license: MIT License
+license: MIT
 license_link: https://github.com/yous/whiteglass/blob/master/LICENSE.txt
 carousel:
   - 'https://raw.githubusercontent.com/yous/whiteglass/master/screenshot.png'

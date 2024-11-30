@@ -8,7 +8,7 @@ download: https://github.com/sparanoid/almace-scaffolding/archive/master.zip
 demo: https://sparanoid.com/lab/amsf/
 author: Tunghsiao Liu
 thumbnail: amsf.png
-license: MIT License
+license: MIT
 license_link: https://github.com/sparanoid/almace-scaffolding/blob/master/LICENSE
 ---
 

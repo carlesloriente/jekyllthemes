@@ -8,7 +8,7 @@ download: https://github.com/niklasbuschmann/contrast/archive/gh-pages.zip
 demo: https://niklasbuschmann.github.io/contrast
 author: Niklas Buschmann
 thumbnail: contrast.png
-license: MIT License
+license: MIT
 license_link: https://github.com/niklasbuschmann/contrast/blob/gh-pages/LICENSE.md
 ---
 

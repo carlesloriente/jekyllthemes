@@ -8,7 +8,7 @@ download: https://github.com/heiswayi/thinkspace/archive/master.zip
 demo: https://heiswayi.github.io/thinkspace/
 author: Heiswayi Nrird
 thumbnail: thinkspace.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/heiswayi/thinkspace/blob/master/LICENSE.md
 ---
 

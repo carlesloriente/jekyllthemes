@@ -8,7 +8,7 @@ download: https://github.com/bradykondek/streamer/archive/master.zip
 demo: https://www.streamertheme.ga
 author: Brady Kondek
 thumbnail: streamer-theme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/bradykondek/streamer/blob/master/LICENSE
 ---
 

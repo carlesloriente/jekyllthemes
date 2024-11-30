@@ -8,7 +8,7 @@ download: https://github.com/kippt/jekyll-incorporated/archive/master.zip
 demo: https://blog.sendtoinc.com/
 author: Kippt Inc.
 thumbnail: incorporated.png
-license: MIT License
+license: MIT
 license_link: https://github.com/kippt/jekyll-incorporated/blob/master/LICENSE
 ---
 

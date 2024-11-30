@@ -8,7 +8,7 @@ download: https://github.com/open-start/opentheme/archive/master.zip
 demo: https://opentheme.co/
 author: Manav Sehgal
 thumbnail: opentheme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/open-start/opentheme/blob/master/LICENSE
 ---
 

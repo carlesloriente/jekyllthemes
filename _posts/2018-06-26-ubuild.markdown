@@ -8,7 +8,7 @@ download: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
 demo: https://forestryio.github.io/ubuild-jekyll/
 author: Nichlas W. Andersen
 thumbnail: ubuild.png
-license: MIT License
+license: MIT
 license_link: https://github.com/forestryio/ubuild-jekyll/blob/master/LICENSE
 carousel:
   - 'https://forestryio.github.io/ubuild-jekyll/uploads/2018/06/21/theme.png'

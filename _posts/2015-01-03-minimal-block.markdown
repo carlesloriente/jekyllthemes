@@ -8,7 +8,7 @@ download: https://github.com/drvy/minimal-block/archive/master.zip
 demo: https://blog.drvy.net/minimal-block/
 author: Dragomir Yordanov
 thumbnail: minimal-block.png
-license: MIT License
+license: MIT
 license_link: https://github.com/drvy/minimal-block/blob/master/LICENSE.md
 ---
 

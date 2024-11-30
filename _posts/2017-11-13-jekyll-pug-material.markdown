@@ -8,7 +8,7 @@ download: https://github.com/dougbeney/jekyll-pug-material/archive/master.zip
 demo: https://material.jekyll-pug.dougie.io
 author: Doug Beney
 thumbnail: jekyll-pug-material.png
-license: MIT License
+license: MIT
 license_link: https://github.com/DougBeney/jekyll-pug-material/blob/master/LICENSE
 ---
 

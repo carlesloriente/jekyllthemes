@@ -8,7 +8,7 @@ download: https://github.com/alperenbozkurt/JBlog/archive/master.zip
 demo: https://alperenbozkurt.net/JBlog/
 author: Alperen Bozkurt
 thumbnail: JBlog.png
-license: MIT License
+license: MIT
 license_link: https://github.com/alperenbozkurt/JBlog/blob/master/LICENSE
 ---
 

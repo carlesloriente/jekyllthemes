@@ -8,7 +8,7 @@ download: https://github.com/cotes2020/jekyll-theme-chirpy/archive/master.zip
 demo: https://cotes2020.github.io/chirpy-demo/
 author: Cotes Chung
 thumbnail: chirpy.png
-license: MIT License
+license: MIT
 license_link: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
 carousel:
   - 'https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png'

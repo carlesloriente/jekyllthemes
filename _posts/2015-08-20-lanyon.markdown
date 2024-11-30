@@ -8,6 +8,6 @@ download: https://github.com/poole/lanyon/archive/master.zip
 demo: https://lanyon.getpoole.com/
 author: Mark Otto
 thumbnail: lanyon.png
-license: MIT License
+license: MIT
 license_link: https://github.com/poole/lanyon/blob/master/LICENSE.md
 ---

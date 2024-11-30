@@ -8,7 +8,7 @@ download: https://github.com/newbiettn/zebra/archive/gh-pages.zip
 demo: https://zebra.ngoctran.me/2016/08/31/introduction/
 author: newbiettn
 thumbnail: zebra.png
-license: MIT License
+license: MIT
 license_link: https://github.com/newbiettn/zebra/blob/gh-pages/LICENSE
 ---
 

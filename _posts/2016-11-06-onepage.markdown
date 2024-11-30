@@ -8,7 +8,7 @@ download: https://github.com/lukas-h/onepage/archive/master.zip
 demo: https://himsel.me
 author: Lukas Himsel
 thumbnail: onepage.png
-license: MIT License
+license: MIT
 license_link: https://github.com/lukas-h/onepage/blog/master/LICENCE
 ---
 

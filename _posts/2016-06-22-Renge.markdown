@@ -8,7 +8,7 @@ download: https://github.com/billyfish152/Renge/archive/master.zip
 demo: https://junchaowang.com
 author: Junchao Wang
 thumbnail: Renge.png
-license: MIT License
+license: MIT
 license_link: https://github.com/billyfish152/Renge/blob/master/LICENSE.md
 ---
 

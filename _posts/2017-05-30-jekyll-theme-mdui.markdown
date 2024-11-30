@@ -8,7 +8,7 @@ download: https://github.com/KeJunMao/jekyll-theme-mdui/archive/master.zip
 demo: https://blog.kejun.space/
 author: KeJun
 thumbnail: jekyll-theme-mdui.png
-license: MIT License
+license: MIT
 license_link: https://github.com/KeJunMao/jekyll-theme-mdui/blob/master/LICENSE.txt
 ---
 

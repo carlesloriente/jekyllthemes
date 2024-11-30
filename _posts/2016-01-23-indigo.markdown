@@ -8,7 +8,7 @@ download: https://github.com/sergiokopplin/indigo/raw/gh-pages/indigo-gh-pages.z
 demo: https://sergiokopplin.github.io/indigo/
 author: Sérgio Kopplin
 thumbnail: indigo.png
-license: MIT License
+license: MIT
 license_link: https://kopplin.mit-license.org/
 ---
 

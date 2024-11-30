@@ -8,7 +8,7 @@ download: https://github.com/nandomoreirame/mug/archive/master.zip
 demo: https://nandomoreira.me/mug/
 author: nandomoreira.me
 thumbnail: mug.png
-license: MIT License
+license: MIT
 license_link: https://github.com/nandomoreirame/mug/blob/master/LICENSE
 ---
 

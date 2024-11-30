@@ -8,7 +8,7 @@ download: https://github.com/sharu725/ashwath/archive/master.zip
 demo: https://webjeda.com/ashwath/
 author: webjeda
 thumbnail: webjeda-ashwath.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:
   - 'https://webjeda.com/ashwath/images/Default.png'

@@ -8,7 +8,7 @@ download: https://github.com/sharu725/slides/archive/master.zip
 demo: https://webjeda.com/slides/
 author: webjeda
 thumbnail: slides.jpg
-license: MIT License
+license: MIT
 license_link: https://raw.githubusercontent.com/hakimel/reveal.js/master/LICENSE
 ---
 

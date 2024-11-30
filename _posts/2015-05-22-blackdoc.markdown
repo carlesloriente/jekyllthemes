@@ -8,7 +8,7 @@ download: https://github.com/karloespiritu/BlackDoc/archive/master.zip
 demo: https://karloespiritu.com/blackdoc
 author: Karlo Espiritu
 thumbnail: blackdoc.png
-license: MIT License
+license: MIT
 license_link: https://github.com/karloespiritu/BlackDoc/blob/master/LICENSE.md
 ---
 

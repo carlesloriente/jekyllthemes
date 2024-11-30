@@ -8,7 +8,7 @@ download: https://rubygems.org/gems/jekyll-theme-simplex
 demo: https://golas.blog/
 author: Andrew Golasowski
 thumbnail: simplex.png
-license: MIT License
+license: MIT
 license_link: https://github.com/andreondra/jekyll-theme-simplex/blob/master/LICENSE.txt
 ---
 

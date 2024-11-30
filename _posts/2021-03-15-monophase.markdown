@@ -8,7 +8,7 @@ download: https://github.com/zivhub/monophase/archive/main.zip
 demo: https://zivlog.io/monophase/
 author: Song-Zi Vong
 thumbnail: monophase.png
-license: MIT License
+license: MIT
 license_link: https://github.com/zivhub/monophase/blob/main/LICENSE.txt
 ---
 

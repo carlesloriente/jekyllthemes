@@ -8,7 +8,7 @@ download: https://github.com/vincentchan/mickey/archive/master.zip
 demo: https://vincentchan.github.io/mickey/
 author: Vincent Chan
 thumbnail: mickey.png
-license: MIT License
+license: MIT
 license_link: https://github.com/vincentchan/mickey/blob/master/LICENSE.md
 ---
 

@@ -6,7 +6,7 @@ homepage: https://gitlab.com/mrtsukim0t0-/letitbex-theme
 download: https://gitlab.com/mrtsukim0t0-/letitbex-theme/-/raw/master/letitbex-theme.tar.gz
 author: 0t0
 thumbnail: letitbex-theme.png
-license: MIT License
+license: MIT
 license_link: https://gitlab.com/mrtsukim0t0-/letitbex-theme/-/blob/master/LICENSE.txt 
 date: 2022-01-28 11:11 +0530
 ---

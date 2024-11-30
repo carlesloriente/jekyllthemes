@@ -8,7 +8,7 @@ download: https://github.com/rmsubekti/emping/archive/master.zip
 demo: https://rmsubekti.github.io/emping
 author: rmsubekti
 thumbnail: emping.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:
   - 'https://cdn.rawgit.com/rmsubekti/emping/master/Screenshot.png'

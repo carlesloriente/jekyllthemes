@@ -8,7 +8,7 @@ download: https://github.com/anandubajith/block-log/archive/master.zip
 demo: https://anandu.net/demo/block-log
 author: Anandu B Ajith
 thumbnail: block-log.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

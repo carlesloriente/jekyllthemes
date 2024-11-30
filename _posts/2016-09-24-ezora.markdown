@@ -8,7 +8,7 @@ download: https://github.com/ezrasavard/ezora-jekyll-theme/archive/master.zip
 demo: https://ezrasavard.github.io/ezora-jekyll-theme 
 author: Ezra Savard
 thumbnail: ezora.png
-license: MIT License
+license: MIT
 license_link: https://github.com/poole/poole/blob/master/LICENSE.md
 ---
 

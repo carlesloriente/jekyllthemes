@@ -8,6 +8,6 @@ download: https://github.com/tomjohnson1492/documentation-theme-jekyll/archive/g
 demo: https://idratherbewriting.com/documentation-theme-jekyll/
 author: tomjohnson1492
 thumbnail: documentation-theme-jekyll.png
-license: MIT License
+license: MIT
 license_link: https://github.com/tomjohnson1492/documentation-theme-jekyll/blob/gh-pages/licenses/LICENSE.txt
 ---

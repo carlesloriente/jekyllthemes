@@ -8,7 +8,7 @@ download: https://github.com/hugocarreira/jekyll-materializecss/archive/master.z
 demo: https://hugocarreira.github.io/jekyll-materializecss
 author: Hugo Carreira
 thumbnail: materialize-hg.png
-license: MIT License
+license: MIT
 ---
 
 A simple, clean and elegant theme using MaterializeCSS.

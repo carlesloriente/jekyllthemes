@@ -8,7 +8,7 @@ download: https://spaghetti.ga/assets/darkkimochi.zip
 demo: https://spaghetti.ga
 author: Axl Yody
 thumbnail: dark-kimochi.jpg
-license: MIT License
+license: MIT
 ---
 
 Simply dark flat theme for Jekyll, based on default theme :) Feel free to use.

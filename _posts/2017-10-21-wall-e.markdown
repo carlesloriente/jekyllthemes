@@ -36,4 +36,4 @@ Wall-E is fully furnished right out of the box. To use this template on your blo
 
 ## License
 
-MIT License
+MIT

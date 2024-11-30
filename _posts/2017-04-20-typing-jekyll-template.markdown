@@ -8,7 +8,7 @@ download: https://github.com/williamcanin/typing-jekyll-template/archive/master.
 demo: https://williamcanin.github.io/typing-jekyll-template/
 author: William Canin
 thumbnail: typing-jekyll-template-thumbnail.png
-license: MIT License
+license: MIT
 license_link: https://github.com/williamcanin/typing-jekyll-template/blob/master/LICENSE
 github_repo: williamcanin/typing-jekyll-template
 stars: 1

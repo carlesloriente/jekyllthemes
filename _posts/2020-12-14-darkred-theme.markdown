@@ -8,7 +8,7 @@ download: https://rubygems.org/gems/jekyll-darkred-theme
 demo: https://kkent030315.github.io/jekyll-darkred-theme
 author: Kento Oki
 thumbnail: darkred-theme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/kkent030315/jekyll-darkred-theme/blob/main/LICENSE
 ---
 

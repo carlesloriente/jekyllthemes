@@ -8,7 +8,7 @@ download: https://github.com/ddbullfrog/resumecard/archive/gh-pages.zip
 demo: https://ddbullfrog.github.io/resumecard
 author: Dong Liang
 thumbnail: resumecard.png
-license: MIT License
+license: MIT
 license_link: https://github.com/ddbullfrog/resumecard/blob/gh-pages/LICENSE.md
 ---
 

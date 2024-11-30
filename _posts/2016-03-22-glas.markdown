@@ -8,7 +8,7 @@ download: https://github.com/SpaceG/glas/archive/master.zip
 demo: https://lucasgatsas.ch
 author: Lucas Gatsas
 thumbnail: glas.png
-license: MIT License
+license: MIT
 license_link: https://github.com/SpaceG/glas/blob/master/LICENSE
 ---
 

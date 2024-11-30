@@ -8,7 +8,7 @@ download: https://github.com/johnotander/pixyll/archive/master.zip
 demo: https://pixyll.com
 author: John Otander
 thumbnail: pixyll.png
-license: MIT License
+license: MIT
 license_link: https://github.com/johnotander/pixyll/blob/master/LICENSE.txt
 ---
 
