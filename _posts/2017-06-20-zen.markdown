@@ -8,7 +8,7 @@ download: http://github.com/zenjekyll/zenjekyll.github.io/archive/master.zip
 demo: http://zenjekyll.github.io
 author: Zen
 thumbnail: zen.jpg
-license: MIT License
+license: MIT
 license_link: http://github.com/zenjekyll/zenjekyll.github.io/blob/master/LICENSE
 ---
 

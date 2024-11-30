@@ -8,7 +8,7 @@ download: https://github.com/vfalanis/taken/archive/master.zip
 demo: https://vfalanis.github.io/taken
 author: Valentina Fernandez Alanis (vfalanis)
 thumbnail: taken-theme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/vfalanis/taken/blob/master/LICENSE
 ---
 

@@ -8,7 +8,7 @@ download: https://codeload.github.com/UniFreak/jekyll-theme-textalic/zip/master
 demo: https://unifreak.github.io
 author: FangHao
 thumbnail: textalic.png
-license: MIT License
+license: MIT
 license_link: https://github.com/UniFreak/jekyll-theme-textalic/blob/master/LICENCE
 ---
 

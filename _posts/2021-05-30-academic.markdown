@@ -8,7 +8,7 @@ download: https://github.com/LeNPaul/academic/archive/gh-pages.zip
 demo: https://lenpaul.github.io/academic
 author: Paul Le
 thumbnail: academic.png
-license: MIT License
+license: MIT
 license_link: https://github.com/LeNPaul/academic/blob/gh-pages/LICENSE.txt
 carousel:
   - 'https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png'

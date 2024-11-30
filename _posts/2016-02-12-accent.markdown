@@ -8,7 +8,7 @@ download: https://github.com/ankitsultana/accent/archive/gh-pages.zip
 demo: https://ankitsultana.com/accent
 author: Ankit Sultana
 thumbnail: accent.png
-license: MIT License
+license: MIT
 license_link: https://github.com/ankitsultana/accent/blob/gh-pages/LICENSE
 ---
 

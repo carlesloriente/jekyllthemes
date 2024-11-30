@@ -8,7 +8,7 @@ download: https://github.com/ritijjain/pudhina-fresh/archive/master.zip
 demo: https://ritijjain.github.io/pudhina-fresh/
 author: Ritij Jain
 thumbnail: pudhina-fresh.png
-license: MIT License
+license: MIT
 license_link: https://github.com/ritijjain/pudhina-fresh/blob/master/LICENSE
 ---
 

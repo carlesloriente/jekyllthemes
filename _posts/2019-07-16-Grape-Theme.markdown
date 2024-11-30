@@ -7,7 +7,7 @@ download: https://github.com/naye0ng/Grape-Theme/archive/v1.0.zip
 demo: https://grape-theme.netlify.com
 author: Nayeong Kim
 thumbnail: Grape-Theme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/naye0ng/Grape-Theme/blob/master/LICENSE.txt
 carousel:
   - 'https://grape-theme.netlify.com/assets/jekylltheme/home.png'

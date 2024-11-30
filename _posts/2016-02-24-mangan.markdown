@@ -8,7 +8,7 @@ download: https://github.com/dikiaap/mangan/archive/master.zip
 demo: https://mangan.dikiaap.id
 author: Diki Ananta
 thumbnail: mangan.png
-license: MIT License
+license: MIT
 license_link: https://github.com/dikiaap/mangan/blob/master/LICENSE
 ---
 

@@ -8,7 +8,7 @@ download: https://github.com/samanyougarg/hanuman/archive/master.zip
 demo: https://samanyougarg.com/hanuman
 author: Samanyou Garg
 thumbnail: hanuman.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/samanyougarg/hanuman/blob/master/LICENSE
 ---
 

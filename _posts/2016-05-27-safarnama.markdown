@@ -8,7 +8,7 @@ download: https://github.com/hemangsk/safarnama/archive/master.zip
 demo: https://hemangsk.github.io/safarnama
 author: Hemang Kumar
 thumbnail: safarnama.png
-license: MIT License
+license: MIT
 license_link: https://github.com/hemangsk/safarnama/blob/master/LICENSE.md
 ---
 

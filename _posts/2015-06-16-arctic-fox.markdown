@@ -8,7 +8,7 @@ download: https://github.com/diezcami/arctic-fox-theme/archive/master.zip
 demo: https://diezcami.github.io/arctic-fox-theme
 author: Camille Diez
 thumbnail: arctic-fox.png
-license: MIT License
+license: MIT
 license_link: https://github.com/diezcami/arctic-fox-theme/blob/master/LICENSE
 ---
 

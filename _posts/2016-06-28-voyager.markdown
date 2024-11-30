@@ -8,7 +8,7 @@ download: https://github.com/redVi/voyager/archive/master.zip
 demo: https://redvi.github.io/voyager/
 author: redVi
 thumbnail: voyager.png
-license: MIT License
+license: MIT
 license_link: https://github.com/redVi/voyager/blob/master/LICENSE
 ---
 

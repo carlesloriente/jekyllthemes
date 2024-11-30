@@ -8,7 +8,7 @@ download: https://github.com/codeasashu/hcz-jekyll-blog/archive/gh-pages.zip
 demo: https://codeasashu.github.io/hcz-jekyll-blog/
 author: Ashutosh Chaudhary
 thumbnail: hcz-jekyll-material.png
-license: MIT License
+license: MIT
 license_link: https://github.com/ashutosh2k12/hcz-jekyll-blog/blob/gh-pages/LICENSE
 ---
 

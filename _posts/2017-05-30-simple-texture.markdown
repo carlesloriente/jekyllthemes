@@ -8,7 +8,7 @@ download: https://github.com/yizeng/jekyll-theme-simple-texture/archive/master.z
 demo: https://yizeng.github.io/jekyll-theme-simple-texture/
 author: Yi Zeng
 thumbnail: simple-texture.png
-license: MIT License
+license: MIT
 license_link: https://github.com/yizeng/jekyll-theme-simple-texture/blob/master/LICENSE
 carousel:
   - 'https://github.com/yizeng/jekyll-theme-simple-texture/raw/master/assets/images/screenshots/home.png'

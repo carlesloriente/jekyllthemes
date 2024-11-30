@@ -8,7 +8,7 @@ download: https://github.com/jwillmer/jekyllDecent/archive/gh-pages.zip
 demo: https://jwillmer.de
 author: Jens Willmer
 thumbnail: jekyllDecent.png
-license: MIT License
+license: MIT
 license_link: https://github.com/jwillmer/jekyllDecent/blob/gh-pages/LICENSE
 ---
 

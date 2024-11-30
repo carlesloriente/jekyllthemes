@@ -8,7 +8,7 @@ download: https://github.com/Gaohaoyang/gaohaoyang.github.io/archive/v1.1.zip
 demo: https://gaohaoyang.github.io/
 author: Gaohaoyang
 thumbnail: cool-concise-high-end.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md
 carousel: 
   - 'https://7q5cdt.com1.z0.glb.clouddn.com/blog-blog/sample.png'

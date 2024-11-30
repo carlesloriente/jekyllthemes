@@ -7,6 +7,6 @@ homepage: https://github.com/KazumaSATO/Siera
 download: https://github.com/KazumaSATO/Siera/archive/master.zip
 author: Kazuma SATO
 thumbnail: siera.png
-license: MIT License
+license: MIT
 license_link: https://github.com/KazumaSATO/Siera/blob/master/LICENSE
 ---

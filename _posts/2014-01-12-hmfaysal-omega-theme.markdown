@@ -8,7 +8,7 @@ download: https://github.com/hmfaysal/hmfaysal-omega-theme/archive/gh-pages.zip
 demo: https://www.hossainmohdfaysal.com/hmfaysal-omega-theme/
 author: Hossain Mohd Faysal
 thumbnail: hmfaysal-omega.jpg
-license: MIT License
+license: MIT
 license_link: https://www.hossainmohdfaysal.com/hmfaysal-omega-theme/license/
 ---
 

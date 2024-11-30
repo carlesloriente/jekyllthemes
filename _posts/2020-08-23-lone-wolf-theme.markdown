@@ -8,7 +8,7 @@ download: https://github.com/manid2/lone-wolf-theme/releases/latest/
 demo: https://manid2.github.io/lone-wolf-theme/
 author: Mani Kumar
 thumbnail: lone-wolf-theme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/manid2/lone-wolf-theme/blob/master/LICENSE
 ---
 

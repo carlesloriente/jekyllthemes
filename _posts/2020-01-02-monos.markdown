@@ -8,7 +8,7 @@ download: https://github.com/ejjoo/jekyll-theme-monos/archive/master.zip
 demo: https://ejjoo.github.io/
 author: Euijong Joo
 thumbnail: monos.png
-license: MIT License
+license: MIT
 carousel:
   - 'https://github.com/ejjoo/jekyll-theme-monos/blob/master/public/img/screenshot-1.png?raw=true'
   - 'https://github.com/ejjoo/jekyll-theme-monos/blob/master/public/img/screenshot-2.png?raw=true'

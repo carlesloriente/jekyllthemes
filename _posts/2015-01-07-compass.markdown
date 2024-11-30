@@ -8,7 +8,7 @@ download: https://github.com/excentris/compass/archive/master.zip
 demo: https://excentris.github.io/compass/
 author: Eduardo Rubio
 thumbnail: compass.png
-license: MIT License
+license: MIT
 license_link: https://github.com/excentris/compass/blob/master/LICENSE
 ---
 

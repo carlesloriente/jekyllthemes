@@ -8,7 +8,7 @@ download: https://github.com/wemake-services/jekyll-theme-hackcss/releases
 demo: https://wemake-services.github.io/jekyll-theme-hackcss/
 author: wemake.services
 thumbnail: jekyll-theme-hackcss.png
-license: MIT License
+license: MIT
 license_link: https://github.com/wemake-services/jekyll-theme-hackcss/blob/gh-pages/LICENSE
 ---
 

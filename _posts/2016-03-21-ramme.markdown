@@ -8,7 +8,7 @@ download: https://github.com/TaylanTatli/Ramme/archive/gh-pages.zip
 demo: https://taylantatli.github.io/Ramme
 author: Taylan Tatlı
 thumbnail: ramme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/TaylanTatli/Ramme/blob/gh-pages/LICENSE
 ---
 

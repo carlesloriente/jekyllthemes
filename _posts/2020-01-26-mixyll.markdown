@@ -8,7 +8,7 @@ download: https://github.com/saikiransripada/mixyll/archive/gh-pages.zip
 demo: https://mixyll.saikiransripada.com/
 author: Sai Kiran Sripada
 thumbnail: mixyll.png
-license: MIT License
+license: MIT
 license_link: https://github.com/saikiransripada/mixyll/blob/gh-pages/LICENSE.txt
 ---
 

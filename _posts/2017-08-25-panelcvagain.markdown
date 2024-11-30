@@ -1,14 +1,15 @@
 ---
 layout: post
 comments: true
-title: Panel CV - V2
+title: Panel CV
 date: 2017-08-24 11:32:00
 homepage: https://github.com/jekyller/online-cv
 download: https://github.com/jekyller/online-cv/archive/master.zip
 demo: https://jekyller.github.io/online-cv/
 author: Locky
+version: '2.0'
 thumbnail: panelcv2.png
-license: MIT License
+license: MIT
 license_link: https://github.com/jekyller/online-cv/blob/master/LICENSE
 ---
 

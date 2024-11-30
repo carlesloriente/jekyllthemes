@@ -8,6 +8,6 @@ download: https://github.com/brijeshb42/bitwiser-material/archive/gh-pages.zip
 demo: https://bitwiser.in/bitwiser-material/
 author: Brijesh Bittu
 thumbnail: bitwiser-material.png
-license: MIT License
+license: MIT
 license_link: https://github.com/brijeshb42/bitwiser-material/blob/gh-pages/LICENSE
 ---

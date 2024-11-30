@@ -8,7 +8,7 @@ download: https://github.com/brianmaierjr/long-haul/archive/master.zip
 demo: https://brianmaierjr.com/long-haul/
 author: Brian Maier Jr.
 thumbnail: long-haul.png
-license: MIT License
+license: MIT
 license_link: https://github.com/brianmaierjr/long-haul/blob/master/LICENSE
 ---
 

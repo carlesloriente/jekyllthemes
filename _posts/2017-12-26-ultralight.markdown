@@ -8,7 +8,7 @@ download: https://github.com/kotet/ultralight
 demo: https://kotet.github.io/ultralight/
 author: Kotet
 thumbnail: ultralight.png
-license: MIT License
+license: MIT
 license_link: https://github.com/kotet/ultralight/blob/master/LICENSE
 ---
 

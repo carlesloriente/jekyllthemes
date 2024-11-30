@@ -8,7 +8,7 @@ download: https://github.com/dyndna/lanyon-plus/releases/latest
 demo: https://dyndna.github.io/lanyon-plus
 author: Samir Amin @SBAmin
 thumbnail: lanyon-plus.png
-license: MIT License
+license: MIT
 license_link: https://sbamin.com/disclosure/#theme-major-credit--license
 ---
 

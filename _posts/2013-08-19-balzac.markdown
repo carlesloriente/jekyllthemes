@@ -7,7 +7,7 @@ homepage: https://github.com/coletownsend/balzac-for-jekyll
 download: https://github.com/coletownsend/balzac-for-jekyll/archive/master.zip
 author: Cole Townsend
 thumbnail: balzac.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/ColeTownsend/Balzac-for-Jekyll/blob/master/LICENSE
 ---
 

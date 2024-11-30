@@ -8,7 +8,7 @@ download: https://github.com/aron-bordin/neo-hpstr-jekyll-theme/archive/master.z
 demo: https://aron-bordin.github.io/neo-hpstr-jekyll-theme/
 author: Aron Bordin
 thumbnail: neo-hpstr-jekyll-template.png
-license: MIT License
+license: MIT
 license_link: https://raw.githubusercontent.com/aron-bordin/neo-hpstr-jekyll-theme/master/LICENSE
 ---
 

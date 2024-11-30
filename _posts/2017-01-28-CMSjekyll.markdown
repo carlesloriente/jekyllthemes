@@ -8,7 +8,7 @@ download: https://github.com/Xu-Jian/Xu-Jian.github.io/archive/master.zip
 demo: https://0214.help
 author: XuJian
 thumbnail: CMSjekyll.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

@@ -8,7 +8,7 @@ download: https://github.com/dbtek/paper/archive/master.zip
 demo: https://dbtek.github.io/paper-demo/
 author: Ismail Demirbilek
 thumbnail: paper.png
-license: MIT License
+license: MIT
 license_link: https://github.com/dbtek/paper/blob/master/LICENSE
 ---
 

@@ -8,7 +8,7 @@ download: https://github.com/janczizikow/sleek/archive/v0.1-alpha.zip
 demo: https://janczizikow.github.io/sleek/
 author: Jan Czizikow
 thumbnail: sleek.png
-license: MIT License
+license: MIT
 license_link: https://github.com/janczizikow/sleek/blob/master/LICENSE.txt
 carousel:
   - 'https://github.com/janczizikow/sleek/blob/master/sleek.jpg'

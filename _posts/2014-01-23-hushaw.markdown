@@ -8,7 +8,7 @@ download: https://github.com/hushaw/hushaw.github.com/archive/master.zip
 demo: https://hushaw.github.io
 author: signifox
 thumbnail: hushaw.png
-license: MIT License
+license: MIT
 license_link: https://github.com/hushaw/hushaw.github.com/blob/master/LICENCE
 ---
 

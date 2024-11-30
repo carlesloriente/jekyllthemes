@@ -8,7 +8,7 @@ download: https://github.com/peahatlanding/Plain-Webcomic/blob/master/Archive.zi
 demo: https://peahatlanding.github.io/Plain-Webcomic/
 author: Nico Bocalan
 thumbnail: plain-webcomic.png
-license: MIT License
+license: MIT
 license_link:
 ---
 

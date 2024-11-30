@@ -8,6 +8,6 @@ download: https://github.com/laixintao/Princess-Diaries/archive/master.zip
 demo: https://laixintao.github.io/Princess-Diaries.html 
 author: laixintao
 thumbnail: princess-diaries.png
-license: MIT License
+license: MIT
 license_link: https://github.com/laixintao/Princess-Diaries/blob/master/LICENSE
 ---

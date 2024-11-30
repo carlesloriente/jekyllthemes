@@ -8,7 +8,7 @@ download: https://rubygems.org/gems/mere-blog-theme
 demo: https://www.csrhymes.com/mere-blog-theme/
 author: chrisrhymes
 thumbnail: mere-blog-theme.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/chrisrhymes/mere-blog-theme/blob/master/LICENSE.txt
 ---
 

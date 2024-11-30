@@ -8,6 +8,6 @@ download: https://github.com/poole/poole/archive/master.zip
 demo: https://demo.getpoole.com/
 author: Mark Otto
 thumbnail: poole.png
-license: MIT License
+license: MIT
 license_link: https://github.com/poole/poole/blob/master/LICENSE.md
 ---

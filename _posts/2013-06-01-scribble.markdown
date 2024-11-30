@@ -8,7 +8,7 @@ download: https://github.com/muan/scribble/archive/gh-pages.zip
 demo: https://scribble.muan.co/
 author: Mu-An Chiou
 thumbnail: scribble.png
-license: MIT License
+license: MIT
 license_link: https://github.com/muan/scribble/blob/gh-pages/LICENSE
 ---
 

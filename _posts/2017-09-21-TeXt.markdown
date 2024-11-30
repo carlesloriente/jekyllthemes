@@ -7,7 +7,7 @@ homepage: https://github.com/kitian616/jekyll-TeXt-theme
 demo: https://tianqi.name/jekyll-TeXt-theme/
 author: Tian Qi
 thumbnail: TeXt.png
-license: MIT License
+license: MIT
 license_link: https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE
 carousel:
   - 'https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg'

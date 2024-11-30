@@ -8,7 +8,7 @@ download: https://github.com/Vector-7/mapley/archive/refs/heads/master.zip
 demo: https://blog.sweetcase.kr/mapley/
 author: "Ha Jeong Hyun(a.k.a Vector7)"
 thumbnail: vector7-mapley.png
-license: MIT License
+license: MIT
 license_link: https://github.com/Vector-7/mapley/blob/master/LICENSE
 ---
 

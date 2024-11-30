@@ -8,7 +8,7 @@ download: https://github.com/Phlow/feeling-responsive/archive/gh-pages.zip
 demo: https://phlow.github.io/feeling-responsive/
 author: Phlow – Moritz »mo.« Sauer
 thumbnail: feeling-responsive.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
 ---
 

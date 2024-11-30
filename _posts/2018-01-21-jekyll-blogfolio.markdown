@@ -8,7 +8,7 @@ download: https://github.com/lamccloskey/jekyll-theme-blogfolio
 demo: https://lamccloskey.github.io/jekyll-theme-blogfolio/
 author: Logan McCloskey
 thumbnail: jekyll-blogfolio-theme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/lamccloskey/jekyll-theme-blogfolio/blob/master/LICENSE
 ---
 

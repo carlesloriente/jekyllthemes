@@ -8,6 +8,6 @@ download: https://github.com/nandomoreirame/zetsu/archive/master.zip
 demo: https://nandomoreira.me/zetsu/
 author: nandomoreira.me
 thumbnail: zetsu.png
-license: MIT License
+license: MIT
 license_link: https://github.com/nandomoreirame/zetsu/blob/master/LICENSE
 ---

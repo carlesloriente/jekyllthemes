@@ -8,7 +8,7 @@ download: https://github.com/TaylanTatli/Moon/archive/gh-pages.zip
 demo: https://taylantatli.github.io/Moon
 author: Taylan Tatlı
 thumbnail: moon.png
-license: MIT License
+license: MIT
 license_link: https://github.com/TaylanTatli/Ramme/blob/gh-pages/LICENSE
 carousel:
   - 'https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png'

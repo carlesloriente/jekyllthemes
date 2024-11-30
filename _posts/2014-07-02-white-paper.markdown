@@ -8,7 +8,7 @@ download: https://github.com/vinitkumar/white-paper/tree/v2.0.0
 demo: https://vinitkumar.me/white-paper/
 author: Vinit Kumar
 thumbnail: white-paper.png
-license: MIT License
+license: MIT
 license_link: https://github.com/vinitkumar/white-paper/raw/master/LICENSE
 ---
 

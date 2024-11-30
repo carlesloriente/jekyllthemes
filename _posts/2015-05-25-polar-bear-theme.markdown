@@ -8,7 +8,7 @@ download: https://github.com/diezcami/polar-bear-theme/archive/master.zip
 demo: https://diezcami.github.io/polar-bear-theme
 author: Camille Diez
 thumbnail: polar-bear.png
-license: MIT License
+license: MIT
 license_link: https://github.com/diezcami/polar-bear-theme/blob/master/LICENSE
 ---
 

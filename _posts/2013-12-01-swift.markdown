@@ -8,7 +8,7 @@ download: https://github.com/pranavrajs/swift/archive/master.zip
 demo: https://pranavrajs.me/swift/
 author: Pranav
 thumbnail: swift.png
-license: MIT License
+license: MIT
 license_link: https://github.com/pranavrajs/swift/blob/master/LICENSE
 ---
 

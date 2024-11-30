@@ -8,7 +8,7 @@ download: https://github.com/nikrich/jekyll-wing-template
 demo: https://nikrich.github.io/jekyll-wing-template/#
 author: Jannik Richter
 thumbnail: wing.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/nikrich/jekyll-wing-template/blob/master/LICENSE
 ---
 

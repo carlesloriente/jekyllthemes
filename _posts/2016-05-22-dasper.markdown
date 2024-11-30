@@ -8,7 +8,7 @@ download: https://github.com/ozgrozer/dasper/archive/master.zip
 demo: https://ozgrozer.com
 author: ozgrozer
 thumbnail: dasper.png
-license: MIT License
+license: MIT
 license_link: https://github.com/ozgrozer/dasper/blob/master/LICENSE
 ---
 

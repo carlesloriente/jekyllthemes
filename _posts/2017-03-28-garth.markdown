@@ -8,7 +8,7 @@ download: https://github.com/daviddarnes/garth/archive/master.zip
 demo: https://garth.darn.es/
 author: David Darnes
 thumbnail: garth.png
-license: MIT License
+license: MIT
 license_link: https://github.com/daviddarnes/garth/blob/master/LICENSE
 ---
 

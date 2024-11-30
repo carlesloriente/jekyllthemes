@@ -8,7 +8,7 @@ download: https://github.com/clarkhacks/Minimal-Text
 demo: https://gh.clarkhacks.com/Minimal-Text/
 author: Clark Hacks
 thumbnail: minimal-text.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/clarkhacks/Minimal-Text/blob/master/LICENSE
 ---
 

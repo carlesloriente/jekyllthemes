@@ -8,7 +8,7 @@ download: https://github.com/alexanderussell/progress-for-jekyll/archive/master.
 demo: https://alexanderussell.github.io/progress-for-jekyll
 author: Alexander Russell
 thumbnail: progress-for-jekyll.png
-license: MIT License
+license: MIT
 license_link: https://github.com/alexanderussell/progress-for-jekyll/blob/master/LICENSE.md
 ---
 

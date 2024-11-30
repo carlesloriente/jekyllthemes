@@ -8,7 +8,7 @@ download: https://github.com/nandomoreirame/end2end/archive/master.zip
 demo: https://nandomoreira.me/end2end/
 author: nandomoreira.me
 thumbnail: end2end.png
-license: MIT License
+license: MIT
 license_link: https://github.com/nandomoreirame/end2end/blob/master/LICENSE
 ---
 

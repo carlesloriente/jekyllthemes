@@ -8,7 +8,7 @@ download: https://github.com/ellekasai/resumecards/archive/gh-pages.zip
 demo: https://ellekasai.github.io/resumecards/
 author: Elle Kasai
 thumbnail: resumecards.png
-license: MIT License
+license: MIT
 license_link: https://ellekasai.mit-license.org/
 carousel: 
   - 'https://cl.ly/image/3O342N0b0y1h/sample_default.png'

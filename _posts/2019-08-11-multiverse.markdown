@@ -8,7 +8,7 @@ download: https://github.com/joaomlneto/jekyll-multiverse-template/archive/maste
 demo: https://joaomlneto.github.io/jekyll-multiverse-template/
 author: joaomlneto
 thumbnail: multiverse.jpeg
-license: MIT License
+license: MIT
 license_link: https://github.com/joaomlneto/jekyll-multiverse-template/blob/master/LICENSE
 ---
 

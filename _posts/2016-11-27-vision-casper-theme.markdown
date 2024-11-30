@@ -8,7 +8,7 @@ download: https://codeload.github.com/hugocarreira/jekyll-vision-casper-theme/zi
 demo: https://hugocarreira.github.io/jekyll-vision-casper-theme/
 author: Hugo Carrereira
 thumbnail: vision-casper-theme.png
-license: MIT License
+license: MIT
 ---
 
 Only my simple vision of Casper Theme adapted for Jekyll.

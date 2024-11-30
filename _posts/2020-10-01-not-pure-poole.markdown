@@ -7,7 +7,7 @@ download: https://github.com/vszhub/not-pure-poole/zipball/master
 demo: https://vszhub.github.io/not-pure-poole/
 author: Songzi Vong
 thumbnail: not-pure-poole.png
-license: MIT License
+license: MIT
 license_link: https://github.com/vszhub/not-pure-poole/blob/master/LICENSE.md
 ---
 

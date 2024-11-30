@@ -8,7 +8,7 @@ download: https://github.com/stijnvc/holo-alfa/archive/gh-pages.zip
 demo: https://stijnvc.github.io/holo-alfa/
 author: Stijn van Cuijk
 thumbnail: holo-alfa.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

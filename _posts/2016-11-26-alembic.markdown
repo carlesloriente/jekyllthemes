@@ -8,7 +8,7 @@ download: https://github.com/daviddarnes/alembic/archive/master.zip
 demo: https://alembic.darn.es/
 author: David Darnes
 thumbnail: alembic.png
-license: MIT License
+license: MIT
 license_link: https://github.com/daviddarnes/alembic/blob/master/LICENSE
 ---
 

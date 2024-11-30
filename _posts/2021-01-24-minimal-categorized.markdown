@@ -8,7 +8,7 @@ download: https://rubygems.org/gems/minimal-categorized
 demo: https://itsmeaga1n.github.io/minimal-categorized/
 author: ItsMeaga1n
 thumbnail: minimal-categorized-thumbnail.png
-license: MIT License
+license: MIT
 license_link: https://github.com/ItsMeaga1n/minimal-categorized/blob/master/LICENSE.txt
 ---
 

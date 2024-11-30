@@ -8,7 +8,7 @@ download: https://github.com/nandomoreirame/simplest/archive/master.zip
 demo: https://nandomoreira.me/simplest/
 author: nandomoreira.me
 thumbnail: simplest.png
-license: MIT License
+license: MIT
 license_link: https://github.com/nandomoreirame/simplest/blob/master/LICENSE
 ---
 

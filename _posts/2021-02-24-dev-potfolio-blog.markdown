@@ -8,7 +8,7 @@ download: https://rubygems.org/gems/dev-portfolio-blog
 demo: https://therohitjain.com/
 author: Rohit Jain
 thumbnail: dev-portfolio-blog-thumbnail.png
-license: MIT License
+license: MIT
 license_link: https://github.com/rohitjain00/dev-portfolio-blog/blob/master/LICENSE.txt
 ---
 

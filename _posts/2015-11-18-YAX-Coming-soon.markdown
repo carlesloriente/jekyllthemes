@@ -7,7 +7,7 @@ homepage: https://github.com/yonojoy/YAX-Coming-soon-Jekyll-Template
 download: https://github.com/yonojoy/YAX-Coming-soon-Jekyll-Template/archive/v0.1-beta.zip
 author: yonojoy, M. Aghili, Ilya B. & others
 thumbnail: YAX-Coming-soon.png
-license: MIT License
+license: MIT
 license_link: https://github.com/yonojoy/YAX-Coming-soon-Jekyll-Template/blob/master/License.md
 ---
 

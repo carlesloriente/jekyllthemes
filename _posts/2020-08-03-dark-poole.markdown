@@ -8,7 +8,7 @@ download: https://github.com/andrewhwanpark/dark-poole/archive/master.zip
 demo: https://andrewhwanpark.github.io/dark-poole/
 author: Andrew Park
 thumbnail: dark-poole.png
-license: MIT License
+license: MIT
 license_link: https://github.com/andrewhwanpark/dark-poole/blob/master/LICENSE.md
 ---
 

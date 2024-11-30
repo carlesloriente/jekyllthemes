@@ -8,7 +8,7 @@ download: https://github.com/adueck/good-clean-read/archive/master.zip
 demo: https://adueck.github.io/good-clean-read/
 author: Adam Dueck
 thumbnail: good-clean-read.png
-license: MIT License
+license: MIT
 license_link: https://chibicode.mit-license.org/
 ---
 

@@ -8,7 +8,7 @@ download: https://github.com/melangue/jekyllthemes/archive/master.zip
 demo: https://melangue.github.io/dactl/
 author: Marcin C
 thumbnail: dactl_small.png
-license: MIT License
+license: MIT
 license_link: https://github.com/melangue/dactl/blob/master/LICENSE.md
 carousel:
   - 'https://github.com/melangue/dactl/blob/master/uploads/screenshot_desktop_light.jpg?raw=true'

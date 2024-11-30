@@ -8,7 +8,7 @@ download: https://github.com/alidcastano/Utterson/archive/master.zip
 demo: https://utterson.alidcastano.com/
 author: Alid Castano
 thumbnail: utterson.png
-license: MIT License
+license: MIT
 license_link: https://github.com/alidcastano/Utterson/blob/master/LICENSE.md
 carousel: 
   - 'https://cloud.githubusercontent.com/assets/11031952/14027042/22c27794-f1cc-11e5-8a25-9bab1e7920f2.png'

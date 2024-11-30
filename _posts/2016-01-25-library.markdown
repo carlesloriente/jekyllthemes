@@ -8,6 +8,6 @@ download: https://github.com/alexcarpenter/library-jekyll-theme/archive/gh-pages
 demo: https://alexcarpenter.me/library-jekyll-theme/
 author: Alex Carpenter
 thumbnail: library.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/alexcarpenter/library-jekyll-theme/blob/gh-pages/LICENSE
 ---

@@ -8,7 +8,7 @@ download: https://github.com/kronik3r/daktilo/archive/master.zip
 demo: https://electrik-frog.com/daktilo/
 author: Motaquillah Maddane
 thumbnail: daktilo.jpg
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

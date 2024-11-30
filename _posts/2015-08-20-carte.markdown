@@ -8,6 +8,6 @@ download: https://github.com/Wiredcraft/carte/archive/gh-pages.zip
 demo: https://wiredcraft.com/carte/
 author: Wiredcraft
 thumbnail: carte.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/Wiredcraft/carte/blob/gh-pages/LICENSE.md
 ---

@@ -8,7 +8,7 @@ download: https://github.com/thundergolfer/junior-theme/archive/master.zip
 demo: https://juniortheme.live/
 author: Jonathon Belotti
 thumbnail: junior.png
-license: MIT License
+license: MIT
 license_link: https://github.com/thundergolfer/junior-theme/blob/master/LICENSE
 ---
 

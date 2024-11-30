@@ -8,7 +8,7 @@ download: https://github.com/bogoli/-folio/archive/master.zip
 demo: https://liabogoev.com/-folio/
 author: Lia Bogoev
 thumbnail: folio.png
-license: MIT License
+license: MIT
 license_link: https://github.com/bogoli/-folio/blob/master/README.md
 ---
 

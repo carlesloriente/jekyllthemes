@@ -8,7 +8,7 @@ download: https://github.com/le4ker/personal-jekyll-theme/archive/master.zip
 demo: https://le4ker.github.io/personal-jekyll-theme/
 author: Panos Sakkos
 thumbnail: personal.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/le4ker/personal-jekyll-theme/blob/master/LICENSE
 carousel:
   - 'https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-mobile.mov.gif'

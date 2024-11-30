@@ -8,7 +8,7 @@ download: https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip
 demo: https://mmistakes.github.io/skinny-bones-jekyll/
 author: Michael Rose
 thumbnail: skinny-bones.gif
-license: MIT License
+license: MIT
 license_link: https://github.com/mmistakes/skinny-bones-jekyll/blob/master/LICENSE
 ---
 

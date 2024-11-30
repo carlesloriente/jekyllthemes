@@ -8,7 +8,7 @@ download: https://github.com/thinker3197/ink/archive/master.zip
 demo: https://thinker3197.github.io/ink
 author: Ashish Gupta
 thumbnail: ink.png
-license: MIT License
+license: MIT
 license_link: https://github.com/thinker3197/ink/blob/master/LICENSE
 ---
 

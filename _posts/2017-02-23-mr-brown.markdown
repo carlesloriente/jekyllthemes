@@ -8,7 +8,7 @@ download: https://github.com/artemsheludko/mr-brown/archive/master.zip
 demo: https://artemsheludko.pw/mr-brown
 author: Artem Sheludko
 thumbnail: mr-brown.png
-license: MIT License
+license: MIT
 ---
 
 Mr.Brown is a responsive jekyll theme

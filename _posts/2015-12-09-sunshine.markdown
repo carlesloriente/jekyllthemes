@@ -8,7 +8,7 @@ download: https://github.com/limingyang2012/limingyang2012.github.io/archive/mas
 demo: https://limingyang2012.github.io/
 author: limingyang2012
 thumbnail: sunshine.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/limingyang2012/limingyang2012.github.io/blob/master/LICENSE
 ---
 

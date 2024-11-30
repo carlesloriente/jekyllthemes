@@ -8,7 +8,7 @@ download: https://github.com/AWEEKJ/Kiko-plus/archive/master.zip
 demo: https://aweekj.github.io/Kiko-plus
 author: Hanju Jamie Jo
 thumbnail: kiko-plus.png
-license: MIT License
+license: MIT
 ---
 
 An open source minimal theme for Jekyll, ideal for blogging.

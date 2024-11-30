@@ -8,6 +8,6 @@ download: https://github.com/dashingcode/front-cover/archive/master.zip
 demo: https://dashingcode.github.io/front-cover/
 author: DashingCode
 thumbnail: front-cover.png
-license: MIT License
+license: MIT
 license_link: https://github.com/dashingcode/front-cover/blob/master/LICENSE
 ---

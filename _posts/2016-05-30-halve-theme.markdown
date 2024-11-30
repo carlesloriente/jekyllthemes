@@ -8,7 +8,7 @@ download: https://github.com/TaylanTatli/Halve/archive/master.zip
 demo: https://taylantatli.github.io/Halve
 author: Taylan Tatlı
 thumbnail: halve-theme.png
-license: MIT License
+license: MIT
 license_link: https://github.com/TaylanTatli/Halve/blob/master/LICENSE
 carousel:
   - 'https://raw.githubusercontent.com/TaylanTatli/Halve/master/images/halve-home-image.png'

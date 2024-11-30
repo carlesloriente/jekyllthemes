@@ -8,7 +8,7 @@ download: https://rubygems.org/gems/jekyll-shell-theme
 demo: https://tareqdandachi.github.io/jekyll-shell-theme
 author: Tareq El Dandachi
 thumbnail: shell.png
-license: MIT License
+license: MIT
 license_link: https://github.com/tareqdandachi/jekyll-shell-theme/blob/master/LICENSE
 ---
 

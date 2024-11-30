@@ -8,7 +8,7 @@ download: https://github.com/sorphwer/jekyll-theme-panda/archive/refs/tags/Relea
 demo: https://riino.site/jekyll-theme-panda/
 author: Riino Zhang
 thumbnail: jekyll-theme-panda.jpg
-license: MIT License
+license: MIT
 license_link: http://opensource.org/licenses/MIT
 ---
 

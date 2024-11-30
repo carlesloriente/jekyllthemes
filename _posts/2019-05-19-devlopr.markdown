@@ -8,7 +8,7 @@ download: https://rubygems.org/gems/devlopr
 demo: https://devlopr.netlify.com
 author: Sujay Kundu
 thumbnail: devlopr.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

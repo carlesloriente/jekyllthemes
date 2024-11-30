@@ -8,7 +8,7 @@ download: https://github.com/aspirethemes/type/archive/master.zip
 demo: https://type-jekyll.aspirethemes.com/
 author: Aspire Themes
 thumbnail: type.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/aspirethemes/type/blob/master/LICENSE
 ---
 

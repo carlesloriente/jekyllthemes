@@ -8,7 +8,7 @@ download: https://digitalmind.ch/media/downloads/twister_theme.zip
 demo: https://digitalmind.ch/themes/twister-jekyll-theme/demo/
 author: Digitalmind
 thumbnail: twister.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/DigitalMindCH/twister/blob/master/LICENSE.md
 ---
 

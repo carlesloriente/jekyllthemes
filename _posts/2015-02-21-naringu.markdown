@@ -8,7 +8,7 @@ download: https://github.com/ariestiyansyah/naringu/archive/master.zip
 demo: https://naringu.oonlab.com
 author: Rizky Ariestiyansyah
 thumbnail: naringu.png
-license: MIT License
+license: MIT
 license_link: https://github.com/ariestiyansyah/naringu/blob/master/LICENSE.md
 ---
 

@@ -8,7 +8,7 @@ download: https://github.com/samesies/jekyll-dash/archive/master.zip
 demo: https://bitbrain.github.io
 author: Miguel Gonzalez Sanchez
 thumbnail: dash.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/bitbrain/jekyll-dash/blob/master/LICENSE
 carousel:
   - 'https://raw.githubusercontent.com/bitbrain/jekyll-dash/master/screenshot.png'

@@ -8,7 +8,7 @@ download: https://github.com/DigitalMindCH/gridster-jekyll-theme/archive/master.
 demo: https://digitalmind.ch/themes/gridster-jekyll-theme/demo/
 author: Digitalmind
 thumbnail: gridster.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/DigitalMindCH/gridster-jekyll-theme/blob/master/LICENCE
 ---
 

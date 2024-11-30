@@ -8,7 +8,7 @@ download: https://github.com/jokinkuang/stepbystep/archive/master.zip
 demo: https://github.com/jokinkuang/stepbystep#preview
 author: Jokin Kuang
 thumbnail: jekyll-stepbystep.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/jokinkuang/stepbystep#license
 ---
 

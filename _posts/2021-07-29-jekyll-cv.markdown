@@ -7,7 +7,7 @@ homepage: https://github.com/Stavrospanakakis/jekyll-cv
 demo: https://jekyll-cv.stavrospanakakis.com
 author: Stavrospanakakis
 thumbnail: jekyll-cv.png
-license: MIT License
+license: MIT
 license_link: https://github.com/Stavrospanakakis/jekyll-cv/blob/main/LICENSE
 carousel:
   - 'https://github.com/Stavrospanakakis/jekyll-cv/blob/main/preview.png'

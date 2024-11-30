@@ -8,7 +8,7 @@ download: https://github.com/songroger/murmur/archive/master.zip
 demo: https://songroger.github.io/murmur
 author: Songroger
 thumbnail: murmur.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 

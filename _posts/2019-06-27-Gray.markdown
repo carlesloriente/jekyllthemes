@@ -8,7 +8,7 @@ download: https://github.com/brunofolle/gray/archive/master.zip
 demo: https://brunofolle.com.br
 author: Bruno Folle
 thumbnail: gray.png
-license: MIT License
+license: MIT
 license_link: https://github.com/brunofolle/gray/blob/master/LICENSE.txt
 ---
 

@@ -8,6 +8,6 @@ download: https://github.com/nandomoreirame/nandomoreira-jekyll-theme/archive/ma
 demo: https://nandomoreira.me/nandomoreira-jekyll-theme/
 author: nandomoreira.me
 thumbnail: nandomoreira.me.png
-license: MIT License
+license: MIT
 license_link: https://github.com/nandomoreirame/nandomoreira-jekyll-theme/blob/master/LICENSE
 ---

@@ -8,7 +8,7 @@ download: https://github.com/LiXizhi/lixizhi.github.io/archive/master.zip
 demo: https://lixizhi.github.io/
 author: LiXizhi
 thumbnail: cool-concise-high-end.jpg
-license: MIT License
+license: MIT
 ---
 
 This is a wiki style blog theme based on [concise-high-end theme](https://github.com/Gaohaoyang/gaohaoyang.github.io).

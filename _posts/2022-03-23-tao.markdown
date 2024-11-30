@@ -8,7 +8,7 @@ download: https://github.com/vfvong/jekyll-theme-tao/archive/refs/heads/main.zip
 demo: https://vfvong.blog/jekyll-theme-tao/
 author: Song-Zi Vong
 thumbnail: tao.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/vfvong/jekyll-theme-tao/blob/main/LICENSE.txt
 ---
 

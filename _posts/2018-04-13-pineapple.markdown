@@ -8,7 +8,7 @@ download: https://github.com/arnolds/pineapple/archive/master.zip
 demo: https://arnolds.io/pineapple/
 author: Arnolds Kozlovskis
 thumbnail: pineapple.png
-license: MIT License
+license: MIT
 license_link: https://github.com/arnolds/pineapple/blob/master/LICENSE.md
 carousel:
   - 'https://user-images.githubusercontent.com/9528895/38713105-6dda8a74-3ec7-11e8-8062-8aa6cf24c795.jpg'

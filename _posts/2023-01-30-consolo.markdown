@@ -8,7 +8,7 @@ download: https://github.com/Forthoney/consolo/archive/master.zip
 demo: https://Forthoney.github.io
 author: Forthoney
 thumbnail: consolo.png
-license: MIT License
+license: MIT
 license_link: http://opensource.org/licenses/MIT
 ---
 

@@ -8,7 +8,7 @@ download: https://github.com/LeNPaul/Lagrange/archive/gh-pages.zip
 demo: https://lenpaul.github.io/Lagrange/
 author: Paul Le
 thumbnail: lagrange.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/LeNPaul/Lagrange/blob/gh-pages/LICENSE
 carousel:
   - 'https://cloud.githubusercontent.com/assets/8409329/21747617/7ef0e18e-d53a-11e6-8f90-8bb14b62ba20.jpg'

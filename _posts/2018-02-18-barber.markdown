@@ -8,7 +8,7 @@ download: https://github.com/samesies/barber-jekyll/archive/master.zip
 demo: https://barber.samesies.io/
 author: Thomas Vaeth
 thumbnail: barber.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/samesies/barber-jekyll/blob/master/LICENSE
 carousel:
   - 'https://raw.githubusercontent.com/samesies/barber-jekyll/master/barber.jpg'

@@ -8,7 +8,7 @@ download: https://github.com/enterthecrucible/materialized_jekyll_theme/archive/
 demo: https://enterthecrucible.co
 author: Crucible
 thumbnail: jekyll-plus-materialize.png
-license: MIT License
+license: MIT
 license_link: https://github.com/enterthecrucible/materialized_jekyll_theme/blob/master/LISCENSE.md
 ---
 

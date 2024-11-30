@@ -8,7 +8,7 @@ download: https://github.com/the-development/flex/archive/master.zip
 demo: https://the-development.github.io/flex
 author: Jeff Martin
 thumbnail: flex.png
-license: MIT License
+license: MIT
 license_link: https://github.com/the-development/flex/blob/master/LICENSE
 ---
 

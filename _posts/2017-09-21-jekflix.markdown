@@ -8,7 +8,7 @@ download: https://github.com/thiagorossener/jekflix-template/archive/master.zip
 demo: https://www.rossener.com/jekflix-template/
 author: Thiago Rossener
 thumbnail: jekflix.png
-license: MIT License
+license: MIT
 license_link: https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE
 ---
 

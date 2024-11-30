@@ -8,7 +8,7 @@ download: https://github.com/dirkfabisch/mediator/archive/master.zip
 demo: https://blog.base68.com
 author: Dirk Fabisch
 thumbnail: mediator.png
-license: MIT License
+license: MIT
 license_link: https://github.com/dirkfabisch/mediator/blob/master/LICENCE
 ---
 

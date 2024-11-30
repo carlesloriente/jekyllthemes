@@ -8,7 +8,7 @@ download: https://github.com/holman/left/archive/gh-pages.zip
 demo: https://zachholman.com/left/
 author: Zach Holman
 thumbnail: left.png
-license: MIT License
+license: MIT
 license_link: https://github.com/holman/left/blob/gh-pages/LICENSE
 ---
 

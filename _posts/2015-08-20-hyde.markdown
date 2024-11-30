@@ -8,6 +8,6 @@ download: https://github.com/poole/hyde/archive/master.zip
 demo: https://hyde.getpoole.com/
 author: Mark Otto
 thumbnail: hyde.png
-license: MIT License
+license: MIT
 license_link: https://github.com/poole/hyde/blob/master/LICENSE.md
 ---

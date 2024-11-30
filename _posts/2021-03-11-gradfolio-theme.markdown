@@ -8,7 +8,7 @@ download: https://github.com/jitinnair1/gradfolio/releases/latest/
 demo: https://jitinnair1.github.io/gradfolio/
 author: Jitin Nair
 thumbnail: gradfolio.png
-license: MIT License
+license: MIT
 license_link: https://github.com/jitinnair1/gradfolio/blob/master/LICENSE
 carousel:
   - 'https://user-images.githubusercontent.com/2485715/110634179-acaa7e00-81cf-11eb-8846-062ecf961d1e.png'

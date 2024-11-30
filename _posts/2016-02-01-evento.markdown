@@ -8,6 +8,6 @@ download: https://github.com/boyney123/evento/archive/master.zip
 demo: https://evento.davidboyne.co.uk
 author: David Boyne
 thumbnail: evento.png
-license: MIT License
+license: MIT
 license_link: https://github.com/boyney123/evento/blob/master/LICENSE
 ---

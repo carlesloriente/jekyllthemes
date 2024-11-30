@@ -8,7 +8,7 @@ download: https://github.com/macrod68/jekyll-materialize-starter-template/archiv
 demo: https://www.panoramedia.eu/jekyllmaterialize/
 author: Marco Damiani
 thumbnail: jekyllmaterialize.png
-license: MIT License
+license: MIT
 license_link: https://github.com/macrod68/jekyll-materialize-starter-template/blob/master/LICENSE.txt
 ---
 

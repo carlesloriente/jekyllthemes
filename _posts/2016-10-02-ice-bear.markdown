@@ -8,7 +8,7 @@ download: https://github.com/songkong/Blog/archive/gh-pages.zip
 demo: https://kongsong.me
 author: Song
 thumbnail: ice-bear.png
-license: MIT License
+license: MIT
 license_link: https://github.com/songkong/Blog/blob/gh-pages/LICENSE.md
 ---
 

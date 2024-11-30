@@ -8,7 +8,7 @@ download: https://github.com/sharu725/gatok/archive/master.zip
 demo: https://webjeda.com/gatok
 author: webjeda
 thumbnail: gatok.png
-license: MIT License
+license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:
   - 'https://webjeda.com/gatok/images/webjeda-gatok-jekyll-theme-screenshot-1.png'

@@ -8,7 +8,7 @@ download: https://github.com/aigarsdz/brume/archive/master.zip
 demo: https://aigarsdz.github.io/brume
 author: Aigars Dzerviniks
 thumbnail: brume.png
-license: MIT License
+license: MIT
 license_link: https://github.com/aigarsdz/brume/blob/master/LICENSE.md
 ---
 

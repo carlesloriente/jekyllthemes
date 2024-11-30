@@ -8,7 +8,7 @@ download: https://github.com/vietanhdev/beNice17/archive/master.zip
 demo: https://vietanhdev.com/beNice17/
 author: Viet Anh Nguyen
 thumbnail: beNice17.png
-license: MIT License
+license: MIT
 license_link: https://raw.githubusercontent.com/vietanhdev/beNice17/master/LICENSE
 ---
 

@@ -8,7 +8,7 @@ download: https://github.com/yulijia/freshman21/archive/master.zip
 demo: https://yulijia.net/freshman21/
 author: Lijia Yu
 thumbnail: freshman21.png
-license: MIT License
+license: MIT
 license_link: https://github.com/yulijia/freshman21/blob/master/LICENSE
 carousel:
   - 'https://i.imgur.com/oSp7kacl.png'

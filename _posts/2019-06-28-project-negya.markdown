@@ -8,7 +8,7 @@ download: https://codeload.github.com/akiritsu/pRoJEct-NeGYa/zip/master
 demo: https://akiritsu.github.io/pRoJEct-NeGYa/
 author: DeerRIDER
 thumbnail: pn.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/akiritsu/pRoJEct-NeGYa/blob/master/LICENSE
 ---
 

@@ -8,7 +8,7 @@ download: https://github.com/nielsenramon/chalk
 demo: https://chalk.nielsenramon.com
 author: Nielsen Ramon
 thumbnail: chalk.png
-license: MIT License
+license: MIT
 carousel: 
   - 'https://github.com/nielsenramon/chalk/blob/master/_assets/images/documentation/enlarge@2x.gif?raw=true'
 ---
