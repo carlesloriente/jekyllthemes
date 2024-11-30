@@ -12,4 +12,4 @@ license: MIT License
 license_link: https://github.com/benradford/Slate-and-Simple-Jekyll-Theme/LICENSE
 ---
 
-**Slate+Simple** is a sleek Jekyll theme that features clean typography, post featured images, MathJax, and Font-Awesome integration. 
+**Slate+Simple** is a sleek Jekyll theme that features clean typography, post featured images, MathJax, and Font-Awesome integration.

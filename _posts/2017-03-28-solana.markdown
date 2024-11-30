@@ -21,7 +21,6 @@ A Wholesome, Flat, Sunshiny Jekyll Theme
 * Compatible with GitHub Pages
 * Supports categories & tags
 * Responsive design
-* Lightweight (no jQuery, Bootstrap, etc.) 
+* Lightweight (no jQuery, Bootstrap, etc.)
 * Obfuscates email addresses for protection against email harvesting bots
 * Comments via outbound links to Reddit
-
