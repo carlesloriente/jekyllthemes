@@ -7,9 +7,11 @@ homepage: https://github.com/MengZheK/kangblog.github.io
 download: https://github.com/MengZheK/kangblog.github.io/archive/master.zip
 demo: http://robotkang.cc
 author: Robotkang
-thumbnail: Robotkang.jpg.png
+thumbnail: robotkang.png
 license: MIT
 license_link: https://github.com/samanyougarg/hanuman/blob/master/LICENSE
+carousel:
+  - '/thumbnails/robotkang_site.png'
 ---
 
 Robotkang, a responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.

@@ -4,9 +4,9 @@ author                  : Carles Loriente
 url                     : "https://www.bestjekyllthemes.site"
 baseurl                 : "/" 
 timezone                : "Europe/Madrid"
-description             : A directory of the best-looking themes for Jekyll.
+description             : A curated directory of the best-looking free and premium themes for Jekyll.
 full_description        : >
- A directory of the best-looking themes for Jekyll, forked from the abandoned project jekyllthemes.org.
+ A curated directory of the best-looking free and premium themes for Jekyll, forked from the abandoned project jekyllthemes.org.
 gh_repository           : https://github.com/carlesloriente/jekyllthemes/
 encoding                : "utf-8"
 locale                  : "en-US"
