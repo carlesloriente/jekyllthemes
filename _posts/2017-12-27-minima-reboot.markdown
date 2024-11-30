@@ -36,4 +36,3 @@ remote_theme: aterenin/minima-reboot
 Jekyll will automatically download and enable the theme, provided it is up to date.
 
 Alternatively, Minima Reboot is a [gem-based theme](https://jekyllrb.com/docs/themes/) and can be installed from [rubygems.org](https://rubygems.org/gems/minima-reboot).
-
