@@ -41,7 +41,12 @@ layout: default
           {% if page.license_link %}
           <a class="btn active" href="{{ page.license_link }}" target="_blank"><i class="fa fa-id-card" aria-hidden="true"></i> License</a>
           {% endif %}
-          <br><div class="page-image text-center"><img src="/thumbnails/{{ page.thumbnail }}" class="rounded mx-auto d-block" alt="{{ page.title | append: ' thumbnail' }}"></div>
+          <br>
+          {% if page.thumbnail %}
+            <div class="page-image text-center"><img src="/thumbnails/{{ page.thumbnail }}" class="rounded mx-auto d-block" alt="{{ page.title | append: ' thumbnail' }}"></div>
+          {% else %}
+            <div class="item-image text-center"><img src="/assets/images/placeholder.png" class="rounded mx-auto d-block" alt="{{ page.title | append: ' thumbnail' }}"></div>
+          {% endif %}
         </div>
       </div>
     </div>
