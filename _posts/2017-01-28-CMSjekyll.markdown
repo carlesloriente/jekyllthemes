@@ -12,4 +12,4 @@ license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 
-[CMS-jekyll Theme](www.0214.help)
+[CMS-jekyll Theme](https://www.0214.help)
