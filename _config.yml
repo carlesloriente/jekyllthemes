@@ -55,6 +55,8 @@ permalink: /themes/:title/
 
 highlighter: pygments
 
+markdown: kramdown
+
 # Markdown Processors
 kramdown:
   auto_ids              : true
@@ -65,8 +67,6 @@ kramdown:
   hard_wrap             : false
   footnote_nr           : 1
   show_warnings         : false
-rdiscount:
-    extensions: ['smart']
 
 # Build settings
 paginate                : 20
