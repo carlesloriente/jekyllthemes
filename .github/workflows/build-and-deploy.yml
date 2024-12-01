@@ -44,6 +44,11 @@ jobs:
         run: sh bin/build.sh
         env:
           JEKYLL_ENV: production
+      - name: IndexNow file to file
+        run: |
+          cat << EOF > ./docs/${{secrets.INDEXNOW_KEY }}.txt
+          ${{ secrets.INDEXNOW_KEY }}
+          EOF
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
