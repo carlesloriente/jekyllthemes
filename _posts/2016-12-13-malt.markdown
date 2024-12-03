@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Malt
 date: 2016-12-13 00:00:00
 homepage: https://github.com/CloudCannon/malt-jekyll-template
@@ -12,6 +13,8 @@ license_link: https://github.com/CloudCannon/malt-jekyll-template/blob/master/LI
 ---
 
 Malt is a great starting point for an event website.
+
+## Features
 
 * List featured brands or speakers.
 * Embed Eventbrite so attendees can book tickets directly on the site.

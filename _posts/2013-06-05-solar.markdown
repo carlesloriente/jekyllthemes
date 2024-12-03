@@ -1,13 +1,14 @@
 ---
 layout: post
+comments: true
 title: Solar
 date: 2013-06-05 01:42:00
 homepage: https://github.com/mattvh/solar-theme-jekyll
 download: https://github.com/mattvh/solar-theme-jekyll/archive/master.zip
-demo: http://mattvh.github.io/solar-theme-jekyll/
+demo: https://mattvh.github.io/solar-theme-jekyll/
 author: Matt Harzewski
 thumbnail: solar.png
-license: GNU General Public License Version 2 or higher
+license: GNU General Public License Version 2
 license_link: https://github.com/mattvh/solar-theme-jekyll#license
 ---
 
@@ -17,10 +18,6 @@ GitHub!](https://github.com/mattvh/solar-theme-jekyll)
 
 ## Features
 
-* **Two color schemes** — One for Solarized Dark and one for Solarized
-  Light. Just swap the reference to the `colors-dark.css` file with
-  `colors-light.css` if you don't like light-on-dark.
-* **Linkblog support** — Solar will turn your post title into an
-  external link if you add `external-url: http://example.org` to a
-  post's YAML front matter.
-* **Responsive Design** — Solarized adapts to fit any screen size.
+* **Two color schemes** One for Solarized Dark and one for Solarized Light. Just swap the reference to the `colors-dark.css` file with `colors-light.css` if you don't like light-on-dark.
+* **Linkblog support** Solar will turn your post title into an external link if you add `external-url: https://example.org` to a post's YAML front matter.
+* **Responsive Design** Solarized adapts to fit any screen size.

@@ -1,35 +1,27 @@
 ---
 layout: post
+comments: true
 title: Harmony
 date: 2014-09-09 00:16:00
 homepage: https://github.com/gayanvirajith/harmony
 download: https://github.com/gayanvirajith/harmony/archive/master.zip
-demo: http://gayan.me/harmony/
+demo: https://gayan.me/harmony/
 author: Gayan Virajith
 thumbnail: harmony.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/gayanvirajith/harmony/blob/master/LICENSE.md
+carousel: 
+  - 'https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony-home-page.png'
+  - 'https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony.png'
+  - 'https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony-blog-page.png'
 ---
 
 Harmony is a responsive jekyll theme.
 
-- Build for jekyll 2.x
-- Support Google anaytics and RSS feeds
-- Sass based styles
-- Browser support: IE 8+, Chrome, Safari and Firefox
-- Fluidly responsive
+## Features
 
-### Screenshots
-
-#### Home page
-
-![Home page screenshot](https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony-home-page.png "Desktop screen")
-
-#### Article page
-
-![Blog article page](https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony.png "Blog article page")
-
-#### Blog archive page 
-
-![Blog archive page](https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony-blog-page.png "Blog archive page")
-
+* Build for jekyll 2.x
+* Support Google anaytics and RSS feeds
+* Sass based styles
+* Browser support: IE 8+, Chrome, Safari and Firefox
+* Fluidly responsive

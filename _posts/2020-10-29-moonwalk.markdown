@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Moonwalk
 date: 2020-10-29 12:00:00
 homepage: https://github.com/abhinavs/moonwalk
@@ -13,7 +14,7 @@ license_link: https://github.com/abhinavs/moonwalk/blob/master/LICENSE.txt
 
 A fast and minimalistic blog theme with clean dark mode.
 
-Features
+## Features
 
 * Light & dark mode with theme switcher
 * Vertical list, horizontal list, card list

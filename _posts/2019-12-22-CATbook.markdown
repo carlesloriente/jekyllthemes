@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Catbook
 date: 2019-12-22 02:30:00
 homepage: https://github.com/starry99/catbook
@@ -9,15 +10,14 @@ author: Starry99
 thumbnail: catbook.png
 license: MIT
 license_link: https://github.com/starry99/catbook/blob/master/LICENSE
+carousel:
+  - 'https://starry99.github.io/catbook/assets/img/lmode.jpg'
+  - 'https://starry99.github.io/catbook/assets/img/dmode.jpg'
 ---
 
 CATbook is a CATegory-centric Jekyll theme for bloggers. There is a switch button to toggle between dark mode and light mode.
 
-Features
+## Features
 
-- Light/Dark Mode Toggle
-- Responsive Design
-
-
-![SCREENSHOT](https://starry99.github.io/catbook/assets/img/lmode.jpg)
-![SCREENSHOT](https://starry99.github.io/catbook/assets/img/dmode.jpg)
+* Light/Dark Mode Toggle
+* Responsive Design

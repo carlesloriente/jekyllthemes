@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Type
 date: 2017-11-13 07:00:00
 homepage: https://github.com/aspirethemes/type
@@ -7,17 +8,19 @@ download: https://github.com/aspirethemes/type/archive/master.zip
 demo: https://type-jekyll.aspirethemes.com/
 author: Aspire Themes
 thumbnail: type.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/aspirethemes/type/blob/master/LICENSE
 ---
 
 Minimal and Clean Jekyll Theme
 
-- Clean and Minimal Design
-- Mobile First and 100% Responsive Layout
-- Tags (No GitHub Pages support)
-- Included feed.xml
-- Social Media Icons
-- Post and Page Feature Image Support
-- Disqus Comments and Google Analytics support
-- Sass and ITCSS
+## Features
+
+* Clean and Minimal Design
+* Mobile First and 100% Responsive Layout
+* Tags (No GitHub Pages support)
+* Included feed.xml
+* Social Media Icons
+* Post and Page Feature Image Support
+* Disqus Comments and Google Analytics support
+* Sass and ITCSS

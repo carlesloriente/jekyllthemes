@@ -1,14 +1,15 @@
 ---
 layout: post
+comments: true
 title: Aliquam
 date: 2016-05-24 20:40:00
 homepage: https://github.com/grrinchas/aliquam
 download: https://github.com/grrinchas/aliquam/blob/master/aliquam-theme.zip
-demo: http://grrinchas.github.io/aliquam/
+demo: https://grrinchas.github.io/aliquam/
 author: grrinchas
 thumbnail: aliquam.png
-license: MIT License
-license_link: http://opensource.org/licenses/MIT
+license: MIT
+license_link: https://opensource.org/licenses/MIT
 ---
 
 Minimalistic Jekyll Template with Disqus integration.

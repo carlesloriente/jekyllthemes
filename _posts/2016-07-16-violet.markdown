@@ -1,14 +1,15 @@
 ---
 layout: post
+comments: true
 title: Violet
 date: 2016-07-16 16:35:00
 homepage: https://github.com/sergiokopplin/violet
 download: https://github.com/sergiokopplin/violet/archive/gh-pages.zip
-demo: http://sergiokopplin.github.io/violet/
+demo: https://sergiokopplin.github.io/violet/
 author: Sérgio Kopplin
 thumbnail: violet.png
-license: MIT License
-license_link: http://kopplin.mit-license.org/
+license: MIT
+license_link: https://kopplin.mit-license.org/
 ---
 
 A purple theme for girls and boys. Inspired on @cyberglot.

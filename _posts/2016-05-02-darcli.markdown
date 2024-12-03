@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Darcli
 date: 2016-05-02 17:00:00
 homepage: https://github.com/gjuniioor/darcli
@@ -13,5 +14,4 @@ license_link: https://github.com/gjuniioor/darcli/blob/gh-pages/assets/LICENSE
 
 A minimal dark theme focused on the content.
 
-To more information, please, take a look at the
-[README](https://github.com/gjuniioor/darcli/) file.
+To more information, please, take a look at the [README](https://github.com/gjuniioor/darcli/) file.

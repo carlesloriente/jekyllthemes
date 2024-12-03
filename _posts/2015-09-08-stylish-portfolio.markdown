@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Stylish Portfolio
 date: 2015-09-08 01:03:00
 homepage: https://github.com/volny/stylish-portfolio-jekyll
@@ -11,5 +12,4 @@ license: Apache License Version 2.0
 license_link: https://github.com/volny/stylish-portfolio-jekyll/blob/master/LICENSE
 ---
 
-Stylish Portfolio is a one page Bootstrap portfolio theme with off
-canvas navigation and smooth scrolling through content sections.
+Stylish Portfolio is a one page Bootstrap portfolio theme with off canvas navigation and smooth scrolling through content sections.

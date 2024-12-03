@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: beNice17
 date: 2017-01-05 00:00:00
 homepage: https://vietanhdev.com/
@@ -7,9 +8,8 @@ download: https://github.com/vietanhdev/beNice17/archive/master.zip
 demo: https://vietanhdev.com/beNice17/
 author: Viet Anh Nguyen
 thumbnail: beNice17.png
-license: MIT License
+license: MIT
 license_link: https://raw.githubusercontent.com/vietanhdev/beNice17/master/LICENSE
 ---
 
-A very light, simple and responsive jekyll theme. Suitable for personal
-websites and blogs.
+A very light, simple and responsive jekyll theme. Suitable for personal websites and blogs.

@@ -1,13 +1,14 @@
 ---
 layout: post
+comments: true
 title: TextLog
 date: 2017-01-15 16:41:00
 homepage: https://github.com/heiswayi/textlog
 download: https://github.com/heiswayi/textlog/archive/gh-pages.zip
-demo: http://heiswayi.github.io/textlog/
+demo: https://heiswayi.github.io/textlog/
 author: Heiswayi Nrird
 thumbnail: textlog.png
-license: MIT License
+license: MIT
 license_link: https://github.com/heiswayi/textlog/blob/gh-pages/LICENSE.md
 ---
 

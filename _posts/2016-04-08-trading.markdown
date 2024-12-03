@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Trading
 date: 2016-04-08 11:43:00
 homepage: https://github.com/altcointrading/trading
@@ -7,9 +8,8 @@ download: https://github.com/altcointrading/trading/archive/master.zip
 demo: https://www.altcointrading.net/
 author: AltcoinTrading
 thumbnail: trading.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/altcointrading/trading/blob/master/LICENSE
 ---
 
-Clean, very simple newspaper-style Jekyll theme. Has places for ad
-banners and built-in schema.org markup.
+Clean, very simple newspaper-style Jekyll theme. Has places for ad banners and built-in schema.org markup.

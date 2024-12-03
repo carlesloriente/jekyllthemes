@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Console
 date: 2017-02-08 00:00:00
 homepage: https://github.com/jaehee0113/console
@@ -7,17 +8,13 @@ download: https://github.com/jaehee0113/console/archive/master.zip
 demo: https://jaehee0113.github.io/console
 author: Jae Hee Lee
 thumbnail: console.png
-license: MIT License
+license: MIT
 license_link: https://github.com/jaehee0113/console/blob/master/LICENSE.txt
 ---
 
-### Console theme
+Console theme, concise and fast theme for everyone.
 
-concise and fast theme for everyone. 
-
-[Try it now!](https://jaehee0113.github.io/console)
-
-Features include but not limited to:
+## Features
 
 * Gulp
 * Post search functionality
@@ -33,29 +30,10 @@ Features include but not limited to:
 
 There are more features to come. Stay tuned!
 
-### Watch
-
-<iframe
-src="//ghbtns.com/github-btn.html?user=jaehee0113&repo=console&type=watch&count=true&size=small"
-allowtransparency="true" frameborder="0" scrolling="0" width="110px"
-height="20px"></iframe>
-
 ### Contribute
-
-<iframe
-src="//ghbtns.com/github-btn.html?user=jaehee0113&repo=console&type=fork&count=true&size=small"
-allowtransparency="true" frameborder="0" scrolling="0" width="95px"
-height="20px"></iframe>
 
 1. Fork [the repository](https://github.com/jaehee0113/console).
 2. Create feature branch.
 3. Commit the changes you made.
 4. Push to the branch.
 5. Create a new pull request.
-
-### Contact
-
-<iframe
-src="//ghbtns.com/github-btn.html?user=jaehee0113&type=follow&count=true&size=small"
-allowtransparency="true" frameborder="0" scrolling="0" width="156px"
-height="20px"></iframe>

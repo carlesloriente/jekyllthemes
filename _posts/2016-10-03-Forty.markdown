@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Forty (by HTML5 Up!)
 date: 2016-10-03 00:00:00
 homepage: https://github.com/andrewbanchich/Forty-Jekyll-Theme
@@ -8,7 +9,7 @@ demo: https://andrewbanchich.gitlab.io/forty-jekyll-theme/
 author: Andrew Banchich
 thumbnail: forty.png
 license: Creative Commons Attribution 3.0 Unported License
-license_link: html5up.net/license
+license_link: https://html5up.net/license
 ---
 
 A Jekyll version of the "Forty" theme by HTML5 UP.

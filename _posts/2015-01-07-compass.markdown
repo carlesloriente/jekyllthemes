@@ -1,17 +1,20 @@
 ---
 layout: post
+comments: true
 title: Compass
 date: 2015-01-07 19:33:00
 homepage: https://github.com/excentris/compass
 download: https://github.com/excentris/compass/archive/master.zip
-demo: http://excentris.github.io/compass/
+demo: https://excentris.github.io/compass/
 author: Eduardo Rubio
 thumbnail: compass.png
-license: MIT License
+license: MIT
 license_link: https://github.com/excentris/compass/blob/master/LICENSE
 ---
 
 A simple and elegant personal landing page.
+
+## Features
 
 * Responsive design
 * Mobile friendly

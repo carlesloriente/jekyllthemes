@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Textalic
 date: 2019-12-24 21:20:00
 homepage: https://github.com/UniFreak/jekyll-theme-textalic
@@ -7,29 +8,25 @@ download: https://codeload.github.com/UniFreak/jekyll-theme-textalic/zip/master
 demo: https://unifreak.github.io
 author: FangHao
 thumbnail: textalic.png
-license: MIT License
+license: MIT
 license_link: https://github.com/UniFreak/jekyll-theme-textalic/blob/master/LICENCE
 ---
 
-# Jekyll Theme Textalic
-
-![mockup](https://raw.githubusercontent.com/UniFreak/jekyll-theme-textalic/master/assets/img/mockup.png "Mock Up")
-
-**Textalic** is a simple, responsive jekyll theme focus on blogging. Here is a [live demo](https://unifreak.github.io).
+Jekyll Theme **Textalic** is a simple, responsive jekyll theme focus on blogging.
 
 ## Features
 
-- Github flavor markdown rendering
-- Post category, tag and series
-- Code highlighting
-- Autogenerate table of content
-- Disqus comment
-- Fulltext search (powered by [jekyll-simple-search plugin](https://github.com/christian-fei/Simple-Jekyll-Search))
-- Google analytics
-- Atom feed
-- Sitemap
+* Github flavor markdown rendering
+* Post category, tag and series
+* Code highlighting
+* Autogenerate table of content
+* Disqus comment
+* Fulltext search (powered by [jekyll-simple-search plugin](https://github.com/christian-fei/Simple-Jekyll-Search))
+* Google analytics
+* Atom feed
+* Sitemap
 
-## Install & Configuration
+## Installation
 
 ### Set up jekyll
 
@@ -72,9 +69,7 @@ jekyll-theme-textalic
 
 Run the following to install required gems defined in `Gemfile`:
 
-```
-$ bundle install
-```
+`$ bundle install`
 
 ### Customization
 
@@ -110,10 +105,6 @@ Sereis are implemented using [Jekyll's collections](https://jekyllrb.com/docs/co
 
 3. By adding new post under series folder, you add post under the corresponding series
 
-## Deployment
+### Deployment
 
 See [Jekyll doc on deployment](https://jekyllrb.com/docs/deployment/)
-
-## That's it
-
-Happy blogging!

@@ -1,25 +1,21 @@
 ---
 layout: post
+comments: true
 title: Dash
 date: 2019-05-05 00:00:00
 homepage: https://github.com/bitbrain/jekyll-dash
 download: https://github.com/samesies/jekyll-dash/archive/master.zip
-demo: http://bitbrain.github.io
+demo: https://bitbrain.github.io
 author: Miguel Gonzalez Sanchez
 thumbnail: dash.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/bitbrain/jekyll-dash/blob/master/LICENSE
+carousel:
+  - 'https://raw.githubusercontent.com/bitbrain/jekyll-dash/master/screenshot.png'
 ---
-
-![Dash](https://raw.githubusercontent.com/bitbrain/jekyll-dash/master/logo.png)
 
 A dark theme for Jekyll, inspired by Dash UI for Atom. 🌒
-
-[![Build Status](https://img.shields.io/travis/bitbrain/braingdx/master.svg?logo=travis&style=flat-square)](https://travis-ci.org/bitbrain/jekyll-dash) [![license](https://img.shields.io/github/license/bitbrain/braingdx.svg?style=flat-square)](LICENSE.MD)
----
 This theme for [Jekyll](https://jekyllrb.com/) has been inspired by [dash-ui](https://atom.io/themes/dash-ui), a dark theme for [Atom](https://atom.io).
-
-![screenshot](https://raw.githubusercontent.com/bitbrain/jekyll-dash/master/screenshot.png)
 
 ## Installation
 
@@ -37,13 +33,13 @@ theme: jekyll-dash
 
 And then execute:
 
-    $ bundle
+`$ bundle`
 
 Or install it yourself as:
 
-    $ gem install jekyll-dash
+`$ gem install jekyll-dash`
 
-## Configuration
+### Configuration
 
 Add the following configuration to your site. Customise it to your needs!
 
@@ -77,17 +73,16 @@ dash:
       color: purple
 ```
 
-## Additional Features
+### Additional Features
 
 * **Tagging** add the `jekyll/tagging` plugin to your `_config.yml` file to enable tagging. Do not forget to also add the following to your `Gemfile`:
+
 ```Gemfile
 gem "jekyll-tagging"
 ```
+
 * **Gravatar** if you want to display your gravatar picture, add the `liquid-md5` to your `_config.yml` file. Do not forget to also add the following to your `Gemfile`:
+
 ```Gemfile
 gem "liquid-md5"
 ```
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).

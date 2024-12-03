@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Hydeout
 date: 2017-06-08 17:00:00
 homepage: https://github.com/fongandrew/hydeout
@@ -7,24 +8,23 @@ download: https://github.com/fongandrew/hydeout/archive/master.zip
 demo: https://fongandrew.github.io/hydeout/
 author: Andrew Fong
 thumbnail: hydeout.png
-license: MIT License
+license: MIT
 license_link: https://github.com/fongandrew/hydeout/blob/master/LICENSE.md
+carousel:
+  - 'https://raw.githubusercontent.com/fongandrew/hydeout/master/_screenshots/1.png'
 ---
 
-**Hydeout** is an updated version of @mdo's original
-[Hyde](https://github.com/poole/hyde) theme. It works with Jekyll 3.x
-and offers support for the following:
+**Hydeout** is an updated version of @mdo's original [Hyde](https://github.com/poole/hyde) theme. It works with Jekyll 3.x.
 
-- Ruby theme gem support
-- SASS-based theming
-- Tag and category pages
-- Google analytics
-- Google search
+## Features
 
-###Usage
+* Ruby theme gem support
+* SASS-based theming
+* Tag and category pages
+* Google analytics
+* Google search
 
-- To use as a gem, add `gem "jekyll-theme-hydeout", "~> 3.3"` to your `Gemfile` and run `bundle install`.
-- Alternatively, fork [https://github.com/fongandrew/hydeout](https://github.com/fongandrew/hydeout)
+## Installation
 
-[![Hydeout Live Preview](https://raw.githubusercontent.com/fongandrew/hydeout/master/_screenshots/1.png)](https://fongandrew.github.io/hydeout/)
-
+1. To use as a gem, add `gem "jekyll-theme-hydeout", "~> 3.3"` to your `Gemfile` and run `bundle install`.
+2. Alternatively, fork [https://github.com/fongandrew/hydeout](https://github.com/fongandrew/hydeout)

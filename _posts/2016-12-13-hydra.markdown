@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Hydra
 date: 2016-12-13 00:00:00
 homepage: https://github.com/CloudCannon/hydra-jekyll-template
@@ -12,6 +13,8 @@ license_link: https://github.com/CloudCannon/hydra-jekyll-template/blob/master/L
 ---
 
 Market your product or SaaS business with Hydra.
+
+## Features
 
 * Show your pricing in an easy-to-read table.
 * Write about your industry in the blog.
