@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Material blog
 date: 2016-11-05 00:00:00
 homepage: https://github.com/mumuxme/materialize-jekyll

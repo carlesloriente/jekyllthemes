@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Marat
 date: 2013-06-01 01:42:00
 homepage: https://github.com/JohnCoene/marat
@@ -7,9 +8,8 @@ download: https://github.com/JohnCoene/marat/archive/master.zip
 demo: https://marat.john-coene.com
 author: John Coene
 thumbnail: marat.png
-license: MIT License
+license: MIT
 license_link: https://github.com/JohnCoene/marat/blob/master/LICENSE
 ---
 
-Marat is heavily inspired by L'Ami du peuple, a newspaper written by Jean-Paul Marat
-during the French Revolution, in which he was a vocal advocate for the rights of man and liberty.
+Marat is heavily inspired by L'Ami du peuple, a newspaper written by Jean-Paul Mara during the French Revolution, in which he was a vocal advocate for the rights of man and liberty.

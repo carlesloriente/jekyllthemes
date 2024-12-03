@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Jekyll Help Center Theme
 date: 2017-12-07 17:00:00
 homepage: https://github.com/gustavoquinalha/jekyll-help-center-theme
@@ -7,47 +8,51 @@ download: https://github.com/gustavoquinalha/jekyll-help-center-theme
 demo: https://gustavoquinalha.github.io/jekyll-help-center-theme/
 author: Gustavo Quinalha
 thumbnail: jekyll-help-center.png
-license: MIT License
+license: MIT
 license_link: https://github.com/gustavoquinalha/jekyll-help-center-theme/blob/master/LICENSE.txt
+carousel:
+  - 'https://gustavoquinalha.github.io/jekyll-help-center-theme/assets/img/readme/responsive.png'
 ---
 
-# Jekyll | Help Center
-Simple and responsive Jekyll theme for help center.
+Jekyll | Help Center, simple and responsive Jekyll theme for help center.
 
-# Demo
-[Demo online](https://gustavoquinalha.github.io/jekyll-help-center-theme/)
+## Installation
 
-![Color Theme](https://gustavoquinalha.github.io/jekyll-help-center-theme/assets/img/readme/responsive.png)
-
-# Color theme
 edit in _config.yml
-```
+
+```yml
 color_theme:  "#0081ff"
 color_text:  "#fff"
 ```
 
-# Install
-```
+```bash
 git clone https://github.com/gustavoquinalha/jekyll-help-center-theme
 ```
+
 or
-```
+
+```bash
 npm install jekyll-help-center-theme
 ```
 
-# How to use
-```
+### How to use
+
+```bash
 npm run dev
 ```
+
 Server address
-```
+
+```bash
 localhost:4000/jekyll-help-center-theme/
 ```
 
-# Post Example
-```
+### Post Example
+
+```md
 ---
 layout: post
+comments: true
 title: 'First category'
 description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 date: 2017-11-12 17:46:41 -0300
@@ -69,11 +74,3 @@ questions:
     image: "4.gif"
 ---
 ```
-## License
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-# Inspired by
-- https://help.market.envato.com/hc/en-us
-- https://www.intercom.com/
-
-##### Created by [Gustavo Quinalha](https://github.com/gustavoquinalha/)

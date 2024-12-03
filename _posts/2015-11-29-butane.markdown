@@ -1,12 +1,13 @@
 ---
 layout: post
+comments: true
 title: Butane
 date: 2015-11-29 14:03:00
 homepage: https://github.com/alexcarpenter/butane-jekyll-theme
 download: https://github.com/alexcarpenter/butane-jekyll-theme/archive/gh-pages.zip
-demo: http://alexcarpenter.me
+demo: https://alexcarpenter.me
 author: alexcarpenter
 thumbnail: butane.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/alexcarpenter/butane-jekyll-theme/blob/gh-pages/LICENSE
 ---

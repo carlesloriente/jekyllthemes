@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Airspace
 date: 2016-09-12 00:00:00
 homepage: https://github.com/luminousrubyist/airspace-jekyll
@@ -11,9 +12,5 @@ license: ThemeFisher License
 license_link: https://github.com/luminousrubyist/airspace-jekyll/blob/master/LICENSE.md
 ---
 
-### Airspace for Jekyll
-
-A port of ThemeFisher's Airspace theme for agency or organization.
+Airspace for Jekyll, a port of ThemeFisher's Airspace theme for agency or organization.
 Includes a homepage, works page, contact page, and Jekyll blog.
-
-[Take a look!](https://luminousrubyist.github.io/airspace-jekyll/)

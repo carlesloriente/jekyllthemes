@@ -1,0 +1,23 @@
+---
+layout: post
+comments: true
+title: New-ity The Theme
+date: 2022-02-01 20:24:00 UTC+03:00
+homepage: https://github.com/themecreator/newity-jeykll
+download: https://github.com/themecreator/newity-jeykll/archive/refs/heads/main.zip
+author: themeCreator
+license: unknown
+---
+
+newity-jeykll, a theme for jeykll. This theme, Newity, makes your website so beatiful with the Bootstrap, Locomotive, Feather Icons and Clay.CSS!
+
+## Features
+
+* Only HTML, CSS and JS
+* Minumun GB using
+* Open-customize with `assets/js/customize.js`
+* 6 files: Homepage, about, features, posts, example post and another post
+
+## Installation
+
+Just fork this template, edit, add, remove, publish and BOOM! Your website is ready!

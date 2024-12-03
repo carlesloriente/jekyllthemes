@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Particle
 date: 2017-01-20 06:37:00
 homepage: https://github.com/nrandecker/particle
@@ -7,9 +8,8 @@ download: https://github.com/nrandecker/particle/archive/master.zip
 demo: https://nrandecker.github.io/particle
 author: Nathan Randecker
 thumbnail: particle.png
-license: MIT License
+license: MIT
 license_link: https://github.com/nrandecker/particle/blob/master/LICENSE.txt
 ---
 
-This is a simple Jekyll theme for developers to show off their
-portfolios and information about themselves.
+This is a simple Jekyll theme for developers to show off their portfolios and information about themselves.

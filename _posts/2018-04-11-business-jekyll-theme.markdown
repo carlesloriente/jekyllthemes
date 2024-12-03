@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Business
 date: 2018-04-11 00:00:00
 homepage: https://github.com/melvinchng/business-jekyll-theme
@@ -11,5 +12,4 @@ license: GPL-3.0
 license_link: https://github.com/melvinchng/business-jekyll-theme/blob/master/LICENSE
 ---
 
-# Business Jekyll Theme
-Please refer to [this repository](https://github.com/melvinchng/business-jekyll-theme) for instructions on how to use it.
+Business Jekyll Theme, please refer to [this repository](https://github.com/melvinchng/business-jekyll-theme) for instructions on how to use it.

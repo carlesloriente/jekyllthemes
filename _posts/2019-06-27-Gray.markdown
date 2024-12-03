@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Gray
 date: 2019-06-27 16:00:00
 homepage: https://github.com/brunofolle/gray
@@ -7,14 +8,12 @@ download: https://github.com/brunofolle/gray/archive/master.zip
 demo: https://brunofolle.com.br
 author: Bruno Folle
 thumbnail: gray.png
-license: MIT License
+license: MIT
 license_link: https://github.com/brunofolle/gray/blob/master/LICENSE.txt
 ---
 
-Gray is a simple blog for bloggers
+Gray is a simple blog for bloggers.
 
-Documentation:
+## Installation
 
-https://github.com/brunofolle/gray
-
-Guide Styles on template post
+[Documentation](https://github.com/brunofolle/gray)

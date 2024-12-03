@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 简单博客
 date: 2016-04-07 12:00:00
 homepage: https://github.com/liungkejin/liungkejin.github.io
@@ -7,7 +8,7 @@ download: https://github.com/liungkejin/liungkejin.github.io/archive/master.zip
 demo: https://liungkejin.github.io/
 author: Kejin
 thumbnail: easy-pure-blog.png
-license: MIT License
+license: MIT
 license_link: https://github.com/liungkejin/liungkejin.github.io/blob/master/LICENSE.md
 ---
 

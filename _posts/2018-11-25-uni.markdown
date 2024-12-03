@@ -1,0 +1,70 @@
+---
+layout: post
+comments: true
+title: Uni One-Page Jekyll Theme
+date: 2018-11-25 23:09:00
+homepage: https://github.com/brianmaierjr/uni
+download: https://github.com/brianmaierjr/uni/archive/master.zip
+demo: https://brianmaierjr.com/uni
+author: Brian Maier
+thumbnail: uni.jpg
+license: MIT
+license_link: https://github.com/brianmaierjr/uni/blob/master/LICENSE
+carousel:
+  - ' https://github.com/brianmaierjr/uni/raw/master/assets/img/share.jpg'
+---
+
+Uni One-page Jekyll Theme
+
+## Features
+
+* Minimal, One-Page Design
+* Fast and responsive
+* Flexible
+* Built using new technologies including
+  * GULP
+  * SASS
+  * BROWSERSYNC
+  * AUTOPREFIXER
+* A modular, type scale
+* 3 different layouts with additional options
+* Responsive Images for performance
+* Social Meta Tags
+
+## Installation
+
+1. [Install Jekyll](https://jekyllrb.com)
+2. [Install Bundler](https://bundler.io/)
+3. Run `bundle install`
+4. Install gulp dependencies by running `npm install`
+5. Run Jekyll and watch files by running `bundle exec gulp`
+
+Please note that any changes made to the `config.yml` will require that you stop gulp and start it again.
+
+### Site/Layout Settings
+
+The main settings can be found inside the `_config.yml` file:
+
+* **title:** you or your company's name
+* **description:** description of your site that will be used when your site is shared or posted on social media
+* **sharing_image:** name of your image (example.jpg). This image should be placed in the `assets/img/` folder
+* **content:** a brief blurb about yourself
+* **url:** your url
+* **social** diverse social media usernames (optional)
+  * **platform**: display name for social media or external link
+  * **url**: destination for the link
+* **google_analytics** Google Analytics key (optional)
+
+![Uni Jekyll Theme](https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--half.jpg)
+
+#### Half Layout
+
+* **half_side:** which side of the page your content is on [left or right]
+
+![Uni Jekyll Theme](https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--full.jpg)
+
+#### Full layout
+
+* **full_text_position:** where on the page the text will appear [left, center, or right]
+
+![Uni Jekyll Theme](https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--card.jpg)

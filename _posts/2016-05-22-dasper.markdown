@@ -1,18 +1,19 @@
 ---
 layout: post
+comments: true
 title: Dasper
 date: 2016-05-22 00:00:00
 homepage: https://github.com/ozgrozer/dasper
 download: https://github.com/ozgrozer/dasper/archive/master.zip
-demo: http://ozgrozer.com
+demo: https://ozgrozer.com
 author: ozgrozer
 thumbnail: dasper.png
-license: MIT License
+license: MIT
 license_link: https://github.com/ozgrozer/dasper/blob/master/LICENSE
 ---
 
-Dasper is a [Jekyll](http://jekyllrb.com/) theme inspired by
+Dasper is a [Jekyll](https://jekyllrb.com/) theme inspired by
 [Ghost](https://ghost.org/)'s default theme
 [Casper](https://demo.ghost.io/) and also
 [Jasper](https://biomadeira.github.io/jasper/) &
-[Kasper](http://rosario.io/)
+[Kasper](https://rosario.io/)

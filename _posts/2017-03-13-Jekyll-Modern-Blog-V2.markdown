@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Modern Blog Version 2
 date: 2017-03-13
 homepage: https://github.com/Open-SL/Jekyll-Modern-Blog

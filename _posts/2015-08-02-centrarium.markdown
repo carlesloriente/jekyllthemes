@@ -1,24 +1,22 @@
 ---
 layout: post
+comments: true
 title: Centrarium
 date: 2015-08-02 07:42:00
 homepage: https://github.com/bencentra/centrarium
 download: https://github.com/bencentra/centrarium/archive/master.zip
-demo: http://bencentra.com/centrarium/
+demo: https://bencentra.com/centrarium/
 author: Ben Centra
 thumbnail: centrarium.png
-license: MIT License
+license: MIT
 license_link: https://github.com/bencentra/centrarium/blob/master/LICENSE.md
 ---
 
-### Centrarium
+Centrarium, a simple yet classy theme for your Jekyll website or blog. Mobile responsive. Customizable to fit your style or brand.
 
-A simple yet classy theme for your Jekyll website or blog. Mobile
-responsive. Customizable to fit your style or brand.
+Don't just take my word for it, [check out the demo!](https://bencentra.com/centrarium/)
 
-Don't just take my word for it, [check out the demo!](http://bencentra.com/centrarium/)
-
-### Features
+## Features
 
 * Easily customizable fonts and colors
 * Cover images for your homepage and blog posts
@@ -29,5 +27,6 @@ Don't just take my word for it, [check out the demo!](http://bencentra.com/centr
 * Google Analytics with custom page name tracking
 * Social media integration (Twitter, Facebook, LinkedIn, GitHub, and more)
 
-See the [README](https://github.com/bencentra/centrarium/blob/master/README.md)
-for full installation and customization details.
+## Installation
+
+See the [README](https://github.com/bencentra/centrarium/blob/master/README.md) for full installation and customization details.

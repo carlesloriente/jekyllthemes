@@ -1,27 +1,25 @@
 ---
 layout: post
+comments: true
 title: Jekmdl
 date: 2016-01-01 22:51:45 +07:00
 homepage: https://github.com/tigefa4u/jekmdl
 download: https://github.com/tigefa4u/jekmdl/archive/gh-pages.zip
-demo: http://tigefa4u.github.io/jekmdl/
+demo: https://tigefa4u.github.io/jekmdl/
 author: sugeng tigefa
 thumbnail: jekmdl.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/tigefa4u/jekmdl/blob/gh-pages/LICENSE
 ---
 
-# [jekmdl](https://github.com/tigefa4u/jekmdl)
+The [Jekyll](https://jekyllrb.com) best bloging platform using command line (CLI), themes use [Material Design Lite](https://getmdl.io) ![Screenshot](/thumbnails/jekmdl.jpg)
 
-The [Jekyll](http://jekyllrb.com) best bloging platform using command
-line (CLI), themes use [Material Design Lite](http://getmdl.io)
-![Screenshot](/thumbnails/jekmdl.jpg)
-
-### Posting
+## Installation
 
 ```yaml
 ---
 layout: post
+comments: true
 title: "All Posts Components"
 date: 2016-01-01 18:54:28 +07:00
 author: sugeng tigefa
@@ -31,8 +29,8 @@ categories: jekmdl posts
 
 ### Google custom search engine (CSE)
 
-Create on [Google](https://cse.google.com/cse/create/new)
-after create, select themes result only.
+Create on [Google](https://cse.google.com/cse/create/new) after create, select themes result only.
+
 ```yaml
 gcse: 006270711061491111331:wbfhsrae2vk
 ```

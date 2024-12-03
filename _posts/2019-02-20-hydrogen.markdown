@@ -1,0 +1,21 @@
+---
+layout: post
+comments: true
+title: Hydrogen
+date: 2019-02-20 13:30:00
+homepage: https://github.com/link9596/hydrogen
+download: https://github.com/link9596/hydrogen/archive/master.zip
+demo: https://hydrogen.atlinker.cn
+author: Link
+thumbnail: hydrogen.png
+---
+
+ Hydrogen, a concise and powerful Jekyll theme.
+
+## Features
+
+* Use the comment module integration
+* More convenient custom theme options
+* Transition animation more concise
+* Automatic summary, automatic paging
+* Add friend links more easily

@@ -1,0 +1,61 @@
+---
+layout: post
+comments: true
+title: Ephesus
+date: 2021-09-23 09:00:00 +06:00
+homepage: https://github.com/onepase/Ephesus
+download: https://github.com/onepase/Ephesus/archive/refs/heads/master.zip
+demo: https://pardin.us/ephesus/
+author: "Hakan Torun"
+thumbnail: ephesus-jekyll-theme.png
+license: MIT
+license_link: https://github.com/onepase/Ephesus/blob/master/LICENSE
+carousel:
+  - 'https://raw.githubusercontent.com/onepase/Ephesus/1b241d9d0d891e4187a7ab653b271204b36a9e72/light.png'
+  - 'https://raw.githubusercontent.com/onepase/Ephesus/1b241d9d0d891e4187a7ab653b271204b36a9e72/dark.png'
+---
+
+Ephesus Jekyll Theme - Simple and Minimal Jekyll Blog Theme
+
+## Features
+
+* Tiny CSS & No Dependency
+* Responsive Design
+* Dark/Light Theme
+* Custom 404 Page
+* About Page
+* Tags Page
+* Code Highlighter
+* Social Share
+* Atom & Json feeds
+* Robots.txt
+* Sitemap
+* Next & Previous Post
+* Pagination
+* Disqus
+* Mathjax Support
+* Google Analytics
+
+## Installation
+
+Run local server:
+
+```bash
+git clone https://github.com/onepase/Ephesus.git
+cd Ephesus
+bundle install
+bundle exec jekyll build
+bundle exec jekyll serve
+```
+
+Navigate to `127.0.0.1:4000`.
+
+Tags are created automatically under the /tags page.
+
+To use a math formula in a post, use the mathjax:true tag in the post.
+
+## Contributing
+
+Feel free to open a pull request for contributing.
+
+Please feel free to contribute. Do not hesitate to open a pull request and fix it, please read [contributing](https://github.com/onepase/Ephesus/blob/master/CONTRIBUTING.md) before PR.

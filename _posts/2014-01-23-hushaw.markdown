@@ -1,13 +1,14 @@
 ---
 layout: post
+comments: true
 title: hushaw
 date: 2014-01-23 01:42:00
 homepage: https://github.com/hushaw/hushaw.github.com
 download: https://github.com/hushaw/hushaw.github.com/archive/master.zip
-demo: http://hushaw.github.io
+demo: https://hushaw.github.io
 author: signifox
 thumbnail: hushaw.png
-license: MIT License
+license: MIT
 license_link: https://github.com/hushaw/hushaw.github.com/blob/master/LICENCE
 ---
 

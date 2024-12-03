@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Bay
 date: 2020-07-19 13:54:30
 homepage: https://github.com/eliottvincent/bay
@@ -7,10 +8,10 @@ download: https://rubygems.org/gems/bay_jekyll_theme
 demo: https://eliottvincent.github.io/bay/
 author: eliottvincent
 thumbnail: bay.png
-license: ISC License
+license: ISC
 license_link: https://github.com/eliottvincent/bay/blob/master/LICENSE.md
+carousel:
+  - 'https://raw.githubusercontent.com/eliottvincent/bay/master/screenshot.png'
 ---
-
-![Screenshot](https://raw.githubusercontent.com/eliottvincent/bay/master/screenshot.png)
 
 Bay is a simple theme for Jekyll.

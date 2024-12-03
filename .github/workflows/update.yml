@@ -1,0 +1,15 @@
+name: Dispatch an Update
+on:
+  push:
+    branches:
+      - main
+jobs:
+  dispatch:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Dispatch updates
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PAT }}
+          repository: carlesloriente/priv_repo
+          event-type: updating

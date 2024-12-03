@@ -1,20 +1,15 @@
 ---
 layout: post
+comments: true
 title: redcup
 date: 2014-01-23 00:00:00
 homepage: https://github.com/nadjetey/redcup
 download: https://github.com/nadjetey/redcup/archive/master.zip
-demo: http://nadjetey.github.io/redcup/
+demo: https://nadjetey.github.io/redcup/
 author: Nii Adjetey Sowah
 thumbnail: redcup.png
 license: Creative Commons Attribution 3.0 Unported License
-license_link: http://creativecommons.org/licenses/by/3.0/deed.en_US
+license_link: https://creativecommons.org/licenses/by/3.0/deed.en_US
 ---
 
-[Rasmus Andersson's](http://rsms.me/) blog made ready for use with a
-few tweaks here & there :)
-
-## Contact
-
-Having a problem? [file a GitHub
-Issue](https://github.com/nadjetey/redcup/issues/new).
+[Rasmus Andersson's](https://rsms.me/) blog made ready for use with a few tweaks here & there :)

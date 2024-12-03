@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Emping Theme
 date: 2016-11-24 19:40:00
 homepage: https://github.com/rmsubekti/emping
@@ -7,12 +8,10 @@ download: https://github.com/rmsubekti/emping/archive/master.zip
 demo: https://rmsubekti.github.io/emping
 author: rmsubekti
 thumbnail: emping.png
-license: MIT License
-license_link: http://opensource.org/licenses/MIT
+license: MIT
+license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'https://cdn.rawgit.com/rmsubekti/emping/master/Screenshot.png'
 ---
 
-# Emping - Amp theme for jekyll
-
-An Amphtml theme for your jekyll blog, based on default Jekyll theme.
-
-![emping](https://cdn.rawgit.com/rmsubekti/emping/master/Screenshot.png)
+Emping - Amp theme for jekyll, an Amphtml theme for your jekyll blog, based on default Jekyll theme.
