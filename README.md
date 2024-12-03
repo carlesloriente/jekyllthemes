@@ -1,9 +1,9 @@
 Best Jekyll Themes
 =============
 
-The [Bestjekyllthemes.site](https://www.bestjekyllthemes.site) is an up-to-date directory of the best-looking themes for Jekyll a static site generator in Ruby.
+The [Bestjekyllthemes.site](https://www.bestjekyllthemes.site) is an up-to-date directory of the best-looking themes for [Jekyll](https://jekyllrb.com/) a static site generator in [Ruby](https://www.ruby-lang.org/es/).
 
-Forked from the discontinued project JekyllThemes created by Matt Harzewski.
+Forked from the discontinued project [JekyllThemes](https://github.com/mattvh/jekyllthemes) created by [Matt Harzewski](https://github.com/mattvh).
 
 Submitting a Theme
 ------------------
