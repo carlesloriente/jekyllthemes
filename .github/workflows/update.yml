@@ -11,5 +11,5 @@ jobs:
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.PAT }}
-          repository: carlesloriente/priv_repo
+          repository: carlesloriente/bestjekyllthemes
           event-type: updating
