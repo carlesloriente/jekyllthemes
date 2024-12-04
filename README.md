@@ -8,12 +8,25 @@ Forked from the discontinued project [JekyllThemes](https://github.com/mattvh/je
 Submitting a Theme
 ------------------
 
-Have a theme you want to share?
+Want to share a theme?
 
-* Fork the site on GitHub
-* Create a new post in the `_posts` directory and fill out the relevant YAML fields
-* Make a 250x200 thumbnail and drop it in the thumbnails directory. List its filename in the post's markdown file.
-* Test it out, then push your changes up and open a pull request.
+1. Fork the site: Create your own copy of the repository on GitHub.
+2. Create a new post:
+    * Duplicate the `template.markdown` file in the `_posts` directory.
+    * Rename it with the format: `YYYY-MM-DD-theme-name.markdown`.
+    * Replace the placeholder content with your theme's details.
+3. Add a thumbnail:
+    * Create a 250x200 pixel image for your theme.
+    * Place the image in the thumbnails directory.
+    * Reference the image filename in your post's markdown.
+4. Add Screenshots:
+    * Create 1024x768 pixel images showcasing your theme's features.
+    * Place the images in the thumbnails directory.
+    * Reference the image filenames in your post's markdown within the `carousel` setting array.
+5. Test and share:
+    * Preview your theme locally to ensure it works as expected.
+    * Push your changes to your forked repository.
+    * Open a pull request to contribute your theme to the main repository.
 
 License
 -------
