@@ -12,9 +12,9 @@ license: MIT
 license_link: https://homepage.url/LICENCE
 version: '0.1'
 carousel:
-  - '/assets/images/bg-index.webp'
-  - '/assets/images/bg-index-2.webp'
-  - '/assets/images/bg-index-3.webp'
+  - '/screenshots/screenshot-1.webp'
+  - '/screenshots/screenshot-2.webp'
+  - '/screenshots/screenshot-3.webp'
 ---
 
 Description
