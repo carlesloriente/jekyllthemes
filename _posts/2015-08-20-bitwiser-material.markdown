@@ -11,3 +11,5 @@ thumbnail: bitwiser-material.png
 license: MIT
 license_link: https://github.com/brijeshb42/bitwiser-material/blob/gh-pages/LICENSE
 ---
+
+Bitwiser material theme.

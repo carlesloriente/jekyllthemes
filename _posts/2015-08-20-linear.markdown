@@ -7,6 +7,8 @@ homepage: https://github.com/CloudCannon/Linear-Jekyll-Theme
 download: https://github.com/CloudCannon/Linear-Jekyll-Theme/archive/master.zip
 author: Template by https://templated.co, images by https://unsplash.com, ported by https://cloudcannon.com
 thumbnail: linear.jpg
-license: Creative Commons Attribution 3.0 Unported License
+license: CCC BY 3.0
 license_link: https://github.com/CloudCannon/Linear-Jekyll-Theme/blob/master/LICENSE.txt
 ---
+
+Linear theme.

@@ -8,7 +8,7 @@ download: https://github.com/nadjetey/redcup/archive/master.zip
 demo: https://nadjetey.github.io/redcup/
 author: Nii Adjetey Sowah
 thumbnail: redcup.png
-license: Creative Commons Attribution 3.0 Unported License
+license: CCC BY 3.0
 license_link: https://creativecommons.org/licenses/by/3.0/deed.en_US
 ---
 

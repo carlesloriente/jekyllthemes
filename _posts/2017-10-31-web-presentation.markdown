@@ -8,6 +8,7 @@ demo: https://deepidea.github.io/web-presentation/
 author: DeepIdea
 thumbnail: web-presentation.png
 license: MIT
+lincense_link: https://opensource.org/license/mit
 ---
 
 Web-presentation, project is designed to quickly build presentation as a web page.

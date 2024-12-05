@@ -8,7 +8,7 @@ download: https://github.com/volny/creative-theme-jekyll/archive/master.zip
 demo: https://volny.github.io/creative-theme-jekyll
 author: start bootstrap, felix volny
 thumbnail: creative-theme.png
-license: Apache License Version 2.0
+license: Apache 2.0
 license_link: https://github.com/volny/creative-theme-jekyll/blob/master/LICENCE
 ---
 

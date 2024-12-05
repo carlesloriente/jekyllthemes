@@ -11,3 +11,5 @@ thumbnail: front-cover.png
 license: MIT
 license_link: https://github.com/dashingcode/front-cover/blob/master/LICENSE
 ---
+
+Front Cover theme.

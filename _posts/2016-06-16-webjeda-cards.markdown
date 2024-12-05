@@ -11,3 +11,5 @@ thumbnail: webjeda-cards.png
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
+
+Webjeda Cards theme.

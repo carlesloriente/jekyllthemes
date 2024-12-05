@@ -8,6 +8,8 @@ download: https://github.com/CloudCannon/Read-Only-Jekyll-Theme/archive/master.z
 demo: https://html5up.net/read-only
 author: HTML5 UP (html5up.net), @n33co
 thumbnail: read-only.jpg
-license: Creative Commons Attribution 3.0 Unported License
+license: CCC BY 3.0
 license_link: https://github.com/CloudCannon/Read-Only-Jekyll-Theme/blob/master/LICENSE.txt
 ---
+
+Read Only theme.

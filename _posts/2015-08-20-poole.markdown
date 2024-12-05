@@ -11,3 +11,5 @@ thumbnail: poole.png
 license: MIT
 license_link: https://github.com/poole/poole/blob/master/LICENSE.md
 ---
+
+Poole theme.

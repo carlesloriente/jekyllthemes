@@ -8,7 +8,7 @@ download: https://github.com/swcool/landing-page-theme/archive/master.zip
 demo: https://shaneweng.com/landing-page-theme/
 author: Shane Weng
 thumbnail: landing-page.png
-license: Apache License Version 2.0
+license: Apache 2.0
 license_link: https://www.apache.org/licenses/LICENSE-2.0.html
 ---
 

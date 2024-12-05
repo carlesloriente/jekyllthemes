@@ -11,3 +11,5 @@ thumbnail: jekyll-now.png
 license: MIT
 license_link: https://github.com/barryclark/jekyll-now/blob/master/LICENSE
 ---
+
+Jekyll Now theme.

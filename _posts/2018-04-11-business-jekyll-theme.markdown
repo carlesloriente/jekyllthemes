@@ -8,7 +8,7 @@ download: https://github.com/melvinchng/business-jekyll-theme/archive/master.zip
 demo: https://business-jekyll-theme.github.io/
 author: Melvin Ch'ng
 thumbnail: business-jekyll-theme.png
-license: GPL-3.0
+license: GPLv3
 license_link: https://github.com/melvinchng/business-jekyll-theme/blob/master/LICENSE
 ---
 

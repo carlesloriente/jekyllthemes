@@ -10,3 +10,5 @@ thumbnail: estivo.jpg
 license: MIT
 license_link: https://github.com/fffabs/estivo/blob/master/LICENSE
 ---
+
+Estivo theme.

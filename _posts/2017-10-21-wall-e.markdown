@@ -9,6 +9,7 @@ demo: https://wall-e-jekyll.github.io/
 author: Abhishek Nagekar
 thumbnail: wall-e.png
 license: MIT
+license_link: https://opensource.org/license/mit
 ---
 
 Wall-E is a modern Jekyll template with a magazine-like grid layout on the frontpage, beautiful typography and uncomplicated content.

@@ -12,4 +12,4 @@ license: MIT
 license_link: https://github.com/mushishi78/jekyll-video/blob/gh-pages/LICENSE
 ---
 
-A video blog.
+Video, a video blog.

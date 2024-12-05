@@ -8,7 +8,7 @@ download: https://github.com/InsidiousMind/material-bliss-jekyll-theme/archive/m
 demo: https://code.liquidthink.net
 author: Andrew Plaza
 thumbnail: materialbliss.jpg
-license: GNU General Public License Version 3
+license: GPLv3
 license_link: https://github.com/InsidiousMind/material-bliss-jekyll-theme/blob/master/LICENSE
 carousel:
   - 'https://i.imgur.com/GfFoLXS.png'

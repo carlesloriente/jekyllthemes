@@ -11,3 +11,5 @@ thumbnail: galileo.png
 license: MIT
 license_link: https://github.com/rowanoulton/galileo-theme/blob/master/LICENSE
 ---
+
+Galileo theme.

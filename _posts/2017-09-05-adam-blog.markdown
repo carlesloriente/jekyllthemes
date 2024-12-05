@@ -8,7 +8,7 @@ download: https://github.com/artemsheludko/adam-blog/archive/master.zip
 demo: https://artemsheludko.github.io/adam-blog/
 author: Artem Sheludko
 thumbnail: adam-blog.jpg
-license: GNU General Public License Version 3
+license: GPLv3
 license_link: https://github.com/artemsheludko/adam-blog/blob/master/LICENSE.txt
 carousel: 
   - 'https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true'

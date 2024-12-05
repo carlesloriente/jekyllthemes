@@ -8,7 +8,7 @@ download: https://gitlab.com/lorepirri/jekyll-theme-simple-blog/repository/maste
 demo: https://lorepirri.gitlab.io/jekyll-theme-simple-blog/
 author: Lorenzo Pirritano (@lorepirri)
 thumbnail: simple-blog-theme.png
-license: Creative Commons Attribution 1.0 International
+license: CC BY 1.0
 license_link: https://gitlab.com/lorepirri/jekyll-theme-simple-blog/blob/master/LICENSE
 ---
 

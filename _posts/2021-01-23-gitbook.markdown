@@ -8,7 +8,7 @@ download: https://github.com/sighingnow/jekyll-gitbook/archive/master.zip
 demo: https://sighingnow.github.io/jekyll-gitbook/
 author: Tao He
 thumbnail: jekyll-gitbook.png
-license: Apache-2.0 License
+license: Apache 2.0
 license_link: https://github.com/sighingnow/jekyll-gitbook/blob/master/LICENSE
 ---
 

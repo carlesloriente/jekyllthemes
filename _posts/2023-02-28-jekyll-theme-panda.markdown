@@ -180,6 +180,6 @@ samples:
 
 Check `_sass\syntax.scss`
 
-## Contributing
+## Contribute
 
 Bug reports and pull requests are welcome on GitHub at [https://github.com/sorphwer/jekyll-theme-panda](https://github.com/sorphwer/jekyll-theme-panda). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.

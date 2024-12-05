@@ -8,7 +8,7 @@ download: https://github.com/artemsheludko/bef/archive/master.zip
 demo: https://artemsheludko.github.io/bef/
 author: Artem Sheludko
 thumbnail: bef.jpg
-license: GNU General Public License Version 3
+license: GPLv3
 license_link: https://github.com/artemsheludko/bef/blob/master/LICENSE.txt
 carousel:
   - 'https://github.com/artemsheludko/bef/blob/master/assets/img/bef_main_page.jpg?raw=true'

@@ -8,7 +8,7 @@ download: https://codeload.github.com/Liberxue/liberxue.github.io/zip/master
 demo: https://liberxue.github.io/
 author:  Liberxue Theme
 thumbnail: liberxue.png
-license: GNU General Public License Version 2
+license: GPLv2
 license_link: https://github.com/joytou/joytou.github.io/blob/master/LICENSE
 carousel:
   - 'https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/ui.jpg'

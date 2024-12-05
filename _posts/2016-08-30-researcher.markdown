@@ -8,7 +8,7 @@ download: https://github.com/ankitsultana/researcher/archive/gh-pages.zip
 demo: https://ankitsultana.com/researcher
 author: Ankit Sultana
 thumbnail: researcher.png
-license: GNU General Public License Version 3
+license: GPLv3
 license_link: https://github.com/researcher/blob/gh-pages/LICENSE
 ---
 

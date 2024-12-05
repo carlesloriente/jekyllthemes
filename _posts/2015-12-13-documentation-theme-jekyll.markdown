@@ -11,3 +11,5 @@ thumbnail: documentation-theme-jekyll.png
 license: MIT
 license_link: https://github.com/tomjohnson1492/documentation-theme-jekyll/blob/gh-pages/licenses/LICENSE.txt
 ---
+
+Documentation theme.

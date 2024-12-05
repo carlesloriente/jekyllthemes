@@ -9,6 +9,7 @@ demo: https://gearoidoconnor.ie/
 author: Gearoid O'Connor
 thumbnail: sleek-blog.png
 license: MIT
+license_link: https://opensource.org/license/mit
 ---
 
 Sleek is minimal blog template built using jade, sass and Gulp.

@@ -10,7 +10,11 @@ author: nandomoreira.me
 thumbnail: simplest.png
 license: MIT
 license_link: https://github.com/nandomoreirame/simplest/blob/master/LICENSE
+carousel:
+ - '/screenshots/simplestbñpg.png'
 ---
+
+Simplest theme.
 
 ## Installation
 
@@ -21,10 +25,3 @@ license_link: https://github.com/nandomoreirame/simplest/blob/master/LICENSE
 5. Start Jekyll server: `jekyll serve`
 
 Access, [localhost:4000/simplest](https://localhost:4000/simplest)
-
-### Demo and Download
-
-[Demo](https://nandomoreira.me/simplest/)
-[Download](https://github.com/nandomoreirame/simplest/archive/master.zip)
-
-![simplest - free Jekyll theme](https://raw.githubusercontent.com/nandomoreirame/simplest/master/screenshot.png)

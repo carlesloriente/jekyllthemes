@@ -8,7 +8,7 @@ download: https://github.com/jeromelachaud/freelancer-theme/archive/master.zip
 demo: https://jeromelachaud.github.io/freelancer-theme
 author: Jerome Lachaud
 thumbnail: freelancer.png
-license: Apache License Version 2.0
+license: Apache 2.0
 license_link: https://github.com/jeromelachaud/freelancer-theme/blob/master/LICENCE
 ---
 

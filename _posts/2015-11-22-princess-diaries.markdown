@@ -11,3 +11,5 @@ thumbnail: princess-diaries.png
 license: MIT
 license_link: https://github.com/laixintao/Princess-Diaries/blob/master/LICENSE
 ---
+
+Princess Diaries theme.

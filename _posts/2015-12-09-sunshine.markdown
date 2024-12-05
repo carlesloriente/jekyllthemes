@@ -14,7 +14,7 @@ license_link: https://github.com/limingyang2012/limingyang2012.github.io/blob/ma
 
 A Jekyll theme.
 
-## Contributing
+## Contribute
 
 If you want to contribute to this project, file and perform the following steps:
 

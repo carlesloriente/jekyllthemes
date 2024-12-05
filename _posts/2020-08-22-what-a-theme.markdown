@@ -8,7 +8,7 @@ download: https://github.com/thedevslot/WhatATheme/archive/master.zip
 demo: https://thedevslot.github.io/WhatATheme/
 author: Sneha Omer, Harsh Trivedi
 thumbnail: what-a-theme.png
-license: GNU General Public License v2.0
+license: GPLv2
 license_link: https://github.com/thedevslot/WhatATheme/blob/master/LICENSE
 carousel:
   - 'https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/meta.jpg'

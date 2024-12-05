@@ -8,7 +8,7 @@ download: https://github.com/iwiedenm/jekyll-theme-massively-src/archive/master.
 demo: https://iwiedenm.github.io/jekyll-theme-massively/
 author: Somiibo
 thumbnail: massively.png
-license: Creative Commons Attribution 3.0 Unported License
+license: CCC BY 3.0
 license_link: https://github.com/iwiedenm/jekyll-theme-massively-src/blob/master/LICENSE.md
 ---
 

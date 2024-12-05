@@ -9,6 +9,7 @@ demo: https://drassil.github.io/git-wiki
 author: Yehonal
 thumbnail: git-wiki.JPG
 license: MIT
+license_link: https://opensource.org/license/mit
 ---
 
 it’s a full featured wiki powered by git, jekyll (github pages) and pull-requests!.

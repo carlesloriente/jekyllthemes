@@ -10,3 +10,5 @@ author: Gerald Bauer
 thumbnail: drjekyll-minimal.png
 license: Public Domain
 ---
+
+Dr. Jekyll Minimal theme.

@@ -25,6 +25,6 @@ CV jekyll theme, free theme for the creation of your CV. View demo [here](https:
 
 Go to https://username.github.io/jekyll-cv/
 
-## Contributing
+## Contribute
 
 Feel free to open issues and create pull requests for new features or skins.

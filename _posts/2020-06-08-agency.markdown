@@ -80,7 +80,7 @@ Replace the contents of your `_config.yml` file with [this](https://raw.githubus
 
 To set up your environment to develop this theme, clone this repo, then run `bundle install`. To test the theme, run `bundle exec jekyll serve` and open your browser at `https://localhost:4000`. Add pages, documents, data, etc. like normal to test the theme's contents. As you make modifications, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
 
-## Contributing
+## Contribute
 
 This project is intended to be a welcoming space for collaboration. If you have an idea, suggestion, feature request, etc., feel free to open an issue or pull request.
 For bug reports, follow the provided template.

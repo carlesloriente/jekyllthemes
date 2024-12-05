@@ -11,3 +11,5 @@ thumbnail: lanyon.png
 license: MIT
 license_link: https://github.com/poole/lanyon/blob/master/LICENSE.md
 ---
+
+Lanyon theme.

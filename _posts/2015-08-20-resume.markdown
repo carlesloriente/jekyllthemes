@@ -11,3 +11,5 @@ thumbnail: resume.png
 license: MIT
 license_link: https://github.com/jglovier/resume-template/blob/gh-pages/LICENSE
 ---
+
+Resume theme.

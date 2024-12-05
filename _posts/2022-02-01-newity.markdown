@@ -6,7 +6,6 @@ date: 2022-02-01 20:24:00 UTC+03:00
 homepage: https://github.com/themecreator/newity-jeykll
 download: https://github.com/themecreator/newity-jeykll/archive/refs/heads/main.zip
 author: themeCreator
-license: unknown
 ---
 
 newity-jeykll, a theme for jeykll. This theme, Newity, makes your website so beatiful with the Bootstrap, Locomotive, Feather Icons and Clay.CSS!

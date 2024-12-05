@@ -11,3 +11,5 @@ thumbnail: butane.jpg
 license: MIT
 license_link: https://github.com/alexcarpenter/butane-jekyll-theme/blob/gh-pages/LICENSE
 ---
+
+Butane theme.

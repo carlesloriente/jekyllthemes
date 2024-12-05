@@ -11,3 +11,5 @@ thumbnail: hyde.png
 license: MIT
 license_link: https://github.com/poole/hyde/blob/master/LICENSE.md
 ---
+
+Hyde theme.

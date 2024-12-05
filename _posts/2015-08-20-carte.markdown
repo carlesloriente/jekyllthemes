@@ -11,3 +11,5 @@ thumbnail: carte.jpg
 license: MIT
 license_link: https://github.com/Wiredcraft/carte/blob/gh-pages/LICENSE.md
 ---
+
+Carte theme.
