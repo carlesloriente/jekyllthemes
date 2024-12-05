@@ -8,6 +8,8 @@ download: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme/archive/master.z
 demo: https://html5up.net/dopetrope
 author: HTML5 UP (html5up.net), @n33co
 thumbnail: dopetrope.jpg
-license: Creative Commons Attribution 3.0 Unported License
+license: CCC BY 3.0
 license_link: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme/blob/master/LICENSE.txt
 ---
+
+Dopetrope theme.

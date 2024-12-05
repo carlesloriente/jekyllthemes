@@ -8,7 +8,7 @@ download: https://github.com/artemsheludko/fresh/archive/master.zip
 demo: https://artemsheludko.pw/fresh/
 author: Artem Sheludko
 thumbnail: fresh-sm.png
-license: GNU General Public License v3.0
+license: GPLv3
 ---
 
 Fresh is a free blog template for Jekyll

@@ -9,6 +9,7 @@ demo: https://www.panxw.com/
 author: Panxw
 thumbnail: simple-elegant.jpg
 license: MIT
+license_link: https://opensource.org/license/mit
 carousel:
   - 'https://github.com/panxw/jekyllthemes/blob/master/thumbnails/simple-elegant.jpg?raw=true'
 ---

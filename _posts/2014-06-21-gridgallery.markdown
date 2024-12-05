@@ -8,7 +8,7 @@ download: https://github.com/nadjetey/GridGallery/archive/master.zip
 demo: https://nadjetey.github.io/GridGallery
 author: Nii Adjetey Sowah
 thumbnail: gridgallery.png
-license: WTF Public License
+license: WTF
 license_link: https://www.wtfpl.net/txt/copying/
 ---
 

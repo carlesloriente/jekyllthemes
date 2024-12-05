@@ -7,7 +7,7 @@ homepage: https://faysal.name.qa
 download: https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/archive/master.zip
 author: Hossain Mohd Faysal
 thumbnail: hmfaysal-v2.png
-license: GNU General Public License Version 2
+license: GPLv2
 license_link: https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/blob/master/LICENSE
 ---
 

@@ -9,6 +9,7 @@ demo: https://lixizhi.github.io/
 author: LiXizhi
 thumbnail: cool-concise-high-end.jpg
 license: MIT
+license_link: https://opensource.org/license/mit
 ---
 
 This is a wiki style blog theme based on [concise-high-end theme](https://github.com/Gaohaoyang/gaohaoyang.github.io).

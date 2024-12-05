@@ -10,3 +10,5 @@ author: Gerald Bauer
 thumbnail: planetjekyll-starter.png
 license: Public Domain
 ---
+
+Planet Jekyll's Starter theme.

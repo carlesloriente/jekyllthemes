@@ -10,7 +10,6 @@ author: airraya
 thumbnail: sciblog.png
 license: MIT
 license_link: https://github.com/yourfreebies/sciblog/blob/master/LICENSE
-
 ---
 
 Brilliantly combined between science and technology, Sciblog came out to the public.

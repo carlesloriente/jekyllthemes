@@ -8,7 +8,7 @@ download: https://github.com/vvalchev/creative-theme-jekyll-new/archive/master.z
 demo: https://vvalchev.github.io/creative-theme-jekyll-new/
 author: Start Bootstrap, Valentin Valchev
 thumbnail: creative-theme.png
-license: Apache License Version 2.0
+license: Apache 2.0
 license_link: https://github.com/vvalchev/creative-theme-jekyll-new/blob/master/LICENCE
 ---
 

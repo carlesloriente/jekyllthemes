@@ -7,6 +7,8 @@ download: https://github.com/alexcarpenter/material-jekyll-theme/archive/gh-page
 demo: http://alexcarpenter.me/material-jekyll-theme/
 author: Alex Carpenter
 thumbnail: materialize.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/alexcarpenter/material-jekyll-theme/blob/gh-pages/LICENSE
 ---
+
+Materialize theme.

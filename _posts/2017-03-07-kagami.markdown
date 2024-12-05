@@ -9,6 +9,7 @@ demo: https://banana.moe/jekyll-theme-kagami/about.html
 author: Kamikat
 thumbnail: kagami.png
 license: MIT
+license_link: https://opensource.org/license/mit
 ---
 
 A peaceful theme for Jekyll and GitHub Pages.

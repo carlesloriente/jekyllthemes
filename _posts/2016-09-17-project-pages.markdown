@@ -8,7 +8,7 @@ download: https://github.com/projectpages/project-pages/archive/gh-pages.zip
 demo: https://projectpages.github.io/project-pages/
 author: Ahmet Cecen
 thumbnail: project-pages.png
-license: Apache License Version 2.0
+license: Apache 2.0
 license_link: https://github.com/projectpages/project-pages/blob/gh-pages/LICENSE.md
 ---
 

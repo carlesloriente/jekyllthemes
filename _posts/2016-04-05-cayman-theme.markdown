@@ -8,7 +8,7 @@ download: https://github.com/pietromenna/jekyll-cayman-theme/archive/master.zip
 demo: https://jasonlong.github.io/cayman-theme/
 author: Pietro Menna (@pietromenna)
 thumbnail: cayman-theme.png
-license: Creative Commons Attribution 4.0 International License
+license: CC BY 4.0
 license_link: https://creativecommons.org/licenses/by/4.0/
 ---
 

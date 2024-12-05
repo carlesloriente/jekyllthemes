@@ -11,7 +11,6 @@ thumbnail: typing-jekyll-template-thumbnail.png
 license: MIT
 license_link: https://github.com/williamcanin/typing-jekyll-template/blob/master/LICENSE
 github_repo: williamcanin/typing-jekyll-template
-stars: 1
 ---
 
 The [Typing Jekyll Template](https://github.com/williamcanin/typing-jekyll-template/) show the main Theme. Feel free to Fork, Star it and make a New Version of it.

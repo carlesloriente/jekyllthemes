@@ -12,4 +12,4 @@ license: MIT
 license_link: https://github.com/midzer/urban-theme/blob/master/LICENSE
 ---
 
-A jekyll theme for visual artists
+A jekyll theme for visual artists.

@@ -8,7 +8,7 @@ download: https://github.com/hugoferreira/papyrus-theme/archive/master.zip
 demo: https://hugosereno.eu
 author: Hugo Sereno Ferreira
 thumbnail: papyrus-theme.png
-license: Creative Commons Attribution-ShareAlike 3.0 Unported License
+license: CC BY-SA 3.0
 license_link: https://github.com/hugoferreira/papyrus-theme/blob/master/LICENSE
 ---
 

@@ -10,3 +10,5 @@ author: Gerald Bauer
 thumbnail: drjekyll-bootstrap.png
 license: Public Domain
 ---
+
+Dr Jekyll Bootstrap theme.

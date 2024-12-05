@@ -25,6 +25,6 @@ Purposely kept minimal to make adding your own markup and flare easier.
 
 Sass preprocessing and the use of Data Files require Jekyll 2.x
 
-![Skinny Bones for Jekyll demo](https://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+## Creadits
 
 *Skinny Bones was built by [Michael Rose](https://mademistakes.com) [@mmistakes](https://twitter.com/mmistakes).*

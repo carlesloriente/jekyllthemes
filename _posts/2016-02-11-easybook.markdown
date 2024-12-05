@@ -10,6 +10,8 @@ author: laobubu
 thumbnail: easybook.png
 license: MIT
 license_link: https://github.com/laobubu/jekyll-theme-EasyBook/blob/gh-pages/LICENSE
+carousel:
+  - '/screenshots/easybook.png'
 ---
 
 Another Jekyll Blog Theme "EasyBook"
@@ -24,9 +26,3 @@ Start blogging with a simple but powerful theme.
 - **TOC** for posts is enabled, shown "stickily" on posts.
 - **Profile** including your links and avatar on the sidebar.
 - *And more...*
-
-## Demo
-
-There is a [live demo](https://laobubu.github.io/jekyll-theme-EasyBook)
-
-![Homepage](https://ooo.0o0.ooo/2016/02/11/56bc997c65daf.png)

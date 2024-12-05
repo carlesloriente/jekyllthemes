@@ -54,8 +54,8 @@ Tags are created automatically under the /tags page.
 
 To use a math formula in a post, use the mathjax:true tag in the post.
 
-## Contributing
+## Contribute
 
-Feel free to open a pull request for contributing.
+Feel free to open a pull request for Contribute.
 
-Please feel free to contribute. Do not hesitate to open a pull request and fix it, please read [contributing](https://github.com/onepase/Ephesus/blob/master/CONTRIBUTING.md) before PR.
+Please feel free to contribute. Do not hesitate to open a pull request and fix it, please read [Contribute](https://github.com/onepase/Ephesus/blob/master/Contribute.md) before PR.

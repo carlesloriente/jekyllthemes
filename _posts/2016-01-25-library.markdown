@@ -11,3 +11,5 @@ thumbnail: library.jpg
 license: MIT
 license_link: https://github.com/alexcarpenter/library-jekyll-theme/blob/gh-pages/LICENSE
 ---
+
+Library theme.

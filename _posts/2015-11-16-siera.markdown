@@ -10,3 +10,5 @@ thumbnail: siera.png
 license: MIT
 license_link: https://github.com/KazumaSATO/Siera/blob/master/LICENSE
 ---
+
+Siera theme.

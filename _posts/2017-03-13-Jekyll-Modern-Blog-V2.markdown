@@ -8,7 +8,7 @@ download: https://github.com/Open-SL/Jekyll-Modern-Blog/archive/1.0.zip
 demo: https://open-sl.github.io/Jekyll-Modern-Blog/
 author: Nadun Indunil
 thumbnail: modern2.png
-license: GPL-3.0
+license: GPLv3
 license_link: https://github.com/Open-SL/Jekyll-Modern-Blog/blob/master/LICENSE
 ---
 

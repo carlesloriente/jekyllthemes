@@ -8,15 +8,15 @@ download: https://github.com/gdg-managua/jekyll-mdl/releases
 demo: https://www.gdgmanagua.org/jekyll-mdl 
 author: Google Developers Group Managua
 thumbnail: jekyll-mdl.jpg
-license: Apache License Version 2.0
+license: Apache 2.0
 license_link: https://github.com/gdg-managua/jekyll-mdl/blob/master/LICENSE
 ---
 
 A Jekyll theme based in Google Material Design Lite library.
 
-## Contributing
+## Contribute
 
-If you want to contribute to this project, please read the [CONTRIBUTING](https://github.com/gdg-managua/jekyll-mdl/blob/master/CONTRIBUTING.md) file and perform the following steps:
+If you want to contribute to this project, please read the [Contribute](https://github.com/gdg-managua/jekyll-mdl/blob/master/Contribute.md) file and perform the following steps:
 
 ```bash
     # Fork this repository

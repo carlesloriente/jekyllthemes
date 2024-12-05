@@ -7,7 +7,7 @@ homepage: https://github.com/adueck/cayman-blog
 download: https://github.com/adueck/cayman-blog/archive/master.zip
 demo: https://adueck.github.io/cayman-blog/
 thumbnail: cayman-blog.png
-license: Creative Commons Attribution 4.0 International License
+license: CC BY 4.0
 license_link: https://creativecommons.org/licenses/by/4.0/
 ---
 

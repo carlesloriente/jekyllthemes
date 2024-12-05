@@ -11,3 +11,5 @@ thumbnail: zetsu.png
 license: MIT
 license_link: https://github.com/nandomoreirame/zetsu/blob/master/LICENSE
 ---
+
+Zwetsu theme.

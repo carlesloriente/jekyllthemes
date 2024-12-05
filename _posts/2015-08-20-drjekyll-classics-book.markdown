@@ -10,3 +10,5 @@ author: Gerald Bauer
 thumbnail: drjekyll-classics-book.png
 license: Public Domain
 ---
+
+Dr. Jekyll Classics Book theme.

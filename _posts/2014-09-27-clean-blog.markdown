@@ -8,7 +8,7 @@ download: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll/ar
 demo: https://ironsummitmedia.github.io/startbootstrap-clean-blog-jekyll/
 author: Start Bootstrap
 thumbnail: clean-blog.png
-license: Apache License Version 2.0
+license: Apache 2.0
 license_link: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll/blob/gh-pages/LICENSE
 carousel: 
   - 'https://sbootstrap.startbootstrapc.netdna-cdn.com/assets/img/templates/clean-blog.jpg'

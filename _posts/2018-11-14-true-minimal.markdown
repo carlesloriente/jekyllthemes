@@ -8,7 +8,7 @@ download: https://github.com/cyevgeniy/jekyll-true-minimal/archive/master.zip
 demo: https://cyevgeniy.github.io/jekyll-true-minimal/
 author: Yevgeniy Chaban
 thumbnail: true-minimal.png
-license: GPL-2.0 
+license: GPLv2 
 license_link: https://github.com/cyevgeniy/jekyll-true-minimal/blob/master/LICENSE
 ---
 

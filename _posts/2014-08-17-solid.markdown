@@ -16,12 +16,11 @@ Solid is a 7 pages theme ideal for web agencies and freelancers. There are 3 kin
 
 The theme is based on the [Solid – Multipurpose Theme](https://www.blacktie.co/2014/05/solid-multipurpose-theme/) by [blacktie.co](https://www.blacktie.co/).
 
+## Features
+
 It includes the Retina.js to work nice with retina display devices. It's fully responsive also, so it looks great on any screen!
 
 ## Contribute
 
 Start by [forking the repository](https://github.com/st4ple/solid-jekyll/fork).
-
-## Contact
-
 If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/st4ple/solid-jekyll/issues/new) or making a pull request for your fork!

@@ -16,7 +16,7 @@ OpenTheme, starter theme using Semantic UI and Jekyll for creating awesome websi
 
 The theme features growing list of reusable _includes for features like blogs, social media, menus, landing pages, MailChimp forms, and Google maps, among others
 
-The [theme demo site](https://opentheme.co) showcases comprehensive demos, and tutorials on how to reuse the theme for your website.
+## Features
 
 OpenTheme is designed to use YAML, JSON, CSV, and other data-as-a-service integrations to add structured data capabilities to already awesome Semantic UI front-end design.
 

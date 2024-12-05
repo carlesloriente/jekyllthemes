@@ -7,6 +7,6 @@ homepage: https://github.com/CloudCannon/Arcana-Jekyll-Theme
 download: https://github.com/CloudCannon/Arcana-Jekyll-Theme/archive/master.zip
 author: HTML5 UP (html5up.net), @n33co
 thumbnail: arcana.jpg
-license: Creative Commons Attribution 3.0 Unported License
+license: CCC BY 3.0
 license_link: https://github.com/CloudCannon/Arcana-Jekyll-Theme/blob/master/LICENSE.txt
 ---

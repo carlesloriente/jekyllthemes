@@ -8,7 +8,7 @@ download: https://github.com/jacobtomlinson/carte-noire/archive/gh-pages.zip
 demo: https://carte-noire.jacobtomlinson.co.uk/
 author: Jacob Tomlinson
 thumbnail: carte-noire.png
-license: GNU General Public License Version 3
+license: GPLv3
 license_link: https://github.com/jacobtomlinson/carte-noire/blob/gh-pages/LICENSE
 ---
 

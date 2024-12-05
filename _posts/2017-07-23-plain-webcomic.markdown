@@ -9,7 +9,7 @@ demo: https://peahatlanding.github.io/Plain-Webcomic/
 author: Nico Bocalan
 thumbnail: plain-webcomic.png
 license: MIT
-license_link:
+license_link: https://opensource.org/license/mit
 ---
 
 Webcomic Jekyll Theme, a simple webcomic theme powered by Bootstrap.

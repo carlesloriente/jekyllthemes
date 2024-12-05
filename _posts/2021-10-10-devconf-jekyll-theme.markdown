@@ -8,7 +8,7 @@ download: https://github.com/la-rebelion/DevConf-Jekyll-Theme/archive/refs/heads
 demo: https://la-rebelion.github.io/DevConf-Jekyll-Theme
 author: "Original - Xiaoying Riley | Mod: La Rebelion Labs/Adrian Escutia"
 thumbnail: DevConf-Jekyll-Theme-thumbnail.png
-license: Creative Commons (CC BY-NC-SA 4.0)
+license: CC BY-NC-SA 4.0
 license_link: https://github.com/la-rebelion/DevConf-Jekyll-Theme#author--license
 carousel:
   - 'https://github.com/la-rebelion/DevConf-Jekyll-Theme/blob/master/assets/images/template_screenshots/DevConf-Jekyll-Theme.png?raw=true'
