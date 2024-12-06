@@ -8,7 +8,7 @@ download: https://github.com/matej2/tiles-theme
 demo: https://github.com/matej2/tiles-theme
 author: Matej J
 thumbnail: tiles.png
-license: MIT License
+license: MIT
 license_link: https://raw.githubusercontent.com/matej2/tiles-theme/master/LICENSE
 ---
 

@@ -8,7 +8,7 @@ download: https://github.com/tocttou/hacker-blog/archive/master.zip
 demo: https://ashishchaudhary.in/hacker-blog
 author: Ashish Chaudhary
 thumbnail: hackerblog.png
-license: CC0 1.0 Universal
+license: CC-BY-1.0
 license_link: https://github.com/tocttou/hacker-blog/blob/master/license.md
 ---
 

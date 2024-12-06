@@ -8,7 +8,7 @@ download: https://github.com/zxixia/jekyll-xixia/archive/gh-pages.zip
 demo: https://xixia.info/jekyll-xixia/
 author: Xixia
 thumbnail: xixia.png
-license: CC BY 4.0
+license: CC.BY 4.0
 license_link: https://creativecommons.org/licenses/by/4.0/legalcode
 carousel:
   - 'https://raw.githubusercontent.com/zxixia/jekyll-xixia/gh-pages/assets/images/preview.png'
