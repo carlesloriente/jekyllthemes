@@ -8,7 +8,7 @@ download: https://github.com/chalatz/yellowblue/archive/master.zip
 demo: https://demo-yb.yellowblue.eu/
 author: Christos Alatzas
 thumbnail: yellowblue.png
-license: Apache License Version 2.0
+license: Apache  2.0
 license_link: https://github.com/chalatz/yellowblue/blob/master/LICENSE
 ---
 

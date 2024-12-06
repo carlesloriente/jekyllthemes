@@ -7,7 +7,7 @@ homepage: https://github.com/CloudCannon/Ion-Jekyll-Theme
 download: https://github.com/CloudCannon/Ion-Jekyll-Theme/archive/master.zip
 author: Template by https://templated.co, images by https://unsplash.com, ported by https://cloudcannon.com
 thumbnail: ion.jpg
-license: CCC BY 3.0
+license: CCC.BY 3.0
 license_link: https://github.com/CloudCannon/Ion-Jekyll-Theme/blob/master/LICENSE.txt
 ---
 

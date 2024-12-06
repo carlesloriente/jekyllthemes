@@ -8,7 +8,7 @@ download: https://github.com/arkadianriver/spectral/archive/master.zip
 demo: https://arkadianriver.github.io/spectral
 author: HTML5 UP (html5up.net), @n33co
 thumbnail: spectral.png
-license: CCC BY 3.0
+license: CCC.BY 3.0
 license_link: https://html5up.net/license
 ---
 

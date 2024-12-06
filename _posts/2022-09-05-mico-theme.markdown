@@ -8,7 +8,7 @@ download: https://github.com/zfett/mico/archive/refs/tags/v1.0.zip
 demo: https://zachfette.rs/mico
 author: "Zachary Fetters"
 thumbnail: mico-theme.jpg
-license: MIT License
+license: MIT
 license_link: https://github.com/zfett/mico/blob/main/LICENSE
 ---
 
@@ -16,7 +16,7 @@ The mico theme for Jekyll is a clean, minimalist, and comfy theme for those seek
 
 mico was built with GitHub Pages in mind, being able to be immediately deployed with very little configuration and elbow grease.
 
-mico is licensed under the MIT license and is available to all for free. I encourage those who need a more specialized experience to fork the original repo on GitHub and configure to their heart's content!
+mico is licensed under the MIT and is available to all for free. I encourage those who need a more specialized experience to fork the original repo on GitHub and configure to their heart's content!
 
 ## Installation
 

@@ -8,7 +8,7 @@ download: https://github.com/orderedlist/minimal/archive/master.zip
 demo: https://orderedlist.com/minimal/
 author: Steve Smith
 thumbnail: minimal.jpg
-license: CC BY-SA 3.0
+license: CC.BY-SA 3.0
 license_link: https://creativecommons.org/licenses/by-sa/3.0/
 ---
 
