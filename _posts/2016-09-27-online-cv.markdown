@@ -8,7 +8,7 @@ download: https://github.com/sharu725/online-cv/archive/master.zip
 demo: https://webjeda.com/online-cv/
 author: webjeda
 thumbnail: online-cv.png
-license: CCC.BY 3.0
+license: CC-BY-3.0
 license_link: https://creativecommons.org/licenses/by/3.0/
 carousel:
   - 'https://raw.githubusercontent.com/sharu725/online-cv/master/assets/images/online-cv-jekyll-theme.png'

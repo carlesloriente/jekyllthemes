@@ -8,7 +8,7 @@ download: https://github.com/CloudCannon/Twenty-Jekyll-Theme/archive/master.zip
 demo: https://html5up.net/twenty
 author: HTML5 UP (html5up.net), @n33co
 thumbnail: twenty.jpg
-license: CCC.BY 3.0
+license: CC-BY-3.0
 license_link: https://github.com/CloudCannon/Twenty-Jekyll-Theme/blob/master/LICENSE.txt
 ---
 

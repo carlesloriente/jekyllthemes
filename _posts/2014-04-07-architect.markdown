@@ -7,7 +7,7 @@ homepage: https://github.com/pietromenna/jekyll-architect-theme
 download: https://github.com/pietromenna/jekyll-architect-theme/archive/master.zip
 author: Jason Long, ported by Pietro Menna
 thumbnail: architect.png
-license: CC.BY 4.0
+license: CC-BY-4.0
 license_link: https://github.com/pietromenna/jekyll-architect-theme/blob/master/README.md#license
 ---
 
