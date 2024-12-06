@@ -8,7 +8,7 @@ download: https://github.com/sunbliss/photorama/archive/gh-pages.zip
 demo: https://sunbliss.github.io/photorama
 author: sunbliss
 thumbnail: photorama.gif
-license: Apache  2.0
+license: Apache 2.0
 license_link: https://github.com/sunbliss/photorama/blob/gh-pages/LICENSE
 ---
 

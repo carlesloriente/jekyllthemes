@@ -8,7 +8,7 @@ download: https://github.com/st4ple/solid-jekyll/archive/master.zip
 demo: https://st4ple.github.io/solid-jekyll/
 author: Oliver Stapleton
 thumbnail: solid.png
-license: Apache  2.0
+license: Apache 2.0
 license_link: https://opensource.org/licenses/Apache-2.0
 ---
 

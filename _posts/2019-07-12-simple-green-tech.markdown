@@ -8,7 +8,7 @@ download: https://github.com/alainpham/alainpham.github.io/releases/download/0.1
 demo: https://alainpham.github.io
 author: Alain Pham
 thumbnail: simple-green-techblog.png
-license: WTFPL
+license: WTF
 license_link: https://github.com/alainpham/alainpham.github.io/blob/master/LICENSE
 ---
 

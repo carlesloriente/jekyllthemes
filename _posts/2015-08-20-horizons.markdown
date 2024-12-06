@@ -7,7 +7,7 @@ homepage: https://github.com/CloudCannon/Horizons-Jekyll-Theme
 download: https://github.com/CloudCannon/Horizons-Jekyll-Theme/archive/master.zip
 author: Template by https://templated.co, images by https://unsplash.com, ported by https://cloudcannon.com
 thumbnail: horizons.jpg
-license: CCC.BY 3.0
+license: CC-BY-3.0
 license_link: https://github.com/CloudCannon/Horizons-Jekyll-Theme/blob/master/LICENSE.txt
 ---
 

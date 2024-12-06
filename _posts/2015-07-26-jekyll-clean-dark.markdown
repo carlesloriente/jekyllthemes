@@ -8,7 +8,7 @@ download: https://github.com/streetturtle/jekyll-clean-dark/archive/gh-pages.zip
 demo: https://pavelmakhov.com/jekyll-clean-dark/
 author: Pavel Makhov
 thumbnail: jekyll-clean-dark.png
-license: CC.BY 4.0
+license: CC-BY-4.0
 license_link: https://creativecommons.org/licenses/by/4.0/legalcode
 ---
 

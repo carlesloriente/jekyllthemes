@@ -8,7 +8,7 @@ download: https://github.com/Hammie217/LatexJekyll
 demo: https://unruffled-ardinghelli-55d901.netlify.app/
 author: Hamish Sams
 thumbnail: LatexJekyll.png
-license: WTFPL
+license: WTF
 ---
 
 A super simple LaTeX style website. Feel free to build upon this however you like.
