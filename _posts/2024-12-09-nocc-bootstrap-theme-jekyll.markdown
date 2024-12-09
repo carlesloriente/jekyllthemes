@@ -12,7 +12,7 @@ license: MIT
 license_link: https://github.com/carlesloriente/bootstrap-theme-jekyll/blob/main/LICENSE
 version: '0.1'
 carousel:
-  - '/screenshots/nocc-theme-showroom.webp'
+  - '/screenshots/nocc-theme-showroom.png'
 ---
 
 [NOCC Jekyll Bundle](https://bootstrap-theme.notesoncloudcomputing.com/). A fully featured bundle site for [Jekyll](https://jekyllrb.com/) created by [Carles Loriente](https://github.com/carlesloriente).
