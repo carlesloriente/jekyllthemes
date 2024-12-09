@@ -7,7 +7,7 @@ homepage: https://bootstrap-theme.notesoncloudcomputing.com/
 download: https://github.com/carlesloriente/bootstrap-theme-jekyll/archive/refs/heads/main.zip
 demo: http://demopage.url/
 author: Carles Loriente
-thumbnail: thumbnail.png
+thumbnail: nocc-thumbnail.png
 license: MIT
 license_link: https://github.com/carlesloriente/bootstrap-theme-jekyll/blob/main/LICENSE
 version: '0.1'
