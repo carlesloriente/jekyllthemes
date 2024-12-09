@@ -20,19 +20,28 @@ carousel:
 
 Description
 
+## Table of contents
+
+- [Table of contents](#table-of-contents)
+- [Features](#features)
+- [Installation](#installation)
+- [Bugs and Issues](#bugs-and-issues)
+- [Contribute](#contribute)
+- [Contact](#contact)
+
 ## Features
 
-* Bla Bla
+- Bla Bla
 
 ## Installation
 
 1. Bla Bla.
 
-## Contribute
+## Bugs and Issues
 
 Bla Bla.
 
-## Support
+## Contribute
 
 Bla Bla.
 
