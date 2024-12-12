@@ -10,7 +10,7 @@ author: Carles Loriente
 thumbnail: nocc-thumbnail.png
 license: MIT
 license_link: https://github.com/carlesloriente/bootstrap-theme-jekyll/blob/main/LICENSE
-version: '0.1'
+version: '1.3.8'
 carousel:
   - '/screenshots/nocc-theme-showroom.png'
 ---
