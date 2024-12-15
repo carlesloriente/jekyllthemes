@@ -8,6 +8,8 @@ download: https://github.com/Rhysol/JekyllBlog/archive/master.zip
 demo: http://www.rhysol.com
 author: Rhysol
 thumbnail: jekyll-alike.png
+carousel:
+ - '/screenshots/jekyll-alike.png'
 ---
 
 This is very like to [jekyll](https://jekyllrb.com/) offical website them. Most of elements are from jekyll.
