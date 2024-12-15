@@ -11,7 +11,7 @@ thumbnail: robotkang.png
 license: MIT
 license_link: https://github.com/samanyougarg/hanuman/blob/master/LICENSE
 carousel:
-  - '/thumbnails/robotkang_site.png'
+  - '/screenshots/robotkang_site.png'
 ---
 
 Robotkang, a responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.

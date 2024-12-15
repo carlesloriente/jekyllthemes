@@ -10,6 +10,8 @@ author: Kento Oki
 thumbnail: darkred-theme.png
 license: MIT
 license_link: https://github.com/kkent030315/jekyll-darkred-theme/blob/main/LICENSE
+carousel:
+ - '/screenshots/darkred-theme.png'
 ---
 
 A Simple Dark-Red Theme for Jekyll.
