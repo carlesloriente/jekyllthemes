@@ -5,7 +5,7 @@ title: Bootstrap-based Resume theme
 date: 2020-10-11 02:11:04 +02:00
 homepage: https://github.com/zemmyang/Bootstrap-Resume-Jekyll
 download: https://github.com/zemmyang/Bootstrap-Resume-Jekyll/releases/tag/v1.0
-demo: http://www.zemmyang.com/Bootstrap-Resume-Jekyll/
+demo: https://www.zemmyang.com/Bootstrap-Resume-Jekyll/
 author: Angeleene Ang
 thumbnail: bootstrap-resume.png
 license: MIT
