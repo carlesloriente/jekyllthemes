@@ -5,7 +5,7 @@ title: Conference
 date: 2023-08-27 10:00:00 +01:00
 homepage: https://github.com/DigitaleGesellschaft/jekyll-theme-conference
 download: https://github.com/DigitaleGesellschaft/jekyll-theme-conference/releases/
-demo: https://digitale-gesellschaft.ch/kongress/
+demo: https://www.winterkongress.ch/2024/
 author: "Lorenz Schmid | Digitale Gesellschaft"
 thumbnail: jekyll-theme-conference.png
 license: MIT
