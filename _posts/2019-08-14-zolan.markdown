@@ -9,7 +9,7 @@ demo: https://artemsheludko.github.io/zolan/
 author: Artem Sheludko
 thumbnail: zolan.png
 license: MIT
-license_link: https://github.com/artemsheludko/flexible-jekyll/blob/master/LICENSE.txt
+license_link: https://raw.githubusercontent.com/artemsheludko/flexible-jekyll/refs/heads/master/LICENSE
 carousel:
   - 'https://github.com/artemsheludko/zolan/blob/master/images/zolan-main-page.png?raw=true'
   - 'https://github.com/artemsheludko/zolan/blob/master/images/zolan-post.png?raw=true'

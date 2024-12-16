@@ -9,7 +9,7 @@ demo: https://robotkang.cc
 author: Robotkang
 thumbnail: robotkang.png
 license: MIT
-license_link: https://github.com/samanyougarg/hanuman/blob/master/LICENSE
+license_link: https://raw.githubusercontent.com/samanyougarg/hanuman/refs/heads/master/LICENSE.txt
 carousel:
   - '/screenshots/robotkang_site.png'
 ---

@@ -9,7 +9,7 @@ demo: https://gaohaoyang.github.io/
 author: Gaohaoyang
 thumbnail: cool-concise-high-end.jpg
 license: MIT
-license_link: https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md
+license_link: https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang.github.io/refs/heads/master/LICENSE
 carousel: 
   - 'https://7q5cdt.com1.z0.glb.clouddn.com/blog-blog/sample.png'
   - 'https://7q5cdt.com1.z0.glb.clouddn.com/blog-blog/Show1.gif'

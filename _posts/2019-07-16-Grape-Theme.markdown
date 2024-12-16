@@ -4,7 +4,6 @@ title: Grape-Theme
 date: 2019-07-16 12:30:00
 homepage: https://github.com/naye0ng/Grape-Theme
 download: https://github.com/naye0ng/Grape-Theme/archive/v1.0.zip
-demo: https://grape-theme.netlify.com
 author: Nayeong Kim
 thumbnail: Grape-Theme.png
 license: MIT

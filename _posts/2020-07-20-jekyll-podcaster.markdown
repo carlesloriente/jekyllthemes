@@ -9,7 +9,7 @@ demo: https://jekyll-podcaster.netlify.app/
 author: Alessio Franceschi
 thumbnail: podcaster.png
 license: GPLv3
-license_link: https://github.com/PandaSekh/Jekyll-Podcaster/blob/master/LICENSE.txt
+license_link: https://raw.githubusercontent.com/PandaSekh/Jekyll-Podcaster/refs/heads/master/LICENSE
 ---
 
 Jekyll Podcaster is a [Jekyll](https://jekyllrb.com) theme built for podcasters. Every podcast needs a great website and this theme helps you achieve that.

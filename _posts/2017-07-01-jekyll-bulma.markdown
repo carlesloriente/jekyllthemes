@@ -9,7 +9,7 @@ demo: https://erayaydin.github.io/jekyll-bulma/
 author: Eray Aydın
 thumbnail: jekyll-bulma.jpg
 license: MIT
-license_link: https://github.com/erayaydin/jekyll-bulma/blob/master/LICENSE.md
+license_link: https://raw.githubusercontent.com/erayaydin/jekyll-bulma/refs/heads/master/LICENSE
 ---
 
 Jekyll theme with using bulma.io css framework. There is a `syntax highlighter` support in this theme. Check [demo](https://erayaydin.github.io/jekyll-bulma)

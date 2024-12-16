@@ -9,7 +9,7 @@ demo: https://squarezero.vercel.app/
 author: surajk95
 thumbnail: squarezero.png
 license: MIT
-license_link: https://github.com/squarezero/squarezero.github.io/blob/master/LICENSE
+license_link: https://opensource.org/license/mit
 ---
 
 Square Zero is a dark, minimal responsive theme, with an awesome look and feel.

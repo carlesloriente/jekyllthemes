@@ -9,7 +9,7 @@ demo: https://j1-template-starter.netlify.app/
 author: Jürgen Adams
 thumbnail: j1-template-thumb-0000.jpg
 license: MIT
-license_link: https://github.com/jekyll-one/j1-template-starter/blob/main/LICENSE
+license_link: https://opensource.org/license/mit
 carousel:
   - 'https://github.com/jekyll-one/j1-template-starter/raw/main/home-screenshot.jpg'
 ---

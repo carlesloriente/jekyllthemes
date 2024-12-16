@@ -8,7 +8,7 @@ download: https://github.com/Jekyll-Garden/jekyll-garden.github.io
 demo: https://jekyll-garden.github.io
 author: Mu-An Chiou
 license: MIT
-license_link: https://github.com/Jekyll-Garden/jekyll-garden.github.io/LICENSE
+license_link: https://raw.githubusercontent.com/Jekyll-Garden/jekyll-garden.github.io/refs/heads/main/LICENSE
 ---
 
 A Digital Garden Theme for Jekyll.

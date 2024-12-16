@@ -9,7 +9,7 @@ demo: https://samanyougarg.github.io/hanuman/
 author: Samanyou Garg
 thumbnail: hanuman.jpg
 license: MIT
-license_link: https://github.com/samanyougarg/hanuman/blob/master/LICENSE
+license_link: https://raw.githubusercontent.com/samanyougarg/hanuman/refs/heads/master/LICENSE.txt
 ---
 
 Hanuman, a responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.
