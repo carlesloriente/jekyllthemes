@@ -4,12 +4,12 @@ comments: true
 title: dactl
 date: 2017-03-31 20:02:00
 homepage: https://github.com/melangue/dactl
-download: https://github.com/melangue/jekyllthemes/archive/master.zip
+download: https://github.com/melangue/dactl/archive/refs/heads/master.zip
 demo: https://melangue.github.io/dactl/
 author: Marcin C
 thumbnail: dactl_small.png
 license: MIT
-license_link: https://github.com/melangue/dactl/blob/master/LICENSE.md
+license_link: https://opensource.org/license/mit
 carousel:
   - 'https://github.com/melangue/dactl/blob/master/uploads/screenshot_desktop_light.jpg?raw=true'
   - 'https://github.com/melangue/dactl/blob/master/uploads/screenshot_desktop_dark.jpg?raw=true'

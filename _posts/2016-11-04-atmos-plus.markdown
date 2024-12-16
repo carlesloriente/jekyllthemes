@@ -3,13 +3,13 @@ layout: post
 comments: true
 title: Atmos Plus
 date: 2016-11-04 02:45:00
-homepage: https://github.com/meliodus/meliodus.github.io
-download: https://codeload.github.com/meliodus/meliodus.github.io/zip/master
-demo: https://meliodus.github.io/
+homepage: https://github.com/Focx-o/Focx-o.github.io
+download: https://github.com/Focx-o/Focx-o.github.io/archive/refs/heads/master.zip
+demo: http://focx-o.github.io/
 author: Ankan Biswas
 thumbnail: atmosplus.png
 license: MIT
-license_link: https://raw.githubusercontent.com/meliodus/meliodus.github.io/master/LICENSE.md
+license_link: https://raw.githubusercontent.com/Focx-o/Focx-o.github.io/refs/heads/master/LICENSE.md
 ---
 
 Atmos Plus, this is the copycat, modified version of atmos.org and collection of my older blog posts that I had in 2013 and newly what i add. All of my posts on meliodus.github.io.
@@ -27,8 +27,8 @@ I would also like to thank Dale-Anthony for the his awesome website as a next-re
 
 ## Contribute
 
-Start by [forking the repository](https://github.com/meliodus/meliodus.github.io/fork).
+Start by [forking the repository](https://github.com/Focx-o/Focx-o.github.io/fork).
 
 ## Contact
 
-I am a starter. If you have any suggestions for improvements, don't hesitate to [open an issue](https://github.com/meliodus/meliodus.github.io/issues) or making a pull request for your fork!
+I am a starter. If you have any suggestions for improvements, don't hesitate to [open an issue](https://github.com/Focx-o/Focx-o.github.io/issues) or making a pull request for your fork!

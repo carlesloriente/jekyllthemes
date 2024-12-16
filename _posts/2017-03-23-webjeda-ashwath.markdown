@@ -5,7 +5,7 @@ title: Webjeda Ashwath
 date: 2017-03-23 00:00:00
 homepage: https://github.com/sharu725/ashwath
 download: https://github.com/sharu725/ashwath/archive/master.zip
-demo: https://webjeda.com/ashwath/
+demo: https://ashwath.webjeda.com/
 author: webjeda
 thumbnail: webjeda-ashwath.png
 license: MIT

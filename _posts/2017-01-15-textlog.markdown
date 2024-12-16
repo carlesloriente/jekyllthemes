@@ -9,7 +9,7 @@ demo: https://heiswayi.github.io/textlog/
 author: Heiswayi Nrird
 thumbnail: textlog.png
 license: MIT
-license_link: https://github.com/heiswayi/textlog/blob/gh-pages/LICENSE.md
+license_link: https://raw.githubusercontent.com/heiswayi/textlog/refs/heads/gh-pages/LICENSE
 ---
 
 TextLog is the best minimalist content-focused Jekyll theme.

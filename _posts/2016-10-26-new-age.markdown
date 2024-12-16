@@ -9,7 +9,7 @@ demo: https://jekynewage.github.io
 author: Antonio Trento
 thumbnail: jeky-new-age.jpg
 license: MIT
-license_link: https://github.com/jekynewage/jekynewage.github.io/blob/master/LICENSE.txt
+license_link: https://raw.githubusercontent.com/jekynewage/jekynewage.github.io/refs/heads/master/LICENSE
 ---
 
 New Age Jekyll theme, Jekyll theme based on [New Age bootstrap theme](https://startbootstrap.com/template-overviews/new-age/).
