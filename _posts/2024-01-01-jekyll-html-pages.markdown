@@ -5,7 +5,7 @@ title: Jekyll HTML Pages
 date: 2024-01-01 01:42:00
 homepage: https://github.com/francescobianco/jekyll-html-pages
 download: https://github.com/francescobianco/jekyll-html-pages/archive/gh-pages.zip
-demo: http://yafb.net/jekyll-html-pages/
+demo: https://yafb.net/jekyll-html-pages/
 author: Francesco Bianco
 license: MIT
 license_link: https://francescobianco/jekyll-html-pages/blob/main/LICENSE

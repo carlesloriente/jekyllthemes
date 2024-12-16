@@ -3,9 +3,9 @@ layout: post
 comments: true
 title: Ghostly
 date: 2020-01-08
-homepage: http://www.jmlilly.net/ghostly
+homepage: https://www.jmlilly.net/ghostly
 download: https://github.com/jonathanlilly/ghostly/archive/master.zip
-demo: http://www.jmlilly.net
+demo: https://www.jmlilly.net
 author: Jonathan M. Lilly
 thumbnail: ghostly.png
 license: MIT
