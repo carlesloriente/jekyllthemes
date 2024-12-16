@@ -5,7 +5,6 @@ title: GridGallery
 date: 2014-06-21 00:00:00
 homepage: https://github.com/nadjetey/GridGallery
 download: https://github.com/nadjetey/GridGallery/archive/master.zip
-demo: https://nadjetey.github.io/GridGallery
 author: Nii Adjetey Sowah
 thumbnail: gridgallery.png
 license: WTF

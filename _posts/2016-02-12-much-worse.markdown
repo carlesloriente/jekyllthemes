@@ -5,7 +5,7 @@ title: Much-Worse
 date: 2016-02-12 22:00:00
 homepage: https://github.com/gchauras/much-worse-jekyll-theme
 download: https://github.com/gchauras/much-worse-jekyll-theme/archive/gh-pages.zip
-demo: https://gchauras.github.io/much-worse-jekyll-theme/
+demo: https://gchauras.github.io/
 author: Gaurav Chaurasia
 thumbnail: much-worse.png
 license: MIT

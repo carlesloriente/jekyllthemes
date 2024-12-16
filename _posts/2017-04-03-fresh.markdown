@@ -5,7 +5,7 @@ title: Fresh
 date: 2017-04-03 00:00:00
 homepage: https://github.com/artemsheludko/fresh
 download: https://github.com/artemsheludko/fresh/archive/master.zip
-demo: https://artemsheludko.pw/fresh/
+demo: http://artemsheludko.com/fresh/
 author: Artem Sheludko
 thumbnail: fresh-sm.png
 license: GPLv3

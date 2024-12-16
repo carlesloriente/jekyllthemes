@@ -5,7 +5,7 @@ title: Cards
 date: 2016-05-08 21:40:00
 homepage: https://github.com/willianjusten/cards-jekyll-template
 download: https://github.com/willianjusten/cards-jekyll-template/archive/master.zip
-demo: https://willianjusten.com.br/cards-jekyll-template/
+demo: https://willianjusten.github.io/cards-jekyll-template/
 author: Willian Justen
 thumbnail: cards-jekyll-template.png
 license: MIT

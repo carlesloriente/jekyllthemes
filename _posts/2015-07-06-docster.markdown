@@ -5,7 +5,6 @@ title: Docster
 date: 2015-07-06 10:44:00
 homepage: https://github.com/DigitalMindCH/docster-jekyll-theme
 download: https://github.com/DigitalMindCH/docster-jekyll-theme/archive/gh-pages.zip
-demo: https://digitalmind.ch/themes/docster-jekyll-theme/demo/
 author: Digitalmind
 thumbnail: docster.jpg
 license: MIT
@@ -27,4 +26,3 @@ This theme was created to generate an organized output. It does not require any 
 ## Contact
 
 If you run into any trouble or have a request please do so by opening up an issue on the theme's GitHub page.
-If you just want to give us a general feedback feel free to [contact us!](https://digitalmind.ch/contact/)

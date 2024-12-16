@@ -5,7 +5,6 @@ title: Evento
 date: 2016-02-01 10:11:00
 homepage: https://github.com/boyney123/evento
 download: https://github.com/boyney123/evento/archive/master.zip
-demo: https://evento.davidboyne.co.uk
 author: David Boyne
 thumbnail: evento.png
 license: MIT

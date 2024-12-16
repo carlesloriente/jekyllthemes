@@ -5,7 +5,7 @@ title: Mr.Brown
 date: 2017-02-23 00:00:00
 homepage: https://github.com/artemsheludko/mr-brown
 download: https://github.com/artemsheludko/mr-brown/archive/master.zip
-demo: https://artemsheludko.pw/mr-brown
+demo: http://artemsheludko.com/mr-brown
 author: Artem Sheludko
 thumbnail: mr-brown.png
 license: MIT

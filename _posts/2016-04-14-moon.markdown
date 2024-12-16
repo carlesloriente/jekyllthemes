@@ -5,7 +5,7 @@ title: Moon
 date: 2016-04-14 20:01:00
 homepage: https://github.com/TaylanTatli/Moon
 download: https://github.com/TaylanTatli/Moon/archive/gh-pages.zip
-demo: https://taylantatli.github.io/Moon
+demo: https://tolgatatli.github.io/Moon/
 author: Taylan Tatlı
 thumbnail: moon.png
 license: MIT
@@ -15,7 +15,7 @@ carousel:
   - 'https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png'
 ---
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+**[Moon](https://tolgatatli.github.io/Moon/)** is a minimal, one column jekyll theme.
 
 ## Features
 
@@ -32,4 +32,4 @@ carousel:
 
 ## Installation
 
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.me/Moon/moon-theme/) for more information.
+To learn how to install and use this theme check out the [Setup Guide](https://tolgatatli.github.io/Moon/moon-theme/) for more information.

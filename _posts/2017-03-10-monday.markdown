@@ -5,7 +5,7 @@ title: Monday
 date: 2017-03-10 00:00:00
 homepage: https://github.com/artemsheludko/monday
 download: https://github.com/artemsheludko/monday/archive/master.zip
-demo: https://artemsheludko.pw/monday
+demo: http://artemsheludko.com/monday
 author: Artem Sheludko
 thumbnail: monday.png
 license: GPLv3

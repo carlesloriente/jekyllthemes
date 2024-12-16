@@ -5,7 +5,7 @@ title: Square Zero
 date: 2019-07-21 22:30:00
 homepage: https://github.com/squarezero/squarezero.github.io
 download: https://github.com/squarezero/squarezero.github.io/releases/tag/1.0.0
-demo: https://squarezero.github.io/
+demo: https://squarezero.vercel.app/
 author: surajk95
 thumbnail: squarezero.png
 license: MIT

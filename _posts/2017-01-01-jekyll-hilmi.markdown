@@ -5,7 +5,7 @@ title: Jekyll-hilmi
 date: 2017-01-01 21:20:00
 homepage: https://github.com/nix1947/jekyll-hilmi
 download: https://github.com/nix1947/jekyll-hilmi/archive/master.zip
-demo: https://nix1947.github.io/jekyll-hilmi
+demo: https://manojgautam.com.np/
 author: Manoj Gautam
 thumbnail: jekyll-hilmi.png
 license: MIT

@@ -5,7 +5,7 @@ title: White Paper
 date: 2014-07-02 00:00:00
 homepage: https://github.com/vinitkumar/white-paper
 download: https://github.com/vinitkumar/white-paper/tree/v2.0.0
-demo: https://vinitkumar.me/white-paper/
+demo: https://vinitkumar.github.io/white-paper/
 author: Vinit Kumar
 thumbnail: white-paper.png
 license: MIT

@@ -5,7 +5,7 @@ title: Library
 date: 2016-01-25 10:11:00
 homepage: https://github.com/alexcarpenter/library-jekyll-theme
 download: https://github.com/alexcarpenter/library-jekyll-theme/archive/gh-pages.zip
-demo: https://alexcarpenter.me/library-jekyll-theme/
+demo: https://alexcarpenter.github.io/library-jekyll-theme/
 author: Alex Carpenter
 thumbnail: library.jpg
 license: MIT

@@ -5,7 +5,6 @@ title: Naringu
 date: 2015-02-21 02:30:00
 homepage: https://github.com/ariestiyansyah/naringu
 download: https://github.com/ariestiyansyah/naringu/archive/master.zip
-demo: https://naringu.oonlab.com
 author: Rizky Ariestiyansyah
 thumbnail: naringu.png
 license: MIT

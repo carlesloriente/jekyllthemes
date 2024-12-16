@@ -5,7 +5,7 @@ title: Robotkang
 date: 2018-01-08 15:00:00
 homepage: https://github.com/MengZheK/kangblog.github.io
 download: https://github.com/MengZheK/kangblog.github.io/archive/master.zip
-demo: http://robotkang.cc
+demo: https://robotkang.cc
 author: Robotkang
 thumbnail: robotkang.png
 license: MIT

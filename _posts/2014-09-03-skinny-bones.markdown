@@ -5,7 +5,7 @@ title: Skinny Bones
 date: 2014-09-03 00:00:00
 homepage: https://github.com/mmistakes/skinny-bones-jekyll
 download: https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip
-demo: https://mmistakes.github.io/skinny-bones-jekyll/
+demo: https://mmistakes.github.io/jekyll-theme-skinny-bones/
 author: Michael Rose
 thumbnail: skinny-bones-0000.jpg
 license: MIT

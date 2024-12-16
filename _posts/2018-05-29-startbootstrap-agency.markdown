@@ -5,7 +5,7 @@ title: Startbootstrap Agency
 date: 2018-05-29 00:00:00
 homepage: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/
 download: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/archive/master.zip
-demo: http://www.vrachas.com/jekyll-theme-startbootstrap-agency/
+demo: https://www.vrachas.com/jekyll-theme-startbootstrap-agency/
 author: Sotirios Vrachas
 thumbnail: startbootstrap-agency.png
 license: MIT

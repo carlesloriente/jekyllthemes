@@ -5,7 +5,6 @@ title: Zebra
 date: 2013-09-01 09:00:00
 homepage: https://github.com/newbiettn/zebra
 download: https://github.com/newbiettn/zebra/archive/gh-pages.zip
-demo: https://zebra.ngoctran.me/2016/08/31/introduction/
 author: newbiettn
 thumbnail: zebra.png
 license: MIT

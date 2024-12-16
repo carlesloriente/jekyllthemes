@@ -5,7 +5,6 @@ title: Twister
 date: 2015-05-11 13:55:00
 homepage: https://github.com/DigitalMindCH/twister
 download: https://digitalmind.ch/media/downloads/twister_theme.zip
-demo: https://digitalmind.ch/themes/twister-jekyll-theme/demo/
 author: Digitalmind
 thumbnail: twister.jpg
 license: MIT
@@ -21,8 +20,7 @@ This theme is powerful and it comes with a few extras.
 
 * The theme comes with a grunt file, which means that working with it is super easy. We have Tasks that compile, concatenate, minify and even deploy to GitHub, with or without plugins. You also get our Sass folder, which makes changing the looks of the site super easy.
 * Twister comes with a front matter generator that will make generating the front matter for each post a breeze. So you don't have to remember each and every variable name, the generator will help you with that.
-* Check the [Docs](https://twister.digitalmind.ch/documentation/) out.
 
 ## Contact
 
-If you run into any trouble or have a request please do so by opening up an issue on the theme's GitHub page. If you just want to give us a general feedback feel free to [contact us](https://digitalmind.ch/contact/).
+If you run into any trouble or have a request please do so by opening up an issue on the theme's GitHub page.

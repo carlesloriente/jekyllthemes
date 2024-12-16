@@ -5,7 +5,6 @@ title: RLStevenson
 date: 2013-09-08 00:00:00
 homepage: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme
 download: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme/archive/master.zip
-demo: https://www.exchangerate-api.com/rlstevenson/
 author: ExchangeRate-API
 thumbnail: rlstevenson.png
 license: MIT

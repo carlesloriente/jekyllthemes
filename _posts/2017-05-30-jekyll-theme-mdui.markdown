@@ -5,7 +5,7 @@ title: jekyll-theme-mdui
 date: 2017-05-30 17:25:00 
 homepage: https://github.com/KeJunMao/jekyll-theme-mdui
 download: https://github.com/KeJunMao/jekyll-theme-mdui/archive/master.zip
-demo: https://blog.kejun.space/
+demo: https://stoic-minsky-d7bb8b.netlify.app/
 author: KeJun
 thumbnail: jekyll-theme-mdui.png
 license: MIT

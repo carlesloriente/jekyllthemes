@@ -5,7 +5,7 @@ title: Devlopr
 date: 2019-05-19 00:00:00
 homepage: https://github.com/sujaykundu777/devlopr-jekyll
 download: https://rubygems.org/gems/devlopr
-demo: https://devlopr.netlify.com
+demo: https://devlopr.netlify.app/#/
 author: Sujay Kundu
 thumbnail: devlopr.png
 license: MIT

@@ -9,7 +9,7 @@ demo: https://inded.github.io/Jekyll_modern-blog/
 author: Wferr
 thumbnail: modernblog.png
 license: GPLv3
-license_link: https://www.gnu.org/licenses/GPLv3.html
+license_link: https://www.gnu.org/licenses/gpl-3.0.html
 ---
 
 Jekyll Modern Blog, a Simple, Clean (a bit laggy) responsive modern blog for jekyll.

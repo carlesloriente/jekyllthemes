@@ -5,7 +5,6 @@ title: Kagami
 date: 2017-03-07 00:00:00
 homepage: https://github.com/kamikat/jekyll-theme-kagami
 download: https://github.com/kamikat/jekyll-theme-kagami/releases
-demo: https://banana.moe/jekyll-theme-kagami/about.html
 author: Kamikat
 thumbnail: kagami.png
 license: MIT

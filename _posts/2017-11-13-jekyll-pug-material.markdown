@@ -5,7 +5,7 @@ title: Jekyll-Pug Material
 date: 2017-11-13 00:56:00
 homepage: https://github.com/dougbeney/jekyll-pug-material
 download: https://github.com/dougbeney/jekyll-pug-material/archive/master.zip
-demo: https://material.jekyll-pug.dougie.io
+demo: http://material.jekyll-pug.dougie.io
 author: Doug Beney
 thumbnail: jekyll-pug-material.png
 license: MIT

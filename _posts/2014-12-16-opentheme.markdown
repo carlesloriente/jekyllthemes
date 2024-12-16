@@ -5,7 +5,6 @@ title: OpenTheme
 date: 2014-12-16 12:00:00
 homepage: https://github.com/open-start/opentheme
 download: https://github.com/open-start/opentheme/archive/master.zip
-demo: https://opentheme.co/
 author: Manav Sehgal
 thumbnail: opentheme.png
 license: MIT

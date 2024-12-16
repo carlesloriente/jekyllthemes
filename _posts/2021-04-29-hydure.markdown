@@ -5,7 +5,6 @@ title: Hydure
 date: 2021-04-29 21:27:00
 homepage: https://github.com/zivong/jekyll-theme-hydure
 download: https://github.com/zivong/jekyll-theme-hydure/archive/refs/heads/master.zip
-demo: https://zivong.blog/jekyll-theme-hydure/
 author: Song-Zi Vong
 thumbnail: hydure.png
 license: MIT

@@ -5,7 +5,7 @@ title: Yellowblue
 date: 2015-10-18 21:00:00
 homepage: https://github.com/chalatz/yellowblue
 download: https://github.com/chalatz/yellowblue/archive/master.zip
-demo: https://demo-yb.yellowblue.eu/
+demo: https://chalatz.github.io/yellowblue/
 author: Christos Alatzas
 thumbnail: yellowblue.png
 license: Apache 2.0

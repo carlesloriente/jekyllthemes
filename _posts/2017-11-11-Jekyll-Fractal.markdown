@@ -5,7 +5,7 @@ title: Jekflix
 date: 2017-09-21 09:10:00
 homepage: https://github.com/yvesespinosa/jekyll-html5up-fractal
 download: https://github.com/yvesespinosa/jekyll-html5up-fractal/raw/master/archive/jekyll-html5up-fractal.zip
-demo: https://yvesespinosa.github.io/jekyll-html5up-fractal/
+demo: https://yveszenne.github.io/jekyll-html5up-fractal/
 author: Yves Espinosa
 thumbnail: fractal_thumbnail.png
 license: MIT

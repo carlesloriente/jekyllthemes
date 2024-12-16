@@ -3,9 +3,8 @@ layout: post
 comments: true
 title: Incorporated
 date: 2014-02-27 00:00:00
-homepage: https://incorporated.sendtoinc.com/
+homepage: https://github.com/kippt/jekyll-incorporated
 download: https://github.com/kippt/jekyll-incorporated/archive/master.zip
-demo: https://blog.sendtoinc.com/
 author: Kippt Inc.
 thumbnail: incorporated.png
 license: MIT
