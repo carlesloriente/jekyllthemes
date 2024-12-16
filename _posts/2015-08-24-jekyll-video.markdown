@@ -9,7 +9,7 @@ demo: https://mushishi78.github.io/jekyll-video/
 author: Max White
 thumbnail: jekyll-video.jpg
 license: MIT
-license_link: https://github.com/mushishi78/jekyll-video/blob/gh-pages/LICENSE
+license_link: https://raw.githubusercontent.com/mushishi78/jekyll-video/refs/heads/gh-pages/LICENSE.txt
 ---
 
 Video, a video blog.

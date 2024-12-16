@@ -5,7 +5,6 @@ title: Flexton
 date: 2018-06-20 00:00:00
 homepage: https://github.com/artemsheludko/flexton
 download: https://github.com/artemsheludko/flexton/archive/master.zip
-demo: https://flexton.netlify.com/
 author: Artem Sheludko
 thumbnail: flexton.jpg
 license: MIT

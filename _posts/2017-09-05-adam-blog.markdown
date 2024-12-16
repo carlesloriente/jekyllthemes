@@ -9,7 +9,7 @@ demo: https://artemsheludko.github.io/adam-blog/
 author: Artem Sheludko
 thumbnail: adam-blog.jpg
 license: GPLv3
-license_link: https://github.com/artemsheludko/adam-blog/blob/master/LICENSE.txt
+license_link: https://raw.githubusercontent.com/artemsheludko/adam-blog/refs/heads/master/LICENSE
 carousel: 
   - 'https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true'
   - 'https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true'

@@ -9,7 +9,7 @@ demo: https://artemsheludko.github.io/flexible-jekyll/
 author: Artem Sheludko
 thumbnail: flexible-jekyll.jpg
 license: GPLv3
-license_link: https://github.com/artemsheludko/flexible-jekyll/blob/master/LICENSE.txt
+license_link: https://raw.githubusercontent.com/artemsheludko/flexible-jekyll/refs/heads/master/LICENSE
 carousel:
   - 'https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true'
   - 'https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true'

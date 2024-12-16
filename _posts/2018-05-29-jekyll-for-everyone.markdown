@@ -9,7 +9,7 @@ demo: https://jekyll-for-everyone.github.io/
 author: Melvin Ch'ng
 thumbnail: jekyll-for-everyone.png
 license: GPLv3
-license_link: https://github.com/melvinchng/jekyll-for-everyone/blob/master/LICENSE
+license_link: https://www.gnu.org/licenses/gpl-3.0.txt
 ---
 
 Jekyll For Everyone, Please refer to [this repository](https://github.com/melvinchng/jekyll-for-everyone) for instructions on how to use it.

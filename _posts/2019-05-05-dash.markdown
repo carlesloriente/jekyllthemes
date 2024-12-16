@@ -4,8 +4,8 @@ comments: true
 title: Dash
 date: 2019-05-05 00:00:00
 homepage: https://github.com/bitbrain/jekyll-dash
-download: https://github.com/samesies/jekyll-dash/archive/master.zip
-demo: https://bitbrain.github.io
+download: https://github.com/bitbrain/jekyll-dash/archive/refs/heads/main.zip
+demo: https://bitbra.in/
 author: Miguel Gonzalez Sanchez
 thumbnail: dash.jpg
 license: MIT

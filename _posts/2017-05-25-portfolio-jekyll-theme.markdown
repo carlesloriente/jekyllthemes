@@ -9,7 +9,7 @@ demo: https://lenpaul.github.io/portfolio-jekyll-theme/
 author: Paul Le
 thumbnail: portfolio-jekyll-theme-thumb.jpg
 license: MIT
-license_link: https://github.com/LeNPaul/portfolio-jekyll-theme/blob/gh-pages/LICENSE
+license_link: https://raw.githubusercontent.com/LeNPaul/portfolio-jekyll-theme/refs/heads/gh-pages/LICENSE.md
 carousel:
   - 'https://cloud.githubusercontent.com/assets/8409329/26227987/f2583642-3c03-11e7-81c4-28a9353c91ae.jpg'
 ---

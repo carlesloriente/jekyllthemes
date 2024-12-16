@@ -9,7 +9,7 @@ demo: https://lenpaul.github.io/Millennial/
 author: Paul Le
 thumbnail: millennial.jpg
 license: MIT
-license_link: https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE
+license_link: https://raw.githubusercontent.com/LeNPaul/Millennial/refs/heads/gh-pages/LICENSE.md
 carousel:
   - 'https://cloud.githubusercontent.com/assets/8409329/25604814/a810a4b6-2ed4-11e7-955d-e6ead13c436c.jpg'
 ---
