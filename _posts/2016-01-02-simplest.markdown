@@ -5,7 +5,7 @@ title: Simplest
 date: 2016-01-02 15:05:09
 homepage: https://github.com/nandomoreirame/simplest
 download: https://github.com/nandomoreirame/simplest/archive/master.zip
-demo: https://nandomoreira.me/simplest/
+demo: https://nandomoreirame.github.io/simplest/
 author: nandomoreira.me
 thumbnail: simplest.png
 license: MIT

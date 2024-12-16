@@ -5,7 +5,7 @@ title: Fica Theme
 date: 2022-04-13
 homepage: https://github.com/Involts/jekyll-theme-fica
 download: https://github.com/Involts/jekyll-theme-fica/zipball/master
-demo: https://involts.github.io/jekyll-theme-fica/
+demo: https://aeziyehl.github.io/jekyll-theme-fica/
 author: "Involts"
 thumbnail: Fica_Theme.png
 license: MIT
@@ -26,4 +26,4 @@ Fica theme
 
 ## Installation
 
-[installing the Theme?](https://involts.github.io/jekyll-theme-fica/Posts/Getting-Started/)
+[installing the Theme?](https://aeziyehl.github.io/jekyll-theme-fica/Posts/Getting-Started/)

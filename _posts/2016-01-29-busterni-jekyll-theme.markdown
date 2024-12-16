@@ -5,7 +5,6 @@ title: Busterni Jekyll theme
 date: 2016-01-29 10:00:00
 homepage: https://github.com/muhajirframe/busterni-jekyll-theme
 download: https://github.com/muhajirframe/busterni-jekyll-theme/archive/gh-pages.zip
-demo: https://muhajirframe.github.io/busterni-jekyll-theme
 author: Muhammad Muhajir
 thumbnail: busterni-jekyll-theme.png
 license: MIT

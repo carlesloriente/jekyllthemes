@@ -5,7 +5,7 @@ title: mug
 date: 2015-11-21 11:42:09
 homepage: https://github.com/nandomoreirame/mug
 download: https://github.com/nandomoreirame/mug/archive/master.zip
-demo: https://nandomoreira.me/mug/
+demo: https://nandomoreirame.github.io/mug/
 author: nandomoreira.me
 thumbnail: mug.png
 license: MIT

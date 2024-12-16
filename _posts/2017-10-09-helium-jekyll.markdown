@@ -5,7 +5,7 @@ title: Helium Jekyll
 date: 2017-10-09 12:32:00
 homepage: https://github.com/heliumjk/heliumjk.github.io
 download: https://github.com/heliumjk/heliumjk.github.io/archive/master.zip
-demo: https://heliumjk/heliumjk.github.io
+demo: https://heliumjk.github.io/
 author: Antonio Trento
 thumbnail: helium.png
 license: MIT

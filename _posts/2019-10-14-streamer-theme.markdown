@@ -5,7 +5,6 @@ title: Streamer Theme
 date: 2019-10-14 14:07:00
 homepage: https://github.com/bradykondek/streamer
 download: https://github.com/bradykondek/streamer/archive/master.zip
-demo: https://www.streamertheme.ga
 author: Brady Kondek
 thumbnail: streamer-theme.png
 license: MIT

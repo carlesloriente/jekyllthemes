@@ -5,7 +5,7 @@ title: HPSTR
 date: 2013-08-24 18:18:00
 homepage: https://github.com/mmistakes/hpstr-jekyll-theme
 download: https://github.com/mmistakes/hpstr-jekyll-theme/archive/master.zip
-demo: https://mmistakes.github.io/hpstr-jekyll-theme/
+demo: https://mmistakes.github.io/jekyll-theme-hpstr/
 author: Michael Rose
 thumbnail: hpstr.png
 license: MIT

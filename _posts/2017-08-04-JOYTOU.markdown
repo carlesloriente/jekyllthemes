@@ -5,7 +5,6 @@ title: JOYTOU
 date: 2017-08-04 00:08:00
 homepage: https://github.com/joytou/joytou.github.io
 download: https://github.com/joytou/joytou.github.io/archive/master.zip
-demo: https://joytou.github.io/
 author: Joytou
 thumbnail: JOYTOU.png
 license: GPLv2

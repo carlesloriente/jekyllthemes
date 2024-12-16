@@ -3,7 +3,6 @@ layout: post
 comments: true
 title: HMFAYSAL V2 Theme
 date: 2013-12-17 09:48:00
-homepage: https://faysal.name.qa
 download: https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/archive/master.zip
 author: Hossain Mohd Faysal
 thumbnail: hmfaysal-v2.png

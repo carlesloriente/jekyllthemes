@@ -5,7 +5,6 @@ title: Instagram portfolio theme
 date: 2016-09-04 20:00:00
 homepage: https://github.com/portfolio-central/jekyll-instagram-portfolio-theme
 download: https://github.com/portfolio-central/jekyll-instagram-portfolio-theme/archive/gh-pages.zip
-demo: https://portfolio-central.github.io/jekyll-instagram-portfolio-theme/
 author: Sergey Sokurenko
 thumbnail: instagram-portfolo-theme.jpg
 license: MIT

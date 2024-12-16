@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: pRoJEct-NeGYa
-date: 2019-06-28 14:00:00
+date: 2019-06-28 12:00:00
 homepage: https://akiritsu.github.io/pRoJEct-NeGYa/readme/
 download: https://codeload.github.com/akiritsu/pRoJEct-NeGYa/zip/master
 demo: https://akiritsu.github.io/pRoJEct-NeGYa/

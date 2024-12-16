@@ -5,11 +5,11 @@ title: consolo
 date: 2023-01-30 15:50:00
 homepage: https://github.com/Forthoney/consolo
 download: https://github.com/Forthoney/consolo/archive/master.zip
-demo: https://Forthoney.github.io
+demo: https://forthoney.github.io/
 author: Forthoney
 thumbnail: consolo.png
 license: MIT
-license_link: http://opensource.org/licenses/MIT
+license_link: https://opensource.org/licenses/MIT
 ---
 
 **consolo** aims the recreate the rugged look of a terminal/console interface while maintaining legibility.

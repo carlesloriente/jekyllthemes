@@ -5,7 +5,7 @@ title: end2end
 date: 2015-12-17 21:42:09
 homepage: https://github.com/nandomoreirame/end2end
 download: https://github.com/nandomoreirame/end2end/archive/master.zip
-demo: https://nandomoreira.me/end2end/
+demo: https://nandomoreirame.github.io/end2end/
 author: nandomoreira.me
 thumbnail: end2end.png
 license: MIT

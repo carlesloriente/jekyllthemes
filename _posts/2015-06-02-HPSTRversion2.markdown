@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 comments: true
 title: HPSTR Version 2 - Vietnamese

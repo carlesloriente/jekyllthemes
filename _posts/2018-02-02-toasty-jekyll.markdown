@@ -5,7 +5,6 @@ title: Toasty Jekyll
 date: 2018-02-18 00:00:00
 homepage: https://github.com/regmtait/Toasty-Jekyll
 download: https://github.com/regmtait/Toasty-Jekyll/archive/master.zip
-demo: https://whitelabel.netlify.com/
 author: Reg Tait
 thumbnail: toasty-jekyll.png
 license: MIT

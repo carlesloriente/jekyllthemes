@@ -5,7 +5,7 @@ title: Mapley
 date: 2021-09-18 22:00:00 +09:00
 homepage: https://github.com/Vector-7/mapley
 download: https://github.com/Vector-7/mapley/archive/refs/heads/master.zip
-demo: https://blog.sweetcase.kr/mapley/
+demo: https://recoma96.github.io/mapley/
 author: "Ha Jeong Hyun(a.k.a Vector7)"
 thumbnail: vector7-mapley.png
 license: MIT

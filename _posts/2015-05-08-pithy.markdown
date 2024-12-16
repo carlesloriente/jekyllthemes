@@ -5,7 +5,6 @@ title: Pithy
 date: 2015-05-08 12:42:00
 homepage: https://github.com/smallmuou/Jekyll-Pithy
 download: https://github.com/smallmuou/Jekyll-Pithy/archive/master.zip
-demo: https://wenva.github.io/
 author: Pawpaw
 thumbnail: pithy.png
 license: MIT

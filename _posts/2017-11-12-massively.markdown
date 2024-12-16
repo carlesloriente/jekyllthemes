@@ -5,7 +5,6 @@ title: Massively
 date: 2017-11-12 07:00:00
 homepage: https://github.com/iwiedenm/jekyll-theme-massively-src
 download: https://github.com/iwiedenm/jekyll-theme-massively-src/archive/master.zip
-demo: https://iwiedenm.github.io/jekyll-theme-massively/
 author: Somiibo
 thumbnail: massively.png
 license: CC-BY-3.0

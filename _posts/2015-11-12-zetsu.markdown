@@ -5,7 +5,7 @@ title: Zetsu
 date: 2015-11-12 00:00:00
 homepage: https://github.com/nandomoreirame/zetsu
 download: https://github.com/nandomoreirame/zetsu/archive/master.zip
-demo: https://nandomoreira.me/zetsu/
+demo: https://nandomoreirame.github.io/zetsu/
 author: nandomoreira.me
 thumbnail: zetsu.png
 license: MIT

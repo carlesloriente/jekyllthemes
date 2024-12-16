@@ -5,11 +5,10 @@ title: jekyll-theme-panda
 date: 2023-02-28 7:00:00
 homepage: https://github.com/sorphwer/jekyll-theme-panda
 download: https://github.com/sorphwer/jekyll-theme-panda/archive/refs/tags/Release.zip
-demo: https://riino.site/jekyll-theme-panda/
 author: Riino Zhang
 thumbnail: jekyll-theme-panda.jpg
 license: MIT
-license_link: http://opensource.org/licenses/MIT
+license_link: https://opensource.org/licenses/MIT
 ---
 
 Theme Panda

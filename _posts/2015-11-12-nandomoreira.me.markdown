@@ -5,7 +5,7 @@ title: nandomoreira.me
 date: 2015-11-12 00:00:00
 homepage: https://github.com/nandomoreirame/nandomoreira-jekyll-theme
 download: https://github.com/nandomoreirame/nandomoreira-jekyll-theme/archive/master.zip
-demo: https://nandomoreira.me/nandomoreira-jekyll-theme/
+demo: https://nandomoreirame.github.io/nandomoreira-jekyll-theme/
 author: nandomoreira.me
 thumbnail: nandomoreira.me.png
 license: MIT

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 comments: true
 title: Ultra-Minimalista
@@ -12,7 +13,7 @@ license: MIT
 license_link: https://brxyxncorp.mit-license.org/
 ---
 
-[Ultra-Minimalista](https://brxyxncorp.github.io/ultra-minimal-theme/) is a Jekyll theme that supports **multi-page websites**, and it's no full responsive, 'cause was my first theme.
+Ultra-Minimalista is a Jekyll theme that supports **multi-page websites**, and it's no full responsive, 'cause was my first theme.
 
 ## Features
 

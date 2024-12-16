@@ -5,7 +5,7 @@ title: dotX
 date: 2015-12-21 21:42:09
 homepage: https://github.com/nandomoreirame/dotX
 download: https://github.com/nandomoreirame/dotX/archive/master.zip
-demo: https://nandomoreira.me/dotX/
+demo: https://nandomoreirame.github.io/dotX/
 author: nandomoreira.me
 thumbnail: dotx.png
 license: MIT

@@ -5,7 +5,6 @@ title: Dr. Jekyll
 date: 2016-05-28 11:40:00
 homepage: https://github.com/tyler-abbot/DrJekyll
 download: https://github.com/tyler-abbot/DrJekyll/archive/master.zip
-demo: https://tyler-abbot.github.io/DrJekyll/
 author: Tyler Abbot
 thumbnail: DrJekyll.png
 license: MIT

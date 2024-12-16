@@ -3,9 +3,9 @@ layout: post
 comments: true
 title: Surgeon Tux
 date: 2017-01-28 18.23.00
-homepage: http://lahiru.site/blog/2017/SurgeonTux/
+homepage: https://lahiru.site/blog/2017/SurgeonTux/
 download: https://github.com/lpsandaruwan/surgeon-tux/archive/master.zip
-demo: http://lahiru.site/surgeon-tux
+demo: https://lahirus.com/surgeon-tux/
 author: Lahiru Pathirage
 thumbnail: surgeon-tux.png
 license: GPLv3

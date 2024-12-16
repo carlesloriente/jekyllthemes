@@ -5,7 +5,7 @@ title: Halve
 date: 2016-05-30 22:47:00
 homepage: https://github.com/TaylanTatli/Halve
 download: https://github.com/TaylanTatli/Halve/archive/master.zip
-demo: https://taylantatli.github.io/Halve
+demo: https://tolgatatli.github.io/Halve/
 author: Taylan Tatlı
 thumbnail: halve-theme.png
 license: MIT
@@ -18,7 +18,7 @@ Halve, this theme is Jekyll port of [vangeltzo.com](https://vangeltzo.com/) (by[
 
 ## Installation
 
-[installation guide](https://taylantatli.me/Halve/halve-theme/) for more information.
+[installation guide](https://tolgatatli.github.io/Halve/halve-theme/) for more information.
 
 ## Contact
 

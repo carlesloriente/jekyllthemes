@@ -5,7 +5,6 @@ title: Jekyll Metro
 date: 2014-07-29 00:00:00
 homepage: https://github.com/olakara/JekyllMetro
 download: https://github.com/olakara/JekyllMetro/archive/master.zip
-demo: https://abdelraoof.com
 author: Abdel Raoof Olakara
 thumbnail: jekyll-metro.png
 license: MIT

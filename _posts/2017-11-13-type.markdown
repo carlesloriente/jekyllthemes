@@ -5,7 +5,6 @@ title: Type
 date: 2017-11-13 07:00:00
 homepage: https://github.com/aspirethemes/type
 download: https://github.com/aspirethemes/type/archive/master.zip
-demo: https://type-jekyll.aspirethemes.com/
 author: Aspire Themes
 thumbnail: type.jpg
 license: MIT

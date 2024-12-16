@@ -5,7 +5,7 @@ title: Sustain
 date: 2015-10-03 00:00:00
 homepage: https://github.com/biomadeira/sustain
 download: https://github.com/biomadeira/sustain/archive/gh-pages.zip
-demo: https://biomadeira.github.io/sustain/
+demo: https://jekyllt.github.io/sustain/
 author: biomadeira
 thumbnail: sustain.png
 license: MIT
