@@ -5,7 +5,7 @@ title: Daktilo
 date: 2015-09-11 00:48:00
 homepage: https://github.com/kronik3r/daktilo
 download: https://github.com/kronik3r/daktilo/archive/master.zip
-demo: hhttps://daktilo.github.io/
+demo: https://daktilo.github.io/
 author: Motaquillah Maddane
 thumbnail: daktilo.jpg
 license: MIT

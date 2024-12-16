@@ -9,7 +9,7 @@ demo: https://heiswayi.github.io/thinkspace/
 author: Heiswayi Nrird
 thumbnail: thinkspace.jpg
 license: MIT
-license_link: https://github.com/heiswayi/thinkspace/blob/master/LICENSE.md
+license_link: https://raw.githubusercontent.com/heiswayi/thinkspace/refs/heads/master/LICENSE
 ---
 
 Thinkspace - just another minimalist Jekyll theme that focuses on technical writing. Designed for engineers to write their ranting and findings. A great minimalist, writing-focused theme for personal use or project blog. The front-page is the archives.

@@ -8,7 +8,7 @@ download: https://github.com/lukas-h/onepage/archive/master.zip
 author: Lukas Himsel
 thumbnail: onepage.png
 license: MIT
-license_link: https://github.com/lukas-h/onepage/blog/master/LICENCE
+license_link: https://raw.githubusercontent.com/lukas-h/onepage/refs/heads/master/LICENSE
 ---
 
 Onepage theme, uncomplicated single-page jekyll blog theme.
