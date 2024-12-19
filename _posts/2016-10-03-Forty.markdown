@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Forty (by HTML5 Up!)
+title: Forty
 date: 2016-10-03 00:00:00
 homepage: https://github.com/andrewbanchich/Forty-Jekyll-Theme
 download: https://gitlab.com/andrewbanchich/forty-jekyll-theme/repository/archive.zip?ref=master

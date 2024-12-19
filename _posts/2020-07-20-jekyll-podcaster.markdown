@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Jekyll-Podcaster
+title: Podcaster
 date: 2020-07-20 16:00:00
 homepage: https://github.com/PandaSekh/Jekyll-Podcaster
 download: https://github.com/PandaSekh/Jekyll-Podcaster/releases/latest

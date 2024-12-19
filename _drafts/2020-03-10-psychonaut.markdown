@@ -2,7 +2,7 @@
 published: false
 layout: post
 comments: true
-title: psychonaut
+title: Psychonaut
 date: 2020-03-10 18:00:00
 homepage: https://github.com/wu-kan/fengwei2002.github.io
 download: https://github.com/wu-kan/fengwei2002.github.io/archive/master.zip
@@ -16,6 +16,6 @@ carousel:
   - 'https://raw.githubusercontent.com/fengwei2002/fengwei2002.github.io/master/public/image/template02.png'
 ---
 
-psychonaut, based on [lanyon](https://github.com/poole/lanyon).
+Psychonaut, based on [lanyon](https://github.com/poole/lanyon).
 
 A content-first, sliding sidebar theme for Jekyll.

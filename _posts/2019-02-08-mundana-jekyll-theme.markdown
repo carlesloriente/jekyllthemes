@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Mundana Jekyll Them
+title: Mundana Jekyll
 date: 2018-05-30 09:20:00
 homepage: https://github.com/wowthemesnet/mundana-theme-jekyll
 download: https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip

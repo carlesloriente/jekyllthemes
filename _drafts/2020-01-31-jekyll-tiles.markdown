@@ -2,7 +2,7 @@
 published: false
 layout: post
 comments: true
-title: Tiles theme
+title: Tiles
 date: 2020-01-31 00:00:00
 homepage: https://github.com/matej2/tiles-theme
 download: https://github.com/matej2/tiles-theme

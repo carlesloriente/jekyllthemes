@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Busterni Jekyll theme
+title: Busterni Jekyll
 date: 2016-01-29 10:00:00
 homepage: https://github.com/muhajirframe/busterni-jekyll-theme
 download: https://github.com/muhajirframe/busterni-jekyll-theme/archive/gh-pages.zip

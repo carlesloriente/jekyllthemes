@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: MaterializeHG Theme
+title: MaterializeHG
 date: 2016-06-10 04:43:00
 homepage: https://github.com/hugocarreira/jekyll-materializecss
 download: https://github.com/hugocarreira/jekyll-materializecss/archive/master.zip

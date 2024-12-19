@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Fica Theme
+title: Fica
 date: 2022-04-13
 homepage: https://github.com/Involts/jekyll-theme-fica
 download: https://github.com/Involts/jekyll-theme-fica/zipball/master

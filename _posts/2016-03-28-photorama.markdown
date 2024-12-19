@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: PHOTORAMA
+title: Photorama
 date: 2016-03-28 00:00:00
 homepage: https://github.com/sunbliss/photorama
 download: https://github.com/sunbliss/photorama/archive/gh-pages.zip

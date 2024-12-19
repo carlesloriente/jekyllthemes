@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Jekyll-theme-satellite
+title: Satellite
 date: 2024-02-06 00:00:00
 homepage: https://github.com/byanko55/jekyll-theme-satellite
 download: https://github.com/byanko55/jekyll-theme-satellite/releases

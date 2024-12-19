@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: OneFlow Jekyll Theme
+title: OneFlow
 date: 2024-02-01 03:00:00 +06:00
 homepage: https://oneflow-jekyll-theme.github.io/
 download: https://github.com/perstarke-webdev/oneflow-jekyll-theme

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: jekyll-theme-experiment
+title: Experiment
 date: 2018-02-27 21:30:00
 homepage: https://github.com/anxhe/jekyll-theme-experiment
 download: https://github.com/anxhe/jekyll-theme-experiment/archive/master.zip

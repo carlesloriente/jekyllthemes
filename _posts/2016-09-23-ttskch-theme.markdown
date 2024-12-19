@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: TtskchTheme
+title: Ttskch
 date: 2016-09-23 00:00:00
 homepage: https://github.com/ttskch/jekyll-ttskch-theme
 download: https://github.com/ttskch/jekyll-ttskch-theme/archive/master.zip

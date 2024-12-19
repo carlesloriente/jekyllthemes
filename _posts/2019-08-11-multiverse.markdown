@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Multiverse by HTML5 UP!
+title: Multiverse
 date: 2019-08-11 00:00:00
 homepage: https://github.com/joaomlneto/jekyll-multiverse-template
 download: https://github.com/joaomlneto/jekyll-multiverse-template/archive/master.zip

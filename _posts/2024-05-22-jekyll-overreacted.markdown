@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Jekyll Overreacted
+title: Overreacted
 date: 2024-05-22 03:00:00 +06:00
 homepage: https://github.com/foodgy/jekyll-overreacted
 download: https://github.com/foodgy/jekyll-overreacted/archive/refs/heads/main.zip

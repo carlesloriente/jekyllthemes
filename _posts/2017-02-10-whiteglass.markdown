@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: whiteglass
+title: Whiteglass
 date: 2017-02-10 17:03:43 +0900
 homepage: https://github.com/yous/whiteglass
 download: https://github.com/yous/whiteglass/archive/master.zip

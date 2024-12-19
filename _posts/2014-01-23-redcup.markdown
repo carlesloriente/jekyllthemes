@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: redcup
+title: Redcup
 date: 2014-01-23 00:00:00
 homepage: https://github.com/nadjetey/redcup
 download: https://github.com/nadjetey/redcup/archive/master.zip

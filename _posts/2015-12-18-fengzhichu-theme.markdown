@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Fengzhichu-Theme
+title: Fengzhichu
 date: 2015-12-18 17:10:00
 homepage: https://github.com/fengzhichu/fengzhichu-theme/tree/master
 download: https://github.com/fengzhichu/fengzhichu-theme/archive/master.zip

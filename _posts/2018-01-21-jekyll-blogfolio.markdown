@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Jekyll BlogFolio Theme
+title: Jekyll BlogFolio
 date: 2018-1-21 21:00:00
 homepage: https://github.com/lamccloskey/jekyll-theme-blogfolio
 download: https://github.com/lamccloskey/jekyll-theme-blogfolio

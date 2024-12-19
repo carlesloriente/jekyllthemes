@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: jekyll-theme-mdui
+title: Mdui
 date: 2017-05-30 17:25:00 
 homepage: https://github.com/KeJunMao/jekyll-theme-mdui
 download: https://github.com/KeJunMao/jekyll-theme-mdui/archive/master.zip

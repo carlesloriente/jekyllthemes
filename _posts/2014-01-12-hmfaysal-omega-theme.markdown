@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Omega Theme
+title: Omega
 date: 2014-01-12 09:37:16
 homepage: https://hmfaysal.github.io/hmfaysal-omega-theme/
 download: https://github.com/hmfaysal/hmfaysal-omega-theme/archive/refs/heads/gh-pages.zip

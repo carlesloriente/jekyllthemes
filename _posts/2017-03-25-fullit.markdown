@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: FullIt theme
+title: FullIt
 date: 2017-03-25 17:30:00
 homepage: https://github.com/fullit/fullit.github.io
 download: https://github.com/fullit/fullit.github.io/archive/master.zip

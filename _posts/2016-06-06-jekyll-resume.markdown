@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: jekyll-resume
+title: Jekyll Resume
 date: 2016-06-06 00:00:00
 homepage: https://github.com/mattcouchman/jekyll-resume
 download: https://github.com/mattcouchman/jekyll-resume/archive/gh-pages.zip

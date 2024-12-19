@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: jekyll-theme-panda
+title: Panda
 date: 2023-02-28 7:00:00
 homepage: https://github.com/sorphwer/jekyll-theme-panda
 download: https://github.com/sorphwer/jekyll-theme-panda/archive/refs/tags/Release.zip
