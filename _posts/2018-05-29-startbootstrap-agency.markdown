@@ -10,8 +10,6 @@ author: Sotirios Vrachas
 thumbnail: startbootstrap-agency.png
 license: MIT
 license_link: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/blob/master/LICENSE.txt
-carousel:
-  - 'https://startbootstrap.com/assets/img/templates/agency.jpg'
 ---
 
 jekyll-theme-startbootstrap-agency is a Jekyll theme based on Start Bootstrap - Agency.

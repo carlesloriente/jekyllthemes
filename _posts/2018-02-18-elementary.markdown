@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Wall-E
+title: Elementary
 date: 2018-02-18 00:00:00
 homepage: https://github.com/abhn/Elementary
 download: https://github.com/abhn/Elementary/archive/master.zip
@@ -9,11 +9,6 @@ demo: https://elementary-jekyll.github.io/
 author: Abhishek Nagekar
 thumbnail: elementary.png
 license: GPLv3
-carousel:
-  - 'https://github.com/abhn/Elementary/blob/master/tmp/multi-display.png?raw=true'
-  - 'https://github.com/abhn/Elementary/blob/master/tmp/multi-display.png?raw=true'
-  - 'https://github.com/abhn/Elementary/blob/master/tmp/desktop.png?raw=true'
-  - 'https://github.com/abhn/Elementary/blob/master/tmp/mobile.png?raw=true'
 ---
 
 Elementary is a zero Javascript and minimal CSS ultra lightweight Jekyll theme for those of you who love simplicity, yet don't want to compromise on mobile responsiveness, readability and asthetics. Elementary is mobile first, content first and is aimed towards content heavy blogs.

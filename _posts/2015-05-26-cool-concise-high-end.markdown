@@ -10,10 +10,6 @@ author: Gaohaoyang
 thumbnail: cool-concise-high-end.jpg
 license: MIT
 license_link: https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang.github.io/refs/heads/master/LICENSE
-carousel: 
-  - 'https://7q5cdt.com1.z0.glb.clouddn.com/blog-blog/sample.png'
-  - 'https://7q5cdt.com1.z0.glb.clouddn.com/blog-blog/Show1.gif'
-  - 'https://7q5cdt.com1.z0.glb.clouddn.com/blog-blog/Show2.gif'
 ---
 
 This is a blog theme based on jekyll. You can use on your own blog.
