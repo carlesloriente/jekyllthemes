@@ -11,9 +11,11 @@ thumbnail: trophy.jpg
 license: MIT
 license_link: https://github.com/thomasvaeth/trophy-jekyll/blob/master/LICENSE.txt
 carousel:
-  - 'https://www.urbaninfluence.com/wp-content/uploads/2016/09/trophy-index.jpg'
-  - 'https://www.urbaninfluence.com/wp-content/uploads/2016/09/trophy-post.jpg'
-  - 'https://www.urbaninfluence.com/wp-content/uploads/2016/09/trophy-archive.jpg'
+ - 'https://raw.githubusercontent.com/thomasvaeth/trophy-jekyll/refs/heads/master/_screenshots/screenshot-1.png'
+ - 'https://raw.githubusercontent.com/thomasvaeth/trophy-jekyll/refs/heads/master/_screenshots/screenshot-2.png'
+ - 'https://raw.githubusercontent.com/thomasvaeth/trophy-jekyll/refs/heads/master/_screenshots/screenshot-3.png'
+ - 'https://raw.githubusercontent.com/thomasvaeth/trophy-jekyll/refs/heads/master/_screenshots/screenshot-4.png'
+ - 'https://raw.githubusercontent.com/thomasvaeth/trophy-jekyll/refs/heads/master/_screenshots/screenshot-5.png'
 ---
 
 Trophy is a blog theme for Jekyll built using HTML, Sass, and JavaScript (no jQuery). External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, and WOW.js.

@@ -11,9 +11,8 @@ thumbnail: vyaasa.png
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:
-  - 'https://webjeda.com/vyaasa/images/vyaasa-jekyll-theme-1.png'
-  - 'https://webjeda.com/vyaasa/images/vyaasa-jekyll-theme-2.png'
-  - 'https://webjeda.com/vyaasa/images/vyaasa-responsive-jekyll-theme-1.png'
+  - 'https://raw.githubusercontent.com/sharu725/vyaasa/refs/heads/master/images/vyaasa-jekyll-theme-1.png'
+  - 'https://raw.githubusercontent.com/sharu725/vyaasa/refs/heads/master/images/vyaasa-jekyll-theme-2.png'
 ---
 
 ## Installation

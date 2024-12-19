@@ -10,11 +10,6 @@ author: szhshp
 thumbnail: project-gaia.png
 license: MIT
 license_link: https://github.com/szhielelp/JekyllTheme-ProjectGaia/blob/master/LICENSE
-carousel:
-  - 'https://szhielelp.github.io/JekyllTheme-ProjectGaia/demo/1.jpg'
-  - 'https://szhielelp.github.io/JekyllTheme-ProjectGaia/demo/2.jpg'
-  - 'https://szhielelp.github.io/JekyllTheme-ProjectGaia/demo/3.jpg'
-  - 'https://szhielelp.github.io/JekyllTheme-ProjectGaia/demo/4.jpg'
 ---
 
 Project Gaia, this is a personal Jekyll blog theme.

@@ -11,8 +11,8 @@ thumbnail: personal.jpg
 license: MIT
 license_link: https://github.com/le4ker/personal-jekyll-theme/blob/master/LICENSE
 carousel:
-  - 'https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-mobile.mov.gif'
-  - 'https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-desktop.mov.gif'
+  - 'https://raw.githubusercontent.com/le4ker/personal-jekyll-theme/refs/heads/main/.github/images/desktop.gif'
+  - 'https://raw.githubusercontent.com/le4ker/personal-jekyll-theme/refs/heads/main/.github/images/mobile.gif'
 ---
 
 Personal is a free responsive Jekyll theme, about you :wink:
