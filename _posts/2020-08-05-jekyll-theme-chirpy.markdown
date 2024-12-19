@@ -10,8 +10,6 @@ author: Cotes Chung
 thumbnail: chirpy.png
 license: MIT
 license_link: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
-carousel:
-  - 'https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png'
 ---
 
 A minimal, sidebar, responsive web design Jekyll theme, focusing on text presentation, aim to help you easily record and share your knowledge.
@@ -21,7 +19,7 @@ A minimal, sidebar, responsive web design Jekyll theme, focusing on text present
 * Pinned Posts
 * Configurable theme mode
 * Double-level Categories
-*Last modified date for posts
+* Last modified date for posts
 * Table of Contents
 * Automatically recommend related posts
 * Syntax highlighting
