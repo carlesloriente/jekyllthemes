@@ -10,7 +10,7 @@ thumbnail: jekyll-cv.png
 license: MIT
 license_link: https://github.com/Stavrospanakakis/jekyll-cv/blob/main/LICENSE
 carousel:
-  - 'https://github.com/Stavrospanakakis/jekyll-cv/blob/main/preview.png'
+  - 'https://raw.githubusercontent.com/Stavrospanakakis/jekyll-cv/refs/heads/main/preview.png'
 ---
 
 CV jekyll theme, free theme for the creation of your CV. View demo [here](https://jekyll-cv.stavrospanakakis.com/).
