@@ -11,7 +11,7 @@ thumbnail: webjeda-ashwath.png
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:
-  - 'https://webjeda.com/ashwath/images/Default.png'
+  - 'https://raw.githubusercontent.com/sharu725/ashwath/refs/heads/master/images/Default.png'
 ---
 
 Default Theme

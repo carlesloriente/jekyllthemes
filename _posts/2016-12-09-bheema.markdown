@@ -11,8 +11,7 @@ thumbnail: bheema.png
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:
-  - 'https://webjeda.com/bheema/img/bheema-jekyll-theme.png'
-  - 'https://webjeda.com/bheema/img/bheema-jekyll-responsive-theme-screenshot.png'
+  - 'https://raw.githubusercontent.com/sharu725/bheema/refs/heads/master/img/bheema-jekyll-theme.png'
 ---
 
 ## Installation

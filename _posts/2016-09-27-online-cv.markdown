@@ -11,9 +11,8 @@ thumbnail: online-cv.png
 license: CC-BY-3.0
 license_link: https://creativecommons.org/licenses/by/3.0/
 carousel:
-  - 'https://raw.githubusercontent.com/sharu725/online-cv/master/assets/images/online-cv-jekyll-theme.png'
-  - 'https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-jekyll-theme-2.png'
-  - 'https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-responsive-jekyll-theme.png'
+  - 'https://raw.githubusercontent.com/sharu725/online-cv/refs/heads/master/assets/images/desktop.png'
+  - 'https://raw.githubusercontent.com/sharu725/online-cv/refs/heads/master/assets/images/mobile.png'
 ---
 
 ## Installation
