@@ -5,7 +5,7 @@ title: NOCC Jekyll Bundle
 date: 2024-12-09 17:20:01 +1:00
 homepage: https://bootstrap-theme.notesoncloudcomputing.com/
 download: https://github.com/carlesloriente/bootstrap-theme-jekyll/archive/refs/heads/main.zip
-demo: http://demopage.url/
+demo: http://bootstrap-theme.notesoncloudcomputing.com/
 author: Carles Loriente
 thumbnail: nocc-thumbnail.png
 license: MIT
