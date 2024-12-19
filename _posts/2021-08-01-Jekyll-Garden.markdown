@@ -9,6 +9,9 @@ demo: https://jekyll-garden.github.io
 author: Mu-An Chiou
 license: MIT
 license_link: https://raw.githubusercontent.com/Jekyll-Garden/jekyll-garden.github.io/refs/heads/main/LICENSE
+thumbnail: jekyll-garden.png
+carousel:
+ - '/screenshots/jekyll-garden.png'
 ---
 
 A Digital Garden Theme for Jekyll.

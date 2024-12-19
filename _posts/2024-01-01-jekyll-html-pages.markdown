@@ -9,6 +9,9 @@ demo: https://yafb.net/jekyll-html-pages/
 author: Francesco Bianco
 license: MIT
 license_link: https://francescobianco/jekyll-html-pages/blob/main/LICENSE
+thumbnail: jekyll-html-pages.png
+carousel:
+ - '/screenshots/jekyll-html-pages.png'
 ---
 
 Pure HTML, a minimalistic Jekyll theme designed for use on GitHub Pages. This theme embraces absolute simplicity by avoiding the use of CSS,
