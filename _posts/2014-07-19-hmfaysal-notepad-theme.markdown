@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: HMFAYSAL Notepad Theme
+title: Notepad Theme
 date: 2014-07-19 00:31:50
 homepage: https://hmfaysal.github.io/
 download: https://github.com/hmfaysal/Notepad/archive/gh-pages.zip
