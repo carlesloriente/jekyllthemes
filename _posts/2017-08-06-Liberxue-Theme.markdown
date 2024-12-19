@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Liberxue Theme
+title: Liberxue
 date: 2017-08-06 13:45:39
 homepage: https://github.com/Liberxue/liberxue.github.io
 download: https://codeload.github.com/Liberxue/liberxue.github.io/zip/master

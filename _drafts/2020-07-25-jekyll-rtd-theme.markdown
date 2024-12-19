@@ -2,7 +2,7 @@
 published: false
 layout: post
 comments: true
-title: jekyll-rtd-theme
+title: Jekyll-rtd
 homepage: https://github.com/rundocs/jekyll-rtd-theme
 download: https://github.com/rundocs/jekyll-rtd-theme/zipball/master
 demo: https://rundocs.github.io/jekyll-rtd-theme/

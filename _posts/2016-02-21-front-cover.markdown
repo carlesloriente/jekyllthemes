@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: front-cover
+title: Front-cover
 date: 2016-02-21 12:21:00
 homepage: https://github.com/dashingcode/front-cover
 download: https://github.com/dashingcode/front-cover/archive/master.zip

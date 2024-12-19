@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Yummy Theme
+title: Yummy
 date: 2016-05-19 11:40:00
 homepage: https://github.com/DONGChuan/Yummy-Jekyll
 download: https://github.com/DONGChuan/Yummy-Jekyll/archive/master.zip

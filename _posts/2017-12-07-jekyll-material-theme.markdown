@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Jekyll Material Theme
+title: Jekyll Material
 date: 2017-12-07 17:00:00
 homepage: https://github.com/jameshamann/jekyll-material-theme
 download: https://github.com/jameshamann/jekyll-material-theme

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Type Theme
+title: Type
 date: 2015-01-07 09:00:00
 homepage: https://rohanchandra.github.io/type-theme/
 download: https://github.com/rohanchandra/type-theme/archive/master.zip

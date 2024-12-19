@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: SIMPLE GREEN TECHBLOG
+title: Simple Green Techblog
 date: 2019-07-12 22:30:00
 homepage: https://github.com/alainpham/alainpham.github.io
 download: https://github.com/alainpham/alainpham.github.io/releases/download/0.1.0/simple.green.techblog.zip

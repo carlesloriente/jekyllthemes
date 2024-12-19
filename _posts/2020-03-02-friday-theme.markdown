@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Friday Theme
+title: Friday
 date: 2020-03-02 18:00:00
 homepage: https://github.com/sfreytag/friday-theme/
 download: https://github.com/sfreytag/friday-theme/archive/master.zip

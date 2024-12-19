@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: jekyll-theme-console
+title: Console
 date: 2019-04-26 13:45:00
 homepage: https://github.com/b2a3e8/jekyll-theme-console
 download: https://github.com/b2a3e8/jekyll-theme-console/archive/master.zip

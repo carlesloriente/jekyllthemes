@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Streamer Theme
+title: Streamer
 date: 2019-10-14 14:07:00
 homepage: https://github.com/bradykondek/streamer
 download: https://github.com/bradykondek/streamer/archive/master.zip

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Uni One-Page Jekyll Theme
+title: Uni One-Page Jekyll
 date: 2018-11-25 23:09:00
 homepage: https://github.com/brianmaierjr/uni
 download: https://github.com/brianmaierjr/uni/archive/master.zip

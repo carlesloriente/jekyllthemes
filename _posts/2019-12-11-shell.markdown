@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Jekyll Shell Theme
+title: Jekyll Shell
 date: 2019-12-11 10:20:00
 homepage: https://github.com/tareqdandachi/jekyll-shell-theme
 download: https://rubygems.org/gems/jekyll-shell-theme

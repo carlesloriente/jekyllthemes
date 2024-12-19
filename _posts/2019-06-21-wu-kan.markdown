@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: jekyll-theme-WuK
+title: WuK
 date: 2019-06-21 18:00:00
 homepage: https://jekyll-theme-WuK.wu-kan.cn
 download: https://github.com/wu-kan/wu-kan.github.io/archive/master.zip
@@ -12,5 +12,5 @@ license: MIT
 license_link: https://github.com/wu-kan/wu-kan.github.io/blob/master/LICENSE
 ---
 
-Jekyll-theme-WuK, a content-first, sliding sidebar theme for Jekyll.
+WuK, a content-first, sliding sidebar theme for Jekyll.
 Based on [lanyon](https://github.com/poole/lanyon).

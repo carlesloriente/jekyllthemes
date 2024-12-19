@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Jekyll theme HackCSS
+title: HackCSS
 date: 2016-08-27 01:42:00
 homepage: https://wemake-services.github.io/jekyll-theme-hackcss/
 download: https://github.com/wemake-services/jekyll-theme-hackcss/releases

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Gitbook Theme
+title: Gitbook
 date: 2021-01-23 23:44:51 +08:00
 homepage: https://github.com/sighingnow/jekyll-gitbook
 download: https://github.com/sighingnow/jekyll-gitbook/archive/master.zip

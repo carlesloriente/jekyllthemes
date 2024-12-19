@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Portfolio Jekyll Theme
+title: Portfolio Jekyll
 date: 2017-05-25 00:00:00
 homepage: https://github.com/LeNPaul/portfolio-jekyll-theme
 download: https://github.com/LeNPaul/portfolio-jekyll-theme/archive/gh-pages.zip

@@ -2,7 +2,7 @@
 published: false
 layout: post
 comments: true
-title: mico
+title: Mico
 date: 2022-09-05 00:00:00 +06:00
 homepage: https://github.com/zfett/mico
 download: https://github.com/zfett/mico/archive/refs/tags/v1.0.zip

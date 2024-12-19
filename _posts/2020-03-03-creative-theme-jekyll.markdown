@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Creative Theme New
+title: Creative
 date: 2020-03-03 10:21:00
 homepage: https://github.com/vvalchev/creative-theme-jekyll-new
 download: https://github.com/vvalchev/creative-theme-jekyll-new/archive/master.zip

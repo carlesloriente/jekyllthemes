@@ -2,7 +2,7 @@
 published: false
 layout: post
 comments: true
-title: creative theme
+title: Creative
 date: 2015-09-16 01:03:00
 homepage: https://github.com/volny/creative-theme-jekyll
 download: https://github.com/volny/creative-theme-jekyll/archive/master.zip

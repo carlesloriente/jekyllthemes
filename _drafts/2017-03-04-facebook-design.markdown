@@ -2,7 +2,7 @@
 published: false
 layout: post
 comments: true
-title: facebook.design theme
+title: Facebook.design
 date: 2017-03-04 22:00:00
 homepage: https://github.com/wnglmng/wnglmng.github.io
 download: https://codeload.github.com/wnglmng/wnglmng.github.io/zip/master

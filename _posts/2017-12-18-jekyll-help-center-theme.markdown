@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Jekyll Help Center Theme
+title: Jekyll Help Center
 date: 2017-12-07 17:00:00
 homepage: https://github.com/gustavoquinalha/jekyll-help-center-theme
 download: https://github.com/gustavoquinalha/jekyll-help-center-theme

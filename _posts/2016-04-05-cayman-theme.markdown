@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Cayman Theme
+title: Cayman
 date: 2016-04-05 21:40:00
 homepage: https://github.com/pietromenna/jekyll-cayman-theme
 download: https://github.com/pietromenna/jekyll-cayman-theme/archive/master.zip

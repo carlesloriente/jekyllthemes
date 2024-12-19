@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: architect
+title: Architect
 date: 2014-04-07 08:31:00
 homepage: https://github.com/pietromenna/jekyll-architect-theme
 download: https://github.com/pietromenna/jekyll-architect-theme/archive/master.zip

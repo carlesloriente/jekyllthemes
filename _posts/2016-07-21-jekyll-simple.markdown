@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: jekyll-simple
+title: Simple
 date: 2016-07-21 19:01:03
 homepage: https://github.com/wild-flame/jekyll-simple
 download: https://github.com/wild-flame/jekyll-simple/archive/master.zip 

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Jekyll-DarkRed-Theme
+title: DarkRed
 date: 2020-12-14 00:00:00
 homepage: https://github.com/kkent030315/jekyll-darkred-theme
 download: https://rubygems.org/gems/jekyll-darkred-theme

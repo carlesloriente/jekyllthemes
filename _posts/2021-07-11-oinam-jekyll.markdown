@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Oinam Jekyll
+title: Oinam
 date: 2021-07-11 01:01:01 +05:30
 homepage: https://github.com/oinam/oinam-jekyll
 download: https://github.com/oinam/oinam-jekyll/archive/refs/heads/main.zip

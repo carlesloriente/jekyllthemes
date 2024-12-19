@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Jekyll Theme DIARY
+title: DIARY
 date: 2019-08-09 19:53:00
 homepage: https://github.com/soyaine/jekyll-theme-diary
 download: https://github.com/soyaine/jekyll-theme-diary/archive/master.zip
