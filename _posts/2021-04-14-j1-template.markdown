@@ -11,7 +11,7 @@ thumbnail: j1-template-thumb-0000.jpg
 license: MIT
 license_link: https://opensource.org/license/mit
 carousel:
-  - 'https://raw.githubusercontent.com/jekyll-one/j1-template-starter/refs/heads/main/assets/images/promo/home/screenshot.jpg'
+  - 'screenshot.jpg'
 ---
 
 Jekyll One Template - Create powerful modern static websites.

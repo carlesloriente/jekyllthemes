@@ -11,9 +11,9 @@ thumbnail: persephone.jpg
 license: MIT
 license_link: https://github.com/erlzhang/jekyll-theme-persephone/blob/master/LICENSE.txt
 carousel:
-  - 'https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/home.png'
-  - 'https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/blog.png'
-  - 'https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/post.png'
+  - 'home.png'
+  - 'blog.png'
+  - 'post.png'
 ---
 
 Persephone is a minimal Jekyll theme designed for personal blog and your personal books/documents.

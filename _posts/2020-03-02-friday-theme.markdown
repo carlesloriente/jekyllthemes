@@ -11,7 +11,7 @@ thumbnail: friday-theme.png
 license: MIT
 license_link: https://github.com/sfreytag/friday-theme/blob/master/LICENSE.md
 carousel:
-  - 'https://raw.githubusercontent.com/sfreytag/friday-theme/master/screenshot.png'
+  - 'screenshot.png'
 ---
 
 Friday Theme is a theme for Jekyll using Bootstrap 4.4 designed to build a great personal web site with a portfolio, blog and project documentation. It is compatible with GitHub Pages. It supports all the Bootstrap components, it has blogs with tags, it has syntax highlighting and it has SVG icons. It is customisable with SCSS by simply changing the default Boostrap variables.

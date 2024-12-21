@@ -11,7 +11,7 @@ thumbnail: hydeout.png
 license: MIT
 license_link: https://github.com/fongandrew/hydeout/blob/master/LICENSE.md
 carousel:
-  - 'https://raw.githubusercontent.com/fongandrew/hydeout/master/_screenshots/1.png'
+  - '1.png'
 ---
 
 **Hydeout** is an updated version of @mdo's original [Hyde](https://github.com/poole/hyde) theme. It works with Jekyll 3.x.

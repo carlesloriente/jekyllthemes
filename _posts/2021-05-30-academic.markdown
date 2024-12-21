@@ -11,7 +11,7 @@ thumbnail: academic.png
 license: MIT
 license_link: https://github.com/LeNPaul/academic/blob/gh-pages/LICENSE.txt
 carousel:
-  - 'https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png'
+  - 'screenshot.png'
 ---
 
 academic, a Jekyll theme designed for academia, although you can use it for almost any other purpose as well.

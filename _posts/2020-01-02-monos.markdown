@@ -10,10 +10,10 @@ author: Euijong Joo
 thumbnail: monos.png
 license: MIT
 carousel:
-  - 'https://github.com/ejjoo/jekyll-theme-monos/blob/master/public/img/screenshot-1.png?raw=true'
-  - 'https://github.com/ejjoo/jekyll-theme-monos/blob/master/public/img/screenshot-2.png?raw=true'
-  - 'https://github.com/ejjoo/jekyll-theme-monos/blob/master/public/img/screenshot-m1.png?raw=true'
-  - 'https://github.com/ejjoo/jekyll-theme-monos/blob/master/public/img/screenshot-m2.png?raw=true'
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-m1.png'
+  - 'screenshot-m2.png'
 ---
 
 Theme Monos, simple and lightweight theme for Jekyll

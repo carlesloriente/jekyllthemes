@@ -11,7 +11,7 @@ thumbnail: sparrowx-thumbnail.png
 license: MIT
 license_link: https://github.com/mighildotcom/sparrowx/blob/master/LICENSE.txt
 carousel:
-  - 'https://raw.githubusercontent.com/mighildotcom/sparrowx/master/screenshot.png'
+  - 'screenshot.png'
 ---
 
 SparrowX, a clean minimal Jekyll theme for SEO-focused writers. The theme loads fast and it's Netlify CMS-ready. SparrowX is a remix of sparrow by [lingxz](https://github.com/lingxz/sparrow).

@@ -11,7 +11,7 @@ thumbnail: ap-theme.png
 license: MIT
 license_link: https://github.com/kssim/ap/blob/master/LICENSE
 carousel:
-  - 'https://raw.githubusercontent.com/kssim/ap/master/screenshot.png'
+  - 'screenshot.png'
 ---
 
 "AP" is Jekyll theme for career. This theme is free and open-source. Based on Chester How's [tale-theme](https://github.com/chesterhow/tale).

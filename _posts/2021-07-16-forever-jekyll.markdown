@@ -11,7 +11,7 @@ license: ISC
 license_link: https://github.com/forever-jekyll/forever-jekyll/blob/main/LICENSE
 thumbnail: forever.png
 carousel:
- - '/screenshots/forever-screenshot.png'
+ - 'forever-screenshot.png'
 ---
 
 Forever Jekyll is a simple, elegant & full featured Jekyll theme.

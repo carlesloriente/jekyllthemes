@@ -10,7 +10,7 @@ thumbnail: rain.png
 license: MIT
 license_link: https://github.com/inelaah/rain/blob/master/LICENSE
 carousel:
-  - 'https://github.com/inelaah/rain/blob/master/images/screenshot.png?raw=true'
+  - 'screenshot.png'
 ---
 
 Rain is a simple and clean Jekyll theme with focus on content.

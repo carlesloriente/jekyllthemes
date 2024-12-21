@@ -11,7 +11,7 @@ thumbnail: simple-dark.png
 license: MIT
 license_link: https://raw.githubusercontent.com/son-link/jekyll-simple-dark/refs/heads/master/LICENSE.txt
 carousel:
-  - 'https://raw.githubusercontent.com/son-link/jekyll-simple-dark/master/screenshot.png'
+  - 'screenshot.png'
 ---
 
 Jekyll Simple Dark is a clean, simple, dark and lighweight theme. The icon font is created using [Fontello](http://fontello.com) and use [Normalize.css](https://necolas.github.io/normalize.css/) for CSS reset and Open Sans as default font. The colors is based on the [Colors palette](http://clrs.cc/).

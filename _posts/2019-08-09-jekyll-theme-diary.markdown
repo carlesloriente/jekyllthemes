@@ -11,7 +11,7 @@ thumbnail: jekyll-theme-diary-thumbnail-light.jpg
 license: MIT
 license_link: https://github.com/soyaine/jekyll-theme-diary/blob/master/LICENSE
 carousel:
-  - 'https://github.com/soyaine/jekyll-theme-diary/blob/master/assets/img/jekyll-theme-diary-screenshot-light.jpg?raw=true'
+  - 'jekyll-theme-diary-screenshot-light.jpg'
 ---
 
 This is a simple but beautiful theme for diary blog, which may help you to develop the habit of keeping a diary.

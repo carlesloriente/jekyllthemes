@@ -11,9 +11,9 @@ thumbnail: gatok.png
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:
-  - 'https://raw.githubusercontent.com/sharu725/gatok/refs/heads/master/images/webjeda-gatok-jekyll-theme-screenshot.jpg'
-  - 'https://raw.githubusercontent.com/sharu725/gatok/refs/heads/master/images/webjeda-gatok-jekyll-theme-screenshot-1.png'
-  - 'https://raw.githubusercontent.com/sharu725/gatok/refs/heads/master/images/webjeda-gatok-jekyll-theme-screenshot-2.png'
+  - 'webjeda-gatok-jekyll-theme-screenshot.jpg'
+  - 'webjeda-gatok-jekyll-theme-screenshot-1.png'
+  - 'webjeda-gatok-jekyll-theme-screenshot-2.png'
 ---
 
 ## Installation

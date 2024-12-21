@@ -10,7 +10,7 @@ author: Igor Fedyukin
 thumbnail: mekyll.png
 license: MIT
 carousel: 
-  - 'https://raw.githubusercontent.com/ifedyukin/Mekyll/master/screenshot.png'
+  - 'screenshot.png'
 ---
 
 Mekyll is Medium style Jekyll theme.

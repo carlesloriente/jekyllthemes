@@ -11,7 +11,7 @@ thumbnail: pudhina.jpg
 license: MIT
 license_link: https://github.com/Knhash/Pudhina/blob/master/LICENSE
 carousel:
-  - 'https://raw.githubusercontent.com/Knhash/Pudhina/master/screenshots/home.png?raw=true'
+  - 'home.png'
 ---
 
 Pudhina, a simple, minimal [Jekyll](https://jekyllrb.com) theme for a personal web page and blog, focusing on white space and readability.

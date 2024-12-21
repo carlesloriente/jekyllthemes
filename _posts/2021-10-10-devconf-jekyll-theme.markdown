@@ -11,7 +11,7 @@ thumbnail: DevConf-Jekyll-Theme-thumbnail.png
 license: CC-BY-NC-SA-4.0
 license_link: https://github.com/la-rebelion/DevConf-Jekyll-Theme#author--license
 carousel:
-  - 'https://github.com/la-rebelion/DevConf-Jekyll-Theme/blob/master/assets/images/template_screenshots/DevConf-Jekyll-Theme.png?raw=true'
+  - 'DevConf-Jekyll-Theme.png'
 ---
 
 DevConf is a free Bootstrap 5 for Jekyll. The idea of the template is to emulate an Eventbrite like website, where you can publish and marketing you different events, it can be easily customized to publish your events, training and workshops, you just need to add a YAML file with the metadata for your event, and the template will do the magic.

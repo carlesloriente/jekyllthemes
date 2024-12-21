@@ -11,7 +11,7 @@ thumbnail: neumorphism-flat.png
 license: MIT
 license_link: https://raw.githubusercontent.com/Miorey/neumorphism-flat/master/LICENSE
 carousel:
-  - 'https://raw.githubusercontent.com/Miorey/neumorphism-flat/master/docs/screenshot.gif'
+  - 'screenshot.gif'
 ---
 
 Neumorphism-flat is a fork from Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.

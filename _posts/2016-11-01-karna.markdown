@@ -11,7 +11,7 @@ thumbnail: karna.png
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:
-  - 'https://raw.githubusercontent.com/sharu725/karna/refs/heads/master/images/karna-jekyll-theme-screenshot.png'
+  - 'karna-jekyll-theme-screenshot.png'
 ---
 
 ## Installation

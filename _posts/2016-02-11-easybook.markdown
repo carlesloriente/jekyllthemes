@@ -11,7 +11,7 @@ thumbnail: easybook.png
 license: MIT
 license_link: https://github.com/laobubu/jekyll-theme-EasyBook/blob/gh-pages/LICENSE
 carousel:
-  - '/screenshots/easybook.png'
+  - 'easybook.png'
 ---
 
 Another Jekyll Blog Theme "EasyBook"

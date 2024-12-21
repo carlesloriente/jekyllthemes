@@ -13,9 +13,9 @@ license: MIT
 license_link: https://homepage.url/LICENCE
 version: '0.1'
 carousel:
-  - '/screenshots/screenshot-1.webp'
-  - '/screenshots/screenshot-2.webp'
-  - '/screenshots/screenshot-3.webp'
+  - 'screenshot-1.webp'
+  - 'screenshot-2.webp'
+  - 'screenshot-3.webp'
 ---
 
 Description

@@ -11,7 +11,7 @@ thumbnail: whiteglass.png
 license: MIT
 license_link: https://github.com/yous/whiteglass/blob/master/LICENSE.txt
 carousel:
-  - 'https://raw.githubusercontent.com/yous/whiteglass/master/screenshot.png'
+  - 'screenshot.png'
 ---
 
 Minimal, responsive Jekyll theme for hackers.

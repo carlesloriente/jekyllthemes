@@ -11,7 +11,7 @@ thumbnail: mundana.png
 license: MIT
 license_link: https://raw.githubusercontent.com/wowthemesnet/mediumish-theme-jekyll/master/LICENSE.txt
 carousel:
-  - 'https://wowthemesnet.github.io/mundana-theme-jekyll/assets/images/screenshot.jpg'
+  - 'screenshot.jpg'
 ---
 
 Mundana Jekyll Theme.
