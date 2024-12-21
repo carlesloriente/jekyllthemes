@@ -10,6 +10,8 @@ author: Sylhare
 thumbnail: type-on-strap.jpg
 license: MIT
 license_link: https://github.com/Sylhare/Type-on-Strap/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 A free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chandra's [type-theme](https://github.com/rohanchandra/type-theme). Its features includes:
@@ -27,4 +29,3 @@ A free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chan
 [![Default Type on Strap blog][2]][1]
 
 [1]: https://sylhare.github.io/Type-on-Strap/
-[2]: https://raw.githubusercontent.com/Sylhare/Type-on-Strap/dev/screenshot.png

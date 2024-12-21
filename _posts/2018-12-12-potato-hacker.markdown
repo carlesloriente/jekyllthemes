@@ -11,7 +11,7 @@ thumbnail: potato-hacker.png
 license: GPLv3
 license_link: https://github.com/luxedo/jekyll-theme-potato-hacker/blob/master/LICENSE.md
 carousel:
-  - 'https://raw.githubusercontent.com/luxedo/jekyll-theme-potato-hacker/master/screenshot.png'
+  - 'screenshot.png'
 ---
 
 A theme based on hackers and potatoes.

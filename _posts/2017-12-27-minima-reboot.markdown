@@ -11,7 +11,7 @@ thumbnail: minima-reboot.png
 license: MIT
 license_link: https://github.com/aterenin/minima-reboot/blob/master/LICENSE.txt
 carousel:
-  - 'https://raw.githubusercontent.com/aterenin/minima-reboot/master/screenshot.png'
+  - 'screenshot.png'
 ---
 
 Minima Reboot, a responsive [Bootstrap](https://getbootstrap.com) port of Jekyll's default theme, [Minima](https://github.com/jekyll/minima).

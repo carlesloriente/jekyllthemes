@@ -11,7 +11,7 @@ license: GPLv3
 license_link: https://github.com/abhn/portfolio/blob/master/LICENSE
 thumbnail: portfolio.png
 carousel:
-  - 'https://raw.githubusercontent.com/abhn/portfolio/master/tmp/screenshot.jpg'
+  - 'screenshot.jpg'
 ---
 
 Portfolio, a simple and modern portfolio template that is lightweight, mobile responsive and looks modern.

@@ -11,7 +11,7 @@ thumbnail: windows95-0000.jpg
 license: MIT
 license_link: https://github.com/h01000110/windows-95/blob/master/LICENSE
 carousel:
-  - 'https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png'
+  - 'screenshot_2.png'
 ---
 
 Windows 95 Theme for Jekyll

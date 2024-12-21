@@ -11,7 +11,7 @@ thumbnail: simplest.png
 license: MIT
 license_link: https://github.com/nandomoreirame/simplest/blob/master/LICENSE
 carousel:
- - '/screenshots/simplestblog.png'
+ - 'simplestblog.png'
 ---
 
 Simplest theme.

@@ -11,11 +11,11 @@ thumbnail: fengzhichu-theme.png
 license: MIT
 license_link: https://github.com/fengzhichu/fengzhichu-theme/blob/gh-pages/LICENSE
 carousel: 
-  - 'https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot1.png'
-  - 'https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot2.png'
-  - 'https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot3.png'
-  - 'https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot4.png'
-  - 'https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot5.png'
+  - 'Screenshot1.png'
+  - 'Screenshot2.png'
+  - 'Screenshot3.png'
+  - 'Screenshot4.png'
+  - 'Screenshot5.png'
 ---
 
 Fengzhichu Theme, a jekyll theme for personal blog which based on [Type theme](https://github.com/rohanchandra/type-theme) and [ibireme's blog](https://blog.ibireme.com). Add several useful features. Fengzhichu Theme is powered by [Jekyll](https://jekyllrb.com/) and freely hosted in [Github pages](https://pages.github.com/).

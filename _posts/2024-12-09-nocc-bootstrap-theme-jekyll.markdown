@@ -12,14 +12,20 @@ license: MIT
 license_link: https://github.com/carlesloriente/bootstrap-theme-jekyll/blob/main/LICENSE
 version: '1.3.8'
 carousel:
-  - '/screenshots/nocc-theme-showroom.png'
+  - '1-bootstrap-theme.notesoncloudcomputing.com.png'
+  - '2-bootstrap-theme.notesoncloudcomputing.com.png'
+  - '3-bootstrap-theme.notesoncloudcomputing.com.png'
+  - '4-bootstrap-theme.notesoncloudcomputing.com.png'
+  - '5-bootstrap-theme.notesoncloudcomputing.com.png'
+  - '6-bootstrap-theme.notesoncloudcomputing.com.png'
+  - '7-bootstrap-theme.notesoncloudcomputing.com.png'
 ---
 
 [NOCC Jekyll Bundle](https://bootstrap-theme.notesoncloudcomputing.com/). A fully featured bundle site for [Jekyll](https://jekyllrb.com/) created by [Carles Loriente](https://github.com/carlesloriente).
 Features a homepage, about page, tags cloud page, gallery of images page, examples post pages with comments powered by [Disqus](https://disqus.com/) and a contact form powered by [Formspree](https://formspree.io/).
 Using the [NOCC Bootstrap theme](https://www.npmjs.com/package/nocc-bootstrap-theme) npm package.
 
-![NOCC Jekyll Bundle webshots](/screenshots/nocc-showcase.webp){:.img-fluid}
+![NOCC Jekyll Bundle webshots](/screenshots/2024-12-09-nocc-bootstrap-theme-jekyll/nocc-showcase.webp){:.img-fluid}
 
 ## Table of contents
 

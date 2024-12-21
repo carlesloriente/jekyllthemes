@@ -9,7 +9,7 @@ thumbnail: Grape-Theme.png
 license: MIT
 license_link: https://github.com/naye0ng/Grape-Theme/blob/master/LICENSE.txt
 carousel:
-  - '/screenshots/Grape-Theme.png'
+  - 'Grape-Theme.png'
   - 'https://grape-theme.netlify.com/assets/jekylltheme/home.png'
   - 'https://grape-theme.netlify.com/assets/jekylltheme/portfolio.png'
 ---

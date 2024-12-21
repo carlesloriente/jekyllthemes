@@ -10,6 +10,8 @@ author: nandomoreira.me
 thumbnail: lora.png
 license: MIT
 license_link: https://github.com/nandomoreirame/lora/blob/master/LICENSE
+carlousel:
+  - 'screenshot.png'
 ---
 
 Lora theme.
@@ -34,4 +36,3 @@ Access, [localhost:4000](https://localhost:4000/)
 * Create a new page: `rake page name="contact.md"`
 * Create a new post: `rake post title="TITLE OF THE POST"`
 
-![Lora - free Jekyll theme](https://raw.githubusercontent.com/nandomoreirame/lora/master/screenshot.png)

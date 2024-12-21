@@ -11,7 +11,7 @@ thumbnail: jekyll-overreacted.png
 license: MIT
 license_link: https://github.com/foodgy/jekyll-overreacted/blob/main/LICENSE
 carousel:
-  - 'https://raw.githubusercontent.com/foodgy/jekyll-overreacted/main/screenshot.png'
+  - 'screenshot.png'
 ---
 
 [Overreacted](https://github.com/foodgy/jekyll-overreacted) is a theme for [Jekyll](http://jekyllrb.com), the static site generator. It's inspired by [Dan Abramov's](https://overreacted.io/) blog design.

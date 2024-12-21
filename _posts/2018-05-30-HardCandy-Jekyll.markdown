@@ -10,10 +10,8 @@ thumbnail: HardCandy-Jekyll.png
 license: MIT
 license_link: https://github.com/xukimseven/HardCandy-Jekyll/blob/master/LICENSE
 carousel:
-  - 'https://github.com/xukimseven/HardCandy-Jekyll/raw/master/screenshot/1.png'
-  - 'https://github.com/xukimseven/HardCandy-Jekyll/raw/master/screenshot/2.png'
-  - 'https://github.com/xukimseven/HardCandy-Jekyll/raw/master/screenshot/3.png'
-  - 'https://github.com/xukimseven/HardCandy-Jekyll/raw/master/screenshot/4.png'
+  - '2.png'
+  - '3.png'
 ---
 
 HardCandy-Jekyll

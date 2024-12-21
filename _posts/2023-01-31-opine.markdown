@@ -12,8 +12,8 @@ thumbnail: opine.jpg
 license: MIT
 license_link: https://github.com/leabs/jekyll-opine/blob/master/LICENSE.txt
 carousel:
-  - 'https://github.com/leabs/jekyll-opine/blob/master/screenshots/theme.png?raw=true'
-  - 'https://github.com/leabs/jekyll-opine/blob/master/screenshots/post.jpg?raw=true'
+  - 'theme.png'
+  - 'post.jpg'
 ---
 
 Jekyll Opine

@@ -11,8 +11,8 @@ thumbnail: jekyll-theme-h2o.png
 license: MIT
 license_link: https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/LICENSE
 carousel:
-- 'https://raw.githubusercontent.com/kaeyleo/jekyll-theme-H2O/refs/heads/master/screenshot/jekyll-theme-h2o-realhome.jpg'
-- 'https://raw.githubusercontent.com/kaeyleo/jekyll-theme-H2O/refs/heads/master/screenshot/jekyll-theme-h2o-realm.png'
+- 'jekyll-theme-h2o-realhome.jpg'
+- 'jekyll-theme-h2o-realm.png'
 ---
 
 H2O, If you like this theme or using it, please give a ⭐️ for motivation ;)

@@ -12,10 +12,10 @@ license_link: https://github.com/artemsheludko/adam-blog/blob/master/LICENSE
 thumbnail: adam-blog.jpg
 version: '2.0'
 carousel:
-  - 'https://github.com/the-mvm/the-mvm.github.io/blob/main/assets/img/template_screenshots/homepage.jpg?raw=true'
-  - 'https://github.com/the-mvm/the-mvm.github.io/blob/main/assets/img/template_screenshots/post.jpg?raw=true'
-  - 'https://github.com/the-mvm/the-mvm.github.io/blob/main/assets/img/template_screenshots/post_bottom.jpg?raw=true'
-  - 'https://github.com/the-mvm/the-mvm.github.io/blob/main/assets/img/template_screenshots/404.jpg?raw=true'
+  - 'homepage.jpg'
+  - 'post.jpg'
+  - 'post_bottom.jpg?'
+  - '404.jpg'
 ---
 
 ## Features

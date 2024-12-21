@@ -11,7 +11,7 @@ license: MIT
 license_link: https://raw.githubusercontent.com/Jekyll-Garden/jekyll-garden.github.io/refs/heads/main/LICENSE
 thumbnail: jekyll-garden.png
 carousel:
- - '/screenshots/jekyll-garden.png'
+ - 'jekyll-garden.png'
 ---
 
 A Digital Garden Theme for Jekyll.

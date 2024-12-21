@@ -11,7 +11,7 @@ thumbnail: dash.jpg
 license: MIT
 license_link: https://github.com/bitbrain/jekyll-dash/blob/master/LICENSE
 carousel:
-  - 'https://raw.githubusercontent.com/bitbrain/jekyll-dash/master/screenshot.png'
+  - 'screenshot.png'
 ---
 
 A dark theme for Jekyll, inspired by Dash UI for Atom. 🌒
