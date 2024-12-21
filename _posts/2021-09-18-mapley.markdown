@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Mapley
-date: 2021-09-18 22:00:00 +09:00
+date: 2021-09-18 22:00:00 +01:00
 homepage: https://github.com/Vector-7/mapley
 download: https://github.com/Vector-7/mapley/archive/refs/heads/master.zip
 demo: https://recoma96.github.io/mapley/

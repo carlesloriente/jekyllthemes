@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Peak Panda Landing Page
-date: 2021-12-17 02:27:04 +05:00
+date: 2021-12-17 02:27:04 +01:00
 homepage: https://junjizhi.github.io/peak-panda/
 download: https://github.com/junjizhi/peak-panda/archive/refs/heads/main.zip
 demo: https://junjizhi.github.io/peak-panda/

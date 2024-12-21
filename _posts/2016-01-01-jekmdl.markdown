@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Jekmdl
-date: 2016-01-01 22:51:45 +07:00
+date: 2016-01-01 22:51:45 +01:00
 homepage: https://github.com/tigefa4u/jekmdl
 download: https://github.com/tigefa4u/jekmdl/archive/gh-pages.zip
 demo: https://tigefa4u.github.io/jekmdl/
@@ -21,7 +21,7 @@ The [Jekyll](https://jekyllrb.com) best bloging platform using command line (CLI
 layout: post
 comments: true
 title: "All Posts Components"
-date: 2016-01-01 18:54:28 +07:00
+date: 2016-01-01 18:54:28 +01:00
 author: sugeng tigefa
 categories: jekmdl posts
 ---

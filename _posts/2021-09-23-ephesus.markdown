@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Ephesus
-date: 2021-09-23 09:00:00 +06:00
+date: 2021-09-23 09:00:00 +01:00
 homepage: https://github.com/onepase/Ephesus
 download: https://github.com/onepase/Ephesus/archive/refs/heads/master.zip
 demo: https://pardin.us/ephesus/
