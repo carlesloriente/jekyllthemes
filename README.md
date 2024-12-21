@@ -21,7 +21,7 @@ Want to share a theme?
     * Reference the image filename in your post's markdown.
 4. Add Screenshots:
     * Create 1024x768 pixel images showcasing your theme's features.
-    * Place the images in the `screenshots` directory.
+    * Place the images in the `screenshots` directory inside a new directory with the same name of the theme's file (ex: 2022-10-22-my-amazing-theme).
     * Reference the image filenames in your post's markdown within the `carousel` setting array.
 5. Test and share:
     * Preview your theme locally to ensure it works as expected.
