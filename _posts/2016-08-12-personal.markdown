@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Personal
-date: 2016-02-11 22:11:50 +01:00
+date: 2016-08-12 22:11:50 +01:00
 homepage: https://le4ker.github.io/personal-jekyll-theme/
 download: https://github.com/le4ker/personal-jekyll-theme/archive/master.zip
 demo: https://le4ker.github.io/personal-jekyll-theme/

@@ -12,9 +12,6 @@ license: MIT
 license_link: https://github.com/anxhe/jekyll-theme-experiment/blob/master/LICENSE.txt
 carousel:
   - '1.gif'
-  - '2.gif'
-  - '3.gif'
-  - '4.gif'
 ---
 
 If you want to build your Portfolio, here you have a minimalistic, fast and responsive option, this is a customizable portfolio focused theme, the home layout is composed of three sections (description with avatar, projects and tools) but you can decide which ones to include or exclude via configuration file.
