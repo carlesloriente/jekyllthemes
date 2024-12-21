@@ -9,7 +9,7 @@ demo: https://forever-jekyll.github.io/
 author: forever-jekyll
 license: ISC
 license_link: https://github.com/forever-jekyll/forever-jekyll/blob/main/LICENSE
-thumbnail: forever.png
+thumbnail: forever-screenshot.png
 carousel:
  - 'forever-screenshot.png'
 ---

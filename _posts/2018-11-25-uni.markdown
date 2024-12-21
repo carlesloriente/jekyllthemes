@@ -13,7 +13,7 @@ license_link: https://github.com/brianmaierjr/uni/blob/master/LICENSE
 carousel:
   - 'share.jpg'
   - 'layout--full.jpg'
-  - 'layout-half.jpg'
+  - 'layout--half.jpg'
   - 'layout--card.jpg'
 ---
 
