@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Material Bliss
-date: 2017-01-18 20:17:14
+date: 2017-01-18 20:17:14 +01:00
 homepage: https://github.com/InsidiousMind/material-bliss-jekyll-theme
 download: https://github.com/InsidiousMind/material-bliss-jekyll-theme/archive/master.zip
 demo: https://code.liquidthink.net
@@ -11,10 +11,10 @@ thumbnail: materialbliss.jpg
 license: GPLv3
 license_link: https://github.com/InsidiousMind/material-bliss-jekyll-theme/blob/master/LICENSE
 carousel:
-  - 'https://i.imgur.com/GfFoLXS.png'
-  - 'https://i.imgur.com/cdIgtax.png'
-  - 'https://i.imgur.com/xsjkszO.png'
-  - 'https://i.imgur.com/VnLqCpi.png'
+  - 'GfFoLXS.png'
+  - 'cdIgtax.png'
+  - 'xsjkszO.png'
+  - 'VnLqCpi.png'
 ---
 
 The Material Bliss Jekyll Theme.

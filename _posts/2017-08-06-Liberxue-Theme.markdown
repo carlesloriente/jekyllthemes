@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Liberxue
-date: 2017-08-06 13:45:39
+date: 2017-08-06 13:45:39 +01:00
 homepage: https://github.com/Liberxue/liberxue.github.io
 download: https://codeload.github.com/Liberxue/liberxue.github.io/zip/master
 demo: https://liberxue.github.io/
@@ -11,8 +11,8 @@ thumbnail: liberxue.png
 license: GPLv2
 license_link: https://github.com/joytou/joytou.github.io/blob/master/LICENSE
 carousel:
-  - 'https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/ui.jpg'
-  - 'https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/01.gif'
+  - 'ui.jpg'
+  - '01.gif'
 ---
 
 ## Features

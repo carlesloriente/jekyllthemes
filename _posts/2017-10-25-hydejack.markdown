@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Hydejack
-date: 2017-10-25 00:00:00
+date: 2017-10-25 00:00:00 +01:00
 homepage: https://qwtel.com/hydejack/
 download: https://github.com/qwtel/hydejack/archive/v7.zip
 demo: https://qwtel.com/hydejack/
@@ -11,7 +11,7 @@ thumbnail: hydejack.jpg
 license: GPLv3
 license_link: https://qwtel.com/hydejack/LICENSE/
 carousel:
-  - 'https://qwtel.com/assets/img/projects/default.jpg'
+  - 'default.jpg'
 ---
 
 **Hydejack** is a Jekyll theme with JavaScript powers, combining the best of static sites and modern web apps.

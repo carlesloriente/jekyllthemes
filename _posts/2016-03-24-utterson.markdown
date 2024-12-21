@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Utterson
-date: 2016-03-24 06:04:00
+date: 2016-03-24 06:04:00 +01:00
 homepage: https://github.com/alidcastano/Utterson
 download: https://github.com/alidcastano/Utterson/archive/master.zip
 demo: https://utterson.alidcastano.com/
@@ -11,7 +11,7 @@ thumbnail: utterson.png
 license: MIT
 license_link: https://github.com/alidcastano/Utterson/blob/master/LICENSE.md
 carousel: 
-  - 'https://cloud.githubusercontent.com/assets/11031952/14027042/22c27794-f1cc-11e5-8a25-9bab1e7920f2.png'
+  - '22c27794-f1cc-11e5-8a25-9bab1e7920f2.png'
 ---
 
 Utterson was designed and developed by [@alidcastano](https://twitter.com/alidcastano), to provide a minimal and unassuming theme, focused on what matters: you and your content.

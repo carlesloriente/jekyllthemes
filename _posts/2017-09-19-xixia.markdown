@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Xixia
-date: 2017-09-19 16:26:00
+date: 2017-09-19 16:26:00 +01:00
 homepage: https://github.com/zxixia/jekyll-xixia
 download: https://github.com/zxixia/jekyll-xixia/archive/gh-pages.zip
 demo: https://xixia.info/jekyll-xixia/
@@ -11,7 +11,7 @@ thumbnail: xixia.png
 license: CC-BY-4.0
 license_link: https://creativecommons.org/licenses/by/4.0/legalcode
 carousel:
-  - 'https://raw.githubusercontent.com/zxixia/jekyll-xixia/gh-pages/assets/images/preview.png'
+  - 'preview.png'
 ---
 
 Xixia is a succinct theme for blogging that be made from Bootstrap.

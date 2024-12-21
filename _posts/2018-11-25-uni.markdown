@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Uni One-Page Jekyll
-date: 2018-11-25 23:09:00
+date: 2018-11-25 21:09:00 +01:00
 homepage: https://github.com/brianmaierjr/uni
 download: https://github.com/brianmaierjr/uni/archive/master.zip
 demo: https://brianmaierjr.com/uni
@@ -11,7 +11,10 @@ thumbnail: uni.jpg
 license: MIT
 license_link: https://github.com/brianmaierjr/uni/blob/master/LICENSE
 carousel:
-  - ' https://github.com/brianmaierjr/uni/raw/master/assets/img/share.jpg'
+  - 'share.jpg'
+  - 'layout--full.jpg'
+  - 'layout-half.jpg'
+  - 'layout--card.jpg'
 ---
 
 Uni One-page Jekyll Theme
@@ -55,16 +58,10 @@ The main settings can be found inside the `_config.yml` file:
   * **url**: destination for the link
 * **google_analytics** Google Analytics key (optional)
 
-![Uni Jekyll Theme](https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--half.jpg)
-
 #### Half Layout
 
 * **half_side:** which side of the page your content is on [left or right]
 
-![Uni Jekyll Theme](https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--full.jpg)
-
 #### Full layout
 
 * **full_text_position:** where on the page the text will appear [left, center, or right]
-
-![Uni Jekyll Theme](https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--card.jpg)

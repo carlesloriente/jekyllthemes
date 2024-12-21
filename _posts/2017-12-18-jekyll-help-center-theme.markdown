@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Jekyll Help Center
-date: 2017-12-07 17:00:00
+date: 2017-12-18 17:00:00 +01:00
 homepage: https://github.com/gustavoquinalha/jekyll-help-center-theme
 download: https://github.com/gustavoquinalha/jekyll-help-center-theme
 demo: https://gustavoquinalha.github.io/jekyll-help-center-theme/
@@ -11,7 +11,7 @@ thumbnail: jekyll-help-center.png
 license: MIT
 license_link: https://github.com/gustavoquinalha/jekyll-help-center-theme/blob/master/LICENSE.txt
 carousel:
-  - 'https://gustavoquinalha.github.io/jekyll-help-center-theme/assets/img/readme/responsive.png'
+  - 'responsive.png'
 ---
 
 Jekyll | Help Center, simple and responsive Jekyll theme for help center.

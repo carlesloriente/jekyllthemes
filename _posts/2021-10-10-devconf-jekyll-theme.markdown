@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: DevConf
-date: 2021-10-10 20:21:10 -05:00
+date: 2021-10-10 20:21:10 +01:00
 homepage: https://github.com/la-rebelion/DevConf-Jekyll-Theme
 download: https://github.com/la-rebelion/DevConf-Jekyll-Theme/archive/refs/heads/master.zip
 demo: https://la-rebelion.github.io/DevConf-Jekyll-Theme

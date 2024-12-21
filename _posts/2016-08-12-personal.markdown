@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Personal
-date: 2016-03-24 23:11:50
+date: 2016-03-24 22:11:50 +01:00
 homepage: https://le4ker.github.io/personal-jekyll-theme/
 download: https://github.com/le4ker/personal-jekyll-theme/archive/master.zip
 demo: https://le4ker.github.io/personal-jekyll-theme/
@@ -11,8 +11,8 @@ thumbnail: personal.jpg
 license: MIT
 license_link: https://github.com/le4ker/personal-jekyll-theme/blob/master/LICENSE
 carousel:
-  - 'https://raw.githubusercontent.com/le4ker/personal-jekyll-theme/refs/heads/main/.github/images/desktop.gif'
-  - 'https://raw.githubusercontent.com/le4ker/personal-jekyll-theme/refs/heads/main/.github/images/mobile.gif'
+  - 'desktop.gif'
+  - 'mobile.gif'
 ---
 
 Personal is a free responsive Jekyll theme, about you :wink:

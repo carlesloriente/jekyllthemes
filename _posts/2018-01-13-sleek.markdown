@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Sleek
-date: 2017-01-13 00:00:00
+date: 2018-01-13 00:00:00 +01:00
 homepage: https://github.com/janczizikow/sleek
 download: https://github.com/janczizikow/sleek/archive/v0.1-alpha.zip
 demo: https://janczizikow.github.io/sleek/
@@ -11,7 +11,7 @@ thumbnail: sleek.png
 license: MIT
 license_link: https://github.com/janczizikow/sleek/blob/master/LICENSE.txt
 carousel:
-  - 'https://raw.githubusercontent.com/janczizikow/sleek/refs/heads/master/sleek.jpg'
+  - 'sleek.jpg'
 ---
 
 Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. It features inlining critical CSS, silky-smooth animations, showing/hiding header on scroll and Asynchronous form submissions with Formspree.

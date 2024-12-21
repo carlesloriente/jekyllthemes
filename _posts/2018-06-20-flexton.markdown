@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Flexton
-date: 2018-06-20 00:00:00
+date: 2018-06-20 00:00:00 +01:00
 homepage: https://github.com/artemsheludko/flexton
 download: https://github.com/artemsheludko/flexton/archive/master.zip
 author: Artem Sheludko
@@ -10,7 +10,7 @@ thumbnail: flexton.jpg
 license: MIT
 license_link: https://github.com/artemsheludko/flexton/blob/master/LICENSE.txt
 carousel:
-  - 'https://github.com/artemsheludko/flexton/blob/master/images/preview.png?raw=true'
+  - 'preview.png'
 ---
 
 Flexton is an ultra-minimalist and responsive theme for Jekyll

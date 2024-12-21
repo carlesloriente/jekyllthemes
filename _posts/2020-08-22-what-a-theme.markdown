@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: What A THeme
-date: 2020-08-22 00:15:00 +0530
+date: 2020-08-22 00:15:00 +01:00
 homepage: https://github.com/thedevslot/WhatATheme
 download: https://github.com/thedevslot/WhatATheme/archive/master.zip
 demo: https://thedevslot.github.io/WhatATheme/
@@ -11,7 +11,7 @@ thumbnail: what-a-theme.png
 license: GPLv2
 license_link: https://github.com/thedevslot/WhatATheme/blob/master/LICENSE
 carousel:
-  - 'https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/meta.jpg'
+  - 'meta.jpg'
 ---
 
 **WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio.

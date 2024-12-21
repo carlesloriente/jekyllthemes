@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: jekyllBear
-date: 2022-08-25 01:23:45
+date: 2022-08-25 01:23:45 +01:00
 homepage: https://github.com/Knhash/jekyllBear
 download: https://github.com/Knhash/jekyllBear/archive/master.zip
 demo: https://knhash.in/jekyllBear
@@ -11,10 +11,10 @@ thumbnail: jekyllBear.png
 license: MIT
 license_link: https://github.com/knhash/jekyllBear/blob/master/LICENSE.txt
 carousel:
-  - 'https://raw.githubusercontent.com/Knhash/jekyllBear/master/assets/images/JBHome.png?raw=true'
-  - 'https://raw.githubusercontent.com/Knhash/jekyllBear/master/assets/images/JBBlog.png?raw=true'
-  - 'https://raw.githubusercontent.com/Knhash/jekyllBear/master/assets/images/JBLongForm.png?raw=true'
-  - 'https://raw.githubusercontent.com/Knhash/jekyllBear/master/assets/images/JBPoetry.png?raw=true'
+  - 'JBHome.png'
+  - 'JBBlog.png'
+  - 'JBLongForm.png'
+  - 'JBPoetry.png?'
 ---
 
 jekyllBear, an easy to use, minimal, text focused Jekyll theme. [Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*.

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Halve
-date: 2016-05-30 22:47:00
+date: 2016-05-30 22:47:00 +01:00
 homepage: https://github.com/TaylanTatli/Halve
 download: https://github.com/TaylanTatli/Halve/archive/master.zip
 demo: https://tolgatatli.github.io/Halve/
@@ -11,7 +11,7 @@ thumbnail: halve-theme.png
 license: MIT
 license_link: https://github.com/TaylanTatli/Halve/blob/master/LICENSE
 carousel:
-  - 'https://raw.githubusercontent.com/TaylanTatli/Halve/master/images/halve-home-image.png'
+  - 'halve-home-image.png'
 ---
 
 Halve, this theme is Jekyll port of [vangeltzo.com](https://vangeltzo.com/) (by[Vangelis Tzortzis](https://github.com/srekoble)).

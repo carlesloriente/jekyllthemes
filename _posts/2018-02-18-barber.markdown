@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Barber
-date: 2018-02-18 00:00:00
+date: 2018-02-18 00:00:00 +01:00
 homepage: https://github.com/samesies/barber-jekyll
 download: https://github.com/samesies/barber-jekyll/archive/master.zip
 demo: https://barber.samesies.io/
@@ -11,7 +11,7 @@ thumbnail: barber.jpg
 license: MIT
 license_link: https://github.com/samesies/barber-jekyll/blob/master/LICENSE
 carousel:
-  - 'https://raw.githubusercontent.com/samesies/barber-jekyll/master/barber.jpg'
+  - 'barber.jpg'
 ---
 
 Barber is a minimal blog theme built for Jekyll. The blog theme features a masonry grid, endless scrolling, and page transitions.

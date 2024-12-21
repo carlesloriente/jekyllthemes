@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Harmony
-date: 2014-09-09 00:16:00
+date: 2014-09-09 00:16:00 +01:00
 homepage: https://github.com/gayanvirajith/harmony
 download: https://github.com/gayanvirajith/harmony/archive/master.zip
 author: Gayan Virajith
@@ -10,9 +10,9 @@ thumbnail: harmony.jpg
 license: MIT
 license_link: https://github.com/gayanvirajith/harmony/blob/master/LICENSE.md
 carousel: 
-  - 'https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony-home-page.png'
-  - 'https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony.png'
-  - 'https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony-blog-page.png'
+  - 'harmony-home-page.png'
+  - 'harmony.png'
+  - 'harmony-blog-page.png'
 ---
 
 Harmony is a responsive jekyll theme.

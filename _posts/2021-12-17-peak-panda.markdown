@@ -12,10 +12,10 @@ version: '1.0'
 license: MIT
 license_link: https://github.com/junjizhi/peak-panda/blob/main/LICENSE
 carousel:
-  - 'https://user-images.githubusercontent.com/2715151/145758133-e352473d-2afd-46cb-95e4-69b856ae7b61.png'
-  - 'https://user-images.githubusercontent.com/2715151/145758143-a98dcf50-ac52-4fad-98fd-68e9917c3f94.png'
-  - 'https://user-images.githubusercontent.com/2715151/145758149-322b82c7-a433-4dda-99b1-6307838ead58.png'
-  - 'https://user-images.githubusercontent.com/2715151/145758156-61ae35db-d714-4caf-8046-5970c0d13ae5.png'
+  - '145758133-e352473d-2afd-46cb-95e4-69b856ae7b61.png'
+  - '145758143-a98dcf50-ac52-4fad-98fd-68e9917c3f94.png'
+  - '145758149-322b82c7-a433-4dda-99b1-6307838ead58.png'
+  - '145758156-61ae35db-d714-4caf-8046-5970c0d13ae5.png'
 ---
 
 Jekyll theme: Peak Panda
