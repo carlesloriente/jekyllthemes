@@ -11,8 +11,8 @@ thumbnail: ephesus-jekyll-theme.png
 license: MIT
 license_link: https://github.com/onepase/Ephesus/blob/master/LICENSE
 carousel:
-  - '1b241d9d0d891e4187a7ab653b271204b36a9e72/light.png'
-  - 'Ephesus/1b241d9d0d891e4187a7ab653b271204b36a9e72/dark.png'
+  - 'light.png'
+  - 'dark.png'
 ---
 
 Ephesus Jekyll Theme - Simple and Minimal Jekyll Blog Theme

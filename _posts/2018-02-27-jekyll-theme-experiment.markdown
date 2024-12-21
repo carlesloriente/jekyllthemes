@@ -11,10 +11,10 @@ thumbnail: jekyll-theme-experiment.png
 license: MIT
 license_link: https://github.com/anxhe/jekyll-theme-experiment/blob/master/LICENSE.txt
 carousel:
-  - 'Screen%20Recording%202018-02-24%20at%2011.23%20p.m..gif'
-  - 'Screen%20Recording%202018-02-27%20at%2011.03%20p.m..gif'
-  - 'Screen%20Recording%202018-02-27%20at%2011.11%20p.m..gif'
-  - 'Screen%20Recording%202018-02-27%20at%2011.17%20p.m..gif'
+  - '1.gif'
+  - '2.gif'
+  - '3.gif'
+  - '4.gif'
 ---
 
 If you want to build your Portfolio, here you have a minimalistic, fast and responsive option, this is a customizable portfolio focused theme, the home layout is composed of three sections (description with avatar, projects and tools) but you can decide which ones to include or exclude via configuration file.

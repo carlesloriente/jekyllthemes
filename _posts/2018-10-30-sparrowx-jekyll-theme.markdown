@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: SparrowX 
-date: 2018-05-30 09:20:00
+date: 2018-10-30 09:20:00 +01:00
 homepage: https://github.com/mighildotcom/sparrowx
 download: https://github.com/mighildotcom/sparrowx/archive/master.zip
 demo: https://sparrowx.mighil.com/
