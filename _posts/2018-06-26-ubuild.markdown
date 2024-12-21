@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: uBuild
-date: 2018-06-26 00:00:00
+date: 2018-06-26 00:00:00 +01:00
 homepage: https://github.com/forestryio/ubuild-jekyll
 download: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
 demo: https://forestryio.github.io/ubuild-jekyll/
@@ -11,7 +11,7 @@ thumbnail: ubuild.png
 license: MIT
 license_link: https://github.com/forestryio/ubuild-jekyll/blob/master/LICENSE
 carousel:
-  - 'https://forestryio.github.io/ubuild-jekyll/uploads/2018/06/21/theme.png'
+  - 'theme.png'
 ---
 
 uBuild is an open-source Jekyll based theme and comes with 16 fully responsive design block. It also doubles as a builder tool when used inside the [Forestry](https://forestry.io) content manager. [Learn More](https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/)

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Flexible Jekyll
-date: 2017-09-13 00:00:00
+date: 2017-09-13 00:00:00 +01:00
 homepage: https://github.com/artemsheludko/flexible-jekyll
 download: https://github.com/artemsheludko/flexible-jekyll/archive/master.zip
 demo: https://artemsheludko.github.io/flexible-jekyll/
@@ -11,8 +11,8 @@ thumbnail: flexible-jekyll.jpg
 license: GPLv3
 license_link: https://raw.githubusercontent.com/artemsheludko/flexible-jekyll/refs/heads/master/LICENSE
 carousel:
-  - 'https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true'
-  - 'https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true'
+  - 'home-page.jpg'
+  - 'post-example.jpg'
 ---
 
 Flexible-Jekyll is a simple and clean theme for Jekyll.

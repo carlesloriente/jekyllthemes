@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Satellite
-date: 2024-02-06 00:00:00
+date: 2024-02-06 00:00:00 +01:00
 homepage: https://github.com/byanko55/jekyll-theme-satellite
 download: https://github.com/byanko55/jekyll-theme-satellite/releases
 demo: https://byanko55.github.io/
@@ -11,7 +11,7 @@ author: "Yankos"
 license: MIT
 license_link: https://github.com/byanko55/jekyll-theme-satellite/blob/master/LICENSE
 carousel:
-  - 'https://i.ibb.co/h1QF06V/demo.webp'
+  - 'demo.webp'
 ---
 
 An emotional and adorable blog theme powered by **Jekyll**.

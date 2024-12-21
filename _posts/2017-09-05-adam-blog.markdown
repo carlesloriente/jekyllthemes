@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Adam Blog
-date: 2017-09-05 00:00:00
+date: 2017-09-05 00:00:00 +01:00
 homepage: https://github.com/artemsheludko/adam-blog
 download: https://github.com/artemsheludko/adam-blog/archive/master.zip
 demo: https://artemsheludko.github.io/adam-blog/
@@ -11,9 +11,9 @@ thumbnail: adam-blog.jpg
 license: GPLv3
 license_link: https://raw.githubusercontent.com/artemsheludko/adam-blog/refs/heads/master/LICENSE
 carousel: 
-  - 'https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true'
-  - 'https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true'
-  - 'https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-post-example.jpg?raw=true'
+  - 'blog-imac.jpg'
+  - 'adam-home-page.jpg'
+  - 'adam-post-example.jpg'
 ---
 
 Adam Blog is a minimal clear theme for Jekyll

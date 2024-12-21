@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Freshman21
-date: 2014-12-20 16:55:00
+date: 2014-12-20 16:55:00 +01:00
 homepage: https://github.com/yulijia/freshman21
 download: https://github.com/yulijia/freshman21/archive/master.zip
 demo: https://yulijia.net/freshman21/
@@ -10,8 +10,6 @@ author: Lijia Yu
 thumbnail: freshman21.png
 license: MIT
 license_link: https://github.com/yulijia/freshman21/blob/master/LICENSE
-carousel:
-  - 'https://i.imgur.com/oSp7kacl.png'
 ---
 
 Freshman21 is a Jekyll blog theme, base on theme [Freshman](https://github.com/yulijia/freshman).

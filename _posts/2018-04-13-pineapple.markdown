@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Pineapple
-date: 2018-04-13 00:00:00
+date: 2018-04-13 00:00:00 +01:00
 homepage: https://github.com/arnolds/pineapple
 download: https://github.com/arnolds/pineapple/archive/master.zip
 demo: https://arnolds.io/pineapple/
@@ -11,7 +11,7 @@ thumbnail: pineapple.png
 license: MIT
 license_link: https://github.com/arnolds/pineapple/blob/master/LICENSE.md
 carousel:
-  - 'https://user-images.githubusercontent.com/9528895/38713105-6dda8a74-3ec7-11e8-8062-8aa6cf24c795.jpg'
+  - '38713105-6dda8a74-3ec7-11e8-8062-8aa6cf24c795.jpg'
 ---
 
 Pineapple is a minimalistic [Jekyll](https://jekyllrb.com) portfolio theme that focuses on putting your projects in the spotlight.

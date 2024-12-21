@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Monochrome
-date: 2017-02-19 00:00:00
+date: 2017-02-19 00:00:00 +01:00
 homepage: https://github.com/dyutibarma/monochrome
 download: https://github.com/dyutibarma/monochrome/archive/master.zip
 demo: https://dyutibarma.github.io/monochrome/
@@ -11,8 +11,8 @@ thumbnail: monochrome.png
 license: MIT
 license_link: https://github.com/dyutibarma/monochrome/blob/master/license.md
 carousel:
-  - 'https://raw.githubusercontent.com/dyutibarma/monochrome/master/img/monochrome-mobile.png'
-  - 'https://raw.githubusercontent.com/dyutibarma/monochrome/master/img/monochrome01.png'
+  - 'monochrome-mobile.png'
+  - 'monochrome01.png'
 ---
 
 Monochrome is a minimal, responsive, ready to use Jekyll theme for blogging.

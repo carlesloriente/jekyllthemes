@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Reked
-date: 2019-08-30 00:00:00
+date: 2019-08-30 00:00:00 +01:00
 homepage: https://github.com/artemsheludko/reked
 download: https://github.com/artemsheludko/reked/archive/master.zip
 demo: https://artemsheludko.github.io/reked/
@@ -11,7 +11,7 @@ thumbnail: reked-small.jpg
 license: MIT
 license_link: https://github.com/artemsheludko/reked/blob/master/LICENSE.txt
 carousel:
-  - 'https://github.com/artemsheludko/reked/blob/master/images/reked-preview.jpg?raw=true'
+  - 'reked-preview.jpg'
 ---
 
 Reked is a minimal and responsive blog theme for Jekyll. It is focused on the content, speed, simplicity.

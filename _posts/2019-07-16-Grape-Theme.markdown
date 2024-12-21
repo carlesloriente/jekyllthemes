@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grape
-date: 2019-07-16 12:30:00
+date: 2019-07-16 12:30:00 +01:00
 homepage: https://github.com/naye0ng/Grape-Theme
 download: https://github.com/naye0ng/Grape-Theme/archive/v1.0.zip
 author: Nayeong Kim
@@ -10,8 +10,6 @@ license: MIT
 license_link: https://github.com/naye0ng/Grape-Theme/blob/master/LICENSE.txt
 carousel:
   - 'Grape-Theme.png'
-  - 'https://grape-theme.netlify.com/assets/jekylltheme/home.png'
-  - 'https://grape-theme.netlify.com/assets/jekylltheme/portfolio.png'
 ---
 
 Grape Theme is good for a portfolio as well as a blog. Customize Grape-Theme and use it for free.

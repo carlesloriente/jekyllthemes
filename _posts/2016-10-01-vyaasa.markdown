@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Vyaasa
-date: 2016-10-01 00:00:00
+date: 2016-10-01 00:00:00 +01:00
 homepage: https://github.com/sharu725/vyaasa
 download: https://github.com/sharu725/vyaasa/archive/master.zip
 demo: https://vyaasa.webjeda.com/
@@ -11,8 +11,8 @@ thumbnail: vyaasa.png
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:
-  - 'https://raw.githubusercontent.com/sharu725/vyaasa/refs/heads/master/images/vyaasa-jekyll-theme-1.png'
-  - 'https://raw.githubusercontent.com/sharu725/vyaasa/refs/heads/master/images/vyaasa-jekyll-theme-2.png'
+  - 'vyaasa-jekyll-theme-1.png'
+  - 'vyaasa-jekyll-theme-2.png'
 ---
 
 ## Installation

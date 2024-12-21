@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Opine
-date: 2023-01-31 03:24:04 +06:00
+date: 2023-01-31 03:24:04 +01:00
 homepage: https://github.com/leabs/jekyll-opine
 download: https://github.com/leabs/jekyll-opine/archive/refs/tags/v1.zip
 demo: https://jekyll-opine.vercel.app/
