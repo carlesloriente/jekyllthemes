@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Left
-date: 2013-06-15 01:31:00
+date: 2013-06-15 01:31:00 +01:00
 homepage: https://github.com/holman/left
 download: https://github.com/holman/left/archive/gh-pages.zip
 demo: https://zachholman.com/left/
@@ -10,6 +10,8 @@ author: Zach Holman
 thumbnail: left.png
 license: MIT
 license_link: https://github.com/holman/left/blob/gh-pages/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Left is a clean, whitespace-happy layout for Jekyll.

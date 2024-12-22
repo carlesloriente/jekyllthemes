@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Holo Alfa
-date: 2015-07-29 02:19:00
+date: 2015-07-29 02:19:00 +01:00
 homepage: https://github.com/stijnvc/holo-alfa
 download: https://github.com/stijnvc/holo-alfa/archive/gh-pages.zip
 demo: https://stijnvc.github.io/holo-alfa/
@@ -10,6 +10,8 @@ author: Stijn van Cuijk
 thumbnail: holo-alfa.png
 license: MIT
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'screenshot.png'
 ---
 
 Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. Created for free and fun by Stijn.

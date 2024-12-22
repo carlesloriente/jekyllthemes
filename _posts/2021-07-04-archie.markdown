@@ -12,6 +12,7 @@ license: MIT
 license_link: https://github.com/slashformotion/jekyll-archie/blob/master/LICENSE.txt
 carousel:
   - 'screenshot.png'
+  - 'screenshot2.png'
 ---
 
 Archie, a Jekyll theme based on the Hugo theme Archie by @athul.

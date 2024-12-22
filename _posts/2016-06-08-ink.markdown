@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Ink
-date: 2016-06-08 10:45:00
+date: 2016-06-08 10:45:00 +01:00
 homepage: https://github.com/thinker3197/ink
 download: https://github.com/thinker3197/ink/archive/master.zip
 demo: https://thinker3197.github.io/ink
@@ -10,6 +10,8 @@ author: Ashish Gupta
 thumbnail: ink.png
 license: MIT
 license_link: https://github.com/thinker3197/ink/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Ink is a minimal two-columnn Jekyll theme thats is packed with modern web design. It is rich with UI and makes posts feel readable.

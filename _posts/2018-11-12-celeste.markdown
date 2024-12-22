@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: celeste
-date: 2018-11-12 00:00:00
+date: 2018-11-12 19:00:00 +01:00
 homepage: https://github.com/nicoelayda/celeste
 download: https://github.com/nicoelayda/celeste/archive/master.zip
 demo: https://nicoelayda.github.io/celeste/

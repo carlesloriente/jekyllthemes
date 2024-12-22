@@ -10,6 +10,8 @@ author: Tao He
 thumbnail: jekyll-gitbook.png
 license: Apache 2.0
 license_link: https://github.com/sighingnow/jekyll-gitbook/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 [GitBook][gitbook] is an amazing frontend style to present and organize contents (such as book chapters and blogs) on Web. The typical to deploy GitBook at [Github Pages][github-pages] is building HTML files locally and then push to Github repository, usually to the gh-pages branch. It's quite annoying to repeat such workload and make it hard for people do version control via git for when there are generated HTML files to be staged in and out.

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Minimal Resume
-date: 2019-06-12 00:00:00
+date: 2019-06-12 20:00:00 +01:00
 homepage: https://github.com/murraco/jekyll-theme-minimal-resume
 download: https://github.com/murraco/jekyll-theme-minimal-resume/archive/master.zip
 demo: https://jekyll-theme-minimal-resume.netlify.app/
@@ -10,6 +10,8 @@ author: Mauricio Urraco <mauriurraco@gmail.com>
 thumbnail: minimal-resume.png
 license: MIT
 license_link: https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 This is a simple Jekyll theme for a minimal resume website.

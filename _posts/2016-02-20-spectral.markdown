@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Spectral
-date: 2016-02-20 00:00:00
+date: 2016-02-20 20:00:00 +01:00
 homepage: https://github.com/arkadianriver/spectral
 download: https://github.com/arkadianriver/spectral/archive/master.zip
 demo: https://arkadianriver.github.io/spectral
@@ -10,6 +10,8 @@ author: HTML5 UP (html5up.net), @n33co
 thumbnail: spectral.png
 license: CC-BY-3.0
 license_link: https://html5up.net/license
+carousel:
+ - 'screenshot.png'
 ---
 
 HTML5 UP makes **spiffy HTML5 site templates** that are:

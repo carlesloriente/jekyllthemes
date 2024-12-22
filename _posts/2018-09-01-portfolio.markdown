@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Portfolio
-date: 2018-09-01 00:00:00
+date: 2018-09-01 20:00:00 +01:00
 homepage: https://github.com/abhn/portfolio
 download: https://github.com/abhn/portfolio/archive/master.zip
 demo: https://abhn.io

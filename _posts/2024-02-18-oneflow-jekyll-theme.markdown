@@ -10,6 +10,8 @@ author: "Per Starke"
 thumbnail: oneflow.webp
 license: MIT
 license_link: https://opensource.org/license/mit/
+carousel:
+  - 'screenshot.png'
 ---
 
 OneFlow is a Jekyll Theme designed to create stunning, clear and practical modern One-Pager Websites.

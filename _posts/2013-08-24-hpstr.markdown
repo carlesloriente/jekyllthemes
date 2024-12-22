@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: HPSTR
-date: 2013-08-24 18:18:00
+date: 2013-08-24 18:18:00 +01:00
 homepage: https://github.com/mmistakes/hpstr-jekyll-theme
 download: https://github.com/mmistakes/hpstr-jekyll-theme/archive/master.zip
 demo: https://mmistakes.github.io/jekyll-theme-hpstr/
@@ -10,6 +10,8 @@ author: Michael Rose
 thumbnail: hpstr.png
 license: MIT
 license_link: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 ## Features

@@ -10,6 +10,8 @@ author: Jeffrey Tse
 thumbnail: jekyll-theme-yat.png
 license: MIT
 license_link: https://github.com/jeffreytse/jekyll-theme-yat/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 🎨 Yet another theme for elegant writers with modern flat style.

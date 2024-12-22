@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Swift
-date: 2013-12-01 03:55:00
+date: 2013-12-01 03:55:00 +01:00
 homepage: https://github.com/pranavrajs/swift/
 download: https://github.com/pranavrajs/swift/archive/master.zip
 demo: https://pranavrajs.github.io/swift/
@@ -10,6 +10,8 @@ author: Pranav
 thumbnail: swift.png
 license: MIT
 license_link: https://github.com/pranavrajs/swift/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Swift is a minimal blog theme which can be used on Jekyll.

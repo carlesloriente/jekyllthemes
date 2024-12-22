@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Pithy
-date: 2015-05-08 12:42:00
+date: 2015-05-08 12:42:00 +01:00
 homepage: https://github.com/smallmuou/Jekyll-Pithy
 download: https://github.com/smallmuou/Jekyll-Pithy/archive/master.zip
 author: Pawpaw

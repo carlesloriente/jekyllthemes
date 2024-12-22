@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Mangan
-date: 2016-02-24 12:23:00
+date: 2016-02-24 12:23:00 +01:00
 homepage: https://github.com/dikiaap/mangan
 download: https://github.com/dikiaap/mangan/archive/master.zip
 demo: https://mangan.pages.dev/
@@ -10,6 +10,8 @@ author: Diki Ananta
 thumbnail: mangan.png
 license: MIT
 license_link: https://github.com/dikiaap/mangan/blob/master/LICENSE
+carousel:
+ - 'screenshot.png'
 ---
 
 A Light contrast of Jekyll theme. For GEEK! For All!

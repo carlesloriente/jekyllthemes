@@ -10,6 +10,8 @@ author: "Ha Jeong Hyun(a.k.a Vector7)"
 thumbnail: vector7-mapley.png
 license: MIT
 license_link: https://github.com/Vector-7/mapley/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 **mapley** is **Jekyll Theme** that is an autumn & reading book style This is My First Jekyll theme for learning more about Jekyll. So It has some bug, but I'm going to do making and debugging this for better.

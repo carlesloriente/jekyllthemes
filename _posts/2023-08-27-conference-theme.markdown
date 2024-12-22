@@ -10,6 +10,8 @@ author: "Lorenz Schmid | Digitale Gesellschaft"
 thumbnail: jekyll-theme-conference.png
 license: MIT
 license_link: https://github.com/DigitaleGesellschaft/jekyll-theme-conference/blob/main/LICENSE.md
+carousel:
+  - 'screenshot.png'
 ---
 
 This is a responsive [Jekyll](http://jekyllrb.com) theme based on [Bootstrap 4](http://getbootstrap.com) for conferences.

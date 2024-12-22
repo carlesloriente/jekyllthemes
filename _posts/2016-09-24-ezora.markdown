@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Ezora
-date: 2016-09-24 00:00:00
+date: 2016-09-24 20:00:00 +01:00
 homepage: https://github.com/ezrasavard/ezora-jekyll-theme
 download: https://github.com/ezrasavard/ezora-jekyll-theme/archive/master.zip
 demo: https://ezrasavard.github.io/ezora-jekyll-theme 
@@ -10,6 +10,8 @@ author: Ezra Savard
 thumbnail: ezora.png
 license: MIT
 license_link: https://github.com/poole/poole/blob/master/LICENSE.md
+carousel:
+  - 'screenshot.png'
 ---
 
 Ezora is a responsive Jekyll theme with a clean single column layout, nifty text overlays for images and a mobile friendly navigation bar.

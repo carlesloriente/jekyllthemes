@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Accent
-date: 2016-02-12 21:00:00
+date: 2016-02-12 21:00:00 +01:100
 homepage: https://github.com/ankitsultana/accent
 download: https://github.com/ankitsultana/accent/archive/gh-pages.zip
 demo: https://ankitsultana.com/accent
@@ -10,6 +10,8 @@ author: Ankit Sultana
 thumbnail: accent.png
 license: MIT
 license_link: https://github.com/ankitsultana/accent/blob/gh-pages/LICENSE
+carousel:
+ - 'screenshot.png'
 ---
 
 accent is a customizable, single column theme for Jekyll.

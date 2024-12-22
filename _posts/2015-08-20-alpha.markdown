@@ -10,3 +10,5 @@ thumbnail: alpha.jpg
 license: CC-BY-3.0
 license_link: https://github.com/CloudCannon/Alpha-Jekyll-Theme/blob/master/LICENSE.txt
 ---
+
+Alpha theme.

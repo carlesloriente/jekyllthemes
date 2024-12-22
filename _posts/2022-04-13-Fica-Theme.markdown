@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Fica
-date: 2022-04-13
+date: 2022-04-13 19:00:00 +01:00
 homepage: https://github.com/Involts/jekyll-theme-fica
 download: https://github.com/Involts/jekyll-theme-fica/zipball/master
 demo: https://aeziyehl.github.io/jekyll-theme-fica/
@@ -10,6 +10,8 @@ author: "Involts"
 thumbnail: Fica_Theme.png
 license: MIT
 license_link: https://github.com/Involts/jekyll-theme-fica/blob/main/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 Fica theme

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Hamilton
-date: 2020-07-02 02:05:00 +0800
+date: 2020-07-02 02:05:00 +01:00
 homepage: https://github.com/ngzhio/jekyll-theme-hamilton
 download: https://github.com/ngzhio/jekyll-theme-hamilton/archive/master.zip
 author: Shangzhi Huang

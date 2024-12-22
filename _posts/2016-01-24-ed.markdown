@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Ed
-date: 2016-01-24 10:00:00
+date: 2016-01-24 10:00:00 +01:00
 homepage: https://github.com/elotroalex/ed
 download: https://github.com/elotroalex/ed/archive/master.zip
 demo: https://minicomp.github.io/ed/
@@ -10,6 +10,8 @@ author: Alex Gil
 thumbnail: ed.png
 license: MIT
 license_link: https://github.com/elotroalex/ed/blob/master/LICENSE.md
+carousel:
+ - 'screenshot.png'
 ---
 
 Ed is a Jekyll theme designed for editors interested in producing beautiful and durable digital editions of poetry, drama or narrative.

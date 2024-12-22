@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Shiori
-date: 2014-09-07 15:00:00
+date: 2014-09-07 15:00:00 +01:00
 homepage: https://github.com/ellekasai/shiori/
 download: https://github.com/ellekasai/shiori/archive/gh-pages.zip
 demo: https://ellekasai.github.io/shiori/
@@ -10,6 +10,8 @@ author: Elle Kasai
 license: MIT
 license_link: https://ellekasai.mit-license.org/
 thumbnail: shiori.png
+carousel:
+  - 'screenshot.png'
 ---
 
 Shiori is a Bootstrap-based Jekyll theme. It looks great by default, but you can customize it easily. It supports Bootstrap and Font Awesome classes out of the box.

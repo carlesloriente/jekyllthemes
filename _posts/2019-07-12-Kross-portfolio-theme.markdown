@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Kross Portfolio
-date: 2019-07-20 22:30:00
+date: 2019-07-20 22:30:00 +01:00
 homepage: https://github.com/themefisher/kross-jekyll-portfolio-template
 download: https://github.com/themefisher/kross-jekyll-portfolio-template/archive/master.zip
 demo: https://demo.themefisher.com/kross

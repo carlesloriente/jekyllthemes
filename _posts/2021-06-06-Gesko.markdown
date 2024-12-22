@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Gesko
-date: 2021-06-06 11:42:00
+date: 2021-06-06 11:42:00 +01:00
 homepage: https://github.com/P0WEX/Gesko
 download: https://github.com/P0WEX/Gesko/generate
 demo: https://davidebri.github.io/Gesko/
@@ -10,6 +10,8 @@ author: P0WEX
 thumbnail: light.png
 license: MIT
 license_link: https://github.com/P0WEX/Gesko/blob/master/LICENSE.md
+carousel:
+  - 'screenshot.png'
 ---
 
 Gesko is a simple and minimalistic jekyll blogging theme.

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Limpid
-date: 2016-06-05 00:00:00
+date: 2016-06-05 20:00:00 +01:00
 homepage: https://github.com/pranavrajs/limpid
 download: https://github.com/pranavrajs/limpid/archive/master.zip
 demo: https://pranavrajs.github.io/limpid/
@@ -10,6 +10,8 @@ author: Pranav Raj S
 thumbnail: limpid-minimal-theme.png
 license: MIT
 license_link: https://github.com/pranavrajs/limpid/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Bootstrap based minimal theme for blogs.

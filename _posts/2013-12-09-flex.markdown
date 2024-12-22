@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Flex
-date: 2013-12-09 14:52:00
+date: 2013-12-09 14:52:00 +01:00
 homepage: https://github.com/the-development/flex
 download: https://github.com/the-development/flex/archive/master.zip
 demo: https://the-development.github.io/flex
@@ -10,6 +10,8 @@ author: Jeff Martin
 thumbnail: flex.png
 license: MIT
 license_link: https://github.com/the-development/flex/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Flex is a minimal, responsive, two-column, theme for Jekyll with an emphasis on typography and minimal photos. In the mobile view of the website, the left-side column becomes a collapsed, sliding menu.

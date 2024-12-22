@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Bulma Clean
-date: 2019-03-30 10:11:00
+date: 2019-03-30 10:11:00 +01:00
 homepage: https://github.com/chrisrhymes/bulma-clean-theme
 download: https://rubygems.org/gems/bulma-clean-theme
 demo: https://www.csrhymes.com/bulma-clean-theme/
@@ -10,6 +10,8 @@ author: chrisrhymes
 thumbnail: bulma-clean-theme.jpg
 license: MIT
 license_link: https://github.com/chrisrhymes/bulma-clean-theme/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 Bulma-clean-theme, this is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/) framework, providing a modern looking site to start working with.

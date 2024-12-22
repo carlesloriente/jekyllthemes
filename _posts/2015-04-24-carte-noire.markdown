@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Carte Noire
-date: 2015-04-24 15:00:00
+date: 2015-04-24 15:00:00 +01:00
 homepage: https://github.com/jacobtomlinson/carte-noire
 download: https://github.com/jacobtomlinson/carte-noire/archive/gh-pages.zip
 demo: https://carte-noire.jacobtomlinson.co.uk/
@@ -10,6 +10,8 @@ author: Jacob Tomlinson
 thumbnail: carte-noire.png
 license: GPLv3
 license_link: https://github.com/jacobtomlinson/carte-noire/blob/gh-pages/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Carte Noire, a dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes Carte Noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect.
