@@ -2,13 +2,15 @@
 layout: post
 comments: true
 title: MaterializeHG
-date: 2016-06-10 04:43:00
+date: 2016-06-10 04:43:00 +01:00
 homepage: https://github.com/hugocarreira/jekyll-materializecss
 download: https://github.com/hugocarreira/jekyll-materializecss/archive/master.zip
 demo: https://hugocarreira.github.io/jekyll-materializecss
 author: Hugo Carreira
 thumbnail: materialize-hg.png
 license: MIT
+carousel:
+  - 'screenshot.png'
 ---
 
 A simple, clean and elegant theme using MaterializeCSS.

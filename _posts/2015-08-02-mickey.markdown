@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Mickey
-date: 2015-08-02 07:42:00
+date: 2015-08-02 07:42:00 +01:00
 homepage: https://github.com/vincentchan/mickey
 download: https://github.com/vincentchan/mickey/archive/master.zip
 demo: https://vincentchan.github.io/mickey/
@@ -10,6 +10,8 @@ author: Vincent Chan
 thumbnail: mickey.png
 license: MIT
 license_link: https://github.com/vincentchan/mickey/blob/master/LICENSE.md
+carousel:
+  - 'screenshot.png'
 ---
 
 A minimal one-column, responsive theme for Jekyll.

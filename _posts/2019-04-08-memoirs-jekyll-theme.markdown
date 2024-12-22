@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Memoirs Jekyll
-date: 2020-04-08 09:20:00
+date: 2020-04-08 09:20:00 +01:00
 homepage: https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/
 download: https://github.com/wowthemesnet/jekyll-theme-memoirs/archive/master.zip
 demo: https://wowthemesnet.github.io/jekyll-theme-memoirs

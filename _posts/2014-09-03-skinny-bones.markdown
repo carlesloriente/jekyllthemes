@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Skinny Bones
-date: 2014-09-03 00:00:00
+date: 2014-09-03 21:00:00 +01:00
 homepage: https://github.com/mmistakes/skinny-bones-jekyll
 download: https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip
 demo: https://mmistakes.github.io/jekyll-theme-skinny-bones/
@@ -10,6 +10,8 @@ author: Michael Rose
 thumbnail: skinny-bones-0000.jpg
 license: MIT
 license_link: https://github.com/mmistakes/skinny-bones-jekyll/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Just a little something to jump start your Jekyll powered site.

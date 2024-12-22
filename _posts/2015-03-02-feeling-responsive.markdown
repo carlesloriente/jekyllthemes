@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Feeling Responsive
-date: 2015-03-02 00:00:00
+date: 2015-03-02 20:00:00 +01:00
 homepage: https://github.com/Phlow/feeling-responsive
 download: https://github.com/Phlow/feeling-responsive/archive/gh-pages.zip
 demo: https://phlow.github.io/feeling-responsive/
@@ -10,6 +10,8 @@ author: Phlow – Moritz »mo.« Sauer
 thumbnail: feeling-responsive.jpg
 license: MIT
 license_link: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 *Feeling Responsive* Theme

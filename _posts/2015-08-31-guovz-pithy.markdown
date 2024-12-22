@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Guovz Pithy
-date: 2015-08-31 14:37:00
+date: 2015-08-31 14:37:00 +01:00
 homepage: https://github.com/guovz/pithy
 download: https://github.com/guovz/pithy/archive/gh-pages.zip
 demo: https://www.guovz.com
@@ -10,6 +10,8 @@ author: Jaylin Wang
 thumbnail: guovz-pithy.png
 license: MIT
 license_link: https://github.com/guovz/pithy/blob/gh-pages/LICENSE.md
+carousel:
+  - 'screenshot.png'
 ---
 
 The [Guovz Pithy](https://github.com/guovz/pithy) An open source minimal theme for Jekyll. You can Fork, Star it and make a New Version of it. of course. it's free.

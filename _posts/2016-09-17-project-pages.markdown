@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: project-pages
-date: 2016-09-17 23:01:03
+date: 2016-09-17 22:01:03 +01:00
 homepage: https://projectpages.github.io/
 download: https://github.com/projectpages/project-pages/archive/gh-pages.zip
 demo: https://projectpages.github.io/project-pages/
@@ -10,6 +10,8 @@ author: Ahmet Cecen
 thumbnail: project-pages.png
 license: Apache 2.0
 license_link: https://github.com/projectpages/project-pages/blob/gh-pages/LICENSE.md
+carousel:
+  - 'screenshot.png'
 ---
 
 Project-Pages is a Jekyll based scientific blogging tool, made easily accessible to the non-coder researcher through simple heavily opinionated templates, while preserving the freedom of the code savvy user to customize all functionality as they please. Project-Pages uses a specialized re-skin of Prose.io to provide a CMS-like overlay.

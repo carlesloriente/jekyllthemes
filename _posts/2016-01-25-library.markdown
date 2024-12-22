@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Library
-date: 2016-01-25 10:11:00
+date: 2016-01-25 10:11:00 +01:00
 homepage: https://github.com/alexcarpenter/library-jekyll-theme
 download: https://github.com/alexcarpenter/library-jekyll-theme/archive/gh-pages.zip
 demo: https://alexcarpenter.github.io/library-jekyll-theme/
@@ -10,6 +10,8 @@ author: Alex Carpenter
 thumbnail: library.jpg
 license: MIT
 license_link: https://github.com/alexcarpenter/library-jekyll-theme/blob/gh-pages/LICENSE
+carousel:
+ - 'screenshot.png'
 ---
 
 Library theme.

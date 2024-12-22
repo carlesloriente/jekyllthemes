@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Yellowblue
-date: 2015-10-18 21:00:00
+date: 2015-10-18 21:00:00 +01:00
 homepage: https://github.com/chalatz/yellowblue
 download: https://github.com/chalatz/yellowblue/archive/master.zip
 demo: https://chalatz.github.io/yellowblue/
@@ -10,6 +10,8 @@ author: Christos Alatzas
 thumbnail: yellowblue.png
 license: Apache 2.0
 license_link: https://github.com/chalatz/yellowblue/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Yellowblue is a modern, clean and responsive Jekyll theme.

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Chirpy
-date: 2020-08-05 00:17:00 +0800
+date: 2020-08-05 00:17:00 +01:00
 homepage: https://github.com/cotes2020/jekyll-theme-chirpy/
 download: https://github.com/cotes2020/jekyll-theme-chirpy/archive/master.zip
 demo: https://cotes2020.github.io/chirpy-demo/
@@ -10,6 +10,8 @@ author: Cotes Chung
 thumbnail: chirpy.png
 license: MIT
 license_link: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 A minimal, sidebar, responsive web design Jekyll theme, focusing on text presentation, aim to help you easily record and share your knowledge.

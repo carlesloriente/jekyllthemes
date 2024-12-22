@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Solid
-date: 2014-08-17 12:00:00
+date: 2014-08-17 12:00:00 +01:00
 homepage: https://github.com/st4ple/solid-jekyll
 download: https://github.com/st4ple/solid-jekyll/archive/master.zip
 demo: https://st4ple.github.io/solid-jekyll/
@@ -10,6 +10,8 @@ author: Oliver Stapleton
 thumbnail: solid.png
 license: Apache 2.0
 license_link: https://opensource.org/licenses/Apache-2.0
+carousel:
+  - 'screenshot.png'
 ---
 
 Solid is a 7 pages theme ideal for web agencies and freelancers. There are 3 kinds of posts: Blog, Project and Question entries.

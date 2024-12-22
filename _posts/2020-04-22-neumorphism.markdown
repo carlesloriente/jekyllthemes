@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Neumorphism
-date: 2020-04-22 14:00:00
+date: 2020-04-22 14:00:00 +01:00
 homepage: https://github.com/longpdo/neumorphism
 download: https://github.com/longpdo/neumorphism/archive/master.zip
 demo: https://longpdo.github.io/neumorphism/
@@ -10,6 +10,8 @@ author: Long Do
 thumbnail: neumorphism.png
 license: MIT
 license_link: https://raw.githubusercontent.com/longpdo/neumorphism/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.

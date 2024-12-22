@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: MAD4Jekyll
-date: 2015-11-25 00:00:00
+date: 2015-11-25 19:00:00 +01:00
 homepage: https://github.com/madforjekyll/madforjekyll.github.io
 download: https://github.com/madforjekyll/madforjekyll.github.io/archive/master.zip
 demo: https://madforjekyll.github.io
@@ -10,6 +10,8 @@ author: MADness
 thumbnail: MAD4Jekyll.png
 license: Apache 2.0
 license_link: https://github.com/madforjekyll/madforjekyll.github.io/blob/master/Apache%20LICENSE%20Version%202.0.markdown
+carlousel:
+  - 'screenshot.png'
 ---
 
 MAD4Jekyll theme.

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Mere Blog
-date: 2019-10-08 10:11:00
+date: 2019-10-08 10:11:00 +01:00
 homepage: https://github.com/chrisrhymes/mere-blog-theme
 download: https://rubygems.org/gems/mere-blog-theme
 demo: https://www.csrhymes.com/mere-blog-theme/
@@ -10,6 +10,8 @@ author: chrisrhymes
 thumbnail: mere-blog-theme.jpg
 license: MIT
 license_link: https://github.com/chrisrhymes/mere-blog-theme/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 Mere is a minimal and simple blog theme, and nothing more, for use with Jekyll and GitHub Pages.

@@ -10,11 +10,12 @@ author: Matt Harzewski
 thumbnail: solar.png
 license: GPLv2
 license_link: https://github.com/mattvh/solar-theme-jekyll#license
+carousel:
+  - 'solar.png'
 ---
 
 A stylish theme for Jekyll blogs, based on the Solarized color palette.
-For installation instructions, please read the README.md [on
-GitHub!](https://github.com/mattvh/solar-theme-jekyll)
+For installation instructions, please read the README.md [on GitHub!](https://github.com/mattvh/solar-theme-jekyll)
 
 ## Features
 

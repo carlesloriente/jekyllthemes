@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Gray
-date: 2019-06-27 16:00:00
+date: 2019-06-27 16:00:00 +01:00
 homepage: https://github.com/brunofolle/gray
 download: https://github.com/brunofolle/gray/archive/master.zip
 author: Bruno Folle

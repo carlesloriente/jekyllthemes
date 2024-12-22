@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: brume
-date: 2014-02-08 19:17:00
+date: 2014-02-08 19:17:00 +01:00
 homepage: https://github.com/aigarsdz/brume
 download: https://github.com/aigarsdz/brume/archive/master.zip
 demo: https://aigarsdz.github.io/brume
@@ -10,6 +10,8 @@ author: Aigars Dzerviniks
 thumbnail: brume.png
 license: MIT
 license_link: https://github.com/aigarsdz/brume/blob/master/LICENSE.md
+carousel:
+  - 'screenshot.png'
 ---
 
 I am not a designer so I cannot impress you with breathtaking Jekyll themes, but brume is something that just came to my mind and I had to build it.

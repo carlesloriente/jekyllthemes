@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: YAMT
-date: 2020-05-21 16:00:00
+date: 2020-05-21 16:00:00 +01:00
 homepage: https://github.com/PandaSekh/Jekyll-YAMT
 download: https://github.com/PandaSekh/Jekyll-YAMT/releases/latest
 demo: https://yamt.netlify.app/
@@ -10,6 +10,8 @@ author: Alessio Franceschi
 thumbnail: yamt.png
 license: MIT
 license_link: https://github.com/PandaSekh/Jekyll-YAMT/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 YAMT is a minimal [Jekyll](https://jekyllrb.com) theme focused on simplicity and ease-of-use. It has great modularity, allowing you to easily decide what you actually want on your website.  

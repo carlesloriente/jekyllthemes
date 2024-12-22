@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Texture
-date: 2019-06-29 08:00:00
+date: 2019-06-29 08:00:00 +01:00
 homepage: https://github.com/samarsault/texture
 download: https://github.com/samarsault/texture/archive/master.zip
 demo: https://samarsault.com/texture

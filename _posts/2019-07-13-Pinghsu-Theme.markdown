@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Pinghsu
-date: 2019-07-13 13:30:00
+date: 2019-07-13 13:30:00 +01:00
 homepage: https://github.com/lightfish-zhang/pinghsu-jekyll
 download: https://github.com/lightfish-zhang/pinghsu-jekyll/archive/master.zip
 demo: https://lightfish.cn/

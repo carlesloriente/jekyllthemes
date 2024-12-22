@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Israh
-date: 2018-07-12 00:00:00
+date: 2018-07-12 20:00:00 +01:00
 homepage: https://github.com/ezrasavard/israh-jekyll-theme
 download: https://github.com/ezrasavard/israh-jekyll-theme/archive/master.zip
 demo: https://ezrasavard.github.io/israh-jekyll-theme
@@ -10,6 +10,8 @@ author: Ezra Savard
 thumbnail: israh.png
 license: MIT
 license_link: https://github.com/poole/poole/blob/master/LICENSE.md
+carousel:
+  - 'screenshot.png'
 ---
 
 Israh is a responsive Jekyll theme with warm greys, a single column layout, and not much else.

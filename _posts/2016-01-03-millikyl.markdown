@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Millikyl
-date: 2016-01-03 15:45:45 +05:30
+date: 2016-01-03 15:45:45 +01:00
 homepage: https://github.com/fareez-ahamed/millikyl
 download: https://github.com/fareez-ahamed/millikyl/archive/master.zip
 demo: https://fareez-ahamed.github.io/millikyl/
@@ -10,6 +10,8 @@ author: Fareez Ahamed
 thumbnail: millikyl.png
 license: MIT
 license_link: https://github.com/fareez-ahamed/millikyl/blob/master/LICENSE.TXT
+carousel:
+ - 'screenshot.png'
 ---
 
 Millikyl is a Jekyll theme based on the super minimal CSS framework [Milligram](https://github.com/milligram/milligram) which uses *Roboto* as base font.

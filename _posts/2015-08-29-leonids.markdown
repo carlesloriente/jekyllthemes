@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Leonids
-date: 2015-08-29 23:22:00
+date: 2015-08-29 21:22:00 +01:00
 homepage: https://github.com/renyuanz/leonids
 download: https://github.com/renyuanz/leonids/archive/master.zip
 demo: https://renyuanz.github.io/leonids
@@ -10,6 +10,8 @@ author: Renyuan Zou
 thumbnail: leonids.png
 license: MIT
 license_link: https://github.com/renyuanz/leonids/blob/master/README.md
+carousel:
+  - 'screenshot.png'
 ---
 
 **[Leonids](https://renyuanz.github.io/leonids)** is a clean and awesome Jekyll theme perfect for powering your GitHub hosted blog.

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Resume
-date: 2015-08-20 00:00:00
+date: 2015-08-20 21:00:00 +01:00
 homepage: https://github.com/jglovier/resume-template
 download: https://github.com/jglovier/resume-template/archive/gh-pages.zip
 demo: https://resume-template.joelglovier.com/
@@ -10,6 +10,8 @@ author: Joel Glovier
 thumbnail: resume.png
 license: MIT
 license_link: https://github.com/jglovier/resume-template/blob/gh-pages/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Resume theme.

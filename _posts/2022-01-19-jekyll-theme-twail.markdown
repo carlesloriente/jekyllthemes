@@ -10,6 +10,8 @@ author: leetaewook
 thumbnail: twail.png
 license: MIT
 license_link: https://github.com/leetaewook/jekyll-theme-twail/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 Jekyll theme Twail, card style Jekyll theme for blog.

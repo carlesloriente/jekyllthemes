@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: DIARY
-date: 2019-08-09 19:53:00
+date: 2019-08-09 19:53:00 +01:00
 homepage: https://github.com/soyaine/jekyll-theme-diary
 download: https://github.com/soyaine/jekyll-theme-diary/archive/master.zip
 demo: https://soyaine.github.io/jekyll-theme-diary/

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Kiko
-date: 2015-09-11 17:03:00
+date: 2015-09-11 17:03:00 +01:00
 homepage: https://github.com/gfjaru/Kiko
 download: https://github.com/gfjaru/Kiko/releases
 demo: https://kiko.gfjaru.com
@@ -10,6 +10,8 @@ author: Gandara Fajar Umbara
 thumbnail: kiko.png
 license: MIT
 license_link: https://github.com/gfjaru/Kiko/blob/gh-pages/README.md
+carousel:
+  - 'screenshot.png'
 ---
 
 An open source minimal theme for Jekyll, ideal for blogging.

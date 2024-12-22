@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Cards
-date: 2016-05-08 21:40:00
+date: 2016-05-08 21:40:00 +01:00
 homepage: https://github.com/willianjusten/cards-jekyll-template
 download: https://github.com/willianjusten/cards-jekyll-template/archive/master.zip
 demo: https://willianjusten.github.io/cards-jekyll-template/
@@ -10,6 +10,8 @@ author: Willian Justen
 thumbnail: cards-jekyll-template.png
 license: MIT
 license_link: https://github.com/willianjusten/cards-jekyll-template/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 The [Cards Jekyll Template](https://github.com/willianjusten/cards-jekyll-template/) show the main Theme. Feel free to Fork, Star it and make a New Version of it.

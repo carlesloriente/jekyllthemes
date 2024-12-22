@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: panthera-jekyll
-date: 2019-06-08 23:45:00
+date: 2019-06-08 21:45:00 +01:00
 homepage: https://github.com/christianezeani/panthera-jekyll
 download: https://github.com/christianezeani/panthera-jekyll/archive/master.zip
 demo: https://demothemes.github.io/panthera-jekyll/

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Stack Problems
-date: 2016-04-21 01:16:00
+date: 2016-04-21 01:16:00 +01:00
 homepage: https://github.com/agusmakmun/agusmakmun.github.io
 download: https://github.com/agusmakmun/agusmakmun.github.io/archive/master.zip
 demo: https://agusmakmun.github.io
@@ -11,6 +11,7 @@ thumbnail: stack-problems.png
 license: MIT
 license_link: https://github.com/agusmakmun/agusmakmun.github.io/blob/master/LICENSE
 carousel:
+  - 'screenshot.png'
   - 'screenshot-post-page.png'
 ---
 

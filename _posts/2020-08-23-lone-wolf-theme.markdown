@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Lone Wolf
-date: 2020-08-23 23:43:04 +05:30
+date: 2020-08-23 22:43:04 +01:00
 homepage: https://github.com/manid2/lone-wolf-theme/
 download: https://github.com/manid2/lone-wolf-theme/releases/latest/
 demo: https://manid2.github.io/lone-wolf-theme/
@@ -10,6 +10,8 @@ author: Mani Kumar
 thumbnail: lone-wolf-theme.png
 license: MIT
 license_link: https://github.com/manid2/lone-wolf-theme/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Lone Wolf Theme is a simple bootstrap based jekyll theme.

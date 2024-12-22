@@ -10,3 +10,5 @@ thumbnail: arcana.jpg
 license: CC-BY-3.0
 license_link: https://github.com/CloudCannon/Arcana-Jekyll-Theme/blob/master/LICENSE.txt
 ---
+
+Arcana theme.

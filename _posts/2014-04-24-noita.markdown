@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Noita
-date: 2014-04-24 00:00:00
+date: 2014-04-24 21:00:00 +01:00
 homepage: https://github.com/penibelst/jekyll-noita
 download: https://github.com/penibelst/jekyll-noita/archive/gh-pages.zip
 demo: https://noita.penibelst.de/
@@ -10,6 +10,8 @@ author: Anatol Broder
 thumbnail: noita.png
 license: MIT
 license_link: https://github.com/penibelst/jekyll-noita/blob/gh-pages/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Noita is built with the responsive front-end framework [Foundation](https://foundation.zurb.com/). The theme is fully compatible with Github Pages.

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Fuse Core
-date: 2018-06-25 00:00:00
+date: 2018-06-25 20:00:00 +01:00
 homepage: https://github.com/tsjensen/fuse-core
 download: https://github.com/tsjensen/fuse-core/archive/gh-pages.zip
 demo: https://tsjensen.github.io/fuse-core/

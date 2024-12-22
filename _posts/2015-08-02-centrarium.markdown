@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Centrarium
-date: 2015-08-02 07:42:00
+date: 2015-08-02 07:42:00 +01:00
 homepage: https://github.com/bencentra/centrarium
 download: https://github.com/bencentra/centrarium/archive/master.zip
 demo: https://bencentra.com/centrarium/
@@ -10,6 +10,8 @@ author: Ben Centra
 thumbnail: centrarium.png
 license: MIT
 license_link: https://github.com/bencentra/centrarium/blob/master/LICENSE.md
+carousel:
+  - 'screenshot.png'
 ---
 
 Centrarium, a simple yet classy theme for your Jekyll website or blog. Mobile responsive. Customizable to fit your style or brand.
