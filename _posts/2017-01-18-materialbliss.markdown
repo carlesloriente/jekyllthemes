@@ -3,13 +3,13 @@ layout: post
 comments: true
 title: Material Bliss
 date: 2017-01-18 20:17:14 +01:00
-homepage: https://github.com/InsidiousMind/material-bliss-jekyll-theme
-download: https://github.com/InsidiousMind/material-bliss-jekyll-theme/archive/master.zip
+homepage: https://github.com/insipx/material-bliss-jekyll-theme
+download: https://github.com/insipx/material-bliss-jekyll-theme/archive/master.zip
 demo: https://code.liquidthink.net
 author: Andrew Plaza
 thumbnail: materialbliss.webp
 license: GPLv3
-license_link: https://github.com/InsidiousMind/material-bliss-jekyll-theme/blob/master/LICENSE
+license_link: https://github.com/insipx/material-bliss-jekyll-theme/blob/master/LICENSE
 carousel:
   - 'GfFoLXS.png'
   - 'cdIgtax.png'
@@ -32,6 +32,6 @@ The Material Bliss Jekyll Theme.
 * Push-out Menu to save space and create focus for users
 * Dynamic Project Page in a masonry layout built
 * The pros of dynamic webpages matched with the awesomeness of static Jekyll
-* included RESTful-like API (with [jekyll-react plugin](https://github.com/InsidiousMind/Jekyll-React))
+* included RESTful-like API (with [jekyll-react plugin](https://github.com/insipx/Jekyll-React))
 * Static or Dynamic Pages with just a frontmatter option
 * MORE TO COME

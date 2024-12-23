@@ -3,13 +3,13 @@ layout: post
 comments: true
 title: SparrowX 
 date: 2018-10-30 09:20:00 +01:00
-homepage: https://github.com/mighildotcom/sparrowx
-download: https://github.com/mighildotcom/sparrowx/archive/master.zip
+homepage: https://github.com/verfasor/sparrowx
+download: https://github.com/verfasor/sparrowx/archive/master.zip
 demo: https://sparrowx.mighil.com/
 author: Mighil
 thumbnail: sparrowx-thumbnail.webp
 license: MIT
-license_link: https://github.com/mighildotcom/sparrowx/blob/master/LICENSE.txt
+license_link: https://github.com/verfasor/sparrowx/blob/master/LICENSE.txt
 carousel:
   - 'screenshot.png'
 ---
@@ -152,6 +152,6 @@ You can also add an image path for the `og_image` value in the config file, for 
 
 Your default image Netlify CMS uploads will go to /images/.
 
-For the various config options see the [sample config file for the demo site](https://github.com/mighildotcom/sparrowx/blob/master/_config.yml)
+For the various config options see the [sample config file for the demo site](https://github.com/verfasor/sparrowx/blob/master/_config.yml)
 
 The color schemes and fonts can also be customized through scss, by editing the relevant variable in `_variables.scss`.

@@ -28,5 +28,5 @@ Extracted lovingly from [https://mdswanson.com][mds] for your enjoyment!
 [j]: https://jekyllrb.com/
 [mds]: https://mdswanson.com
 [skeleton]: https://www.getskeleton.com/
-[font-awesome]: https://fortawesome.github.io/Font-Awesome/
+[font-awesome]: https://fontawesome.com/
 [gfonts]: https://www.google.com/fonts/specimen/Open+Sans

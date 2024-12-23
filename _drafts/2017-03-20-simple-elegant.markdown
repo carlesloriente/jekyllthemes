@@ -3,7 +3,7 @@ published: false
 layout: post
 comments: true
 title: Simple Elegant
-date: 2017-03-20 00:00:00
+date: 2017-03-20 00:00:00 +01:00
 homepage: https://github.com/panxw/panxw.github.com
 download: https://github.com/panxw/panxw.github.com/archive/v1.0.zip
 demo: https://www.panxw.com/
@@ -12,7 +12,7 @@ thumbnail: simple-elegant.jpg
 license: MIT
 license_link: https://opensource.org/license/mit
 carousel:
-  - 'https://github.com/panxw/jekyllthemes/blob/master/thumbnails/simple-elegant.jpg?raw=true'
+  - 'simple-elegant.jpg'
 ---
 
 Simple Elegant Jekyll theme, hope you will like it!

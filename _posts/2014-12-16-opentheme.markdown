@@ -3,12 +3,12 @@ layout: post
 comments: true
 title: OpenTheme
 date: 2014-12-16 12:00:00 +01:00
-homepage: https://github.com/open-start/opentheme
-download: https://github.com/open-start/opentheme/archive/master.zip
+homepage: https://github.com/manavsehgal/opentheme
+download: https://github.com/manavsehgal/opentheme/archive/master.zip
 author: Manav Sehgal
 thumbnail: opentheme.webp
 license: MIT
-license_link: https://github.com/open-start/opentheme/blob/master/LICENSE
+license_link: https://github.com/manavsehgal/opentheme/blob/master/LICENSE
 ---
 
 OpenTheme, starter theme using Semantic UI and Jekyll for creating awesome websites on GitHub Pages.
@@ -21,8 +21,8 @@ OpenTheme is designed to use YAML, JSON, CSV, and other data-as-a-service integr
 
 ## Contribute
 
-Start by [forking the repository](https://github.com/open-start/opentheme/fork).
+Start by [forking the repository](https://github.com/manavsehgal/opentheme/fork).
 
 ## Contact
 
-If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/open-start/opentheme/issues) or making a pull request for your fork!
+If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/manavsehgal/opentheme/issues) or making a pull request for your fork!

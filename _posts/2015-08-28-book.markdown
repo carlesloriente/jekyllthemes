@@ -19,6 +19,6 @@ Book, a simple Jekyll theme.
 ## Features
 
 * Responsive layout and mobile first
-* Customized [404](https://kkninjae.github.io/book/hehe) page
+* Customized 404 page
 * An off-canvas list for post archive on the mobile screen
 * A timeline style for post list

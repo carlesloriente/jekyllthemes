@@ -3,13 +3,13 @@ layout: post
 comments: true
 title: minimal-categorized
 date: 2021-01-24 16:47:00 +01:00
-homepage: https://github.com/ItsMeaga1n/minimal-categorized
+homepage: https://github.com/ItsPatrq/minimal-categorized
 download: https://rubygems.org/gems/minimal-categorized
 demo: https://itspatrq.github.io/minimal-categorized/
-author: ItsMeaga1n
+author: Patryk Bieszke
 thumbnail: minimal-categorized-thumbnail.webp
 license: MIT
-license_link: https://github.com/ItsMeaga1n/minimal-categorized/blob/master/LICENSE.txt
+license_link: https://github.com/ItsPatrq/minimal-categorized/blob/master/LICENSE.txt
 ---
 
 Minimal Jekyll theme for aggregated content, this theme is a lightweight framework for personal blogs and portfolios. It's a great way to publish your interests on a website

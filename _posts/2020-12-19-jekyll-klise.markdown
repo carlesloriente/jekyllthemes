@@ -53,7 +53,7 @@ Navigate to `localhost:4000`. You're Welcome, Fork and be Stargazer.
 
 ## Contribute
 
-If you see any typos or formatting errors in a post, or want to helping reduce backlogs or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!, please read [Contribute](https://github.com/piharpi/jekyll-klise/blob/master/Contribute.md) before PR.
+If you see any typos or formatting errors in a post, or want to helping reduce backlogs or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!, please read [Contribute](https://github.com/piharpi/jekyll-klise/blob/master/CONTRIBUTING.md) before PR.
 
 Yeaaa feel free to open a pull request.
 

@@ -15,7 +15,7 @@ carousel:
   - 'screenshot-post-page.png'
 ---
 
-Stack Problems, this project forked and has been modified from ["**A simple grey theme for Jekyll**"](https://github.com/liamsymonds/simplygrey-jekyll), and the search posts using [**Super Search**](https://github.com/chinchang/super-search).
+Stack Problems, this project forked and has been modified from **A simple grey theme for Jekyll**, and the search posts using [**Super Search**](https://github.com/chinchang/super-search).
 
 ## Features
 
