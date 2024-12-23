@@ -7,7 +7,7 @@ homepage: https://github.com/Knhash/Pudhina
 download: https://github.com/Knhash/Pudhina/archive/master.zip
 demo: https://knhash.github.io/Pudhina/
 author: Knhash
-thumbnail: pudhina.jpg
+thumbnail: pudhina.webp
 license: MIT
 license_link: https://github.com/Knhash/Pudhina/blob/master/LICENSE
 carousel:

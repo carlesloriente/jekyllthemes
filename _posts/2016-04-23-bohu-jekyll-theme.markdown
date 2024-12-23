@@ -7,7 +7,7 @@ homepage: https://github.com/Clark-Zhao/bohu-jekyll-theme
 download: https://github.com/Clark-Zhao/bohu-jekyll-theme/archive/gh-pages.zip
 demo: https://Clark-Zhao.github.io/bohu-jekyll-theme/home/
 author: Clark Zhao
-thumbnail: BoHu-0000.jpg
+thumbnail: BoHu-0000.webp
 license: MIT
 license_link: https://github.com/Clark-Zhao/bohu-jekyll-theme/blob/gh-pages/LICENSE
 carousel:

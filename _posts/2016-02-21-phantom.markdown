@@ -7,7 +7,7 @@ homepage: https://github.com/jamigibbs/phantom
 download: https://github.com/jamigibbs/phantom/archive/master.zip
 demo: https://jamigibbs.com
 author: Jami Gibbs
-thumbnail: phantom.jpg
+thumbnail: phantom.webp
 license: MIT
 license_link: https://github.com/jamigibbs/phantom/blob/master/LICENSE
 ---

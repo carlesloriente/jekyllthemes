@@ -7,7 +7,7 @@ homepage: https://github.com/Gaohaoyang/gaohaoyang.github.io
 download: https://github.com/Gaohaoyang/gaohaoyang.github.io/archive/v1.1.zip
 demo: https://gaohaoyang.github.io/
 author: Gaohaoyang
-thumbnail: cool-concise-high-end.jpg
+thumbnail: cool-concise-high-end.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang.github.io/refs/heads/master/LICENSE
 ---

@@ -7,7 +7,7 @@ homepage: https://github.com/Forthoney/consolo
 download: https://github.com/Forthoney/consolo/archive/master.zip
 demo: https://forthoney.github.io/
 author: Forthoney
-thumbnail: consolo.png
+thumbnail: consolo.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---

@@ -7,7 +7,7 @@ homepage: https://github.com/sfreytag/friday-theme/
 download: https://github.com/sfreytag/friday-theme/archive/master.zip
 demo: https://sfreytag.github.io/friday-theme/
 author: Simon Freytag
-thumbnail: friday-theme.png
+thumbnail: friday-theme.webp
 license: MIT
 license_link: https://github.com/sfreytag/friday-theme/blob/master/LICENSE.md
 carousel:

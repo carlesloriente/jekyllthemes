@@ -8,7 +8,7 @@ download: https://github.com/jekyller/online-cv/archive/master.zip
 demo: https://jekyller.github.io/online-cv/
 author: Locky
 version: '2.0'
-thumbnail: panelcv2.png
+thumbnail: panelcv2.webp
 license: MIT
 license_link: https://github.com/jekyller/online-cv/blob/master/LICENSE
 ---

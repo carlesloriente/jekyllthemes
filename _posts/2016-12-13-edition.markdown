@@ -7,7 +7,7 @@ homepage: https://github.com/CloudCannon/edition-jekyll-template
 download: https://github.com/CloudCannon/edition-jekyll-template/archive/master.zip
 demo: https://long-pig.cloudvent.net/
 author: CloudCannon
-thumbnail: edition.png
+thumbnail: edition.webp
 license: MIT
 license_link: https://github.com/CloudCannon/edition-jekyll-template/blob/master/LICENSE
 carousel:

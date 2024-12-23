@@ -6,7 +6,7 @@ date: 2016-01-29 10:00:00 +01:00
 homepage: https://github.com/muhajirframe/busterni-jekyll-theme
 download: https://github.com/muhajirframe/busterni-jekyll-theme/archive/gh-pages.zip
 author: Muhammad Muhajir
-thumbnail: busterni-jekyll-theme.png
+thumbnail: busterni-jekyll-theme.webp
 license: MIT
 license_link: https://github.com/muhajirframe/busterni-jekyll-theme/blob/gh-pages/LICENSE
 ---

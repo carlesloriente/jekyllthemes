@@ -7,7 +7,7 @@ homepage: https://github.com/epidrome/cover-card
 download: https://github.com/epidrome/cover-card/archive/gh-pages.zip
 demo: https://epidrome.github.io/cover-card/
 author: epidrome
-thumbnail: cover-card.jpg
+thumbnail: cover-card.webp
 license: MIT
 license_link: https://github.com/epidrome/cover-card/blob/master/LICENSE
 ---

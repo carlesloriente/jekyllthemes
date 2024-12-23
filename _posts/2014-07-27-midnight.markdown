@@ -7,7 +7,7 @@ homepage: https://github.com/mattgraham/midnight
 download: https://github.com/mattgraham/midnight/archive/master.zip
 demo: https://madebygraham.com/midnight/
 author: Matt Graham
-thumbnail: midnight.png
+thumbnail: midnight.webp
 license: MIT
 license_link: https://github.com/mattgraham/midnight/blob/master/LICENCE
 carousel:

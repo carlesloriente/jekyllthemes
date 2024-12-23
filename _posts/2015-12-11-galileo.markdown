@@ -6,7 +6,7 @@ date: 2015-12-11 14:03:00 +01:00
 homepage: https://github.com/rowanoulton/galileo-theme
 download: https://github.com/rowanoulton/galileo-theme/archive/master.zip
 author: rowanoulton
-thumbnail: galileo.png
+thumbnail: galileo.webp
 license: MIT
 license_link: https://github.com/rowanoulton/galileo-theme/blob/master/LICENSE
 ---

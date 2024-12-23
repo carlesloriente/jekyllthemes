@@ -7,7 +7,7 @@ homepage: https://github.com/gdg-managua/jekyll-mdl
 download: https://github.com/gdg-managua/jekyll-mdl/releases
 demo: https://gdgmanagua.github.io/jekyll-mdl/
 author: Google Developers Group Managua
-thumbnail: jekyll-mdl.jpg
+thumbnail: jekyll-mdl.webp
 license: Apache 2.0
 license_link: https://github.com/gdg-managua/jekyll-mdl/blob/master/LICENSE
 ---

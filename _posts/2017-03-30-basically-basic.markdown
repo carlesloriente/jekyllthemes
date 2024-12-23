@@ -7,7 +7,7 @@ homepage: https://github.com/mmistakes/jekyll-theme-basically-basic
 download: https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip
 demo: https://mmistakes.github.io/jekyll-theme-basically-basic/
 author: Michael Rose
-thumbnail: basically-basic.png
+thumbnail: basically-basic.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/mmistakes/jekyll-theme-basically-basic/refs/heads/master/LICENSE
 carousel:

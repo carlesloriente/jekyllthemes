@@ -7,7 +7,7 @@ homepage: https://hmfaysal.github.io/hmfaysal-omega-theme/
 download: https://github.com/hmfaysal/hmfaysal-omega-theme/archive/refs/heads/gh-pages.zip
 demo: https://hmfaysal.github.io/hmfaysal-omega-theme/
 author: Hossain Mohd Faysal
-thumbnail: hmfaysal-omega.jpg
+thumbnail: hmfaysal-omega.webp
 license: MIT
 license_link: https://hmfaysal.github.io/hmfaysal-omega-theme/license/
 ---

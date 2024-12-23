@@ -6,7 +6,7 @@ date: 2016-05-02 17:00:00 +01:00
 homepage: https://github.com/gjuniioor/darcli
 download: https://github.com/gjuniioor/darcli/archive/master.zip
 author: Gildásio Júnior aka gjuniioor
-thumbnail: darcli.jpg
+thumbnail: darcli.webp
 license: GPLv3
 license_link: https://github.com/gjuniioor/darcli/blob/gh-pages/assets/LICENSE
 ---

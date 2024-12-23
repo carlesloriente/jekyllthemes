@@ -7,7 +7,7 @@ homepage: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme
 download: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme/archive/master.zip
 demo: https://html5up.net/dopetrope
 author: HTML5 UP (html5up.net), @n33co
-thumbnail: dopetrope.jpg
+thumbnail: dopetrope.webp
 license: CC-BY-3.0
 license_link: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme/blob/master/LICENSE.txt
 carousel:

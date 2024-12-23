@@ -7,7 +7,7 @@ homepage: https://github.com/nicoelayda/celeste
 download: https://github.com/nicoelayda/celeste/archive/master.zip
 demo: https://nicoelayda.github.io/celeste/
 author: Nico Elayda
-thumbnail: celeste.png
+thumbnail: celeste.webp
 license: MIT
 license_link: https://github.com/nicoelayda/celeste/blob/master/LICENSE
 carousel:

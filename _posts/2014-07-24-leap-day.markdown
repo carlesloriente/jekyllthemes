@@ -7,7 +7,7 @@ homepage: https://github.com/mattgraham/Leap-Day
 download: https://github.com/mattgraham/Leap-Day/archive/master.zip
 demo: https://madebygraham.com/leapday/
 author: Matt Graham
-thumbnail: leap-day.png
+thumbnail: leap-day.webp
 license: MIT
 license_link: https://github.com/mattgraham/Leap-Day/blob/master/LICENCE
 carousel:

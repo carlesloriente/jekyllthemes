@@ -7,7 +7,7 @@ homepage: https://github.com/bogoli/-folio
 download: https://github.com/bogoli/-folio/archive/master.zip
 demo: https://liabogoev.com/-folio/
 author: Lia Bogoev
-thumbnail: folio.png
+thumbnail: folio.webp
 license: MIT
 license_link: https://github.com/bogoli/-folio/blob/master/README.md
 ---

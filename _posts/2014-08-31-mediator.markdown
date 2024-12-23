@@ -7,7 +7,7 @@ homepage: https://github.com/dirkfabisch/mediator
 download: https://github.com/dirkfabisch/mediator/archive/master.zip
 demo: https://blog.base68.com
 author: Dirk Fabisch
-thumbnail: mediator.png
+thumbnail: mediator.webp
 license: MIT
 license_link: https://github.com/dirkfabisch/mediator/blob/master/LICENCE
 ---

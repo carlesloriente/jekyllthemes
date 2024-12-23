@@ -6,7 +6,7 @@ date: 2016-10-02 00:52:00 +01:00
 homepage: https://github.com/songkong/Blog/tree/gh-pages
 download: https://github.com/songkong/Blog/archive/gh-pages.zip
 author: Song
-thumbnail: ice-bear.png
+thumbnail: ice-bear.webp
 license: MIT
 license_link: https://github.com/songkong/Blog/blob/gh-pages/LICENSE.md
 ---

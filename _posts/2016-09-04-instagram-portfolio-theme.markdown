@@ -6,7 +6,7 @@ date: 2016-09-04 20:00:00 +01:00
 homepage: https://github.com/portfolio-central/jekyll-instagram-portfolio-theme
 download: https://github.com/portfolio-central/jekyll-instagram-portfolio-theme/archive/gh-pages.zip
 author: Sergey Sokurenko
-thumbnail: instagram-portfolo-theme.jpg
+thumbnail: instagram-portfolo-theme.webp
 license: MIT
 license_link: https://github.com/portfolio-central/jekyll-instagram-portfolio-theme/blob/gh-pages/LICENSE.md
 ---

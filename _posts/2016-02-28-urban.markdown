@@ -7,7 +7,7 @@ homepage: https://github.com/midzer/urban-theme
 download: https://github.com/midzer/urban-theme/archive/master.zip
 demo: https://midzer.github.io/urban-theme/
 author: Dennis Rohner
-thumbnail: urban.png
+thumbnail: urban.webp
 license: MIT
 license_link: https://github.com/midzer/urban-theme/blob/master/LICENSE
 ---

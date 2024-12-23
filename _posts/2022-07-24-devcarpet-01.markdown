@@ -7,7 +7,7 @@ homepage: https://github.com/bluszcz/jekyll-theme-devcarpet-01
 download: https://rubygems.org/gems/jekyll-theme-devcarpet-01
 demo: https://bluszcz.net
 author: "Rafał Zawadzki"
-thumbnail:  devcarpet-portfolio.png
+thumbnail:  devcarpet-portfolio.webp
 license: MIT
 license_link: https://github.com/bluszcz/jekyll-theme-devcarpet-01/blob/main/LICENSE.txt
 carousel:

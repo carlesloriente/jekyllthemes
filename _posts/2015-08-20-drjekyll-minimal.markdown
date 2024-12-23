@@ -7,7 +7,7 @@ homepage: https://github.com/drjekyllthemes/jekyll-minimal-theme
 download: https://github.com/drjekyllthemes/jekyll-minimal-theme/archive/gh-pages.zip
 demo: https://henrythemes.github.io/jekyll-minimal-theme/
 author: Gerald Bauer
-thumbnail: drjekyll-minimal.png
+thumbnail: drjekyll-minimal.webp
 license: Public Domain
 carousel:
   - 'screenshot.png'

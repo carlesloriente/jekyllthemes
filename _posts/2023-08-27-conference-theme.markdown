@@ -7,7 +7,7 @@ homepage: https://github.com/DigitaleGesellschaft/jekyll-theme-conference
 download: https://github.com/DigitaleGesellschaft/jekyll-theme-conference/releases/
 demo: https://www.winterkongress.ch/2024/
 author: "Lorenz Schmid | Digitale Gesellschaft"
-thumbnail: jekyll-theme-conference.png
+thumbnail: jekyll-theme-conference.webp
 license: MIT
 license_link: https://github.com/DigitaleGesellschaft/jekyll-theme-conference/blob/main/LICENSE.md
 carousel:

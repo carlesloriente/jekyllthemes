@@ -7,7 +7,7 @@ homepage: https://github.com/rlue/jekyll-solana
 download: https://github.com/rlue/jekyll-solana/archive/master.zip
 demo: https://rlue.github.io/jekyll-solana
 author: Ryan Lue
-thumbnail: solana.png
+thumbnail: solana.webp
 license: MIT
 license_link: https://github.com/rlue/jekyll-solana/blob/master/LICENSE
 carousel:

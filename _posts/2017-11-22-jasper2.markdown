@@ -7,7 +7,7 @@ homepage: https://github.com/jekyller/jasper2
 download: https://github.com/jekyller/jasper2/archive/master.zip
 demo: https://jekyllt.github.io/jasper2/
 author: Fábio Madeira
-thumbnail: jasper2.jpg
+thumbnail: jasper2.webp
 license: MIT
 license_link: https://github.com/myJekyll/jasper2/blob/master/LICENSE
 version: '2.0'

@@ -7,7 +7,7 @@ homepage: https://github.com/ghosind/Jekyll-Paper
 download: https://github.com/ghosind/Jekyll-Paper/archive/master.zip
 demo: https://www.ghosind.com
 author: Chen Su
-thumbnail: jekyll-paper.png
+thumbnail: jekyll-paper.webp
 license: MIT
 license_link: https://github.com/ghosind/Jekyll-Paper/blob/master/LICENSE
 ---

@@ -7,7 +7,7 @@ homepage: https://github.com/ejjoo/jekyll-theme-monos
 download: https://github.com/ejjoo/jekyll-theme-monos/archive/master.zip
 demo: https://ejjoo.github.io/
 author: Euijong Joo
-thumbnail: monos.png
+thumbnail: monos.webp
 license: MIT
 carousel:
   - 'screenshot-1.png'

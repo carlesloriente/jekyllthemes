@@ -7,7 +7,7 @@ homepage: https://github.com/barryclark/jekyll-now
 download: https://github.com/barryclark/jekyll-now/archive/master.zip
 demo: https://www.jekyllnow.com/
 author: Barry Clark
-thumbnail: jekyll-now.png
+thumbnail: jekyll-now.webp
 license: MIT
 license_link: https://github.com/barryclark/jekyll-now/blob/master/LICENSE
 carousel:

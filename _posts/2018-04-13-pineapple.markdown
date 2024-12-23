@@ -7,7 +7,7 @@ homepage: https://github.com/arnolds/pineapple
 download: https://github.com/arnolds/pineapple/archive/master.zip
 demo: https://arnolds.io/pineapple/
 author: Arnolds Kozlovskis
-thumbnail: pineapple.png
+thumbnail: pineapple.webp
 license: MIT
 license_link: https://github.com/arnolds/pineapple/blob/master/LICENSE.md
 carousel:

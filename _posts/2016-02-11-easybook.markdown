@@ -7,7 +7,7 @@ homepage: https://github.com/laobubu/jekyll-theme-EasyBook
 download: https://github.com/laobubu/jekyll-theme-EasyBook/archive/gh-pages.zip
 demo: https://laobubu.github.io/jekyll-theme-EasyBook
 author: laobubu
-thumbnail: easybook.png
+thumbnail: easybook.webp
 license: MIT
 license_link: https://github.com/laobubu/jekyll-theme-EasyBook/blob/gh-pages/LICENSE
 carousel:

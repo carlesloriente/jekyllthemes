@@ -7,7 +7,7 @@ homepage: https://bitwiser.in/bitwiser/
 download: https://goo.gl/iC85jv
 demo: https://bitwiser.in/bitwiser/demo.html
 author: Brijesh Bittu
-thumbnail: bitwiser.png
+thumbnail: bitwiser.webp
 license: MIT
 license_link: https://github.com/brijeshb42/bitwiser/blob/master/LICENSE
 carousel:

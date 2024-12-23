@@ -7,7 +7,7 @@ homepage: https://github.com/t413/SinglePaged
 download: https://github.com/t413/SinglePaged/archive/gh-pages.zip
 demo: https://t413.com/SinglePaged
 author: Tim O'Brien
-thumbnail: singlepaged.png
+thumbnail: singlepaged.webp
 license: MIT
 license_link: https://github.com/t413/SinglePaged/blob/gh-pages/LICENSE.txt
 ---

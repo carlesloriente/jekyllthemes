@@ -6,7 +6,7 @@ date: 2016-02-26 15:45:45 +05:30
 homepage: https://github.com/ninapetrop/Artist-Theme
 download: https://github.com/ninapetrop/Artist-Theme/archive/master.zip
 author: Nina Petropoulos
-thumbnail: artist-theme.png
+thumbnail: artist-theme.webp
 license: MIT
 license_link: https://github.com/ninapetrop/Artist-Theme/blob/master/license.txt
 ---

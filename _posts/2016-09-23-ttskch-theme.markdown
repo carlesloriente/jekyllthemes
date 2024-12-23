@@ -7,7 +7,7 @@ homepage: https://github.com/ttskch/jekyll-ttskch-theme
 download: https://github.com/ttskch/jekyll-ttskch-theme/archive/master.zip
 demo: https://ttskch.github.io/jekyll-ttskch-theme/
 author: Takashi Kanemoto
-thumbnail: ttskch-theme.png
+thumbnail: ttskch-theme.webp
 license: MIT
 license_link: https://github.com/ttskch/jekyll-ttskch-theme/blob/master/LICENSE
 carousel:

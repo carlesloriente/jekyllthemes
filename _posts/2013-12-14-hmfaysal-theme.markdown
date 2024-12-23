@@ -6,7 +6,7 @@ date: 2013-12-14 01:36:00 +01:00
 homepage: https://hmfaysal.github.io
 download: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/archive/master.zip
 author: Hossain Mohd Faysal
-thumbnail: hmfaysal.png
+thumbnail: hmfaysal.webp
 license: GPLv2
 license_link: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/blob/master/LICENSE
 carousel:

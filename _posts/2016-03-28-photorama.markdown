@@ -7,7 +7,7 @@ homepage: https://github.com/sunbliss/photorama
 download: https://github.com/sunbliss/photorama/archive/gh-pages.zip
 demo: https://sunbliss.github.io/photorama
 author: sunbliss
-thumbnail: photorama-0000.jpg
+thumbnail: photorama-0000.webp
 license: Apache 2.0
 license_link: https://github.com/sunbliss/photorama/blob/gh-pages/LICENSE
 carousel:

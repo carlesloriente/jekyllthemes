@@ -6,7 +6,7 @@ homepage: https://github.com/jdh8/sweet-16/
 download: https://github.com/jdh8/sweet-16/archive/master.zip
 demo: https://jdh8.github.io
 author: Chen-Pang He
-thumbnail: sweet-16.png
+thumbnail: sweet-16.webp
 license: GPL
 license_link: https://github.com/jdh8/sweet-16/blob/master/LICENSE
 ---

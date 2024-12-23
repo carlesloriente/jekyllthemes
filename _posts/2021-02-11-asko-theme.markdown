@@ -7,7 +7,7 @@ homepage: https://github.com/manuelmazzuola/asko
 download: https://github.com/manuelmazzuola/asko/archive/master.zip
 demo: https://asko-theme.netlify.app/
 author: Manuel Mazzuola
-thumbnail: asko.png
+thumbnail: asko.webp
 license: MIT
 license_link: https://github.com/manuelmazzuola/asko/blob/master/LICENSE.md
 carousel:

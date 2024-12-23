@@ -7,7 +7,7 @@ homepage: https://github.com/CloudCannon/urban-jekyll-template
 download: https://github.com/CloudCannon/urban-jekyll-template/archive/master.zip
 demo: https://teal-worm.cloudvent.net/
 author: CloudCannon
-thumbnail: urban1.png
+thumbnail: urban1.webp
 license: MIT
 license_link: https://github.com/CloudCannon/urban-jekyll-template/blob/master/LICENSE
 carousel:

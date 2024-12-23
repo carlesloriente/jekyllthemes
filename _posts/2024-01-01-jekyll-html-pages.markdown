@@ -9,7 +9,7 @@ demo: https://yafb.net/jekyll-html-pages/
 author: Francesco Bianco
 license: MIT
 license_link: https://francescobianco/jekyll-html-pages/blob/main/LICENSE
-thumbnail: jekyll-html-pages.png
+thumbnail: jekyll-html-pages.webp
 carousel:
  - 'jekyll-html-pages.png'
 ---

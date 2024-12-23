@@ -6,7 +6,7 @@ date: 2013-09-01 09:00:00 +01:00
 homepage: https://github.com/newbiettn/zebra
 download: https://github.com/newbiettn/zebra/archive/gh-pages.zip
 author: newbiettn
-thumbnail: zebra.png
+thumbnail: zebra.webp
 license: MIT
 license_link: https://github.com/newbiettn/zebra/blob/gh-pages/LICENSE
 ---

@@ -7,7 +7,7 @@ homepage: https://github.com/alexcarpenter/butane-jekyll-theme
 download: https://github.com/alexcarpenter/butane-jekyll-theme/archive/gh-pages.zip
 demo: https://alexcarpenter.github.io/butane-jekyll-theme/
 author: alexcarpenter
-thumbnail: butane.jpg
+thumbnail: butane.webp
 license: MIT
 license_link: https://github.com/alexcarpenter/butane-jekyll-theme/blob/gh-pages/LICENSE
 carlousel:

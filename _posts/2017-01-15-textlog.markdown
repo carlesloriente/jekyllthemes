@@ -7,7 +7,7 @@ homepage: https://github.com/heiswayi/textlog
 download: https://github.com/heiswayi/textlog/archive/gh-pages.zip
 demo: https://heiswayi.github.io/textlog/
 author: Heiswayi Nrird
-thumbnail: textlog.png
+thumbnail: textlog.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/heiswayi/textlog/refs/heads/gh-pages/LICENSE
 carousel:

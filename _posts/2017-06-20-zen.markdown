@@ -7,7 +7,7 @@ homepage: https://github.com/zenjekyll/zenjekyll.github.io
 download: https://github.com/zenjekyll/zenjekyll.github.io/archive/master.zip
 demo: https://zenjekyll.github.io
 author: Zen
-thumbnail: zen.jpg
+thumbnail: zen.webp
 license: MIT
 license_link: https://github.com/zenjekyll/zenjekyll.github.io/blob/master/LICENSE
 carousel:

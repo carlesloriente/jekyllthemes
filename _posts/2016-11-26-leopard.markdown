@@ -7,7 +7,7 @@ homepage: https://github.com/leopardpan/leopardpan.github.io
 download: https://github.com/leopardpan/leopardpan.github.io/archive/master.zip
 demo: https://baixin.io
 author: leopardpan
-thumbnail: leopard.png
+thumbnail: leopard.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---

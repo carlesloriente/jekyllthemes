@@ -7,7 +7,7 @@ homepage: https://jianmin-chen.github.io/techdoc/
 download: https://github.com/jianmin-chen/techdoc/releases
 demo: https://jianmin-chen.github.io/techdoc/2021/04/01/test-page.html
 author: Jianmin Chen
-thumbnail: techdoc.png
+thumbnail: techdoc.webp
 license: MIT
 license_link: https://github.com/jianmin-chen/techdoc/blob/main/LICENSE
 carousel:

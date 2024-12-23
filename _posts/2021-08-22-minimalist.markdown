@@ -7,7 +7,7 @@ homepage: https://github.com/BDHU/minimalist
 download: https://github.com/BDHU/minimalist/archive/main.zip
 demo: https://www.bodunhu.com/minimalist/
 author: Bodun Hu
-thumbnail: minimalist.png
+thumbnail: minimalist.webp
 license: CC-BY-1.0
 license_link: https://creativecommons.org/publicdomain/zero/1.0/
 carousel:

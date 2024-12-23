@@ -7,7 +7,7 @@ homepage: https://github.com/mighildotcom/sparrowx
 download: https://github.com/mighildotcom/sparrowx/archive/master.zip
 demo: https://sparrowx.mighil.com/
 author: Mighil
-thumbnail: sparrowx-thumbnail.png
+thumbnail: sparrowx-thumbnail.webp
 license: MIT
 license_link: https://github.com/mighildotcom/sparrowx/blob/master/LICENSE.txt
 carousel:

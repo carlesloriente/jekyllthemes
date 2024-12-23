@@ -7,7 +7,7 @@ homepage: https://github.com/CloudCannon/frisco-jekyll-template
 download: https://github.com/CloudCannon/frisco-jekyll-template/archive/master.zip
 demo: https://brave-submarine.cloudvent.net/
 author: CloudCannon
-thumbnail: frisco.png
+thumbnail: frisco.webp
 license: MIT
 license_link: https://github.com/CloudCannon/frisco-jekyll-template/blob/master/LICENSE
 carousel:

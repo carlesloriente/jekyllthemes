@@ -7,7 +7,7 @@ homepage: https://github.com/siawyoung/immaculate
 download: https://github.com/siawyoung/immaculate/archive/master.zip
 demo: https://www.siawyoung.com
 author: Lau Siaw Young
-thumbnail: immaculate.jpg
+thumbnail: immaculate.webp
 license: MIT
 license_link: https://github.com/siawyoung/immaculate/blob/master/LICENSE
 carousel:

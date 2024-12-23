@@ -7,7 +7,7 @@ homepage: https://github.com/guovz/pithy
 download: https://github.com/guovz/pithy/archive/gh-pages.zip
 demo: https://www.guovz.com
 author: Jaylin Wang
-thumbnail: guovz-pithy.png
+thumbnail: guovz-pithy.webp
 license: MIT
 license_link: https://github.com/guovz/pithy/blob/gh-pages/LICENSE.md
 carousel:

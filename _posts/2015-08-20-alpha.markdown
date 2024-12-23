@@ -6,7 +6,7 @@ date: 2015-08-20 20:00:00 +01:00
 homepage: https://github.com/CloudCannon/Alpha-Jekyll-Theme
 download: https://github.com/CloudCannon/Alpha-Jekyll-Theme/archive/master.zip
 author: HTML5 UP (html5up.net), @n33co
-thumbnail: alpha.jpg
+thumbnail: alpha.webp
 license: CC-BY-3.0
 license_link: https://github.com/CloudCannon/Alpha-Jekyll-Theme/blob/master/LICENSE.txt
 ---

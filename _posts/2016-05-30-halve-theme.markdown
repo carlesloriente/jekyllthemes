@@ -7,7 +7,7 @@ homepage: https://github.com/TaylanTatli/Halve
 download: https://github.com/TaylanTatli/Halve/archive/master.zip
 demo: https://tolgatatli.github.io/Halve/
 author: Taylan Tatlı
-thumbnail: halve-theme.png
+thumbnail: halve-theme.webp
 license: MIT
 license_link: https://github.com/TaylanTatli/Halve/blob/master/LICENSE
 carousel:

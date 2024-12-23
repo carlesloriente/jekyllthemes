@@ -7,7 +7,7 @@ homepage: https://github.com/Simpleyyt/jekyll-theme-next
 download: https://github.com/Simpleyyt/jekyll-theme-next/archive/master.zip
 demo: https://simpleyyt.github.io/jekyll-theme-next/
 author: Yitao Yao
-thumbnail: jekyll-theme-next.png
+thumbnail: jekyll-theme-next.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel: 

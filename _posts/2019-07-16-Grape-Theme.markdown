@@ -5,7 +5,7 @@ date: 2019-07-16 12:30:00 +01:00
 homepage: https://github.com/naye0ng/Grape-Theme
 download: https://github.com/naye0ng/Grape-Theme/archive/v1.0.zip
 author: Nayeong Kim
-thumbnail: Grape-Theme.png
+thumbnail: Grape-Theme.webp
 license: MIT
 license_link: https://github.com/naye0ng/Grape-Theme/blob/master/LICENSE.txt
 carousel:

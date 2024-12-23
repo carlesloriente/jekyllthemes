@@ -7,7 +7,7 @@ homepage: https://github.com/jarrekk/Jalpc
 download: https://github.com/jarrekk/Jalpc/archive/master.zip
 demo: https://jarrekk.github.io/Jalpc/
 author: Kun Jia
-thumbnail: Jalpc-jekyll-theme.jpg
+thumbnail: Jalpc-jekyll-theme.webp
 license: MIT
 license_link: https://github.com/ashutosh2k12/hcz-jekyll-blog/blob/gh-pages/LICENSE
 ---

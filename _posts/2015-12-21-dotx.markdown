@@ -7,7 +7,7 @@ homepage: https://github.com/nandomoreirame/dotX
 download: https://github.com/nandomoreirame/dotX/archive/master.zip
 demo: https://nandomoreirame.github.io/dotX/
 author: nandomoreira.me
-thumbnail: dotx.png
+thumbnail: dotx.webp
 license: MIT
 license_link: https://github.com/nandomoreirame/dotX/blob/master/LICENSE
 carousel:

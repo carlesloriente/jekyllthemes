@@ -7,7 +7,7 @@ homepage: https://github.com/christianezeani/panthera-jekyll
 download: https://github.com/christianezeani/panthera-jekyll/archive/master.zip
 demo: https://demothemes.github.io/panthera-jekyll/
 author: Christian Ezeani
-thumbnail: panthera-jekyll.png
+thumbnail: panthera-jekyll.webp
 license: MIT
 license_link: https://github.com/christianezeani/panthera-jekyll/blob/master/LICENSE.txt
 ---

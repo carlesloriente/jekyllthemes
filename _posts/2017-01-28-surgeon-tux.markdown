@@ -7,7 +7,7 @@ homepage: https://lahiru.site/blog/2017/SurgeonTux/
 download: https://github.com/lpsandaruwan/surgeon-tux/archive/master.zip
 demo: https://lahirus.com/surgeon-tux/
 author: Lahiru Pathirage
-thumbnail: surgeon-tux.png
+thumbnail: surgeon-tux.webp
 license: GPLv3
 license_link: https://github.com/lpsandaruwan/surgeon-tux/blob/master/LICENSE
 carousel:

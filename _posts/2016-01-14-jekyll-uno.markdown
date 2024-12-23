@@ -7,7 +7,7 @@ homepage: https://github.com/joshgerdes/jekyll-uno
 download: https://github.com/joshgerdes/jekyll-uno/archive/master.zip
 demo: https://joshgerdes.com/jekyll-uno/
 author: Josh Gerdes
-thumbnail: jekyll-uno.png
+thumbnail: jekyll-uno.webp
 license: MIT
 license_link: https://github.com/joshgerdes/jekyll-uno/blob/gh-pages/LICENSE
 carousel:

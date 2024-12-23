@@ -7,7 +7,7 @@ homepage: https://github.com/nandomoreirame/mug
 download: https://github.com/nandomoreirame/mug/archive/master.zip
 demo: https://nandomoreirame.github.io/mug/
 author: nandomoreira.me
-thumbnail: mug.png
+thumbnail: mug.webp
 license: MIT
 license_link: https://github.com/nandomoreirame/mug/blob/master/LICENSE
 carlousel:

@@ -6,7 +6,7 @@ date: 2015-07-06 10:44:00 +01:00
 homepage: https://github.com/DigitalMindCH/docster-jekyll-theme
 download: https://github.com/DigitalMindCH/docster-jekyll-theme/archive/gh-pages.zip
 author: Digitalmind
-thumbnail: docster.jpg
+thumbnail: docster.webp
 license: MIT
 license_link: https://github.com/DigitalMindCH/twister/blob/master/LICENSE.md
 ---

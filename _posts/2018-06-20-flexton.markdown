@@ -6,7 +6,7 @@ date: 2018-06-20 20:00:00 +01:00
 homepage: https://github.com/artemsheludko/flexton
 download: https://github.com/artemsheludko/flexton/archive/master.zip
 author: Artem Sheludko
-thumbnail: flexton.jpg
+thumbnail: flexton.webp
 license: MIT
 license_link: https://github.com/artemsheludko/flexton/blob/master/LICENSE.txt
 carousel:

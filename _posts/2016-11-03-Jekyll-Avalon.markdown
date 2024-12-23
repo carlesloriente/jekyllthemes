@@ -7,7 +7,7 @@ homepage: https://github.com/joshuaavalon/Jekyll-Avalon
 download: https://github.com/joshuaavalon/Jekyll-Avalon/archive/master.zip
 demo: https://joshuaavalon.github.io/Jekyll-Avalon/
 author: joshuaavalon
-thumbnail: jekyll-avalon.png
+thumbnail: jekyll-avalon.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---

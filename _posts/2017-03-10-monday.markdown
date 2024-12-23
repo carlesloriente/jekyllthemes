@@ -7,7 +7,7 @@ homepage: https://github.com/artemsheludko/monday
 download: https://github.com/artemsheludko/monday/archive/master.zip
 demo: http://artemsheludko.com/monday
 author: Artem Sheludko
-thumbnail: monday.png
+thumbnail: monday.webp
 license: GPLv3
 license_link: https://github.com/artemsheludko/monday/blob/master/LICENSE
 carousel:

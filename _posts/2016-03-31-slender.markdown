@@ -7,7 +7,7 @@ homepage: https://github.com/nikrich/jekyll-slender-template
 download: https://github.com/nikrich/jekyll-slender-template/archive/master.zip
 demo: https://nikrich.github.io/jekyll-slender-template/#
 author: Jannik Richter
-thumbnail: slender.png
+thumbnail: slender.webp
 license: MIT
 license_link: https://github.com/nikrich/jekyll-slender-template/blob/master/LICENSE
 ---

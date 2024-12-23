@@ -6,7 +6,7 @@ date: 2018-02-18 20:00:00 +01:00
 homepage: https://github.com/regmtait/Toasty-Jekyll
 download: https://github.com/regmtait/Toasty-Jekyll/archive/master.zip
 author: Reg Tait
-thumbnail: toasty-jekyll.png
+thumbnail: toasty-jekyll.webp
 license: MIT
 license_link: https://github.com/regmtait/Toasty-Jekyll/blob/master/LICENSE.txt
 ---

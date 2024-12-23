@@ -7,7 +7,7 @@ homepage: https://github.com/sharu725/ashwath
 download: https://github.com/sharu725/ashwath/archive/master.zip
 demo: https://ashwath.webjeda.com/
 author: webjeda
-thumbnail: webjeda-ashwath.png
+thumbnail: webjeda-ashwath.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:

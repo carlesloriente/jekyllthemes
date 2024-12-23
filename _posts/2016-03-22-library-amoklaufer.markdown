@@ -7,7 +7,7 @@ homepage: https://github.com/SpaceG/library
 download: https://github.com/SpaceG/library/archive/master.zip
 demo: https://lucasgatsas.ch
 author: Lucas Gatsas
-thumbnail: library-amoklaufer.png
+thumbnail: library-amoklaufer.webp
 license: MIT
 license_link: https://github.com/SpaceG/library/blob/master/LICENSE
 ---

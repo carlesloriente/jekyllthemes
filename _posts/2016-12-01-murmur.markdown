@@ -7,7 +7,7 @@ homepage: https://github.com/songroger/murmur
 download: https://github.com/songroger/murmur/archive/master.zip
 demo: https://songroger.github.io/murmur
 author: Songroger
-thumbnail: murmur.png
+thumbnail: murmur.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---

@@ -7,7 +7,7 @@ homepage: https://github.com/vinitkumar/white-paper
 download: https://github.com/vinitkumar/white-paper/tree/v2.0.0
 demo: https://vinitkumar.github.io/white-paper/
 author: Vinit Kumar
-thumbnail: white-paper.png
+thumbnail: white-paper.webp
 license: MIT
 license_link: https://github.com/vinitkumar/white-paper/raw/master/LICENSE
 carousel:

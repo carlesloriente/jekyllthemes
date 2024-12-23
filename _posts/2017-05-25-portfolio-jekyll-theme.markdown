@@ -7,7 +7,7 @@ homepage: https://github.com/LeNPaul/portfolio-jekyll-theme
 download: https://github.com/LeNPaul/portfolio-jekyll-theme/archive/gh-pages.zip
 demo: https://lenpaul.github.io/portfolio-jekyll-theme/
 author: Paul Le
-thumbnail: portfolio-jekyll-theme-thumb.jpg
+thumbnail: portfolio-jekyll-theme-thumb.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/LeNPaul/portfolio-jekyll-theme/refs/heads/gh-pages/LICENSE.md
 carousel:

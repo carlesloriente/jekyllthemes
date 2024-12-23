@@ -7,7 +7,7 @@ homepage: https://github.com/tnguyen/blueface
 download: https://github.com/tnguyen/blueface/archive/master.zip
 demo: https://thien.github.io/blueface/
 author: Thien Nguyen
-thumbnail: blueface.png
+thumbnail: blueface.webp
 license: MIT
 license_link: https://github.com/tnguyen/blueface/blob/master/LICENSE
 carousel:

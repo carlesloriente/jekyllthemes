@@ -7,7 +7,7 @@ homepage: https://github.com/dashingcode/front-cover
 download: https://github.com/dashingcode/front-cover/archive/master.zip
 demo: https://dashingcode.github.io/front-cover/
 author: DashingCode
-thumbnail: front-cover.png
+thumbnail: front-cover.webp
 license: MIT
 license_link: https://github.com/dashingcode/front-cover/blob/master/LICENSE
 ---

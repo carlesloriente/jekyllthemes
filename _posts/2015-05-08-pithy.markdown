@@ -6,7 +6,7 @@ date: 2015-05-08 12:42:00 +01:00
 homepage: https://github.com/smallmuou/Jekyll-Pithy
 download: https://github.com/smallmuou/Jekyll-Pithy/archive/master.zip
 author: Pawpaw
-thumbnail: pithy.png
+thumbnail: pithy.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---

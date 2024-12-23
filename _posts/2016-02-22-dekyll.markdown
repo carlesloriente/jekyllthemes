@@ -7,7 +7,7 @@ homepage: https://github.com/kuntoaji/dekyll
 download: https://github.com/kuntoaji/dekyll/archive/master.zip
 demo: https://www.kaklabs.com
 author: Kunto Aji Kristianto
-thumbnail: dekyll.png
+thumbnail: dekyll.webp
 license: MIT
 license_link: https://github.com/kuntoaji/dekyll/blob/master/LICENSE.txt
 ---

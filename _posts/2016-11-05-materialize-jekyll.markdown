@@ -7,7 +7,7 @@ homepage: https://github.com/mumuxme/materialize-jekyll
 download: https://github.com/mumuxme/materialize-jekyll/archive/master.zip
 demo: https://mumuxme.github.io/materialize-jekyll/
 author: mumu
-thumbnail: material-blog.png
+thumbnail: material-blog.webp
 license: GPLv3
 license_link: https://github.com/mumuxme/materialize-jekyll/blob/master/LICENSE
 ---

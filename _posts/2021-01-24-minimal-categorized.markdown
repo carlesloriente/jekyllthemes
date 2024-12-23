@@ -7,7 +7,7 @@ homepage: https://github.com/ItsMeaga1n/minimal-categorized
 download: https://rubygems.org/gems/minimal-categorized
 demo: https://itspatrq.github.io/minimal-categorized/
 author: ItsMeaga1n
-thumbnail: minimal-categorized-thumbnail.png
+thumbnail: minimal-categorized-thumbnail.webp
 license: MIT
 license_link: https://github.com/ItsMeaga1n/minimal-categorized/blob/master/LICENSE.txt
 ---

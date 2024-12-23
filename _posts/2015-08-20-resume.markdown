@@ -7,7 +7,7 @@ homepage: https://github.com/jglovier/resume-template
 download: https://github.com/jglovier/resume-template/archive/gh-pages.zip
 demo: https://resume-template.joelglovier.com/
 author: Joel Glovier
-thumbnail: resume.png
+thumbnail: resume.webp
 license: MIT
 license_link: https://github.com/jglovier/resume-template/blob/gh-pages/LICENSE
 carousel:

@@ -7,7 +7,7 @@ homepage: https://github.com/biomadeira/jasper
 download: https://github.com/biomadeira/jasper/archive/master.zip
 demo: https://jekyllt.github.io/jasper/
 author: biomadeira
-thumbnail: jasper.png
+thumbnail: jasper.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---

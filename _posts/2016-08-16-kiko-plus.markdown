@@ -7,7 +7,7 @@ homepage: https://github.com/AWEEKJ
 download: https://github.com/AWEEKJ/Kiko-plus/archive/master.zip
 demo: https://aweekj.github.io/Kiko-plus
 author: Hanju Jamie Jo
-thumbnail: kiko-plus.png
+thumbnail: kiko-plus.webp
 license: MIT
 license_link: https://opensource.org/license/mit
 carousel:

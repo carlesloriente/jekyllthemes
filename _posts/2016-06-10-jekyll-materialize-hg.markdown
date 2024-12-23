@@ -7,7 +7,7 @@ homepage: https://github.com/hugocarreira/jekyll-materializecss
 download: https://github.com/hugocarreira/jekyll-materializecss/archive/master.zip
 demo: https://hugocarreira.github.io/jekyll-materializecss
 author: Hugo Carreira
-thumbnail: materialize-hg.png
+thumbnail: materialize-hg.webp
 license: MIT
 carousel:
   - 'screenshot.png'

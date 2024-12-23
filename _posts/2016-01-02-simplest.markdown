@@ -7,7 +7,7 @@ homepage: https://github.com/nandomoreirame/simplest
 download: https://github.com/nandomoreirame/simplest/archive/master.zip
 demo: https://nandomoreirame.github.io/simplest/
 author: nandomoreira.me
-thumbnail: simplest.png
+thumbnail: simplest.webp
 license: MIT
 license_link: https://github.com/nandomoreirame/simplest/blob/master/LICENSE
 carousel:

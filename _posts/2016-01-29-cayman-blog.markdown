@@ -6,7 +6,7 @@ title: Cayman Blog
 homepage: https://github.com/adueck/cayman-blog
 download: https://github.com/adueck/cayman-blog/archive/master.zip
 demo: https://adueck.github.io/cayman-blog/
-thumbnail: cayman-blog.png
+thumbnail: cayman-blog.webp
 license: CC-BY-4.0
 license_link: https://creativecommons.org/licenses/by/4.0/
 ---

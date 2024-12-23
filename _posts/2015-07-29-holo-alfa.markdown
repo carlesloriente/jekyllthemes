@@ -7,7 +7,7 @@ homepage: https://github.com/stijnvc/holo-alfa
 download: https://github.com/stijnvc/holo-alfa/archive/gh-pages.zip
 demo: https://stijnvc.github.io/holo-alfa/
 author: Stijn van Cuijk
-thumbnail: holo-alfa.png
+thumbnail: holo-alfa.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:

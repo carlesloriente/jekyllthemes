@@ -6,7 +6,7 @@ date: 2016-01-03 15:45:45 +05:30
 homepage: https://github.com/bawn92/sleek_blog
 download: https://github.com/bawn92/sleek_blog/archive/master.zip
 author: Gearoid O'Connor
-thumbnail: sleek-blog.png
+thumbnail: sleek-blog.webp
 license: MIT
 license_link: https://opensource.org/license/mit
 ---

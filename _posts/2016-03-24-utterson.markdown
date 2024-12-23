@@ -7,7 +7,7 @@ homepage: https://github.com/alidcastano/Utterson
 download: https://github.com/alidcastano/Utterson/archive/master.zip
 demo: https://utterson.alidcastano.com/
 author: Alid Castano
-thumbnail: utterson.png
+thumbnail: utterson.webp
 license: MIT
 license_link: https://github.com/alidcastano/Utterson/blob/master/LICENSE.md
 carousel: 

@@ -7,7 +7,7 @@ homepage: https://github.com/Sylhare/Type-on-Strap
 download: https://github.com/Sylhare/Type-on-Strap/archive/master.zip
 demo: https://sylhare.github.io/Type-on-Strap/
 author: Sylhare
-thumbnail: type-on-strap.jpg
+thumbnail: type-on-strap.webp
 license: MIT
 license_link: https://github.com/Sylhare/Type-on-Strap/blob/master/LICENSE
 carousel:

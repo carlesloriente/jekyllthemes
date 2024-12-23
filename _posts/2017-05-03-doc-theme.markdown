@@ -7,7 +7,7 @@ homepage: https://github.com/aksakalli/jekyll-doc-theme
 download: https://github.com/aksakalli/jekyll-doc-theme/archive/gh-pages.zip
 demo: https://aksakalli.github.io/jekyll-doc-theme
 author: Can Guney Aksakalli
-thumbnail: jekyll-doc-theme.png
+thumbnail: jekyll-doc-theme.webp
 license: MIT
 license_link: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages/LICENSE
 carousel:

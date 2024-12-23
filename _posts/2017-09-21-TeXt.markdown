@@ -6,7 +6,7 @@ date: 2017-09-21 20:00:00 +01:00
 homepage: https://github.com/kitian616/jekyll-TeXt-theme
 demo: https://tianqi.name/jekyll-TeXt-theme/
 author: Tian Qi
-thumbnail: TeXt.png
+thumbnail: TeXt.webp
 license: MIT
 license_link: https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE
 carousel:

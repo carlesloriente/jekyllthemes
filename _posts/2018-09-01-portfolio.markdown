@@ -9,7 +9,7 @@ demo: https://abhn.io
 author: Abhishek Nagekar
 license: GPLv3
 license_link: https://github.com/abhn/portfolio/blob/master/LICENSE
-thumbnail: portfolio.png
+thumbnail: portfolio.webp
 carousel:
   - 'screenshot.jpg'
 ---

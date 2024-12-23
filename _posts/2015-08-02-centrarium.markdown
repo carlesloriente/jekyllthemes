@@ -7,7 +7,7 @@ homepage: https://github.com/bencentra/centrarium
 download: https://github.com/bencentra/centrarium/archive/master.zip
 demo: https://bencentra.com/centrarium/
 author: Ben Centra
-thumbnail: centrarium.png
+thumbnail: centrarium.webp
 license: MIT
 license_link: https://github.com/bencentra/centrarium/blob/master/LICENSE.md
 carousel:

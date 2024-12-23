@@ -7,7 +7,7 @@ homepage: https://github.com/poole/poole
 download: https://github.com/poole/poole/archive/master.zip
 demo: https://demo.getpoole.com/
 author: Mark Otto
-thumbnail: poole.png
+thumbnail: poole.webp
 license: MIT
 license_link: https://github.com/poole/poole/blob/master/LICENSE.md
 carousel:

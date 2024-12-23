@@ -7,7 +7,7 @@ homepage: https://github.com/PandaSekh/Jekyll-YAMT
 download: https://github.com/PandaSekh/Jekyll-YAMT/releases/latest
 demo: https://yamt.netlify.app/
 author: Alessio Franceschi
-thumbnail: yamt.png
+thumbnail: yamt.webp
 license: MIT
 license_link: https://github.com/PandaSekh/Jekyll-YAMT/blob/master/LICENSE.txt
 carousel:

@@ -7,7 +7,7 @@ homepage: https://github.com/b2a3e8/jekyll-theme-console
 download: https://github.com/b2a3e8/jekyll-theme-console/archive/master.zip
 demo: https://b2a3e8.github.io/jekyll-theme-console-demo-dark/
 author: b2a3e8
-thumbnail: jekyll-theme-console.png
+thumbnail: jekyll-theme-console.webp
 license: MIT
 license_link: https://github.com/b2a3e8/jekyll-theme-console/blob/master/LICENSE.txt
 ---

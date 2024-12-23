@@ -7,7 +7,7 @@ homepage: https://github.com/jekynewage/jekynewage.github.io
 download: https://github.com/jekynewage/jekynewage.github.io/archive/master.zip
 demo: https://jekynewage.github.io
 author: Antonio Trento
-thumbnail: jeky-new-age.jpg
+thumbnail: jeky-new-age.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/jekynewage/jekynewage.github.io/refs/heads/master/LICENSE
 carousel:

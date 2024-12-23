@@ -7,7 +7,7 @@ homepage: https://github.com/renyuanz/leonids
 download: https://github.com/renyuanz/leonids/archive/master.zip
 demo: https://renyuanz.github.io/leonids
 author: Renyuan Zou
-thumbnail: leonids.png
+thumbnail: leonids.webp
 license: MIT
 license_link: https://github.com/renyuanz/leonids/blob/master/README.md
 carousel:

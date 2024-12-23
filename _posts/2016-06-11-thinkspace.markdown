@@ -7,7 +7,7 @@ homepage: https://github.com/heiswayi/thinkspace
 download: https://github.com/heiswayi/thinkspace/archive/master.zip
 demo: https://heiswayi.github.io/thinkspace/
 author: Heiswayi Nrird
-thumbnail: thinkspace.jpg
+thumbnail: thinkspace.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/heiswayi/thinkspace/refs/heads/master/LICENSE
 carousel:

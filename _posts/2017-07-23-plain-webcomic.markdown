@@ -7,7 +7,7 @@ homepage: https://peahatlanding.github.io/Plain-Webcomic/docs/index.html
 download: https://github.com/peahatlanding/Plain-Webcomic/blob/master/Archive.zip
 demo: https://peahatlanding.github.io/Plain-Webcomic/
 author: Nico Bocalan
-thumbnail: plain-webcomic.png
+thumbnail: plain-webcomic.webp
 license: MIT
 license_link: https://opensource.org/license/mit
 carousel:

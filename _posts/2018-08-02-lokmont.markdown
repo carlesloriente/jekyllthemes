@@ -6,7 +6,7 @@ date: 2018-08-02 20:00:00 +01:00
 homepage: https://github.com/artemsheludko/lokmont
 download: https://github.com/artemsheludko/lokmont/archive/master.zip
 author: Artem Sheludko
-thumbnail: lokmont.jpg
+thumbnail: lokmont.webp
 license: MIT
 license_link: https://github.com/artemsheludko/lokmont/blob/master/LICENSE.txt
 carousel:

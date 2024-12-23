@@ -9,7 +9,7 @@ homepage: https://homepage.url
 download: https://homepage.url/download.zip
 demo: http://demopage.url/
 author: Author name
-thumbnail: thumbnail.png
+thumbnail: thumbnail.webp
 license: MIT
 license_link: https://homepage.url/LICENCE
 version: '0.1'

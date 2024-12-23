@@ -7,7 +7,7 @@ homepage: https://github.com/nandomoreirame/nandomoreira-jekyll-theme
 download: https://github.com/nandomoreirame/nandomoreira-jekyll-theme/archive/master.zip
 demo: https://nandomoreirame.github.io/nandomoreira-jekyll-theme/
 author: nandomoreira.me
-thumbnail: nandomoreira.me.png
+thumbnail: nandomoreira.me.webp
 license: MIT
 license_link: https://github.com/nandomoreirame/nandomoreira-jekyll-theme/blob/master/LICENSE
 carousel:

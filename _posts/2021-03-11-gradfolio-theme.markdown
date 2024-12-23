@@ -7,7 +7,7 @@ homepage: https://github.com/jitinnair1/gradfolio
 download: https://github.com/jitinnair1/gradfolio/releases/latest/
 demo: https://jitinnair1.github.io/gradfolio/
 author: Jitin Nair
-thumbnail: gradfolio.png
+thumbnail: gradfolio.webp
 license: MIT
 license_link: https://github.com/jitinnair1/gradfolio/blob/master/LICENSE
 carousel:

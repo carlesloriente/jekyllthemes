@@ -7,7 +7,7 @@ homepage: https://github.com/dyutibarma/monochrome
 download: https://github.com/dyutibarma/monochrome/archive/master.zip
 demo: https://dyutibarma.github.io/monochrome/
 author: Dyuti Barma
-thumbnail: monochrome.png
+thumbnail: monochrome.webp
 license: MIT
 license_link: https://github.com/dyutibarma/monochrome/blob/master/license.md
 carousel:

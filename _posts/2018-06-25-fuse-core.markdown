@@ -7,7 +7,7 @@ homepage: https://github.com/tsjensen/fuse-core
 download: https://github.com/tsjensen/fuse-core/archive/gh-pages.zip
 demo: https://tsjensen.github.io/fuse-core/
 author: Thomas Jensen
-thumbnail: fuse-core.jpg
+thumbnail: fuse-core.webp
 license: CC-BY-4.0
 license_link: https://creativecommons.org/licenses/by/4.0/
 carousel:

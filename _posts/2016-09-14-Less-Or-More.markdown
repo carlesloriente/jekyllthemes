@@ -7,7 +7,7 @@ homepage: https://github.com/luoyan35714/LessOrMore
 download: https://github.com/luoyan35714/LessOrMore/archive/master.zip
 demo: https://www.hifreud.com/
 author: Freud Kang
-thumbnail: less-or-more.png
+thumbnail: less-or-more.webp
 license: MIT
 license_link: https://github.com/luoyan35714/LessOrMore/blob/master/LICENSE
 ---

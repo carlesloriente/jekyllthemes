@@ -6,7 +6,7 @@ date: 2015-02-05 01:42:00 +01:00
 homepage: https://github.com/prio101/metaphor-jekyll
 download: https://github.com/prio101/metaphor-jekyll/archive/master.zip
 author: Mahabub I.
-thumbnail: metaphor.png
+thumbnail: metaphor.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---

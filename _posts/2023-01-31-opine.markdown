@@ -8,7 +8,7 @@ download: https://github.com/leabs/jekyll-opine/archive/refs/tags/v1.zip
 demo: https://jekyll-opine.vercel.app/
 author: "Steven Leabo"
 version: '1.0'
-thumbnail: opine.jpg
+thumbnail: opine.webp
 license: MIT
 license_link: https://github.com/leabs/jekyll-opine/blob/master/LICENSE.txt
 carousel:

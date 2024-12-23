@@ -7,7 +7,7 @@ homepage: https://github.com/alainpham/alainpham.github.io
 download: https://github.com/alainpham/alainpham.github.io/releases/download/0.1.0/simple.green.techblog.zip
 demo: https://alainpham.github.io
 author: Alain Pham
-thumbnail: simple-green-techblog.png
+thumbnail: simple-green-techblog.webp
 license: WTF
 license_link: https://github.com/alainpham/alainpham.github.io/blob/master/LICENSE
 ---

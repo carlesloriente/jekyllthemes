@@ -6,7 +6,7 @@ date: 2016-02-01 10:11:00 +01:00
 homepage: https://github.com/boyney123/evento
 download: https://github.com/boyney123/evento/archive/master.zip
 author: David Boyne
-thumbnail: evento.png
+thumbnail: evento.webp
 license: MIT
 license_link: https://github.com/boyney123/evento/blob/master/LICENSE
 ---

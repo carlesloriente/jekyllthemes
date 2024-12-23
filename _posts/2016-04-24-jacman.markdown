@@ -7,7 +7,7 @@ homepage: https://github.com/Simpleyyt/jekyll-jacman
 download: https://github.com/Simpleyyt/jekyll-jacman/archive/master.zip
 demo: https://simpleyyt.github.io/jekyll-jacman
 author: Yitao Yao
-thumbnail: jacman.png
+thumbnail: jacman.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:

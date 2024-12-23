@@ -7,7 +7,7 @@ homepage: https://github.com/luxedo/jekyll-theme-potato-hacker
 download: https://github.com/luxedo/jekyll-theme-potato-hacker/archive/master.zip
 demo: https://luxedo.github.io/jekyll-theme-potato-hacker/
 author: Luiz Amaral
-thumbnail: potato-hacker.png
+thumbnail: potato-hacker.webp
 license: GPLv3
 license_link: https://github.com/luxedo/jekyll-theme-potato-hacker/blob/master/LICENSE.md
 carousel:

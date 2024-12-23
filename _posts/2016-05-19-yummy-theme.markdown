@@ -7,7 +7,7 @@ homepage: https://github.com/DONGChuan/Yummy-Jekyll
 download: https://github.com/DONGChuan/Yummy-Jekyll/archive/master.zip
 demo: https://dongchuan.github.io/
 author: DONG Chuan
-thumbnail: yummy-theme.png
+thumbnail: yummy-theme.webp
 license: Apache 2.0
 license_link: https://www.apache.org/licenses/LICENSE-2.0
 ---

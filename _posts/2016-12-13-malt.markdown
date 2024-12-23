@@ -7,7 +7,7 @@ homepage: https://github.com/CloudCannon/malt-jekyll-template
 download: https://github.com/CloudCannon/malt-jekyll-template/archive/master.zip
 demo: https://whispering-boat.cloudvent.net/
 author: CloudCannon
-thumbnail: malt.png
+thumbnail: malt.webp
 license: MIT
 license_link: https://github.com/CloudCannon/malt-jekyll-template/blob/master/LICENSE
 carousel:

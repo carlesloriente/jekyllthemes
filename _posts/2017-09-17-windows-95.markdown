@@ -7,7 +7,7 @@ homepage: https://h01000110.github.io/20170917/windows-95
 download: https://github.com/h01000110/windows-95/archive/master.zip
 demo: https://h01000110.github.io/windows-95/
 author: h01000110 (hi)
-thumbnail: windows95-0000.jpg
+thumbnail: windows95-0000.webp
 license: MIT
 license_link: https://github.com/h01000110/windows-95/blob/master/LICENSE
 carousel:

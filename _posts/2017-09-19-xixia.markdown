@@ -7,7 +7,7 @@ homepage: https://github.com/zxixia/jekyll-xixia
 download: https://github.com/zxixia/jekyll-xixia/archive/gh-pages.zip
 demo: https://xixia.info/jekyll-xixia/
 author: Xixia
-thumbnail: xixia.png
+thumbnail: xixia.webp
 license: CC-BY-4.0
 license_link: https://creativecommons.org/licenses/by/4.0/legalcode
 carousel:

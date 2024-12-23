@@ -7,7 +7,7 @@ homepage: https://github.com/fengzhichu/fengzhichu-theme/tree/master
 download: https://github.com/fengzhichu/fengzhichu-theme/archive/master.zip
 demo: https://fengzhichu.com/fengzhichu-theme/
 author: 枫之楚 (@fengzhichu)
-thumbnail: fengzhichu-theme.png
+thumbnail: fengzhichu-theme.webp
 license: MIT
 license_link: https://github.com/fengzhichu/fengzhichu-theme/blob/gh-pages/LICENSE
 carousel: 

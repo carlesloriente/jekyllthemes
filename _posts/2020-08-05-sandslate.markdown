@@ -6,7 +6,7 @@ date: 2020-08-05 13:25:29 +01:00
 homepage: https://github.com/tareqdandachi/sandslate
 download: https://rubygems.org/gems/sandslate
 author: Tareq El Dandachi
-thumbnail: sandslate.png
+thumbnail: sandslate.webp
 license: MIT
 license_link: https://github.com/tareqdandachi/sandslate/blob/master/LICENSE
 ---

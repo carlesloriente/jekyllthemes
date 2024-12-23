@@ -7,7 +7,7 @@ homepage: https://github.com/clarkhacks/Minimal-Text
 download: https://github.com/clarkhacks/Minimal-Text
 demo: https://wkmn.gumroad.com/l/uobbk
 author: Clark Hacks
-thumbnail: minimal-text.jpg
+thumbnail: minimal-text.webp
 license: MIT
 license_link: https://github.com/clarkhacks/Minimal-Text/blob/master/LICENSE
 price: $5

@@ -7,7 +7,7 @@ homepage: https://github.com/jeromelachaud/grayscale-theme
 download: https://github.com/jeromelachaud/grayscale-theme/archive/master.zip
 demo: https://jeromelachaud.github.io/grayscale-theme
 author: Jerome Lachaud
-thumbnail: grayscale.jpg
+thumbnail: grayscale.webp
 license: Apache 2.0
 license_link: https://github.com/jeromelachaud/grayscale-theme/blob/master/LICENCE
 carousel:

@@ -7,7 +7,7 @@ homepage: https://github.com/zemmyang/Bootstrap-Resume-Jekyll
 download: https://github.com/zemmyang/Bootstrap-Resume-Jekyll/releases/tag/v1.0
 demo: https://www.zemmyang.com/Bootstrap-Resume-Jekyll/
 author: Angeleene Ang
-thumbnail: bootstrap-resume.png
+thumbnail: bootstrap-resume.webp
 license: MIT
 license_link: https://github.com/zemmyang/Bootstrap-Resume-Jekyll/blob/main/LICENSE
 ---

@@ -7,7 +7,7 @@ homepage: https://github.com/rmsubekti/nangka
 download: https://github.com/rmsubekti/nangka/archive/master.zip
 demo: https://rmsubekti.github.io/nangka
 author: rmsubekti
-thumbnail: nangka.png
+thumbnail: nangka.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:

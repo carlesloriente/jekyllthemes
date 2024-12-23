@@ -7,7 +7,7 @@ homepage: https://github.com/jameshamann/jekyll-material-theme
 download: https://github.com/jameshamann/jekyll-material-theme
 demo: https://jameshamann.com
 author: James Hamann
-thumbnail: jekyll-material-theme.png
+thumbnail: jekyll-material-theme.webp
 license: MIT
 license_link: https://github.com/jameshamann/jekyll-material-theme/blob/master/LICENSE.txt
 ---

@@ -7,7 +7,7 @@ homepage: https://github.com/hugoferreira/papyrus-theme
 download: https://github.com/hugoferreira/papyrus-theme/archive/master.zip
 demo: https://hugosereno.eu
 author: Hugo Sereno Ferreira
-thumbnail: papyrus-theme.png
+thumbnail: papyrus-theme.webp
 license: CC-BY-SA-3.0
 license_link: https://github.com/hugoferreira/papyrus-theme/blob/master/LICENSE
 ---

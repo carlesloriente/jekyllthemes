@@ -7,7 +7,7 @@ homepage: https://qwtel.com/hydejack/
 download: https://github.com/qwtel/hydejack/archive/v7.zip
 demo: https://qwtel.com/hydejack/
 author: Florian Klampfer (@qwtel)
-thumbnail: hydejack.jpg
+thumbnail: hydejack.webp
 license: GPLv3
 license_link: https://qwtel.com/hydejack/LICENSE/
 carousel:

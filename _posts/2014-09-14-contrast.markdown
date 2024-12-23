@@ -7,7 +7,7 @@ homepage: https://github.com/niklasbuschmann/contrast
 download: https://github.com/niklasbuschmann/contrast/archive/gh-pages.zip
 demo: https://niklasbuschmann.github.io/contrast
 author: Niklas Buschmann
-thumbnail: contrast.png
+thumbnail: contrast.webp
 license: Public Domain
 license_link: https://opensource.org/license/unlicense
 ---

@@ -7,7 +7,7 @@ homepage: https://github.com/inded/Jekyll_modern-blog
 download: https://github.com/inded/Jekyll_modern-blog/archive/gh-pages.zip
 demo: https://inded.github.io/Jekyll_modern-blog/
 author: Wferr
-thumbnail: modernblog.png
+thumbnail: modernblog.webp
 license: GPLv3
 license_link: https://www.gnu.org/licenses/gpl-3.0.html
 carousel:

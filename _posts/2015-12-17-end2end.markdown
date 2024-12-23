@@ -7,7 +7,7 @@ homepage: https://github.com/nandomoreirame/end2end
 download: https://github.com/nandomoreirame/end2end/archive/master.zip
 demo: https://nandomoreirame.github.io/end2end/
 author: nandomoreira.me
-thumbnail: end2end.png
+thumbnail: end2end.webp
 license: MIT
 license_link: https://github.com/nandomoreirame/end2end/blob/master/LICENSE
 carousel:

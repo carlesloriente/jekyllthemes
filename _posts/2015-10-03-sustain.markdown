@@ -7,7 +7,7 @@ homepage: https://github.com/biomadeira/sustain
 download: https://github.com/biomadeira/sustain/archive/gh-pages.zip
 demo: https://jekyllt.github.io/sustain/
 author: biomadeira
-thumbnail: sustain.png
+thumbnail: sustain.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---

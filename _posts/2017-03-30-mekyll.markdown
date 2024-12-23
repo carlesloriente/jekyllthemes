@@ -7,7 +7,7 @@ homepage: https://github.com/ifedyukin/Mekyll
 download: https://github.com/ifedyukin/Mekyll
 demo: https://ifedyukin.github.io/Mekyll
 author: Igor Fedyukin
-thumbnail: mekyll.png
+thumbnail: mekyll.webp
 license: MIT
 carousel: 
   - 'screenshot.png'

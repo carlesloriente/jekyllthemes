@@ -7,7 +7,7 @@ homepage: https://github.com/CloudCannon/hydra-jekyll-template
 download: https://github.com/CloudCannon/hydra-jekyll-template/archive/master.zip
 demo: https://proud-alligator.cloudvent.net/
 author: CloudCannon
-thumbnail: hydra.png
+thumbnail: hydra.webp
 license: MIT
 license_link: https://github.com/CloudCannon/hydra-jekyll-template/blob/master/LICENSE
 carousel:

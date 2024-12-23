@@ -7,7 +7,7 @@ homepage: https://github.com/chrisrhymes/bulma-clean-theme
 download: https://rubygems.org/gems/bulma-clean-theme
 demo: https://www.csrhymes.com/bulma-clean-theme/
 author: chrisrhymes
-thumbnail: bulma-clean-theme.jpg
+thumbnail: bulma-clean-theme.webp
 license: MIT
 license_link: https://github.com/chrisrhymes/bulma-clean-theme/blob/master/LICENSE.txt
 carousel:

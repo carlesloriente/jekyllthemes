@@ -7,7 +7,7 @@ homepage: https://github.com/agusmakmun/agusmakmun.github.io
 download: https://github.com/agusmakmun/agusmakmun.github.io/archive/master.zip
 demo: https://agusmakmun.github.io
 author: Agus Makmun
-thumbnail: stack-problems.png
+thumbnail: stack-problems.webp
 license: MIT
 license_link: https://github.com/agusmakmun/agusmakmun.github.io/blob/master/LICENSE
 carousel:

@@ -6,7 +6,7 @@ date: 2017-10-31 20:00:00 +01:00
 homepage: https://deepidea.github.io/web-presentation/
 demo: https://deepidea.github.io/web-presentation/
 author: DeepIdea
-thumbnail: web-presentation.png
+thumbnail: web-presentation.webp
 license: MIT
 lincense_link: https://opensource.org/license/mit
 ---

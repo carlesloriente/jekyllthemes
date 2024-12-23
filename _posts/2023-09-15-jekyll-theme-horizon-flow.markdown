@@ -7,7 +7,7 @@ homepage: https://github.com/papierkorp/jekyll-theme-horizon-flow
 download: https://github.com/papierkorp/jekyll-theme-horizon-flow/archive/refs/tags/1.0.3.zip
 demo: https://papierkorp.github.io/jekyll-theme-horizon-flow/
 author: Markus Schiller
-thumbnail: jekyll-theme-horizon-flow.png
+thumbnail: jekyll-theme-horizon-flow.webp
 license: MIT
 license_link: https://github.com/papierkorp/jekyll-theme-horizon-flow/blob/main/LICENSE.txt
 ---

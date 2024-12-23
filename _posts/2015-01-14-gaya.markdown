@@ -7,7 +7,7 @@ homepage: https://github.com/gayanvirajith/gaya
 download: https://github.com/gayanvirajith/gaya/archive/master.zip
 demo: https://gayan.me/gaya/
 author: Gayan Virajith
-thumbnail: gaya.jpg
+thumbnail: gaya.webp
 license: MIT
 license_link: https://github.com/gayanvirajith/gaya/blob/master/LICENSE.md
 ---

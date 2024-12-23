@@ -7,7 +7,7 @@ homepage: https://github.com/alperenbozkurt/JBlog
 download: https://github.com/alperenbozkurt/JBlog/archive/master.zip
 demo: https://alperenbozkurt.net/JBlog/
 author: Alperen Bozkurt
-thumbnail: JBlog.png
+thumbnail: JBlog.webp
 license: MIT
 license_link: https://github.com/alperenbozkurt/JBlog/blob/master/LICENSE
 carousel:

@@ -7,7 +7,7 @@ homepage: https://github.com/nandomoreirame/zetsu
 download: https://github.com/nandomoreirame/zetsu/archive/master.zip
 demo: https://nandomoreirame.github.io/zetsu/
 author: nandomoreira.me
-thumbnail: zetsu.png
+thumbnail: zetsu.webp
 license: MIT
 license_link: https://github.com/nandomoreirame/zetsu/blob/master/LICENSE
 carlousel:

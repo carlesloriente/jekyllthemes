@@ -7,7 +7,7 @@ homepage: https://github.com/abhinavs/moonwalk
 download: https://github.com/abhinavs/moonwalk/archive/master.zip
 demo: https://www.abhinavsaxena.com/moonwalk/
 author: abhinavs
-thumbnail: moonwalk.png
+thumbnail: moonwalk.webp
 license: MIT
 license_link: https://github.com/abhinavs/moonwalk/blob/master/LICENSE.txt
 carousel:

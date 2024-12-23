@@ -5,7 +5,7 @@ title: HMFaysal V2
 date: 2013-12-17 09:48:00 +01:00
 download: https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/archive/master.zip
 author: Hossain Mohd Faysal
-thumbnail: hmfaysal-v2.png
+thumbnail: hmfaysal-v2.webp
 license: GPLv2
 license_link: https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/blob/master/LICENSE
 ---
