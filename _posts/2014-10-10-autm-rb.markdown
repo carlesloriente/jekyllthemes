@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Autm-rb
-date: 2014-10-10 10:00:00
+date: 2014-10-10 10:00:00 +01:00
 homepage: https://github.com/railsr/autm-rb
 download: https://github.com/railsr/autm-rb/archive/master.zip
 author: Kirill Beletskiy

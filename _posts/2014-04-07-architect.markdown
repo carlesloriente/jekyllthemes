@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Architect
-date: 2014-04-07 08:31:00
+date: 2014-04-07 08:31:00 +01:00
 homepage: https://github.com/pietromenna/jekyll-architect-theme
 download: https://github.com/pietromenna/jekyll-architect-theme/archive/master.zip
 author: Jason Long, ported by Pietro Menna

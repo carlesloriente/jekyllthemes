@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Less Or More
-date: 2016-09-14 23:22:00
+date: 2016-09-14 23:22:00 +01:00
 homepage: https://github.com/luoyan35714/LessOrMore
 download: https://github.com/luoyan35714/LessOrMore/archive/master.zip
 demo: https://www.hifreud.com/

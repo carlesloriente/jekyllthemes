@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Jekyll-Mono
-date: 2016-08-06 05:45:10
+date: 2016-08-06 05:45:10 +01:00
 homepage: https://github.com/AkshayAgarwal007/Jekyll-Mono
 download: https://github.com/AkshayAgarwal007/Jekyll-Mono/archive/master.zip
 demo: https://akshayagarwal007.github.io/Jekyll-Mono

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Jalpc
-date: 2016-09-20 00:00:00
+date: 2016-09-20 20:00:00 +01:00
 homepage: https://github.com/jarrekk/Jalpc
 download: https://github.com/jarrekk/Jalpc/archive/master.zip
 demo: https://jarrekk.github.io/Jalpc/

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Trophy
-date: 2016-10-06 00:00:00
+date: 2016-10-06 20:00:00 +01:00
 homepage: https://github.com/thomasvaeth/trophy-jekyll
 download: https://github.com/thomasvaeth/trophy-jekyll/archive/master.zip
 demo: https://thomasvaeth.com/trophy/

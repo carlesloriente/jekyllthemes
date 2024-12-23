@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Jekyll-hilmi
-date: 2017-01-01 21:20:00
+date: 2017-01-01 21:20:00 +01:00
 homepage: https://github.com/nix1947/jekyll-hilmi
 download: https://github.com/nix1947/jekyll-hilmi/archive/master.zip
 demo: https://manojgautam.com.np/

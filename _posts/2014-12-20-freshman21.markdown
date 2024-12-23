@@ -10,6 +10,8 @@ author: Lijia Yu
 thumbnail: freshman21.png
 license: MIT
 license_link: https://github.com/yulijia/freshman21/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Freshman21 is a Jekyll blog theme, base on theme [Freshman](https://github.com/yulijia/freshman).

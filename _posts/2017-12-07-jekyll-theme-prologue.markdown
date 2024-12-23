@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Prologue
-date: 2018-01-10 00:00:00
+date: 2017-12-07 20:00:00 +01:00
 homepage: https://github.com/chrisbobbe/jekyll-theme-prologue
 download: https://github.com/chrisbobbe/jekyll-theme-prologue/archive/master.zip
 demo: https://chrisbobbe.github.io/jekyll-theme-prologue/
@@ -10,6 +10,8 @@ author: HTML5 UP, Chris Bobbe
 thumbnail: prologue.png
 license: CC-BY-3.0
 license_link: https://github.com/chrisbobbe/jekyll-theme-prologue/blob/master/LICENSE.md
+carousel:
+  - 'screenshot.png'
 ---
 
 This is Prologue, a simple, single page responsive site template from [HTML5 UP](https://html5up.net/prologue), now available as a blog-aware Jekyll theme from [Chris Bobbe](https://chrisbobbe.github.io). It features a clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.

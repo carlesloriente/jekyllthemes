@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Vyaasa
-date: 2016-10-01 00:00:00 +01:00
+date: 2016-10-01 20:00:00 +01:00
 homepage: https://github.com/sharu725/vyaasa
 download: https://github.com/sharu725/vyaasa/archive/master.zip
 demo: https://vyaasa.webjeda.com/

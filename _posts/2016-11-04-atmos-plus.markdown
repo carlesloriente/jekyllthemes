@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Atmos Plus
-date: 2016-11-04 02:45:00
+date: 2016-11-04 02:45:00 +01:00
 homepage: https://github.com/Focx-o/Focx-o.github.io
 download: https://github.com/Focx-o/Focx-o.github.io/archive/refs/heads/master.zip
 demo: http://focx-o.github.io/

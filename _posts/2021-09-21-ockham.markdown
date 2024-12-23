@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Ockham
-date: 2021-09-21 20:25:14
+date: 2021-09-21 20:25:14 01:00
 homepage: https://github.com/zivong/ockham
 download: https://github.com/zivong/ockham/archive/refs/heads/master.zip
 author: Song-Zi Vong

@@ -10,8 +10,6 @@ author: Mathieu Mayer-Mazzoli
 thumbnail: hikari.png
 license: MIT
 license_link: https://opensource.org/licenses/MIT
-carousel:
-  - 'screenshot.png'
 ---
 
 Hikari is an open-source [Jekyll](https://jekyllrb.com) theme perfect for bloggers and developers who want the best of both worlds: sharing snippets and stories/pictures of their latest vacation in Tokyo (that's just for the example, you may want to go to Kyoto too).

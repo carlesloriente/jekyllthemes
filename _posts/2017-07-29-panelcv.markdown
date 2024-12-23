@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Panel CV
-date: 2017-07-29 11:32:00
+date: 2017-07-29 11:32:00 +01:00
 homepage: https://github.com/jekyller/PanelCV
 download: https://github.com/jekyller/PanelCV/archive/master.zip
 demo: https://jekyller.github.io/PanelCV/
@@ -10,6 +10,8 @@ author: Locky
 thumbnail: panelcv.png
 license: MIT
 license_link: https://github.com/jekyller/PanelCV/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 PanelCV, this theme is designed by [flexycodex](https://themeforest.net/item/flexyvcard-responsive-vcard-template-/7158750) and modified by [Locky](https://github.com/junlulocky)

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Blade Theme
-date: 2017-01-31 12:02:00
+date: 2017-01-31 12:02:00 +01:00
 homepage: https://github.com/mateussmedeiros/blade-theme
 download: https://github.com/mateussmedeiros/blade-theme/archive/master.zip
 demo: https://mateussmedeiros.github.io/blade-theme/
@@ -10,6 +10,8 @@ author: Mateus Medeiros
 thumbnail: blade-theme.png
 license: MIT
 license_link: https://github.com/mateussmedeiros/blade-theme/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 A simple Jekyll blog theme

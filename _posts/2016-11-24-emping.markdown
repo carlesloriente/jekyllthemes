@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Emping
-date: 2016-11-24 19:40:00
+date: 2016-11-24 19:40:00 +01:00
 homepage: https://github.com/rmsubekti/emping
 download: https://github.com/rmsubekti/emping/archive/master.zip
 demo: https://rmsubekti.github.io/emping

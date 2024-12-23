@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Simple
-date: 2016-07-21 19:01:03
+date: 2016-07-21 19:01:03 +01:00
 homepage: https://github.com/wild-flame/jekyll-simple
 download: https://github.com/wild-flame/jekyll-simple/archive/master.zip 
 demo: https://wild-flame.github.io/jekyll-simple

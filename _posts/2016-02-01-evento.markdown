@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Evento
-date: 2016-02-01 10:11:00
+date: 2016-02-01 10:11:00 +01:00
 homepage: https://github.com/boyney123/evento
 download: https://github.com/boyney123/evento/archive/master.zip
 author: David Boyne

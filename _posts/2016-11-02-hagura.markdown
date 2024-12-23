@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Webjeda Hagura
-date: 2016-11-02 00:00:00 +01:00
+date: 2016-11-02 20:00:00 +01:00
 homepage: https://github.com/sharu725/hagura
 download: https://github.com/sharu725/hagura/archive/master.zip
 demo: https://webjeda.com/hagura
@@ -11,6 +11,7 @@ thumbnail: hagura.png
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:
+  - 'screenshot.png'
   - 'hagura-dark-jekyll-theme.png'
 ---
 

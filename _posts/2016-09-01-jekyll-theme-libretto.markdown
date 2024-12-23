@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Libretto
-date: 2016-09-01 14:00:00
+date: 2016-09-01 14:00:00 +01:00
 homepage: https://github.com/ferrolho/jekyll-theme-libretto
 download: https://github.com/ferrolho/jekyll-theme-libretto/archive/gh-pages.zip
 demo: https://ferrolho.github.io/jekyll-theme-libretto/

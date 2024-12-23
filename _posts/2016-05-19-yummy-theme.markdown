@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Yummy
-date: 2016-05-19 11:40:00
+date: 2016-05-19 11:40:00 +01:00
 homepage: https://github.com/DONGChuan/Yummy-Jekyll
 download: https://github.com/DONGChuan/Yummy-Jekyll/archive/master.zip
 demo: https://dongchuan.github.io/

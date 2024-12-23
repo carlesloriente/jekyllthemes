@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Omega
-date: 2014-01-12 09:37:16
+date: 2014-01-12 09:37:16 +01:00
 homepage: https://hmfaysal.github.io/hmfaysal-omega-theme/
 download: https://github.com/hmfaysal/hmfaysal-omega-theme/archive/refs/heads/gh-pages.zip
 demo: https://hmfaysal.github.io/hmfaysal-omega-theme/

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Panda
-date: 2023-02-28 7:00:00
+date: 2023-02-28 7:00:00 +01:00
 homepage: https://github.com/sorphwer/jekyll-theme-panda
 download: https://github.com/sorphwer/jekyll-theme-panda/archive/refs/tags/Release.zip
 author: Riino Zhang

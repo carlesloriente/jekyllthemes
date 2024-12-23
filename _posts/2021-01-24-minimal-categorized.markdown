@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: minimal-categorized
-date: 2021-01-24 16:47:00
+date: 2021-01-24 16:47:00 +01:00
 homepage: https://github.com/ItsMeaga1n/minimal-categorized
 download: https://rubygems.org/gems/minimal-categorized
 demo: https://itspatrq.github.io/minimal-categorized/

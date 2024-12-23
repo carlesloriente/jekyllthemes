@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Panel CV
-date: 2017-08-24 11:32:00
+date: 2017-08-24 11:32:00 +01:00
 homepage: https://github.com/jekyller/online-cv
 download: https://github.com/jekyller/online-cv/archive/master.zip
 demo: https://jekyller.github.io/online-cv/

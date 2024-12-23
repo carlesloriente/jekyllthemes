@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Jekflix
-date: 2017-09-21 09:10:00
+date: 2017-09-21 09:10:00 +01:00
 homepage: https://github.com/thiagorossener/jekflix-template
 download: https://github.com/thiagorossener/jekflix-template/archive/master.zip
 demo: https://jekflix.rossener.com/
@@ -10,6 +10,8 @@ author: Thiago Rossener
 thumbnail: jekflix.png
 license: MIT
 license_link: https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 A Jekyll template inspired by Netflix.

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Jekyll Avalon
-date: 2016-11-03 00:00:00
+date: 2016-11-03 20:00:00 +01:00
 homepage: https://github.com/joshuaavalon/Jekyll-Avalon
 download: https://github.com/joshuaavalon/Jekyll-Avalon/archive/master.zip
 demo: https://joshuaavalon.github.io/Jekyll-Avalon/

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Jekyll Material Design Lite
-date: 2015-07-22 10:10:10
+date: 2015-07-22 10:10:10 +01:00
 homepage: https://github.com/gdg-managua/jekyll-mdl
 download: https://github.com/gdg-managua/jekyll-mdl/releases
 demo: https://gdgmanagua.github.io/jekyll-mdl/

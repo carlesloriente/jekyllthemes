@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Monophase
-date: 2021-03-15 19:45 +0800
+date: 2021-03-15 19:45 +01:00
 homepage: https://github.com/zivhub/monophase
 download: https://github.com/zivhub/monophase/archive/main.zip
 demo: https://zivlog.io/monophase/

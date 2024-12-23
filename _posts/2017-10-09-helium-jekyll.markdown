@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Helium Jekyll
-date: 2017-10-09 12:32:00
+date: 2017-10-09 12:32:00 +01:00
 homepage: https://github.com/heliumjk/heliumjk.github.io
 download: https://github.com/heliumjk/heliumjk.github.io/archive/master.zip
 demo: https://heliumjk.github.io/
@@ -10,6 +10,8 @@ author: Antonio Trento
 thumbnail: helium.png
 license: MIT
 license_link: https://github.com/heliumjk/heliumjk.github.io/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Helium is a fast, modern and configurable [Jekyll](https://jekyllrb.com/) theme with some tricks up it's sleeve. It has a live theme switcher and it's main blog layout display prominent hero images for posts with colored overlays and nice animations.

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: uBuild
-date: 2018-06-26 00:00:00 +01:00
+date: 2018-06-26 20:00:00 +01:00
 homepage: https://github.com/forestryio/ubuild-jekyll
 download: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
 demo: https://forestryio.github.io/ubuild-jekyll/

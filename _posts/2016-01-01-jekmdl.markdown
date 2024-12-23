@@ -10,9 +10,11 @@ author: sugeng tigefa
 thumbnail: jekmdl.jpg
 license: MIT
 license_link: https://github.com/tigefa4u/jekmdl/blob/gh-pages/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
-The [Jekyll](https://jekyllrb.com) best bloging platform using command line (CLI), themes use [Material Design Lite](https://getmdl.io) ![Screenshot](/thumbnails/jekmdl.jpg)
+The [Jekyll](https://jekyllrb.com) best bloging platform using command line (CLI), themes use [Material Design Lite](https://getmdl.io)
 
 ## Installation
 

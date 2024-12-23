@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: MatJek
-date: 2017-03-31 00:00:00
+date: 2017-03-31 20:00:00 +01:00
 homepage: https://github.com/ShawnTeoh/matjek
 download: https://github.com/ShawnTeoh/matjek/archive/gh-pages.zip
 demo: https://shawnteoh.github.io/matjek
@@ -10,6 +10,8 @@ author: Shawn Teoh
 thumbnail: matjek.png
 license: GPLv3
 license_link: https://github.com/ShawnTeoh/matjek/blob/gh-pages/COPYING
+carousel:
+  - 'screenshot.png'
 ---
 
 A responsive [Material](https://material.io/) theme based on [Materialize.css](https://materializecss.com/) for jekyll sites.

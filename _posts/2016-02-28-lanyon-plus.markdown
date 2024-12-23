@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Lanyon-plus
-date: 2016-02-28 00:00:00
+date: 2016-02-28 20:00:00 +01:00
 homepage: https://github.com/dyndna/lanyon-plus
 download: https://github.com/dyndna/lanyon-plus/releases/latest
 demo: https://dyndna.github.io/lanyon-plus
@@ -10,6 +10,8 @@ author: Samir Amin @SBAmin
 thumbnail: lanyon-plus.png
 license: MIT
 license_link: https://sbamin.com/disclosure/#theme-major-credit--license
+carousel:
+  - 'screenshot.png'
 ---
 
 Lanyon-plus, based on Jekyll theme: [Lanyon](https://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)

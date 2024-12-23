@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Edition
-date: 2016-12-13 00:00:00
+date: 2016-12-13 20:00:00 +01:00
 homepage: https://github.com/CloudCannon/edition-jekyll-template
 download: https://github.com/CloudCannon/edition-jekyll-template/archive/master.zip
 demo: https://long-pig.cloudvent.net/
@@ -10,6 +10,8 @@ author: CloudCannon
 thumbnail: edition.png
 license: MIT
 license_link: https://github.com/CloudCannon/edition-jekyll-template/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Write documentation for your product using Edition.

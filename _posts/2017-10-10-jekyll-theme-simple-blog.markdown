@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Simple Blog
-date: 2017-10-10 08:00:00
+date: 2017-10-10 08:00:00 +01:00
 homepage: https://gitlab.com/lorepirri/jekyll-theme-simple-blog
 download: https://gitlab.com/lorepirri/jekyll-theme-simple-blog/repository/master/archive.zip
 demo: https://lorepirri.gitlab.io/jekyll-theme-simple-blog/

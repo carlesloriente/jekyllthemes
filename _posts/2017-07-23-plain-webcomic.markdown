@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Plain Webcomic
-date: 2017-07-23 20:06:00
+date: 2017-07-23 20:06:00 +01:00
 homepage: https://peahatlanding.github.io/Plain-Webcomic/docs/index.html
 download: https://github.com/peahatlanding/Plain-Webcomic/blob/master/Archive.zip
 demo: https://peahatlanding.github.io/Plain-Webcomic/
@@ -10,6 +10,8 @@ author: Nico Bocalan
 thumbnail: plain-webcomic.png
 license: MIT
 license_link: https://opensource.org/license/mit
+carousel:
+  - 'screenshot.png'
 ---
 
 Webcomic Jekyll Theme, a simple webcomic theme powered by Bootstrap.

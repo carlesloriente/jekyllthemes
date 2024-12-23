@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Naringu
-date: 2015-02-21 02:30:00
+date: 2015-02-21 02:30:00 +01:00
 homepage: https://github.com/ariestiyansyah/naringu
 download: https://github.com/ariestiyansyah/naringu/archive/master.zip
 author: Rizky Ariestiyansyah

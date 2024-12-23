@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: NOCC Jekyll Bundle
-date: 2024-12-09 17:20:01 +1:00
+date: 2024-12-09 17:20:01 +01:00
 homepage: https://bootstrap-theme.notesoncloudcomputing.com/
 download: https://github.com/carlesloriente/bootstrap-theme-jekyll/archive/refs/heads/main.zip
 demo: http://bootstrap-theme.notesoncloudcomputing.com/

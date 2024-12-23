@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Project Gaia
-date: 2017-01-10 00:00:00
+date: 2017-01-10 20:00:00 +01:00
 homepage: https://github.com/szhielelp/JekyllTheme-ProjectGaia
 download: https://github.com/szhielelp/JekyllTheme-ProjectGaia/archive/master.zip
 demo: https://szhshp.github.io/JekyllTheme-ProjectGaia-Docs/#/
@@ -10,6 +10,8 @@ author: szhshp
 thumbnail: project-gaia.png
 license: MIT
 license_link: https://github.com/szhielelp/JekyllTheme-ProjectGaia/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Project Gaia, this is a personal Jekyll blog theme.

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Taken
-date: 2016-05-23 08:14:00
+date: 2016-05-23 08:14:00 +01:00
 homepage: https://github.com/vfalanis/taken
 download: https://github.com/vfalanis/taken/archive/master.zip
 author: Valentina Fernandez Alanis (vfalanis)

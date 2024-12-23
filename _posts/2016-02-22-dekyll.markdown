@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Dekyll
-date: 2016-02-22 21:08:00
+date: 2016-02-22 21:08:00 +01:00
 homepage: https://github.com/kuntoaji/dekyll
 download: https://github.com/kuntoaji/dekyll/archive/master.zip
 demo: https://www.kaklabs.com

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Webjeda Slides
-date: 2016-07-08 21:40:00
+date: 2016-07-08 21:40:00 +01:00
 homepage: https://github.com/sharu725/slides
 download: https://github.com/sharu725/slides/archive/master.zip
 demo: https://webjeda.com/slides/

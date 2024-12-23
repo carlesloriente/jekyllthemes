@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Joytou
-date: 2017-08-04 00:08:00
+date: 2017-08-04 00:08:00 +01:00
 homepage: https://github.com/joytou/joytou.github.io
 download: https://github.com/joytou/joytou.github.io/archive/master.zip
 author: Joytou
