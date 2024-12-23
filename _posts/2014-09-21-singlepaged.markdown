@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: SinglePaged
-date: 2014-09-21 08:20:00
+date: 2014-09-21 08:20:00 +01:00
 homepage: https://github.com/t413/SinglePaged
 download: https://github.com/t413/SinglePaged/archive/gh-pages.zip
 demo: https://t413.com/SinglePaged

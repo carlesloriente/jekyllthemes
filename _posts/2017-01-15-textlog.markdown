@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: TextLog
-date: 2017-01-15 16:41:00
+date: 2017-01-15 16:41:00 +01:00
 homepage: https://github.com/heiswayi/textlog
 download: https://github.com/heiswayi/textlog/archive/gh-pages.zip
 demo: https://heiswayi.github.io/textlog/
@@ -10,6 +10,8 @@ author: Heiswayi Nrird
 thumbnail: textlog.png
 license: MIT
 license_link: https://raw.githubusercontent.com/heiswayi/textlog/refs/heads/gh-pages/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 TextLog is the best minimalist content-focused Jekyll theme.

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Robotkang
-date: 2018-01-08 15:00:00
+date: 2018-01-08 15:00:00 +01:00
 homepage: https://github.com/MengZheK/kangblog.github.io
 download: https://github.com/MengZheK/kangblog.github.io/archive/master.zip
 demo: https://robotkang.cc
@@ -11,6 +11,7 @@ thumbnail: robotkang.png
 license: MIT
 license_link: https://raw.githubusercontent.com/samanyougarg/hanuman/refs/heads/master/LICENSE.txt
 carousel:
+  - 'screenshot.png'
   - 'robotkang_site.png'
 ---
 

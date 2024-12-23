@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Jekyll-Pug Material
-date: 2017-11-13 00:56:00
+date: 2017-11-13 00:56:00 +01:00
 homepage: https://github.com/dougbeney/jekyll-pug-material
 download: https://github.com/dougbeney/jekyll-pug-material/archive/master.zip
 demo: http://material.jekyll-pug.dougie.io

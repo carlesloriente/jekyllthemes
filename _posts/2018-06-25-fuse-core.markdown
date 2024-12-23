@@ -12,7 +12,6 @@ license: CC-BY-4.0
 license_link: https://creativecommons.org/licenses/by/4.0/
 carousel:
   - 'fuse-core-lg.jpg'
-  - 'fuse-core-mobile-sm.jpg'
 ---
 
 Just a single page with all your links.

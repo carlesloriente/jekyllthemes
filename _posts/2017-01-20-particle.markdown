@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Particle
-date: 2017-01-20 06:37:00
+date: 2017-01-20 06:37:00 +01:00
 homepage: https://github.com/nrandecker/particle
 download: https://github.com/nrandecker/particle/archive/master.zip
 demo: https://nrandecker.github.io/particle

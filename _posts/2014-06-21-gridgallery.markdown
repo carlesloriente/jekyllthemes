@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: GridGallery
-date: 2014-06-21 00:00:00
+date: 2014-06-21 20:00:00 +01:00
 homepage: https://github.com/nadjetey/GridGallery
 download: https://github.com/nadjetey/GridGallery/archive/master.zip
 author: Nii Adjetey Sowah

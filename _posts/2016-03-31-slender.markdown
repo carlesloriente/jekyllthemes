@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Slender
-date: 2016-03-31 13:34:00
+date: 2016-03-31 13:34:00 +01:00
 homepage: https://github.com/nikrich/jekyll-slender-template
 download: https://github.com/nikrich/jekyll-slender-template/archive/master.zip
 demo: https://nikrich.github.io/jekyll-slender-template/#

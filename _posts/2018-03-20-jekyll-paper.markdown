@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Jekyll Paper
-date: 2018-03-20 00:00:00
+date: 2018-03-20 20:00:00 +01:00
 homepage: https://github.com/ghosind/Jekyll-Paper
 download: https://github.com/ghosind/Jekyll-Paper/archive/master.zip
 demo: https://www.ghosind.com

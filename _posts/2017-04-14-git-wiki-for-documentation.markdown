@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Git-Wiki
-date: 2017-04-14 00:00:00
+date: 2017-04-14 20:00:00 +01:00
 homepage: https://github.com/drassil/git-wiki
 download: https://github.com/Drassil/git-wiki/archive/master.zip
 demo: https://drassil.github.io/git-wiki
@@ -10,6 +10,8 @@ author: Yehonal
 thumbnail: git-wiki.JPG
 license: MIT
 license_link: https://opensource.org/license/mit
+carousel:
+  - 'screenshot.png'
 ---
 
 it’s a full featured wiki powered by git, jekyll (github pages) and pull-requests!.

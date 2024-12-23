@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Siera
-date: 2015-11-16 07:11:00
+date: 2015-11-16 07:11:00 +01:00
 homepage: https://github.com/KazumaSATO/Siera
 download: https://github.com/KazumaSATO/Siera/archive/master.zip
 author: Kazuma SATO

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Neumorphism-flat
-date: 2023-05-29 14:00:00
+date: 2023-05-29 14:00:00 +01:00
 homepage: https://github.com/Miorey/neumorphism-flat
 download: https://github.com/Miorey/neumorphism-flat/archive/refs/heads/master.zip
 demo: https://miorey.github.io/neumorphism-flat/

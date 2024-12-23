@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Justice
-date: 2016-12-13 00:00:00
+date: 2016-12-13 20:00:00 +01:00
 homepage: https://github.com/CloudCannon/justice-jekyll-template
 download: https://github.com/CloudCannon/justice-jekyll-template/archive/master.zip
 demo: https://grey-grouse.cloudvent.net/
@@ -10,6 +10,8 @@ author: CloudCannon
 thumbnail: justice.png
 license: MIT
 license_link: https://github.com/CloudCannon/justice-jekyll-template/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Justice is a law firm themed template for Jekyll which can be modified to fit any local business.

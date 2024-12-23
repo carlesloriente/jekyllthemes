@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Murmur
-date: 2016-12-01 15:35:00
+date: 2016-12-01 15:35:00 +01:00
 homepage: https://github.com/songroger/murmur
 download: https://github.com/songroger/murmur/archive/master.zip
 demo: https://songroger.github.io/murmur

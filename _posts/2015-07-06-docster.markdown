@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Docster
-date: 2015-07-06 10:44:00
+date: 2015-07-06 10:44:00 +01:00
 homepage: https://github.com/DigitalMindCH/docster-jekyll-theme
 download: https://github.com/DigitalMindCH/docster-jekyll-theme/archive/gh-pages.zip
 author: Digitalmind

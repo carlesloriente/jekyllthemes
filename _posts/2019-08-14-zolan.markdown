@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Zolan
-date: 2019-08-14 00:00:00 +01:00
+date: 2019-08-14 20:00:00 +01:00
 homepage: https://github.com/artemsheludko/zolan
 download: https://github.com/artemsheludko/zolan/archive/master.zip
 demo: https://artemsheludko.github.io/zolan/

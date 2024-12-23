@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Metaphor
-date: 2015-02-05 01:42:00
+date: 2015-02-05 01:42:00 +01:00
 homepage: https://github.com/prio101/metaphor-jekyll
 download: https://github.com/prio101/metaphor-jekyll/archive/master.zip
 author: Mahabub I.

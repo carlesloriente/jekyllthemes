@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Future Imperfect
-date: 2018-02-21 13:26:00
+date: 2018-02-21 13:26:00 +01:00
 homepage: https://github.com/kaptn3/future-imperfect
 download: https://github.com/kaptn3/future-imperfect/archive/master.zip
 demo: https://future-imperfect.kaptn.ru

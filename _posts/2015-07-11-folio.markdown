@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "*folio"
-date: 2015-07-11 20:10:00
+date: 2015-07-11 20:10:00 +01:00
 homepage: https://github.com/bogoli/-folio
 download: https://github.com/bogoli/-folio/archive/master.zip
 demo: https://liabogoev.com/-folio/

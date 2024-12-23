@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: New Age
-date: 2016-10-26 05:00:00
+date: 2016-10-26 05:00:00 +01:00
 homepage: https://github.com/jekynewage/jekynewage.github.io
 download: https://github.com/jekynewage/jekynewage.github.io/archive/master.zip
 demo: https://jekynewage.github.io
@@ -10,6 +10,8 @@ author: Antonio Trento
 thumbnail: jeky-new-age.jpg
 license: MIT
 license_link: https://raw.githubusercontent.com/jekynewage/jekynewage.github.io/refs/heads/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 New Age Jekyll theme, Jekyll theme based on [New Age bootstrap theme](https://startbootstrap.com/template-overviews/new-age/).

@@ -11,10 +11,7 @@ thumbnail: jekyll-theme-next.png
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel: 
-  - 'desktop-preview.png'
-  - 'desktop-sidebar-preview.png'
-  - 'desktop-sidebar-toc.png'
-  - 'mobile.png'
+  - 'screenshot'
 ---
 
 NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo NexT](https://github.com/iissnan/hexo-theme-next).

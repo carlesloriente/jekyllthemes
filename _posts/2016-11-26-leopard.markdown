@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: leopard
-date: 2016-11-26 00:00:00
+date: 2016-11-26 20:00:00 +01:00
 homepage: https://github.com/leopardpan/leopardpan.github.io
 download: https://github.com/leopardpan/leopardpan.github.io/archive/master.zip
 demo: https://baixin.io

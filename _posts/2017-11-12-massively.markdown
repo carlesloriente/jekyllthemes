@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Massively
-date: 2017-11-12 07:00:00
+date: 2017-11-12 07:00:00 +01:00
 homepage: https://github.com/iwiedenm/jekyll-theme-massively-src
 download: https://github.com/iwiedenm/jekyll-theme-massively-src/archive/master.zip
 author: Somiibo

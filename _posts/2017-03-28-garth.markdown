@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Garth
-date: 2017-03-28 00:00:00
+date: 2017-03-28 20:00:00 +01:00
 homepage: https://github.com/daviddarnes/garth
 download: https://github.com/daviddarnes/garth/archive/master.zip
 demo: https://garth.darn.es/
@@ -10,6 +10,8 @@ author: David Darnes
 thumbnail: garth.png
 license: MIT
 license_link: https://github.com/daviddarnes/garth/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Garth, a stupidly simple theme for Jekyll, using the official Jekyll theme implementation. Available to install as a theme gem or as a 'forkable template', [see the documentation](https://github.com/daviddarnes/garth#installation) for more info.

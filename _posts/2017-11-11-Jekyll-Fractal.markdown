@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Jekflix
-date: 2017-09-21 09:10:00
+date: 2017-09-21 09:10:00 +01:00
 homepage: https://github.com/yvesespinosa/jekyll-html5up-fractal
 download: https://github.com/yvesespinosa/jekyll-html5up-fractal/raw/master/archive/jekyll-html5up-fractal.zip
 demo: https://yveszenne.github.io/jekyll-html5up-fractal/

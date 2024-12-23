@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Hydure
-date: 2021-04-29 21:27:00
+date: 2021-04-29 21:27:00 +01:00
 homepage: https://github.com/zivong/jekyll-theme-hydure
 download: https://github.com/zivong/jekyll-theme-hydure/archive/refs/heads/master.zip
 author: Song-Zi Vong

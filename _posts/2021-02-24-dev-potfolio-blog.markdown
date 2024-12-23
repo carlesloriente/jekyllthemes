@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Dev-Blog-Portfolio
-date: 2020-02-24 00:00:00
+date: 2020-02-24 20:00:00 +01:00
 homepage: https://github.com/rohitjain00/dev-portfolio-blog
 download: https://rubygems.org/gems/dev-portfolio-blog
 demo: https://therohitjain.com/

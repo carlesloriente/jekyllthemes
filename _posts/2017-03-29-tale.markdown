@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Tale
-date: 2017-03-29 00:00:00
+date: 2017-03-29 20:00:00 +01:00
 homepage: https://github.com/chesterhow/tale
 download: https://github.com/chesterhow/tale/archive/master.zip
 demo: https://chesterhow.github.io/tale
@@ -10,6 +10,8 @@ author: Chester How
 thumbnail: tale.png
 license: MIT
 license_link: https://github.com/chesterhow/tale/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 A minimal Jekyll theme curated for storytellers

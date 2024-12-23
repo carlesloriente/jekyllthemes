@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Mediumish
-date: 2018-01-13 00:00:00 +01:00
+date: 2018-01-13 20:00:00 +01:00
 homepage: https://www.wowthemes.net/mediumish-free-jekyll-template/
 download: https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip
 demo: https://wowthemesnet.github.io/mediumish-theme-jekyll/

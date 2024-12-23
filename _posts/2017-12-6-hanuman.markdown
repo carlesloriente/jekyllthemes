@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Hanuman
-date: 2017-12-06 04:00:00
+date: 2017-12-06 04:00:00 +01:00
 homepage: https://github.com/samanyougarg/hanuman
 download: https://github.com/samanyougarg/hanuman/archive/master.zip
 demo: https://samanyougarg.github.io/hanuman/
@@ -10,6 +10,8 @@ author: Samanyou Garg
 thumbnail: hanuman.jpg
 license: MIT
 license_link: https://raw.githubusercontent.com/samanyougarg/hanuman/refs/heads/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 Hanuman, a responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.
