@@ -26,5 +26,5 @@ Gradfolio, responsive, dark-mode ready Jekyll theme designed for use as a person
 ## Installation
 
 * Click on `Use this template` on the [GitHub homepage](https://github.com/jitinnair1/gradfolio)
-* Your new site should be ready at [https://username.github.io/gradfolio/](https://username.github.io/gradfolio/)
+* Your new site should be ready at https://username.github.io/gradfolio/
 * You can now modify the contents and personalise the template

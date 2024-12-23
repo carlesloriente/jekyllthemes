@@ -42,5 +42,5 @@ It features a suite of JavaScript that makes the page feel like an app, without 
 
 [gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fqwtel.com%2Fhydejack%2F
 [pdf]: https://github.com/qwtel/hydejack/releases/download/v7.0.0/Documentation._.Hydejack.pdf
-[hy-push-state]: https://qwtel.com/hy-push-state/
-[hy-drawer]: https://qwtel.com/hy-drawer/
+[hy-push-state]: https://qwtel.com/projects/hy-push-state/
+[hy-drawer]: https://qwtel.com/projects/hy-drawer/

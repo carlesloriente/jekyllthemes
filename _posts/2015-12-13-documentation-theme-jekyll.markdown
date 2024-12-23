@@ -4,12 +4,12 @@ comments: true
 title: Documentation
 date: 2015-12-13 12:55 +01:00
 homepage: https://idratherbewriting.com/documentation-theme-jekyll/
-download: https://github.com/tomjohnson1492/documentation-theme-jekyll/archive/gh-pages.zip
+download: https://github.com/tomjoht/documentation-theme-jekyll/archive/gh-pages.zip
 demo: https://idratherbewriting.com/documentation-theme-jekyll/
-author: tomjohnson1492
+author: tomjoht
 thumbnail: documentation-theme-jekyll.webp
 license: MIT
-license_link: https://github.com/tomjohnson1492/documentation-theme-jekyll/blob/gh-pages/licenses/LICENSE.txt
+license_link: https://github.com/tomjoht/documentation-theme-jekyll/blob/gh-pages/licenses/LICENSE.txt
 carousel:
   - 'screenshot.png'
 ---

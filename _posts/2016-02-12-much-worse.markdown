@@ -12,7 +12,7 @@ license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 
-Much-Worse Jekyll Theme for academic page and blog, is a modified version of [Steve Miller's NGVM theme](https://jekyllthemes.org/themes/svm-ngvb/).
+Much-Worse Jekyll Theme for academic page and blog, is a modified version of Steve Miller's NGVM theme.
 
 I prefer large seriff fonts with minimal coloring and styling. Apart form the typography, color scheme and layout.
 

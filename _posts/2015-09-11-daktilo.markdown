@@ -25,4 +25,4 @@ Daktilo is a Jekyll theme with a minimal design inspired from typewriters.
 * Support for categories.
 * Font-Awesome Icons.
 * Optimized for SEO.
-* Coolest [404 page ever](https://daktilo.github.io/404.html).
+* Coolest 404 page ever.

@@ -3,7 +3,7 @@ published: false
 layout: post
 comments: true
 title: Melotta
-date: 2019-08-30 00:00:00
+date: 2019-08-30 20:00:00 +01:00
 homepage: https://github.com/artemsheludko/melotta
 download: https://github.com/artemsheludko/melotta/archive/master.zip
 demo: https://artemsheludko.github.io/melotta/
@@ -12,7 +12,7 @@ thumbnail: melotta-small.jpg
 license: MIT
 license_link: https://github.com/artemsheludko/melotta/blob/master/LICENSE.txt
 carousel:
-  - 'https://github.com/artemsheludko/melotta/blob/master/images/melotta-preview.png?raw=true'
+  - 'melotta-preview.png'
 ---
 
 Mellota is all about building a unique, fast, creative and professional Jekyll website.

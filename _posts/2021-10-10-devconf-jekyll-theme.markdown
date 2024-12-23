@@ -64,13 +64,13 @@ slug: we-are-developers-2024
 * Create as many events as you want.
 * Make sure GitHub Pages are turned on in the repository settings, and pointing to the `main` or `master` branch (where you cloned this repo).
 * Commit and push changes.
-* Your new site should be ready at [https://username.github.io/DevConf-Jekyll-Theme](https://username.github.io/DevConf-Jekyll-Theme).
+* Your new site should be ready at https://username.github.io/DevConf-Jekyll-Theme.
 
 To run it locally:
 
 1. Install [Jekyll](https://jekyllrb.com/docs/).  
 `gem install jekyll bundler`
-2. Build the site and make it available on a local server  
+1. Build the site and make it available on a local server  
 `bundle exec jekyll serve  --config _config.yml,_config_development.yml`
 
 In example above you can switch part of your config settings depending on the environment, settings in later files override settings in earlier files.

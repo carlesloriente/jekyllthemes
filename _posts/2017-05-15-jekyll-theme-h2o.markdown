@@ -38,8 +38,6 @@ You can easily get started by modifying _config.yml
 
 ### 侧边栏
 
-![侧边栏](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-sideBar.png?raw=true)
-
 侧边栏分为两个部分：【个人简介】和【推荐标签】。当屏幕宽度小于960px时，侧边栏会被隐藏
 
 ### 社交图标
@@ -70,15 +68,11 @@ You can easily get started by modifying _config.yml
 
 ### 主题皮肤
 
-![主题皮肤](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-themecolor.jpg?raw=true)
-
 支持两种主题颜色蓝色（默认）和粉色
 
 主要效果体现在首页博客封面、顶部导航栏的logo以及鼠标悬停时文字显示的颜色效果。
 
 ### 头图底纹
-
-![头图底纹](https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-heroPatterns.png?raw=true)
 
 在没有图片的情况下单纯显示颜色会不会太无趣了点？于是想到了加入底纹元素，底纹素材是SVG格式的（保存在css样式里），加载比图片快很多。六种底纹（电路、食物、云海、钻石等等）供你选择。
 

@@ -11,4 +11,4 @@ license: MIT
 license_link: https://github.com/yonojoy/YAX-Coming-soon-Jekyll-Template/blob/master/License.md
 ---
 
-YAX-Coming-soon-Theme, A free Bootstrap HTML5 CSS3 responsive Coming-soon-theme. Designed by [Ilya B.](https://www.behance.net/gallery/18421675/Free-Bootstrap-Psd-Coming-Soon-Template), converted by [Morteza Aghili](https://mortezaaghili.github.io/) and [yonojoy](https://github.com/yonojoy).
+YAX-Coming-soon-Theme, A free Bootstrap HTML5 CSS3 responsive Coming-soon-theme. Designed by [Ilya B.](https://www.behance.net/gallery/18421675/Free-Bootstrap-Psd-Coming-Soon-Template), converted by Morteza Aghili and [yonojoy](https://github.com/yonojoy).

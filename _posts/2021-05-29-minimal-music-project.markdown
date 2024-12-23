@@ -3,18 +3,18 @@ layout: post
 comments: true
 title: minimal-music-project
 date: 2021-05-29 17:22:00 +01:00
-homepage: https://github.com/ItsMeaga1n/minimal-music-project
-download: https://github.com/ItsMeaga1n/minimal-music-project/archive/master.zip
+homepage: https://github.com/ItsPatrq/minimal-music-project
+download: https://github.com/ItsPatrq/minimal-music-project/archive/master.zip
 demo: https://minimal-music-project.netlify.app/
 author: Patryk Bieszke
 thumbnail: minimal-music-project-thumbnail.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/itsmeaga1n/minimal-music-project/master/LICENSE.txt
+license_link: https://raw.githubusercontent.com/ItsPatrq/minimal-music-project/master/LICENSE.txt
 carousel:
   - 'screenshot.png'
 ---
 
-Flexible, extendable Jekyll theme that makes it plain simple to create a good looking website for a music band with all the required components to list all releases and news For installation instructions, please read the README.md [on GitHub!](https://github.com/ItsMeaga1n/minimal-music-project)
+Flexible, extendable Jekyll theme that makes it plain simple to create a good looking website for a music band with all the required components to list all releases and news For installation instructions, please read the README.md [on GitHub!](https://github.com/ItsPatrq/minimal-music-project)
 
 ## Features
 
