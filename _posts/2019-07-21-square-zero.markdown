@@ -7,7 +7,7 @@ homepage: https://github.com/squarezero/squarezero.github.io
 download: https://github.com/squarezero/squarezero.github.io/releases/tag/1.0.0
 demo: https://squarezero.vercel.app/
 author: surajk95
-thumbnail: squarezero.png
+thumbnail: squarezero.webp
 license: MIT
 license_link: https://opensource.org/license/mit
 carousel:

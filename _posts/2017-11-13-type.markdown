@@ -6,7 +6,7 @@ date: 2017-11-13 07:00:00 +01:00
 homepage: https://github.com/aspirethemes/type
 download: https://github.com/aspirethemes/type/archive/master.zip
 author: Aspire Themes
-thumbnail: type.jpg
+thumbnail: type.webp
 license: MIT
 license_link: https://github.com/aspirethemes/type/blob/master/LICENSE
 ---

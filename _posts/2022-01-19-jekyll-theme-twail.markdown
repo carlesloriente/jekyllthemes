@@ -7,7 +7,7 @@ homepage: https://github.com/leetaewook/jekyll-theme-twail
 download: https://rubygems.org/gems/jekyll-theme-twail
 demo: https://leetaewook.github.io/jekyll-theme-twail/
 author: leetaewook
-thumbnail: twail.png
+thumbnail: twail.webp
 license: MIT
 license_link: https://github.com/leetaewook/jekyll-theme-twail/blob/master/LICENSE.txt
 carousel:

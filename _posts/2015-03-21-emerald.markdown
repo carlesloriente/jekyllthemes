@@ -7,7 +7,7 @@ homepage: https://github.com/KingFelix/emerald
 download: https://github.com/KingFelix/emerald/archive/master.zip
 demo: https://www.jacoporabolini.com/emerald/
 author: Jacopo Rabolini
-thumbnail: emerald.png
+thumbnail: emerald.webp
 license: MIT
 license_link: https://github.com/KingFelix/emerald/blob/master/license.md
 carousel:

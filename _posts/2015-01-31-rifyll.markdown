@@ -7,7 +7,7 @@ homepage: https://github.com/itsrifat/rifyll
 download: https://github.com/itsrifat/rifyll/archive/master.zip
 demo: https://itsrifat.github.io/rifyll/
 author: Moinul
-thumbnail: rifyll.png
+thumbnail: rifyll.webp
 license: MIT
 license_link: https://github.com/itsrifat/rifyll/blob/master/LICENSE.md
 carousel:

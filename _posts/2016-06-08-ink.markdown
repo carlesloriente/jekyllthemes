@@ -7,7 +7,7 @@ homepage: https://github.com/thinker3197/ink
 download: https://github.com/thinker3197/ink/archive/master.zip
 demo: https://thinker3197.github.io/ink
 author: Ashish Gupta
-thumbnail: ink.png
+thumbnail: ink.webp
 license: MIT
 license_link: https://github.com/thinker3197/ink/blob/master/LICENSE
 carousel:

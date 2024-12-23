@@ -7,7 +7,7 @@ homepage: https://github.com/bitbrain/jekyll-dash
 download: https://github.com/bitbrain/jekyll-dash/archive/refs/heads/main.zip
 demo: https://bitbra.in/
 author: Miguel Gonzalez Sanchez
-thumbnail: dash.jpg
+thumbnail: dash.webp
 license: MIT
 license_link: https://github.com/bitbrain/jekyll-dash/blob/master/LICENSE
 carousel:

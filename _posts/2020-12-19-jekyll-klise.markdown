@@ -7,7 +7,7 @@ homepage: https://github.com/piharpi/jekyll-klise
 download: https://github.com/piharpi/jekyll-klise
 demo: https://klise.now.sh
 author: Mahendrata Harpi
-thumbnail: jekyll-klise-thumbnail.png
+thumbnail: jekyll-klise-thumbnail.webp
 license: MIT
 license_link: https://github.com/piharpi/jekyll-klise/blob/master/LICENSE
 carousel:

@@ -7,7 +7,7 @@ homepage: https://github.com/daviddarnes/garth
 download: https://github.com/daviddarnes/garth/archive/master.zip
 demo: https://garth.darn.es/
 author: David Darnes
-thumbnail: garth.png
+thumbnail: garth.webp
 license: MIT
 license_link: https://github.com/daviddarnes/garth/blob/master/LICENSE
 carousel:

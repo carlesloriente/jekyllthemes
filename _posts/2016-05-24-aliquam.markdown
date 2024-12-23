@@ -7,7 +7,7 @@ homepage: https://github.com/grrinchas/aliquam
 download: https://github.com/grrinchas/aliquam/archive/refs/heads/master.zip
 demo: https://grrinchas.github.io/aliquam/
 author: grrinchas
-thumbnail: aliquam.png
+thumbnail: aliquam.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---

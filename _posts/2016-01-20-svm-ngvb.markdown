@@ -7,7 +7,7 @@ homepage: https://github.com/svmiller/steve-ngvb-jekyll-template
 download: https://github.com/svmiller/steve-ngvb-jekyll-template/archive/master.zip
 demo: https://svmiller.com
 author: Steven V. Miller
-thumbnail: svm-ngvb.png
+thumbnail: svm-ngvb.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:

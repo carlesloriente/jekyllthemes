@@ -7,7 +7,7 @@ homepage: https://github.com/PandaSekh/Jekyll-Podcaster
 download: https://github.com/PandaSekh/Jekyll-Podcaster/releases/latest
 demo: https://jekyll-podcaster.netlify.app/
 author: Alessio Franceschi
-thumbnail: podcaster.png
+thumbnail: podcaster.webp
 license: GPLv3
 license_link: https://raw.githubusercontent.com/PandaSekh/Jekyll-Podcaster/refs/heads/master/LICENSE
 carousel:

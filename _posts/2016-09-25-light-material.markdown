@@ -6,7 +6,7 @@ date: 2016-09-25 20:00:00 +01:00
 homepage: https://github.com/lukas-h/material-theme/
 download: https://github.com/lukas-h/material-theme/archive/gh-pages.zip
 author: Lukas Himsel
-thumbnail: light-material.png
+thumbnail: light-material.webp
 license: MIT
 license_link: https://github.com/lukas-h/material-theme/blob/gh-pages/LICENSE
 ---

@@ -6,7 +6,7 @@ date: 2014-01-23 20:00:00 +01:00
 homepage: https://github.com/nadjetey/redcup
 download: https://github.com/nadjetey/redcup/archive/master.zip
 author: Nii Adjetey Sowah
-thumbnail: redcup.png
+thumbnail: redcup.webp
 license: CC-BY-3.0
 license_link: https://creativecommons.org/licenses/by/3.0/deed.en_US
 ---

@@ -7,7 +7,7 @@ homepage: https://github.com/sharu725/cards
 download: https://github.com/sharu725/cards/archive/master.zip
 demo: https://webjeda.com/cards
 author: sharathdt
-thumbnail: webjeda-cards.png
+thumbnail: webjeda-cards.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:

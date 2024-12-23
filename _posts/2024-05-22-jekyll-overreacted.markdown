@@ -7,7 +7,7 @@ homepage: https://github.com/foodgy/jekyll-overreacted
 download: https://github.com/foodgy/jekyll-overreacted/archive/refs/heads/main.zip
 demo: https://romakoch.com/
 author: Roman Koch
-thumbnail: jekyll-overreacted.png
+thumbnail: jekyll-overreacted.webp
 license: MIT
 license_link: https://github.com/foodgy/jekyll-overreacted/blob/main/LICENSE
 carousel:

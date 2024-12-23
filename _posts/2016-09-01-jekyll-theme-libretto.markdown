@@ -7,7 +7,7 @@ homepage: https://github.com/ferrolho/jekyll-theme-libretto
 download: https://github.com/ferrolho/jekyll-theme-libretto/archive/gh-pages.zip
 demo: https://ferrolho.github.io/jekyll-theme-libretto/
 author: Henrique Ferrolho
-thumbnail: jekyll-theme-libretto.jpg
+thumbnail: jekyll-theme-libretto.webp
 license: MIT
 license_link: https://github.com/ferrolho/jekyll-theme-libretto/blob/gh-pages/LICENSE
 ---

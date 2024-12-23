@@ -7,7 +7,7 @@ homepage: https://github.com/dikiaap/mangan
 download: https://github.com/dikiaap/mangan/archive/master.zip
 demo: https://mangan.pages.dev/
 author: Diki Ananta
-thumbnail: mangan.png
+thumbnail: mangan.webp
 license: MIT
 license_link: https://github.com/dikiaap/mangan/blob/master/LICENSE
 carousel:

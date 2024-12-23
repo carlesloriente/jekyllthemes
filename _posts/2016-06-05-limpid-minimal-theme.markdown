@@ -7,7 +7,7 @@ homepage: https://github.com/pranavrajs/limpid
 download: https://github.com/pranavrajs/limpid/archive/master.zip
 demo: https://pranavrajs.github.io/limpid/
 author: Pranav Raj S
-thumbnail: limpid-minimal-theme.png
+thumbnail: limpid-minimal-theme.webp
 license: MIT
 license_link: https://github.com/pranavrajs/limpid/blob/master/LICENSE
 carousel:

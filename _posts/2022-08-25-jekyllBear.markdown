@@ -7,7 +7,7 @@ homepage: https://github.com/Knhash/jekyllBear
 download: https://github.com/Knhash/jekyllBear/archive/master.zip
 demo: https://knhash.in/jekyllBear
 author: Knhash
-thumbnail: jekyllBear.png
+thumbnail: jekyllBear.webp
 license: MIT
 license_link: https://github.com/knhash/jekyllBear/blob/master/LICENSE.txt
 carousel:

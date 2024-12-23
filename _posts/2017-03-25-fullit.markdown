@@ -7,7 +7,7 @@ homepage: https://github.com/fullit/fullit.github.io
 download: https://github.com/fullit/fullit.github.io/archive/master.zip
 demo: https://fullit.github.io
 author: Antonio Trento
-thumbnail: fullit.jpg
+thumbnail: fullit.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/fullit/fullit.github.io/refs/heads/master/LICENSE
 carousel:

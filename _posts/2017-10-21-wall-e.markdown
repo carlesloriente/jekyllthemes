@@ -7,7 +7,7 @@ homepage: https://github.com/abhn/Wall-E
 download: https://github.com/abhn/Wall-E/archive/master.zip
 demo: https://wall-e-jekyll.github.io/
 author: Abhishek Nagekar
-thumbnail: wall-e.png
+thumbnail: wall-e.webp
 license: MIT
 license_link: https://opensource.org/license/mit
 carousel:

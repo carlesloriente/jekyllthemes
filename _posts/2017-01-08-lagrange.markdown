@@ -7,7 +7,7 @@ homepage: https://github.com/LeNPaul/Lagrange
 download: https://github.com/LeNPaul/Lagrange/archive/gh-pages.zip
 demo: https://lenpaul.github.io/Lagrange/
 author: Paul Le
-thumbnail: lagrange.jpg
+thumbnail: lagrange.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/LeNPaul/Lagrange/refs/heads/gh-pages/LICENSE.md
 carousel:

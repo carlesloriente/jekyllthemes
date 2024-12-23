@@ -7,7 +7,7 @@ homepage: https://github.com/artemsheludko/flexible-jekyll
 download: https://github.com/artemsheludko/flexible-jekyll/archive/master.zip
 demo: https://artemsheludko.github.io/flexible-jekyll/
 author: Artem Sheludko
-thumbnail: flexible-jekyll.jpg
+thumbnail: flexible-jekyll.webp
 license: GPLv3
 license_link: https://raw.githubusercontent.com/artemsheludko/flexible-jekyll/refs/heads/master/LICENSE
 carousel:

@@ -7,7 +7,7 @@ homepage: https://github.com/wblearn/wblearn.github.io
 download: https://github.com/wblearn/wblearn.github.io/archive/master.zip
 demo: https://wblearn.github.io/
 author: wblearn
-thumbnail: wblearn-blog.jpg
+thumbnail: wblearn-blog.webp
 license: MIT
 license_link: https://github.com/wblearn/wblearn.github.io/blob/master/LICENSE
 carousel:

@@ -7,7 +7,7 @@ homepage: https://github.com/scotte/jekyll-clean
 download: https://github.com/scotte/jekyll-clean/zipball/gh-pages
 demo: https://scotte.github.io/jekyll-clean
 author: Scott Emmons
-thumbnail: jekyll-clean.png
+thumbnail: jekyll-clean.webp
 license: CC-BY-4.0
 license_link: https://creativecommons.org/licenses/by/4.0/legalcode
 carousel:

@@ -7,7 +7,7 @@ homepage: https://github.com/tzuehlke/jekyll-uno-timeline/
 download: https://github.com/tzuehlke/jekyll-uno-timeline/archive/master.zip
 demo: https://www.zuehlke.cloud/
 author: Thomas Zühlke
-thumbnail: uno-timeline.png
+thumbnail: uno-timeline.webp
 license: MIT
 license_link: https://github.com/tzuehlke/jekyll-uno-timeline/blob/master/LICENSE
 ---

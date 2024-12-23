@@ -7,7 +7,7 @@ homepage: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/
 download: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/archive/master.zip
 demo: https://www.vrachas.com/jekyll-theme-startbootstrap-agency/
 author: Sotirios Vrachas
-thumbnail: startbootstrap-agency.png
+thumbnail: startbootstrap-agency.webp
 license: MIT
 license_link: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/blob/master/LICENSE.txt
 ---

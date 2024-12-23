@@ -7,7 +7,7 @@ homepage: https://github.com/chrisbobbe/jekyll-theme-prologue
 download: https://github.com/chrisbobbe/jekyll-theme-prologue/archive/master.zip
 demo: https://chrisbobbe.github.io/jekyll-theme-prologue/
 author: HTML5 UP, Chris Bobbe
-thumbnail: prologue.png
+thumbnail: prologue.webp
 license: CC-BY-3.0
 license_link: https://github.com/chrisbobbe/jekyll-theme-prologue/blob/master/LICENSE.md
 carousel:

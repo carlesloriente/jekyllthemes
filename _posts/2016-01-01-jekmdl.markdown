@@ -7,7 +7,7 @@ homepage: https://github.com/tigefa4u/jekmdl
 download: https://github.com/tigefa4u/jekmdl/archive/gh-pages.zip
 demo: https://tigefa4u.github.io/jekmdl/
 author: sugeng tigefa
-thumbnail: jekmdl.jpg
+thumbnail: jekmdl.webp
 license: MIT
 license_link: https://github.com/tigefa4u/jekmdl/blob/gh-pages/LICENSE
 carousel:

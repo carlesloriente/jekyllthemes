@@ -7,7 +7,7 @@ homepage: https://github.com/nandomoreirame/lora
 download: https://github.com/nandomoreirame/lora/archive/master.zip
 demo: https://nandomoreirame.github.io/lora/
 author: nandomoreira.me
-thumbnail: lora.png
+thumbnail: lora.webp
 license: MIT
 license_link: https://github.com/nandomoreirame/lora/blob/master/LICENSE
 carlousel:

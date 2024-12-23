@@ -7,7 +7,7 @@ homepage: https://github.com/lightfish-zhang/pinghsu-jekyll
 download: https://github.com/lightfish-zhang/pinghsu-jekyll/archive/master.zip
 demo: https://lightfish.cn/
 author: Lightfish Zhang
-thumbnail: pinghsu-jekyll.png
+thumbnail: pinghsu-jekyll.webp
 license: MIT
 license_link: https://github.com/lightfish-zhang/pinghsu-jekyll/blob/master/LICENSE
 ---

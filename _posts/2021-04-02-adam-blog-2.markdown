@@ -9,7 +9,7 @@ demo: https://the-mvm.github.io/
 author: "Original - Artem Sheludko | Mod: Armando Maynez"
 license: GPLv3
 license_link: https://github.com/artemsheludko/adam-blog/blob/master/LICENSE
-thumbnail: adam-blog.jpg
+thumbnail: adam-blog.webp
 version: '2.0'
 carousel:
   - 'homepage.jpg'

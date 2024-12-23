@@ -7,7 +7,7 @@ homepage: https://github.com/abhn/Elementary
 download: https://github.com/abhn/Elementary/archive/master.zip
 demo: https://elementary-jekyll.github.io/
 author: Abhishek Nagekar
-thumbnail: elementary.png
+thumbnail: elementary.webp
 license: GPLv3
 carousel:
   - 'screenshot.png'

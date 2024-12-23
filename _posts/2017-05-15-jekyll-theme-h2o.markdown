@@ -7,7 +7,7 @@ homepage: https://github.com/kaeyleo/jekyll-theme-H2O
 download: https://github.com/kaeyleo/jekyll-theme-H2O/archive/master.zip
 demo: https://liaokeyu.com
 author: liaokeyu
-thumbnail: jekyll-theme-h2o.png
+thumbnail: jekyll-theme-h2o.webp
 license: MIT
 license_link: https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/LICENSE
 carousel:

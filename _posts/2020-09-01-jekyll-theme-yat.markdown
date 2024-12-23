@@ -7,7 +7,7 @@ homepage: https://github.com/jeffreytse/jekyll-theme-yat/
 download: https://github.com/jeffreytse/jekyll-theme-yat/releases/latest/
 demo: https://jeffreytse.github.io/jekyll-theme-yat/
 author: Jeffrey Tse
-thumbnail: jekyll-theme-yat.png
+thumbnail: jekyll-theme-yat.webp
 license: MIT
 license_link: https://github.com/jeffreytse/jekyll-theme-yat/blob/master/LICENSE.txt
 carousel:

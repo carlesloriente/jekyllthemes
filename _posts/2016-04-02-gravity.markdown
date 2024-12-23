@@ -7,7 +7,7 @@ homepage: https://github.com/hemangsk/Gravity
 download: https://github.com/hemangsk/Gravity/archive/master.zip
 demo: https://hemangsk.github.io/Gravity
 author: Hemang Kumar (@hemangsk)
-thumbnail: gravity.png
+thumbnail: gravity.webp
 license: MIT
 license_link: https://github.com/hemangsk/Gravity/blob/master/LICENSE.txt
 carousel:

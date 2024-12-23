@@ -6,7 +6,7 @@ date: 2014-12-16 12:00:00 +01:00
 homepage: https://github.com/open-start/opentheme
 download: https://github.com/open-start/opentheme/archive/master.zip
 author: Manav Sehgal
-thumbnail: opentheme.png
+thumbnail: opentheme.webp
 license: MIT
 license_link: https://github.com/open-start/opentheme/blob/master/LICENSE
 ---

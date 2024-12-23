@@ -7,7 +7,7 @@ homepage: https://github.com/kxxvii/Kikofri
 download: https://github.com/kxxvii/Kikofri/archive/master.zip
 demo: https://kxxvii.github.io/Kikofri
 author: kxxvii
-thumbnail: Kikofri.png
+thumbnail: Kikofri.webp
 license: Apache 2.0
 license_link: https://github.com/kxxvii/Kikofri/blob/master/LICENSE
 carousel:

@@ -7,7 +7,7 @@ homepage: https://github.com/Vector-7/mapley
 download: https://github.com/Vector-7/mapley/archive/refs/heads/master.zip
 demo: https://recoma96.github.io/mapley/
 author: "Ha Jeong Hyun(a.k.a Vector7)"
-thumbnail: vector7-mapley.png
+thumbnail: vector7-mapley.webp
 license: MIT
 license_link: https://github.com/Vector-7/mapley/blob/master/LICENSE
 carousel:

@@ -7,7 +7,7 @@ homepage: https://github.com/samarsault/texture
 download: https://github.com/samarsault/texture/archive/master.zip
 demo: https://samarsault.com/texture
 author: samarsault
-thumbnail: texture.png
+thumbnail: texture.webp
 license: MIT
 license_link: https://github.com/samarsault/texture/blob/master/LICENSE.txt
 ---

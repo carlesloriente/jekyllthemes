@@ -7,7 +7,7 @@ homepage: https://github.com/poole/hyde
 download: https://github.com/poole/hyde/archive/master.zip
 demo: https://hyde.getpoole.com/
 author: Mark Otto
-thumbnail: hyde.png
+thumbnail: hyde.webp
 license: MIT
 license_link: https://github.com/poole/hyde/blob/master/LICENSE.md
 carousel:

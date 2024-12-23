@@ -7,7 +7,7 @@ homepage: https://github.com/lixizhi/lixizhi.github.io
 download: https://github.com/LiXizhi/lixizhi.github.io/archive/master.zip
 demo: https://lixizhi.github.io/
 author: LiXizhi
-thumbnail: cool-concise-high-end.jpg
+thumbnail: cool-concise-high-end.webp
 license: MIT
 license_link: https://opensource.org/license/mit
 ---

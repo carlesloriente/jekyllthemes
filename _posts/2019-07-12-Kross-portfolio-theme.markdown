@@ -7,7 +7,7 @@ homepage: https://github.com/themefisher/kross-jekyll-portfolio-template
 download: https://github.com/themefisher/kross-jekyll-portfolio-template/archive/master.zip
 demo: https://demo.themefisher.com/kross
 author: Themefisher
-thumbnail: kross-portfolio-template.jpg
+thumbnail: kross-portfolio-template.webp
 license: MIT
 license_link: https://github.com/themefisher/kross-jekyll-portfolio-template/blob/master/LICENSE.txt
 ---

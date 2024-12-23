@@ -7,7 +7,7 @@ homepage: https://github.com/Miorey/neumorphism-flat
 download: https://github.com/Miorey/neumorphism-flat/archive/refs/heads/master.zip
 demo: https://miorey.github.io/neumorphism-flat/
 author: Miorey
-thumbnail: neumorphism-flat.png
+thumbnail: neumorphism-flat.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/Miorey/neumorphism-flat/master/LICENSE
 carousel:

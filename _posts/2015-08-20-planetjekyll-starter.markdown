@@ -7,7 +7,7 @@ homepage: https://github.com/planetjekyll/jekyll-starter-theme
 download: https://github.com/planetjekyll/jekyll-starter-theme/archive/gh-pages.zip
 demo: https://henrythemes.github.io/jekyll-starter-theme/
 author: Gerald Bauer
-thumbnail: planetjekyll-starter.png
+thumbnail: planetjekyll-starter.webp
 license: Public Domain
 carousel:
   - 'screenshot.png'

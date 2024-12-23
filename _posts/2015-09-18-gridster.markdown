@@ -6,7 +6,7 @@ date: 2015-09-18 11:15:00 +01:00
 homepage: https://github.com/DigitalMindCH/gridster-jekyll-theme
 download: https://github.com/DigitalMindCH/gridster-jekyll-theme/archive/master.zip
 author: Digitalmind
-thumbnail: gridster.jpg
+thumbnail: gridster.webp
 license: MIT
 license_link: https://github.com/DigitalMindCH/gridster-jekyll-theme/blob/master/LICENCE
 ---

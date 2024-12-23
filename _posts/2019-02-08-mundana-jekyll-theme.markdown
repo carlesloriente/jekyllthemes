@@ -7,7 +7,7 @@ homepage: https://github.com/wowthemesnet/mundana-theme-jekyll
 download: https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip
 demo: https://wowthemesnet.github.io/mundana-theme-jekyll/
 author: wowthemesnet
-thumbnail: mundana.png
+thumbnail: mundana.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/wowthemesnet/mediumish-theme-jekyll/master/LICENSE.txt
 carousel:

@@ -7,7 +7,7 @@ homepage: https://github.com/swanson/lagom
 download: https://github.com/swanson/lagom/archive/master.zip
 demo: https://lagom.mdswanson.com/
 author: Matt Swanson
-thumbnail: lagom.png
+thumbnail: lagom.webp
 license: MIT
 license_link: https://github.com/swanson/lagom/blob/master/LICENSE
 carousel:

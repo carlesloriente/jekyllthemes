@@ -7,7 +7,7 @@ homepage: https://github.com/penibelst/jekyll-noita
 download: https://github.com/penibelst/jekyll-noita/archive/gh-pages.zip
 demo: https://noita.penibelst.de/
 author: Anatol Broder
-thumbnail: noita.png
+thumbnail: noita.webp
 license: MIT
 license_link: https://github.com/penibelst/jekyll-noita/blob/gh-pages/LICENSE
 carousel:

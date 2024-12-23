@@ -7,7 +7,7 @@ homepage: https://github.com/gildasio/clyell
 download: https://github.com/gildasio/clyell/archive/gh-pages.zip
 demo: https://gildasio.github.io/clyell/
 author: gildasio
-thumbnail: clyell.png
+thumbnail: clyell.webp
 license: GPLv3
 license_link: https://github.com/gildasio/clyell/blob/gh-pages/LICENSE
 carousel:

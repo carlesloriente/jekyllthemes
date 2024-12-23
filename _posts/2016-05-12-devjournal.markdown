@@ -7,7 +7,7 @@ homepage: https://github.com/hemangsk/DevJournal
 download: https://github.com/hemangsk/DevJournal/archive/master.zip
 demo: https://hemangsk.github.io/DevJournal
 author: Hemang Kumar
-thumbnail: devjournal.png
+thumbnail: devjournal.webp
 license: MIT
 license_link: https://github.com/hemangsk/DevJournal/blob/master/LICENSE.md
 carousel:

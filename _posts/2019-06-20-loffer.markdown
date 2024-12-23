@@ -7,7 +7,7 @@ homepage: https://github.com/FromEndWorld/LOFFER
 download: https://github.com/FromEndWorld/LOFFER/archive/v0.1.0.zip
 demo: https://fromendworld.github.io/LOFFER/
 author: FromEndworld
-thumbnail: LOFFER.png
+thumbnail: LOFFER.webp
 license: MIT
 license_link: https://github.com/FromEndWorld/LOFFER/blob/master/LICENSE
 carousel:

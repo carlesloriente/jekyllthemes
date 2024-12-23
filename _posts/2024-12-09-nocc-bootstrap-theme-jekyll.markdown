@@ -8,7 +8,7 @@ homepage: https://bootstrap-theme.notesoncloudcomputing.com/
 download: https://github.com/carlesloriente/bootstrap-theme-jekyll/archive/refs/heads/main.zip
 demo: http://bootstrap-theme.notesoncloudcomputing.com/
 author: Carles Loriente
-thumbnail: nocc-thumbnail.png
+thumbnail: nocc-thumbnail.webp
 license: MIT
 license_link: https://github.com/carlesloriente/bootstrap-theme-jekyll/blob/main/LICENSE
 version: '1.3.8'

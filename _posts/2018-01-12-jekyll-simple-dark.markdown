@@ -7,7 +7,7 @@ homepage: https://github.com/son-link/jekyll-simple-dark
 download: https://github.com/son-link/jekyll-simple-dark/archive/master.zip
 demo: https://son-link.github.io/jekyll-simple-dark/
 author: Alfonso Saavedra 'Son Link'
-thumbnail: simple-dark.png
+thumbnail: simple-dark.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/son-link/jekyll-simple-dark/refs/heads/master/LICENSE.txt
 carousel:

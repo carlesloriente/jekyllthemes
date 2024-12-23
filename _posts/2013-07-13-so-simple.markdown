@@ -7,7 +7,7 @@ homepage: https://github.com/mmistakes/so-simple-theme
 download: https://github.com/mmistakes/so-simple-theme/archive/master.zip
 demo: https://mmistakes.github.io/so-simple-theme/
 author: Michael Rose
-thumbnail: so-simple.png
+thumbnail: so-simple.webp
 license: MIT
 license_link: https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
 carousel:

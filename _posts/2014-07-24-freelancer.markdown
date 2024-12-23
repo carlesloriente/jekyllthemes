@@ -7,7 +7,7 @@ homepage: https://github.com/jeromelachaud/freelancer-theme
 download: https://github.com/jeromelachaud/freelancer-theme/archive/master.zip
 demo: https://jeromelachaud.github.io/freelancer-theme
 author: Jerome Lachaud
-thumbnail: freelancer.png
+thumbnail: freelancer.webp
 license: Apache 2.0
 license_link: https://github.com/jeromelachaud/freelancer-theme/blob/master/LICENCE
 carousel:

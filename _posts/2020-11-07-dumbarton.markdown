@@ -7,7 +7,7 @@ homepage: https://github.com/tcbutler320/Jekyll-Theme-Dumbarton
 download: https://github.com/tcbutler320/Jekyll-Theme-Dumbarton/releases/latest
 demo: https://dumbarton.netlify.app/
 author: Tyler Butler
-thumbnail: dumbarton.png
+thumbnail: dumbarton.webp
 license: MIT
 license_link: https://github.com/tcbutler320/Jekyll-Theme-Dumbarton/blob/master/LICENSE.txt
 carousel:

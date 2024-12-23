@@ -7,7 +7,7 @@ homepage: https://github.com/soyaine/jekyll-theme-diary
 download: https://github.com/soyaine/jekyll-theme-diary/archive/master.zip
 demo: https://soyaine.github.io/jekyll-theme-diary/
 author: Soyaine
-thumbnail: jekyll-theme-diary-thumbnail-light.jpg
+thumbnail: jekyll-theme-diary-thumbnail-light.webp
 license: MIT
 license_link: https://github.com/soyaine/jekyll-theme-diary/blob/master/LICENSE
 carousel:

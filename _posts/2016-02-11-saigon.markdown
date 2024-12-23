@@ -7,7 +7,7 @@ homepage: https://github.com/hoffli/saigon-jekyll-theme
 download: https://github.com/hoffli/saigon-jekyll-theme/archive/master.zip
 demo: https://hoffli.github.io/saigon-jekyll-theme/
 author: Peter Hoffler
-thumbnail: saigon.jpg
+thumbnail: saigon.webp
 license: MIT
 license_link: https://github.com/hoffli/saigon-jekyll-theme/blob/master/LICENSE
 carousel:

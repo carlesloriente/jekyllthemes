@@ -6,7 +6,7 @@ date: 2017-01-30 01:38:11 +01:00
 homepage: https://github.com/lavkumarv/feature-blog-jekyll
 download: https://github.com/lavkumarv/feature-blog-jekyll/archive/master.zip
 author: Lav Kumar Vishwakarma
-thumbnail: feature-blog.jpg
+thumbnail: feature-blog.webp
 license: MIT
 license_link: https://github.com/lavkumarv/feature-blog-jekyll/blob/master/LICENSE.md
 ---

@@ -7,7 +7,7 @@ homepage: https://github.com/murraco/jekyll-theme-minimal-resume
 download: https://github.com/murraco/jekyll-theme-minimal-resume/archive/master.zip
 demo: https://jekyll-theme-minimal-resume.netlify.app/
 author: Mauricio Urraco <mauriurraco@gmail.com>
-thumbnail: minimal-resume.png
+thumbnail: minimal-resume.webp
 license: MIT
 license_link: https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/LICENSE
 carousel:

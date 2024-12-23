@@ -7,7 +7,7 @@ homepage: https://github.com/oinam/oinam-jekyll
 download: https://github.com/oinam/oinam-jekyll/archive/refs/heads/main.zip
 demo: https://oinam.github.io/oinam-jekyll/
 author: "Brajeshwar"
-thumbnail: oinam-jekyll.png
+thumbnail: oinam-jekyll.webp
 license: MIT
 license_link: https://github.com/oinam/oinam-jekyll/blob/main/LICENSE
 carousel:

@@ -6,7 +6,7 @@ date: 2023-02-28 7:00:00 +01:00
 homepage: https://github.com/sorphwer/jekyll-theme-panda
 download: https://github.com/sorphwer/jekyll-theme-panda/archive/refs/tags/Release.zip
 author: Riino Zhang
-thumbnail: jekyll-theme-panda.jpg
+thumbnail: jekyll-theme-panda.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---

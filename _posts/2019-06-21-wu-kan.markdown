@@ -7,7 +7,7 @@ homepage: https://jekyll-theme-WuK.wu-kan.cn
 download: https://github.com/wu-kan/wu-kan.github.io/archive/master.zip
 demo: https://wu-kan.cn
 author: WuK
-thumbnail: wu-kan.png
+thumbnail: wu-kan.webp
 license: MIT
 license_link: https://github.com/wu-kan/wu-kan.github.io/blob/master/LICENSE
 ---

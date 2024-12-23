@@ -7,7 +7,7 @@ homepage: https://github.com/CloudCannon/cause-jekyll-template
 download: https://github.com/CloudCannon/cause-jekyll-template/archive/master.zip
 demo: https://clean-oryx.cloudvent.net/
 author: CloudCannon
-thumbnail: cause.png
+thumbnail: cause.webp
 license: MIT
 license_link: https://github.com/CloudCannon/cause-jekyll-template/blob/master/LICENSE
 carousel:

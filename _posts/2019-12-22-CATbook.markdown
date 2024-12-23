@@ -7,7 +7,7 @@ homepage: https://github.com/starry99/catbook
 download: https://github.com/starry99/catbook/archive/master.zip
 demo: https://starry99.github.io/catbook
 author: Starry99
-thumbnail: catbook.png
+thumbnail: catbook.webp
 license: MIT
 license_link: https://github.com/starry99/catbook/blob/master/LICENSE
 carousel:

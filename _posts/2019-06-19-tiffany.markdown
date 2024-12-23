@@ -7,7 +7,7 @@ homepage: https://github.com/bit-ranger/blog
 download: https://github.com/bit-ranger/blog/archive/gh-pages.zip
 demo: https://bit-ranger.github.io/blog
 author: bit-ranger
-thumbnail: tiffany.png
+thumbnail: tiffany.webp
 license: MIT
 license_link: https://github.com/bit-ranger/blog/blob/gh-pages/LICENSE
 ---

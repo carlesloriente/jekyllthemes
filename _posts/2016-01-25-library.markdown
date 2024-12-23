@@ -7,7 +7,7 @@ homepage: https://github.com/alexcarpenter/library-jekyll-theme
 download: https://github.com/alexcarpenter/library-jekyll-theme/archive/gh-pages.zip
 demo: https://alexcarpenter.github.io/library-jekyll-theme/
 author: Alex Carpenter
-thumbnail: library.jpg
+thumbnail: library.webp
 license: MIT
 license_link: https://github.com/alexcarpenter/library-jekyll-theme/blob/gh-pages/LICENSE
 carousel:

@@ -7,7 +7,7 @@ homepage: https://github.com/heliumjk/heliumjk.github.io
 download: https://github.com/heliumjk/heliumjk.github.io/archive/master.zip
 demo: https://heliumjk.github.io/
 author: Antonio Trento
-thumbnail: helium.png
+thumbnail: helium.webp
 license: MIT
 license_link: https://github.com/heliumjk/heliumjk.github.io/blob/master/LICENSE
 carousel:

@@ -6,7 +6,7 @@ date: 2015-02-21 02:30:00 +01:00
 homepage: https://github.com/ariestiyansyah/naringu
 download: https://github.com/ariestiyansyah/naringu/archive/master.zip
 author: Rizky Ariestiyansyah
-thumbnail: naringu.png
+thumbnail: naringu.webp
 license: MIT
 license_link: https://github.com/ariestiyansyah/naringu/blob/master/LICENSE.md
 ---

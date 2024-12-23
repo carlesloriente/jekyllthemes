@@ -7,7 +7,7 @@ homepage: https://le4ker.github.io/personal-jekyll-theme/
 download: https://github.com/le4ker/personal-jekyll-theme/archive/master.zip
 demo: https://le4ker.github.io/personal-jekyll-theme/
 author: Panos Sakkos
-thumbnail: personal.jpg
+thumbnail: personal.webp
 license: MIT
 license_link: https://github.com/le4ker/personal-jekyll-theme/blob/master/LICENSE
 carousel:

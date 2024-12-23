@@ -6,7 +6,7 @@ date: 2024-02-06 20:00:00 +01:00
 homepage: https://github.com/byanko55/jekyll-theme-satellite
 download: https://github.com/byanko55/jekyll-theme-satellite/releases
 demo: https://byanko55.github.io/
-thumbnail: jekyll-theme-satellite.png
+thumbnail: jekyll-theme-satellite.webp
 author: "Yankos"
 license: MIT
 license_link: https://github.com/byanko55/jekyll-theme-satellite/blob/master/LICENSE

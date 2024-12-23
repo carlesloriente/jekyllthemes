@@ -7,7 +7,7 @@ homepage: https://github.com/sergiokopplin/violet
 download: https://github.com/sergiokopplin/violet/archive/gh-pages.zip
 demo: https://sergiokopplin.github.io/violet/
 author: Sérgio Kopplin
-thumbnail: violet.png
+thumbnail: violet.webp
 license: MIT
 license_link: https://kopplin.mit-license.org/
 ---

@@ -7,7 +7,7 @@ homepage: https://github.com/Focx-o/Focx-o.github.io
 download: https://github.com/Focx-o/Focx-o.github.io/archive/refs/heads/master.zip
 demo: http://focx-o.github.io/
 author: Ankan Biswas
-thumbnail: atmosplus.png
+thumbnail: atmosplus.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/Focx-o/Focx-o.github.io/refs/heads/master/LICENSE.md
 ---

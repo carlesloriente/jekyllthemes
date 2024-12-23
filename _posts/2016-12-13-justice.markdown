@@ -7,7 +7,7 @@ homepage: https://github.com/CloudCannon/justice-jekyll-template
 download: https://github.com/CloudCannon/justice-jekyll-template/archive/master.zip
 demo: https://grey-grouse.cloudvent.net/
 author: CloudCannon
-thumbnail: justice.png
+thumbnail: justice.webp
 license: MIT
 license_link: https://github.com/CloudCannon/justice-jekyll-template/blob/master/LICENSE
 carousel:

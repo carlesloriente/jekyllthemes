@@ -7,7 +7,7 @@ homepage: https://github.com/ssokurenko/jekyll-smart-material
 download: https://github.com/ssokurenko/jekyll-smart-material/archive/gh-pages.zip
 demo: https://ssokurenko.github.io/jekyll-smart-material/
 author: Sergey Sokurenko
-thumbnail: smart-material-theme.jpg
+thumbnail: smart-material-theme.webp
 license: MIT
 license_link: https://github.com/portfolio-central/jekyll-instagram-portfolio-theme/blob/gh-pages/LICENSE.md
 carousel:

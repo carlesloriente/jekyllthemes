@@ -7,7 +7,7 @@ homepage: https://github.com/benradford/Slate-and-Simple-Jekyll-Theme
 download: https://github.com/benradford/Slate-and-Simple-Jekyll-Theme.git
 demo: https://benradford.github.io
 author: Benjamin J. Radford
-thumbnail: slate-and-simple.png
+thumbnail: slate-and-simple.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/benradford/Slate-and-Simple-Jekyll-Theme/refs/heads/master/LICENSE
 ---

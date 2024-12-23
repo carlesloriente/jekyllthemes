@@ -7,7 +7,7 @@ homepage: https://github.com/biomadeira/vitae
 download: https://github.com/biomadeira/vitae/archive/gh-pages.zip
 demo: https://jekyllt.github.io/vitae/
 author: biomadeira
-thumbnail: vitae.png
+thumbnail: vitae.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---

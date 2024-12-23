@@ -7,7 +7,7 @@ homepage: https://github.com/jwillmer/jekyllDecent
 download: https://github.com/jwillmer/jekyllDecent/archive/gh-pages.zip
 demo: https://jwillmer.de
 author: Jens Willmer
-thumbnail: jekyllDecent.png
+thumbnail: jekyllDecent.webp
 license: MIT
 license_link: https://github.com/jwillmer/jekyllDecent/blob/gh-pages/LICENSE
 ---

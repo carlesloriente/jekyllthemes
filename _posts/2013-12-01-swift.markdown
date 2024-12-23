@@ -7,7 +7,7 @@ homepage: https://github.com/pranavrajs/swift/
 download: https://github.com/pranavrajs/swift/archive/master.zip
 demo: https://pranavrajs.github.io/swift/
 author: Pranav
-thumbnail: swift.png
+thumbnail: swift.webp
 license: MIT
 license_link: https://github.com/pranavrajs/swift/blob/master/LICENSE
 carousel:

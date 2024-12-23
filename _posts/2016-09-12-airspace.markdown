@@ -7,7 +7,7 @@ homepage: https://github.com/luminousrubyist/airspace-jekyll
 download: https://github.com/luminousrubyist/airspace-jekyll/archive/master.zip
 demo: https://luminousrubyist.github.io/airspace-jekyll
 author: Andrew Lee
-thumbnail: airspace.png
+thumbnail: airspace.webp
 license: ThemeFisher
 license_link: https://github.com/luminousrubyist/airspace-jekyll/blob/master/LICENSE.md
 carousel:

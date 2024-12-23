@@ -7,7 +7,7 @@ homepage: https://github.com/drjekyllthemes/jekyll-bootstrap-theme
 download: https://github.com/drjekyllthemes/jekyll-bootstrap-theme/archive/gh-pages.zip
 demo: https://henrythemes.github.io/jekyll-bootstrap-theme/
 author: Gerald Bauer
-thumbnail: drjekyll-bootstrap.png
+thumbnail: drjekyll-bootstrap.webp
 license: Public Domain
 carousel:
   - 'screenshot.png'

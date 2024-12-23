@@ -7,7 +7,7 @@ homepage: https://github.com/thephuse/strange_case
 download: https://github.com/thephuse/strange_case/archive/gh-pages.zip
 demo: https://thephuse.github.io/strange_case/
 author: Phuse
-thumbnail: strange-case.png
+thumbnail: strange-case.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:

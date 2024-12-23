@@ -7,7 +7,7 @@ homepage: https://github.com/nrandecker/particle
 download: https://github.com/nrandecker/particle/archive/master.zip
 demo: https://nrandecker.github.io/particle
 author: Nathan Randecker
-thumbnail: particle.png
+thumbnail: particle.webp
 license: MIT
 license_link: https://github.com/nrandecker/particle/blob/master/LICENSE.txt
 ---

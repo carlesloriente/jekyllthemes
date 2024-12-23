@@ -7,7 +7,7 @@ homepage: https://projectpages.github.io/
 download: https://github.com/projectpages/project-pages/archive/gh-pages.zip
 demo: https://projectpages.github.io/project-pages/
 author: Ahmet Cecen
-thumbnail: project-pages.png
+thumbnail: project-pages.webp
 license: Apache 2.0
 license_link: https://github.com/projectpages/project-pages/blob/gh-pages/LICENSE.md
 carousel:

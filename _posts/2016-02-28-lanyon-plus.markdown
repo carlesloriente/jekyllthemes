@@ -7,7 +7,7 @@ homepage: https://github.com/dyndna/lanyon-plus
 download: https://github.com/dyndna/lanyon-plus/releases/latest
 demo: https://dyndna.github.io/lanyon-plus
 author: Samir Amin @SBAmin
-thumbnail: lanyon-plus.png
+thumbnail: lanyon-plus.webp
 license: MIT
 license_link: https://sbamin.com/disclosure/#theme-major-credit--license
 carousel:

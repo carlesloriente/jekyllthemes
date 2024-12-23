@@ -7,7 +7,7 @@ homepage: https://www.wowthemes.net/mediumish-free-jekyll-template/
 download: https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip
 demo: https://wowthemesnet.github.io/mediumish-theme-jekyll/
 author: WowThemesNet
-thumbnail: mediumish.png
+thumbnail: mediumish.webp
 license: CC-BY-NC-SA-4.0
 license_link: https://github.com/wowthemesnet/mediumish-theme-jekyll/blob/master/LICENSE.txt
 carousel:

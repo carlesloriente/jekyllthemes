@@ -7,7 +7,7 @@ homepage: https://github.com/onepase/Ephesus
 download: https://github.com/onepase/Ephesus/archive/refs/heads/master.zip
 demo: https://pardin.us/ephesus/
 author: "Hakan Torun"
-thumbnail: ephesus-jekyll-theme.png
+thumbnail: ephesus-jekyll-theme.webp
 license: MIT
 license_link: https://github.com/onepase/Ephesus/blob/master/LICENSE
 carousel:

@@ -6,7 +6,7 @@ date: 2014-09-09 00:16:00 +01:00
 homepage: https://github.com/gayanvirajith/harmony
 download: https://github.com/gayanvirajith/harmony/archive/master.zip
 author: Gayan Virajith
-thumbnail: harmony.jpg
+thumbnail: harmony.webp
 license: MIT
 license_link: https://github.com/gayanvirajith/harmony/blob/master/LICENSE.md
 carousel: 

@@ -7,7 +7,7 @@ homepage: https://github.com/cute-angelia/jekyll-theme-eston
 download: https://github.com/cute-angelia/jekyll-theme-eston/archive/master.zip
 demo: https://cute-angelia.github.io/jekyll-theme-eston/
 author: Cyw
-thumbnail: eston.jpg
+thumbnail: eston.webp
 license: MIT
 license_link: https://github.com/cute-angelia/jekyll-theme-eston/blob/master/LICENSE.txt
 carousel:

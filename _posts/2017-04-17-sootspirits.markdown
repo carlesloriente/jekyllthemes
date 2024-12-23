@@ -7,7 +7,7 @@ homepage: https://github.com/abhn/Soot-Spirits
 download: https://github.com/abhn/Soot-Spirits/archive/master.zip
 demo: https://sootspirits.github.io
 author: Abhishek Nagekar
-thumbnail: sootspirits.png
+thumbnail: sootspirits.webp
 license: MIT
 license_link: https://opensource.org/license/mit
 ---

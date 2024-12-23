@@ -7,7 +7,7 @@ homepage: https://github.com/samarsault/plainwhite-jekyll
 download: https://github.com/samarsault/plainwhite-jekyll/archive/master.zip
 demo: https://samarsault.com/
 author: samarsault
-thumbnail: plainwhite.png
+thumbnail: plainwhite.webp
 license: MIT
 license_link: https://github.com/samarsault/plainwhite-jekyll/blob/master/LICENSE.txt
 ---

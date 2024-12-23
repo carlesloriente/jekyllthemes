@@ -7,7 +7,7 @@ homepage: https://github.com/pro-panda/parchment/
 download: https://github.com/pro-panda/parchment/archive/master.zip
 demo: https://rahulbothra.com/parchment/
 author: pro-panda
-thumbnail: parchment.jpg
+thumbnail: parchment.webp
 license: GPLv3
 license_link: https://github.com/pro-panda/parchment/blob/master/LICENSE
 carousel:

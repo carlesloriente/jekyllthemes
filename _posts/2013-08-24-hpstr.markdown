@@ -7,7 +7,7 @@ homepage: https://github.com/mmistakes/hpstr-jekyll-theme
 download: https://github.com/mmistakes/hpstr-jekyll-theme/archive/master.zip
 demo: https://mmistakes.github.io/jekyll-theme-hpstr/
 author: Michael Rose
-thumbnail: hpstr.png
+thumbnail: hpstr.webp
 license: MIT
 license_link: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/LICENSE
 carousel:

@@ -6,7 +6,7 @@ date: 2016-06-22 04:14:03 +01:00
 homepage: https://github.com/billyfish152/Renge
 download: https://github.com/billyfish152/Renge/archive/master.zip
 author: Junchao Wang
-thumbnail: Renge.png
+thumbnail: Renge.webp
 license: MIT
 license_link: https://github.com/billyfish152/Renge/blob/master/LICENSE.md
 ---

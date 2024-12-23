@@ -7,7 +7,7 @@ homepage: https://github.com/riggraz/no-style-please
 download: https://github.com/riggraz/no-style-please/archive/master.zip
 demo: https://riggraz.dev/no-style-please/
 author: riggraz
-thumbnail: no-style-please.png
+thumbnail: no-style-please.webp
 license: MIT
 license_link: https://github.com/riggraz/no-style-please/blob/v0.2.0/LICENSE.txt
 carousel:

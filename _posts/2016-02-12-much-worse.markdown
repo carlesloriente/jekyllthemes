@@ -7,7 +7,7 @@ homepage: https://github.com/gchauras/much-worse-jekyll-theme
 download: https://github.com/gchauras/much-worse-jekyll-theme/archive/gh-pages.zip
 demo: https://gchauras.github.io/
 author: Gaurav Chaurasia
-thumbnail: much-worse.png
+thumbnail: much-worse.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---

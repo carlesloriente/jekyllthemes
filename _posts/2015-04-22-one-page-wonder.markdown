@@ -7,7 +7,7 @@ homepage: https://github.com/mushishi78/one-page-wonder-jekyll
 download: https://github.com/mushishi78/one-page-wonder-jekyll/archive/gh-pages.zip
 demo: https://mushishi78.github.io/one-page-wonder-jekyll
 author: Max White
-thumbnail: one-page-wonder.jpg
+thumbnail: one-page-wonder.webp
 license: MIT
 license_link: https://github.com/mushishi78/one-page-wonder-jekyll/blob/gh-pages/LICENSE.txt
 carousel:

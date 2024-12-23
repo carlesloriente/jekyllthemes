@@ -6,7 +6,7 @@ date: 2016-01-06 15:45:45 +05:30
 homepage: https://github.com/ninapetrop/Little-Big-Blue
 download: https://github.com/ninapetrop/Little-Big-Blue/archive/master.zip
 author: Nina Petropoulos
-thumbnail: little-big-blue.png
+thumbnail: little-big-blue.webp
 license: MIT
 license_link: https://github.com/ninapetrop/Little-Big-Blue/blob/master/license.txt
 ---

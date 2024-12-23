@@ -7,7 +7,7 @@ homepage: https://github.com/kaptn3/future-imperfect
 download: https://github.com/kaptn3/future-imperfect/archive/master.zip
 demo: https://future-imperfect.kaptn.ru
 author: Kaptn
-thumbnail: future-imperfect.png
+thumbnail: future-imperfect.webp
 license: MIT
 license_link: https://github.com/kaptn3/future-imperfect/blob/master/LICENSE
 ---

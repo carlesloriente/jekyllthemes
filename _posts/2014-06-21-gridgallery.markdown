@@ -6,7 +6,7 @@ date: 2014-06-21 20:00:00 +01:00
 homepage: https://github.com/nadjetey/GridGallery
 download: https://github.com/nadjetey/GridGallery/archive/master.zip
 author: Nii Adjetey Sowah
-thumbnail: gridgallery.png
+thumbnail: gridgallery.webp
 license: WTF
 license_link: https://www.wtfpl.net/txt/copying/
 ---

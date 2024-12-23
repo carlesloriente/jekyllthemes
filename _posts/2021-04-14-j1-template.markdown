@@ -7,7 +7,7 @@ homepage: https://jekyll.one/
 download: https://github.com/jekyll-one/j1-template-starter/archive/refs/heads/main.zip
 demo: https://j1-template-starter.netlify.app/
 author: Jürgen Adams
-thumbnail: j1-template-thumb-0000.jpg
+thumbnail: j1-template-thumb-0000.webp
 license: MIT
 license_link: https://opensource.org/license/mit
 carousel:

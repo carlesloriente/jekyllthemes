@@ -6,7 +6,7 @@ date: 2019-12-11 10:20:00 +01:00
 homepage: https://github.com/tareqdandachi/jekyll-shell-theme
 download: https://rubygems.org/gems/jekyll-shell-theme
 author: Tareq El Dandachi
-thumbnail: shell.png
+thumbnail: shell.webp
 license: MIT
 license_link: https://github.com/tareqdandachi/jekyll-shell-theme/blob/master/LICENSE
 ---

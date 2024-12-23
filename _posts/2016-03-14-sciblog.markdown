@@ -7,7 +7,7 @@ homepage: https://github.com/yourfreebies/sciblog
 download: https://github.com/yourfreebies/sciblog/archive/master.zip
 demo: https://yourfreebies.github.io/sciblog/
 author: airraya
-thumbnail: sciblog.png
+thumbnail: sciblog.webp
 license: MIT
 license_link: https://github.com/yourfreebies/sciblog/blob/master/LICENSE
 carousel:

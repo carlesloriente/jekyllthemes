@@ -7,7 +7,7 @@ homepage: https://github.com/ankitsultana/Chaplin
 download: https://github.com/ankitsultana/Chaplin/archive/master.zip
 demo: https://ankitsultana.github.io/Chaplin
 author: Ankit Sultana
-thumbnail: chaplin.png
+thumbnail: chaplin.webp
 license: MIT
 license_link: https://github.com/ankitsultana/Chaplin/blob/master/LICENSE
 carousel:

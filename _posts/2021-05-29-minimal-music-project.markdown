@@ -7,7 +7,7 @@ homepage: https://github.com/ItsMeaga1n/minimal-music-project
 download: https://github.com/ItsMeaga1n/minimal-music-project/archive/master.zip
 demo: https://minimal-music-project.netlify.app/
 author: Patryk Bieszke
-thumbnail: minimal-music-project-thumbnail.png
+thumbnail: minimal-music-project-thumbnail.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/itsmeaga1n/minimal-music-project/master/LICENSE.txt
 carousel:

@@ -7,7 +7,7 @@ homepage: https://github.com/vincentchan/mickey
 download: https://github.com/vincentchan/mickey/archive/master.zip
 demo: https://vincentchan.github.io/mickey/
 author: Vincent Chan
-thumbnail: mickey.png
+thumbnail: mickey.webp
 license: MIT
 license_link: https://github.com/vincentchan/mickey/blob/master/LICENSE.md
 carousel:

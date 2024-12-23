@@ -7,7 +7,7 @@ homepage: https://github.com/Liberxue/liberxue.github.io
 download: https://codeload.github.com/Liberxue/liberxue.github.io/zip/master
 demo: https://liberxue.github.io/
 author:  Liberxue Theme
-thumbnail: liberxue.png
+thumbnail: liberxue.webp
 license: GPLv2
 license_link: https://github.com/joytou/joytou.github.io/blob/master/LICENSE
 carousel:

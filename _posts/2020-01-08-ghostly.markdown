@@ -7,7 +7,7 @@ homepage: https://www.jmlilly.net/ghostly
 download: https://github.com/jonathanlilly/ghostly/archive/master.zip
 demo: https://www.jmlilly.net
 author: Jonathan M. Lilly
-thumbnail: ghostly.png
+thumbnail: ghostly.webp
 license: MIT
 license_link: https://github.com/jonathanlilly/ghostly/blob/master/LICENSE
 ---

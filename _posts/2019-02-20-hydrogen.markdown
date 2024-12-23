@@ -7,7 +7,7 @@ homepage: https://github.com/link9596/hydrogen
 download: https://github.com/link9596/hydrogen/archive/master.zip
 demo: https://hydrogen.atlinker.cn
 author: Link
-thumbnail: hydrogen.png
+thumbnail: hydrogen.webp
 carousel:
   - 'screenshot.png'
 ---

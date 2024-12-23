@@ -7,7 +7,7 @@ homepage: https://github.com/nickbalestra/kactus
 download: https://github.com/nickbalestra/kactus/archive/master.zip
 demo: https://nick.balestra.ch/2015/Kactus/
 author: Nick Balestra
-thumbnail: kactus.png
+thumbnail: kactus.webp
 license: MIT
 license_link: https://github.com/nickbalestra/kactus/blob/master/LICENSE
 carousel:

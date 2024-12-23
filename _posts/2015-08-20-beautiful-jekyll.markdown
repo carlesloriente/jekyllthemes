@@ -7,7 +7,7 @@ homepage: https://github.com/daattali/beautiful-jekyll
 download: https://github.com/daattali/beautiful-jekyll/archive/master.zip
 demo: https://beautifuljekyll.com/
 author: Dean Attali
-thumbnail: beautiful-jekyll.png
+thumbnail: beautiful-jekyll.webp
 license: MIT
 license_link: https://github.com/daattali/beautiful-jekyll/blob/master/LICENSE
 carousel:

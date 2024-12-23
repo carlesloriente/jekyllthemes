@@ -7,7 +7,7 @@ homepage: https://hmfaysal.github.io/
 download: https://github.com/hmfaysal/Notepad/archive/gh-pages.zip
 demo: https://hmfaysal.github.io/Notepad/
 author: Hossain Mohd Faysal
-thumbnail: hmfaysal-notepad.png
+thumbnail: hmfaysal-notepad.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:

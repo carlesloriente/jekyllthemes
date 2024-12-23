@@ -6,7 +6,7 @@ date: 2019-10-14 14:07:00 +01:00
 homepage: https://github.com/bradykondek/streamer
 download: https://github.com/bradykondek/streamer/archive/master.zip
 author: Brady Kondek
-thumbnail: streamer-theme.png
+thumbnail: streamer-theme.webp
 license: MIT
 license_link: https://github.com/bradykondek/streamer/blob/master/LICENSE
 ---

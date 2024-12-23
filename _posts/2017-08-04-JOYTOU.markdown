@@ -6,7 +6,7 @@ date: 2017-08-04 00:08:00 +01:00
 homepage: https://github.com/joytou/joytou.github.io
 download: https://github.com/joytou/joytou.github.io/archive/master.zip
 author: Joytou
-thumbnail: JOYTOU.png
+thumbnail: JOYTOU.webp
 license: GPLv2
 license_link: https://github.com/joytou/joytou.github.io/blob/master/LICENSE
 ---

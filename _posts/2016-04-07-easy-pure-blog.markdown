@@ -7,7 +7,7 @@ homepage: https://github.com/liungkejin/liungkejin.github.io
 download: https://github.com/liungkejin/liungkejin.github.io/archive/master.zip
 demo: https://liungkejin.github.io/
 author: Kejin
-thumbnail: easy-pure-blog.png
+thumbnail: easy-pure-blog.webp
 license: MIT
 license_link: https://github.com/liungkejin/liungkejin.github.io/blob/master/LICENSE.md
 ---

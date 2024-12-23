@@ -7,7 +7,7 @@ homepage: https://github.com/thomasvaeth/trophy-jekyll
 download: https://github.com/thomasvaeth/trophy-jekyll/archive/master.zip
 demo: https://thomasvaeth.com/trophy/
 author: Thomas Vaeth
-thumbnail: trophy.jpg
+thumbnail: trophy.webp
 license: MIT
 license_link: https://github.com/thomasvaeth/trophy-jekyll/blob/master/LICENSE.txt
 carousel:

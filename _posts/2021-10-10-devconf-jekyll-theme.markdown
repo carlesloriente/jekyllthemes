@@ -7,7 +7,7 @@ homepage: https://github.com/la-rebelion/DevConf-Jekyll-Theme
 download: https://github.com/la-rebelion/DevConf-Jekyll-Theme/archive/refs/heads/master.zip
 demo: https://la-rebelion.github.io/DevConf-Jekyll-Theme
 author: "Original - Xiaoying Riley | Mod: La Rebelion Labs/Adrian Escutia"
-thumbnail: DevConf-Jekyll-Theme-thumbnail.png
+thumbnail: DevConf-Jekyll-Theme-thumbnail.webp
 license: CC-BY-NC-SA-4.0
 license_link: https://github.com/la-rebelion/DevConf-Jekyll-Theme#author--license
 carousel:

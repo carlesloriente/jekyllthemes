@@ -6,7 +6,7 @@ date: 2017-11-12 07:00:00 +01:00
 homepage: https://github.com/iwiedenm/jekyll-theme-massively-src
 download: https://github.com/iwiedenm/jekyll-theme-massively-src/archive/master.zip
 author: Somiibo
-thumbnail: massively.png
+thumbnail: massively.webp
 license: CC-BY-3.0
 license_link: https://github.com/iwiedenm/jekyll-theme-massively-src/blob/master/LICENSE.md
 ---

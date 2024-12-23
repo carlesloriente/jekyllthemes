@@ -7,7 +7,7 @@ homepage: https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/
 download: https://github.com/wowthemesnet/jekyll-theme-memoirs/archive/master.zip
 demo: https://wowthemesnet.github.io/jekyll-theme-memoirs
 author: wowthemesnet
-thumbnail: memoirs.jpg
+thumbnail: memoirs.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/wowthemesnet/jekyll-theme-memoirs/master/LICENSE.txt
 ---

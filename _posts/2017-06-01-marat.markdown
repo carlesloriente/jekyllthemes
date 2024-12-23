@@ -7,7 +7,7 @@ homepage: https://github.com/JohnCoene/marat
 download: https://github.com/JohnCoene/marat/archive/master.zip
 demo: https://marat.john-coene.com
 author: John Coene
-thumbnail: marat.png
+thumbnail: marat.webp
 license: MIT
 license_link: https://github.com/JohnCoene/marat/blob/master/LICENSE
 carousel:

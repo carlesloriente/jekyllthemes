@@ -7,7 +7,7 @@ homepage: https://github.com/TaylanTatli/Ramme
 download: https://github.com/TaylanTatli/Ramme/archive/gh-pages.zip
 demo: https://tolgatatli.github.io/Ramme/
 author: Taylan Tatlı
-thumbnail: ramme.png
+thumbnail: ramme.webp
 license: MIT
 license_link: https://github.com/TaylanTatli/Ramme/blob/gh-pages/LICENSE
 carousel:

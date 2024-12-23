@@ -7,7 +7,7 @@ homepage: https://github.com/KeJunMao/jekyll-theme-mdui
 download: https://github.com/KeJunMao/jekyll-theme-mdui/archive/master.zip
 demo: https://stoic-minsky-d7bb8b.netlify.app/
 author: KeJun
-thumbnail: jekyll-theme-mdui.png
+thumbnail: jekyll-theme-mdui.webp
 license: MIT
 license_link: https://github.com/KeJunMao/jekyll-theme-mdui/blob/master/LICENSE.txt
 carousel:

@@ -7,7 +7,7 @@ homepage: https://github.com/chrisrhymes/mere-blog-theme
 download: https://rubygems.org/gems/mere-blog-theme
 demo: https://www.csrhymes.com/mere-blog-theme/
 author: chrisrhymes
-thumbnail: mere-blog-theme.jpg
+thumbnail: mere-blog-theme.webp
 license: MIT
 license_link: https://github.com/chrisrhymes/mere-blog-theme/blob/master/LICENSE.txt
 carousel:

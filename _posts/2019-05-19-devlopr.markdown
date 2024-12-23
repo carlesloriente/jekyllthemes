@@ -7,7 +7,7 @@ homepage: https://github.com/sujaykundu777/devlopr-jekyll
 download: https://rubygems.org/gems/devlopr
 demo: https://devlopr.netlify.app/#/
 author: Sujay Kundu
-thumbnail: devlopr.png
+thumbnail: devlopr.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:
