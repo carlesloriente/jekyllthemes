@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: Post template
+description: Short theme description 
 date: 2030-01-01 20:00:00 +01:00
 update_date:
 homepage: https://homepage.url

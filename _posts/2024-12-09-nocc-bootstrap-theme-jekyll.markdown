@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: NOCC Jekyll Bundle
+description: A responsive Bootstrap 5 dual theme
 date: 2024-12-09 17:20:01 +01:00
 homepage: https://bootstrap-theme.notesoncloudcomputing.com/
 download: https://github.com/carlesloriente/bootstrap-theme-jekyll/archive/refs/heads/main.zip
