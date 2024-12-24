@@ -22,4 +22,4 @@ I have made this into a Jekyll Theme.
 
 * Fork the repository
 * Go to settings and set Github Pages source as master.
-* Your new site should be ready at https://username.github.io/PanelCV/
+* Your new site should be ready at `https://username.github.io/PanelCV/`

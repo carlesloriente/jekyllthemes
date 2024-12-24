@@ -64,7 +64,7 @@ slug: we-are-developers-2024
 * Create as many events as you want.
 * Make sure GitHub Pages are turned on in the repository settings, and pointing to the `main` or `master` branch (where you cloned this repo).
 * Commit and push changes.
-* Your new site should be ready at https://username.github.io/DevConf-Jekyll-Theme.
+* Your new site should be ready at `https://username.github.io/DevConf-Jekyll-Theme`.
 
 To run it locally:
 
