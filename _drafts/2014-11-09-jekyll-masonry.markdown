@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Jekyll Masonry
 date: 2014-11-09 00:00:00
-homepage: https://github.com/pasindud/jekyll-masonry
+repo: https://github.com/pasindud/jekyll-masonry
 download: https://github.com/pasindud/jekyll-masonry/archive/master.zip
 demo: https://pasindud.github.io/
 author: Pasindu De Silva

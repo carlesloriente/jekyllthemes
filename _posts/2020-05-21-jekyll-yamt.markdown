@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: YAMT
 date: 2020-05-21 16:00:00 +01:00
-homepage: https://github.com/PandaSekh/Jekyll-YAMT
+repo: https://github.com/PandaSekh/Jekyll-YAMT
 download: https://github.com/PandaSekh/Jekyll-YAMT/releases/latest
 demo: https://yamt.netlify.app/
 author: Alessio Franceschi

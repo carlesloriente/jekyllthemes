@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Persephone
 date: 2019-07-10 09:00:00 +01:00
-homepage: https://github.com/erlzhang/jekyll-theme-persephone
+repo: https://github.com/erlzhang/jekyll-theme-persephone
 download: https://github.com/erlzhang/jekyll-theme-persephone/archive/master.zip
 demo: https://erl.im
 author: Sharon Zhang

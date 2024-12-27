@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: TeXt
 date: 2017-09-21 20:00:00 +01:00
-homepage: https://github.com/kitian616/jekyll-TeXt-theme
+repo: https://github.com/kitian616/jekyll-TeXt-theme
 demo: https://tianqi.name/jekyll-TeXt-theme/
 author: Tian Qi
 thumbnail: TeXt.webp

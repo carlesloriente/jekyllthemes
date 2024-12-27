@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: hushaw
 date: 2014-01-23 01:42:00
-homepage: https://github.com/hushaw/hushaw.github.com
+repo: https://github.com/hushaw/hushaw.github.com
 download: https://github.com/hushaw/hushaw.github.com/archive/master.zip
 demo: https://hushaw.github.io
 author: signifox

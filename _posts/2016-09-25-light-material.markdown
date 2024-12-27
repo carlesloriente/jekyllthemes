@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Light Material
 date: 2016-09-25 20:00:00 +01:00
-homepage: https://github.com/lukas-h/material-theme/
+repo: https://github.com/lukas-h/material-theme/
 download: https://github.com/lukas-h/material-theme/archive/gh-pages.zip
 author: Lukas Himsel
 thumbnail: light-material.webp

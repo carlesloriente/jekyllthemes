@@ -3,7 +3,8 @@ layout: post
 comments: true
 title: Web-presentation
 date: 2017-10-31 20:00:00 +01:00
-homepage: https://deepidea.github.io/web-presentation/
+repo: https://github.com/deepidea/web-presentation/
+download: https://github.com/deepidea/web-presentation/archive/refs/heads/master.zip
 demo: https://deepidea.github.io/web-presentation/
 author: DeepIdea
 thumbnail: web-presentation.webp

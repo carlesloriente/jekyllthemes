@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Trading
 date: 2016-04-08 11:43:00 +01:00
-homepage: https://github.com/altcointrading/trading
+repo: https://github.com/altcointrading/trading
 download: https://github.com/altcointrading/trading/archive/master.zip
 demo: https://www.altcointrading.net/
 author: AltcoinTrading

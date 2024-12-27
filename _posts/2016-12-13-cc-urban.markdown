@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: CC Urban
 date: 2016-12-13 20:00:00 +01:00
-homepage: https://github.com/CloudCannon/urban-jekyll-template
+repo: https://github.com/CloudCannon/urban-jekyll-template
 download: https://github.com/CloudCannon/urban-jekyll-template/archive/master.zip
 demo: https://teal-worm.cloudvent.net/
 author: CloudCannon

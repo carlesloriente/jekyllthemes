@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Documentation
 date: 2015-12-13 12:55 +01:00
-homepage: https://idratherbewriting.com/documentation-theme-jekyll/
+repo: https://idratherbewriting.com/documentation-theme-jekyll/
 download: https://github.com/tomjoht/documentation-theme-jekyll/archive/gh-pages.zip
 demo: https://idratherbewriting.com/documentation-theme-jekyll/
 author: tomjoht

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Galileo
 date: 2015-12-11 14:03:00 +01:00
-homepage: https://github.com/rowanoulton/galileo-theme
+repo: https://github.com/rowanoulton/galileo-theme
 download: https://github.com/rowanoulton/galileo-theme/archive/master.zip
 author: rowanoulton
 thumbnail: galileo.webp

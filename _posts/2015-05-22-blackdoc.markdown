@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: BlackDoc
 date: 2015-05-22 04:59:00 +01:00
-homepage: https://github.com/karloespiritu/BlackDoc
+repo: https://github.com/karloespiritu/BlackDoc
 download: https://github.com/karloespiritu/BlackDoc/archive/master.zip
 demo: https://karloespiritu.com/blackdoc
 author: Karlo Espiritu

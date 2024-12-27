@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Typeset
 date: 2022-08-14 01:42:00
-homepage: https://github.com/livrth/type
+repo: https://github.com/livrth/type
 download: https://github.com/livrth/type/archive/refs/heads/master.zip
 demo: https://typesetting.vercel.app/
 author: livrth

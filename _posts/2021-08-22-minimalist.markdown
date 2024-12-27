@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Minimalist
 date: 2021-08-22 20:00:00 +01:00
-homepage: https://github.com/BDHU/minimalist
+repo: https://github.com/BDHU/minimalist
 download: https://github.com/BDHU/minimalist/archive/main.zip
 demo: https://www.bodunhu.com/minimalist/
 author: Bodun Hu

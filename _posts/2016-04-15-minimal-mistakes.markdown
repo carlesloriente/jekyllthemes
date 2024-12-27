@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Minimal Mistakes
 date: 2016-04-15 10:12:46 +01:00
-homepage: https://github.com/mmistakes/minimal-mistakes
+repo: https://github.com/mmistakes/minimal-mistakes
 download: https://github.com/mmistakes/minimal-mistakes/archive/master.zip
 demo: https://mmistakes.github.io/minimal-mistakes/
 author: Michael Rose

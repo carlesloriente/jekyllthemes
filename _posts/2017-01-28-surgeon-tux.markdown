@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Surgeon Tux
 date: 2017-01-28 18.23.00 +01:00
-homepage: https://lahiru.site/blog/2017/SurgeonTux/
+repo: https://lahiru.site/blog/2017/SurgeonTux/
 download: https://github.com/lpsandaruwan/surgeon-tux/archive/master.zip
 demo: https://lahirus.com/surgeon-tux/
 author: Lahiru Pathirage

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Landing Page
 date: 2014-10-04 20:00:00 +01:00
-homepage: https://github.com/swcool/landing-page-theme
+repo: https://github.com/swcool/landing-page-theme
 download: https://github.com/swcool/landing-page-theme/archive/master.zip
 demo: https://shaneweng.com/landing-page-theme/
 author: Shane Weng

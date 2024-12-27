@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Minimal-block
 date: 2015-01-03 13:46:00 +01:00
-homepage: https://github.com/drvy/minimal-block
+repo: https://github.com/drvy/minimal-block
 download: https://github.com/drvy/minimal-block/archive/master.zip
 demo: https://blog.drvy.net/minimal-block/
 author: Dragomir Yordanov

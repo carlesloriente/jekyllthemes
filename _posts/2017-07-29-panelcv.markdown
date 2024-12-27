@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Panel CV
 date: 2017-07-29 11:32:00 +01:00
-homepage: https://github.com/jekyller/PanelCV
+repo: https://github.com/jekyller/PanelCV
 download: https://github.com/jekyller/PanelCV/archive/master.zip
 demo: https://jekyller.github.io/PanelCV/
 author: Locky

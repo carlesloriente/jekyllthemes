@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Jekyll HTML Pages
 date: 2024-01-01 01:42:00 +01:00
-homepage: https://github.com/francescobianco/jekyll-html-pages
+repo: https://github.com/francescobianco/jekyll-html-pages
 download: https://github.com/francescobianco/jekyll-html-pages/archive/gh-pages.zip
 demo: https://yafb.net/jekyll-html-pages/
 author: Francesco Bianco

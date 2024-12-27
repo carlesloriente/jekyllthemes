@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Vitae
 date: 2015-10-03 20:00:00 +01:00
-homepage: https://github.com/biomadeira/vitae
+repo: https://github.com/biomadeira/vitae
 download: https://github.com/biomadeira/vitae/archive/gh-pages.zip
 demo: https://jekyllt.github.io/vitae/
 author: biomadeira

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Jekyll Clean
 date: 2014-08-23 15:31:11 +01:00
-homepage: https://github.com/scotte/jekyll-clean
+repo: https://github.com/scotte/jekyll-clean
 download: https://github.com/scotte/jekyll-clean/zipball/gh-pages
 demo: https://scotte.github.io/jekyll-clean
 author: Scott Emmons

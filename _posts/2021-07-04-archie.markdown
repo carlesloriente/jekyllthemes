@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Archie
 date: 2021-07-04 01:00:00 +01:00
-homepage: https://github.com/slashformotion/jekyll-archie
+repo: https://github.com/slashformotion/jekyll-archie
 download: https://github.com/slashformotion/jekyll-archie/archive/refs/heads/main.zip
 demo: https://slashformotion.github.io/jekyll-archie/
 author: "Slashformotion, inpiration: @athul"

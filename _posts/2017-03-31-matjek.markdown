@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: MatJek
 date: 2017-03-31 20:00:00 +01:00
-homepage: https://github.com/ShawnTeoh/matjek
+repo: https://github.com/ShawnTeoh/matjek
 download: https://github.com/ShawnTeoh/matjek/archive/gh-pages.zip
 demo: https://shawnteoh.github.io/matjek
 author: Shawn Teoh

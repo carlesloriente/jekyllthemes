@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Onepage
 date: 2016-11-06 20:00:00 +01:00
-homepage: https://github.com/lukas-h/onepage
+repo: https://github.com/lukas-h/onepage
 download: https://github.com/lukas-h/onepage/archive/master.zip
 author: Lukas Himsel
 thumbnail: onepage.webp

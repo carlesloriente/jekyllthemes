@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Papyrus
 date: 2016-11-05 22:35:00 +01:00
-homepage: https://github.com/hugoferreira/papyrus-theme
+repo: https://github.com/hugoferreira/papyrus-theme
 download: https://github.com/hugoferreira/papyrus-theme/archive/master.zip
 demo: https://hugosereno.eu
 author: Hugo Sereno Ferreira

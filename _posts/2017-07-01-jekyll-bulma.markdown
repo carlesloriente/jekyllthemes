@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Jekyll Bulma
 date: 2017-07-01 07:46:00 +01:00
-homepage: https://github.com/erayaydin/jekyll-bulma
+repo: https://github.com/erayaydin/jekyll-bulma
 download: https://github.com/erayaydin/jekyll-bulma/archive/master.zip
 demo: https://erayaydin.github.io/jekyll-bulma/
 author: Eray Aydın

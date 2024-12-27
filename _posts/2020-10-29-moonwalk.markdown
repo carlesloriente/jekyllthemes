@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Moonwalk
 date: 2020-10-29 12:00:00 +01:00
-homepage: https://github.com/abhinavs/moonwalk
+repo: https://github.com/abhinavs/moonwalk
 download: https://github.com/abhinavs/moonwalk/archive/master.zip
 demo: https://www.abhinavsaxena.com/moonwalk/
 author: abhinavs

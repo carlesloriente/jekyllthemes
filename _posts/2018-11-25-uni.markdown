@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Uni One-Page Jekyll
 date: 2018-11-25 21:09:00 +01:00
-homepage: https://github.com/brianmaierjr/uni
+repo: https://github.com/brianmaierjr/uni
 download: https://github.com/brianmaierjr/uni/archive/master.zip
 demo: https://brianmaierjr.com/uni
 author: Brian Maier

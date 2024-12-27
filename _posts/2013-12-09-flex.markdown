@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Flex
 date: 2013-12-09 14:52:00 +01:00
-homepage: https://github.com/the-development/flex
+repo: https://github.com/the-development/flex
 download: https://github.com/the-development/flex/archive/master.zip
 demo: https://the-development.github.io/flex
 author: Jeff Martin

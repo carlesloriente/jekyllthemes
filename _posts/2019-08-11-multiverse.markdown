@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Multiverse
 date: 2019-08-11 20:00:00 +01:00
-homepage: https://github.com/joaomlneto/jekyll-multiverse-template
+repo: https://github.com/joaomlneto/jekyll-multiverse-template
 download: https://github.com/joaomlneto/jekyll-multiverse-template/archive/master.zip
 demo: https://joaomlneto.github.io/jekyll-multiverse-template/
 author: joaomlneto

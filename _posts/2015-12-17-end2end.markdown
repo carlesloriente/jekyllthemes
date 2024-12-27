@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: end2end
 date: 2015-12-17 21:42:09 +01:00
-homepage: https://github.com/nandomoreirame/end2end
+repo: https://github.com/nandomoreirame/end2end
 download: https://github.com/nandomoreirame/end2end/archive/master.zip
 demo: https://nandomoreirame.github.io/end2end/
 author: nandomoreira.me

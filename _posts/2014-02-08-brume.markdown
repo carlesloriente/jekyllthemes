@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: brume
 date: 2014-02-08 19:17:00 +01:00
-homepage: https://github.com/aigarsdz/brume
+repo: https://github.com/aigarsdz/brume
 download: https://github.com/aigarsdz/brume/archive/master.zip
 demo: https://aigarsdz.github.io/brume
 author: Aigars Dzerviniks

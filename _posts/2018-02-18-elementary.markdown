@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Elementary
 date: 2018-02-18 20:00:00 +01:00
-homepage: https://github.com/abhn/Elementary
+repo: https://github.com/abhn/Elementary
 download: https://github.com/abhn/Elementary/archive/master.zip
 demo: https://elementary-jekyll.github.io/
 author: Abhishek Nagekar

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: HackCSS
 date: 2016-08-27 01:42:00 +01:00
-homepage: https://wemake-services.github.io/jekyll-theme-hackcss/
+repo: https://github.com/wemake-services/jekyll-theme-hackcss
 download: https://github.com/wemake-services/jekyll-theme-hackcss/releases
 demo: https://wemake-services.github.io/jekyll-theme-hackcss/
 author: wemake.services

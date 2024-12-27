@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Sciblog
 date: 2016-03-14 03:03:00 +01:00
-homepage: https://github.com/yourfreebies/sciblog
+repo: https://github.com/yourfreebies/sciblog
 download: https://github.com/yourfreebies/sciblog/archive/master.zip
 demo: https://yourfreebies.github.io/sciblog/
 author: airraya

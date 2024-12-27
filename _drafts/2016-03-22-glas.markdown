@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Glas
 date: 2016-03-22 12:00:00
-homepage: https://github.com/SpaceG/glas
+repo: https://github.com/SpaceG/glas
 download: https://github.com/SpaceG/glas/archive/master.zip
 demo: https://lucasgatsas.ch
 author: Lucas Gatsas

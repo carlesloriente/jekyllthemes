@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Clean Blog
 date: 2014-09-27 15:09:00 +01:00
-homepage: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll
+repo: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll
 download: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll/archive/gh-pages.zip
 demo: https://startbootstrap.github.io/startbootstrap-clean-blog-jekyll/
 author: Start Bootstrap

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Everyone
 date: 2018-05-29 21:00:00 +01:00
-homepage: https://github.com/melvinchng/jekyll-for-everyone
+repo: https://github.com/melvinchng/jekyll-for-everyone
 download: https://github.com/melvinchng/jekyll-for-everyone/archive/master.zip
 demo: https://jekyll-for-everyone.github.io/
 author: Melvin Ch'ng

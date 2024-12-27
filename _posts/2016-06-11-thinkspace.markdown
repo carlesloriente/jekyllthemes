@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Thinkspace
 date: 2016-06-11 21:13:00 +01:00
-homepage: https://github.com/heiswayi/thinkspace
+repo: https://github.com/heiswayi/thinkspace
 download: https://github.com/heiswayi/thinkspace/archive/master.zip
 demo: https://heiswayi.github.io/thinkspace/
 author: Heiswayi Nrird

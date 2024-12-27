@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: dotX
 date: 2015-12-21 21:42:09 +01:00
-homepage: https://github.com/nandomoreirame/dotX
+repo: https://github.com/nandomoreirame/dotX
 download: https://github.com/nandomoreirame/dotX/archive/master.zip
 demo: https://nandomoreirame.github.io/dotX/
 author: nandomoreira.me

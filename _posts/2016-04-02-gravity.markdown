@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Gravity
 date: 2016-04-02 11:43:00 +01:00
-homepage: https://github.com/hemangsk/Gravity
+repo: https://github.com/hemangsk/Gravity
 download: https://github.com/hemangsk/Gravity/archive/master.zip
 demo: https://hemangsk.github.io/Gravity
 author: Hemang Kumar (@hemangsk)

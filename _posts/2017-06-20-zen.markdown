@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Zen
 date: 2017-06-20 16:51:00 +01:00
-homepage: https://github.com/zenjekyll/zenjekyll.github.io
+repo: https://github.com/zenjekyll/zenjekyll.github.io
 download: https://github.com/zenjekyll/zenjekyll.github.io/archive/master.zip
 demo: https://zenjekyll.github.io
 author: Zen

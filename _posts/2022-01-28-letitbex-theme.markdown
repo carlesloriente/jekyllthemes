@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Letitbex
-homepage: https://gitlab.com/mrtsukim0t0-/letitbex-theme
+repo: https://gitlab.com/mrtsukim0t0-/letitbex-theme
 download: https://gitlab.com/mrtsukim0t0-/letitbex-theme/-/raw/master/letitbex-theme.tar.gz
 author: 0t0
 thumbnail: letitbex-theme.webp

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: HardCandy-Jekyll
 date: 2018-05-30 09:20:00 +01:00
-homepage: https://github.com/xukimseven/HardCandy-Jekyll
+repo: https://github.com/xukimseven/HardCandy-Jekyll
 download: https://github.com/xukimseven/HardCandy-Jekyll/archive/master.zip
 author: xujinqi
 thumbnail: HardCandy-Jekyll.webp

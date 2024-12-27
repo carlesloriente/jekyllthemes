@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Mdui
 date: 2017-05-30 17:25:00 +01:00
-homepage: https://github.com/KeJunMao/jekyll-theme-mdui
+repo: https://github.com/KeJunMao/jekyll-theme-mdui
 download: https://github.com/KeJunMao/jekyll-theme-mdui/archive/master.zip
 demo: https://stoic-minsky-d7bb8b.netlify.app/
 author: KeJun

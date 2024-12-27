@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Solid
 date: 2014-08-17 12:00:00 +01:00
-homepage: https://github.com/st4ple/solid-jekyll
+repo: https://github.com/st4ple/solid-jekyll
 download: https://github.com/st4ple/solid-jekyll/archive/master.zip
 demo: https://st4ple.github.io/solid-jekyll/
 author: Oliver Stapleton

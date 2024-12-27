@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Millikyl
 date: 2016-01-03 15:45:45 +01:00
-homepage: https://github.com/fareez-ahamed/millikyl
+repo: https://github.com/fareez-ahamed/millikyl
 download: https://github.com/fareez-ahamed/millikyl/archive/master.zip
 demo: https://fareez-ahamed.github.io/millikyl/
 author: Fareez Ahamed

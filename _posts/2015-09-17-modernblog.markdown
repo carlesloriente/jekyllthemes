@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: ModernBlog
 date: 2015-09-17 01:01:00 +01:00
-homepage: https://github.com/inded/Jekyll_modern-blog
+repo: https://github.com/inded/Jekyll_modern-blog
 download: https://github.com/inded/Jekyll_modern-blog/archive/gh-pages.zip
 demo: https://inded.github.io/Jekyll_modern-blog/
 author: Wferr

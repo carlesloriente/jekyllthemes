@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Jacman
 date: 2016-04-24 20:00:00 +01:00
-homepage: https://github.com/Simpleyyt/jekyll-jacman
+repo: https://github.com/Simpleyyt/jekyll-jacman
 download: https://github.com/Simpleyyt/jekyll-jacman/archive/master.zip
 demo: https://simpleyyt.github.io/jekyll-jacman
 author: Yitao Yao

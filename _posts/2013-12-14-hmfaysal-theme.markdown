@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: HMFaysal
 date: 2013-12-14 01:36:00 +01:00
-homepage: https://hmfaysal.github.io
+repo: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme
 download: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/archive/master.zip
 author: Hossain Mohd Faysal
 thumbnail: hmfaysal.webp

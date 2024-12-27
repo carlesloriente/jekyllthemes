@@ -3,8 +3,8 @@ layout: post
 comments: true
 title: Solo (single-page)
 date: 2014-01-24 19:00:00 +01:00
-homepage: https://chibicode.github.io/solo/
-download: https://github.com/chibicode/solo/
+repo: https://github.com/chibicode/solo/
+download: https://github.com/chibicode/solo/archive/refs/heads/gh-pages.zip
 demo: https://chibicode.github.io/solo/
 author: Shu Uesugi
 thumbnail: solo.webp

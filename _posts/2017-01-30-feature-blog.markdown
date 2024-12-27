@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Feature Blog
 date: 2017-01-30 01:38:11 +01:00
-homepage: https://github.com/lavkumarv/feature-blog-jekyll
+repo: https://github.com/lavkumarv/feature-blog-jekyll
 download: https://github.com/lavkumarv/feature-blog-jekyll/archive/master.zip
 author: Lav Kumar Vishwakarma
 thumbnail: feature-blog.webp

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Startbootstrap Agency
 date: 2018-05-29 20:00:00 +01:00
-homepage: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/
+repo: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/
 download: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/archive/master.zip
 demo: https://www.vrachas.com/jekyll-theme-startbootstrap-agency/
 author: Sotirios Vrachas

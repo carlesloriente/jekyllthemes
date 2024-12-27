@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Otter Pop
 date: 2014-05-12 08:20:00 +01:00
-homepage: https://github.com/tybenz/otter-pop/
+repo: https://github.com/tybenz/otter-pop/
 download: https://github.com/tybenz/otter-pop/archive/gh-pages.zip
 demo: https://tybenz.github.io/otter-pop/
 author: Tyler Benziger

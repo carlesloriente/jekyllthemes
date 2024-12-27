@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: BoHu
 date: 2016-04-23 12:00:00 +01:00
-homepage: https://github.com/Clark-Zhao/bohu-jekyll-theme
+repo: https://github.com/Clark-Zhao/bohu-jekyll-theme
 download: https://github.com/Clark-Zhao/bohu-jekyll-theme/archive/gh-pages.zip
 demo: https://Clark-Zhao.github.io/bohu-jekyll-theme/home/
 author: Clark Zhao

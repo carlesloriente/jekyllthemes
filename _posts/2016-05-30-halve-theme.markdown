@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Halve
 date: 2016-05-30 22:47:00 +01:00
-homepage: https://github.com/TaylanTatli/Halve
+repo: https://github.com/TaylanTatli/Halve
 download: https://github.com/TaylanTatli/Halve/archive/master.zip
 demo: https://tolgatatli.github.io/Halve/
 author: Taylan Tatlı

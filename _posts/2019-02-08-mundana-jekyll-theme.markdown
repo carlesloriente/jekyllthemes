@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Mundana Jekyll
 date: 2019-02-08 09:20:00 +01:00
-homepage: https://github.com/wowthemesnet/mundana-theme-jekyll
+repo: https://github.com/wowthemesnet/mundana-theme-jekyll
 download: https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip
 demo: https://wowthemesnet.github.io/mundana-theme-jekyll/
 author: wowthemesnet

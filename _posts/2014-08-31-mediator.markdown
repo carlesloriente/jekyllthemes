@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Mediator
 date: 2014-08-31 18:03:00 +01:00
-homepage: https://github.com/dirkfabisch/mediator
+repo: https://github.com/dirkfabisch/mediator
 download: https://github.com/dirkfabisch/mediator/archive/master.zip
 demo: https://blog.base68.com
 author: Dirk Fabisch

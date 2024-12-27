@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Codinfox Lanyon
 date: 2016-06-03 20:00:00 +01:00
-homepage: https://github.com/codinfox/codinfox-lanyon
+repo: https://github.com/codinfox/codinfox-lanyon
 download: https://github.com/codinfox/codinfox-lanyon/archive/dev.zip
 author: codinfox
 thumbnail: codinfox-lanyon.webp

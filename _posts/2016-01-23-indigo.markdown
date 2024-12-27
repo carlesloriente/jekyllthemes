@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Indigo
 date: 2016-01-23 21:54:00 +01:00
-homepage: https://github.com/sergiokopplin/indigo
+repo: https://github.com/sergiokopplin/indigo
 download: https://github.com/sergiokopplin/indigo/archive/refs/heads/gh-pages.zip
 demo: https://sergiokopplin.github.io/indigo/
 author: Sérgio Kopplin

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: EasyBook
 date: 2016-02-11 22:13:00 +01:00
-homepage: https://github.com/laobubu/jekyll-theme-EasyBook
+repo: https://github.com/laobubu/jekyll-theme-EasyBook
 download: https://github.com/laobubu/jekyll-theme-EasyBook/archive/gh-pages.zip
 demo: https://laobubu.github.io/jekyll-theme-EasyBook
 author: laobubu

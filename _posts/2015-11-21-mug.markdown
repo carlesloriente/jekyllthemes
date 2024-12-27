@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: mug
 date: 2015-11-21 11:42:09 +01:00
-homepage: https://github.com/nandomoreirame/mug
+repo: https://github.com/nandomoreirame/mug
 download: https://github.com/nandomoreirame/mug/archive/master.zip
 demo: https://nandomoreirame.github.io/mug/
 author: nandomoreira.me

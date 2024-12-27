@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Solana
 date: 2017-03-28 20:00:00 +01:00
-homepage: https://github.com/rlue/jekyll-solana
+repo: https://github.com/rlue/jekyll-solana
 download: https://github.com/rlue/jekyll-solana/archive/master.zip
 demo: https://rlue.github.io/jekyll-solana
 author: Ryan Lue

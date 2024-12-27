@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: jekyllBear
 date: 2022-08-25 01:23:45 +01:00
-homepage: https://github.com/Knhash/jekyllBear
+repo: https://github.com/Knhash/jekyllBear
 download: https://github.com/Knhash/jekyllBear/archive/master.zip
 demo: https://knhash.in/jekyllBear
 author: Knhash

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Webjeda Ashwath
 date: 2017-03-23 20:00:00 +01:00
-homepage: https://github.com/sharu725/ashwath
+repo: https://github.com/sharu725/ashwath
 download: https://github.com/sharu725/ashwath/archive/master.zip
 demo: https://ashwath.webjeda.com/
 author: webjeda

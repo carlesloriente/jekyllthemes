@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Cayman Blog
 date: 2017-05-01 08:00:00 +01:00
-homepage: https://github.com/lorepirri/cayman-blog
+repo: https://github.com/lorepirri/cayman-blog
 download: https://github.com/lorepirri/cayman-blog/archive/master.zip
 demo: https://lorepirri.github.io/cayman-blog/
 author: Lorenzo Pirritano (@lorepirri)

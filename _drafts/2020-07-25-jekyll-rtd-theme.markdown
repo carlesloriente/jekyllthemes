@@ -3,7 +3,7 @@ published: false
 layout: post
 comments: true
 title: Jekyll-rtd
-homepage: https://github.com/rundocs/jekyll-rtd-theme
+repo: https://github.com/rundocs/jekyll-rtd-theme
 download: https://github.com/rundocs/jekyll-rtd-theme/zipball/master
 demo: https://rundocs.github.io/jekyll-rtd-theme/
 author: RunDocs

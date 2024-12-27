@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Experiment
 date: 2018-02-27 21:30:00 +01:00
-homepage: https://github.com/anxhe/jekyll-theme-experiment
+repo: https://github.com/anxhe/jekyll-theme-experiment
 download: https://github.com/anxhe/jekyll-theme-experiment/archive/master.zip
 demo: https://anxhe.github.io/jekyll-theme-experiment
 author: Angelina Moreno

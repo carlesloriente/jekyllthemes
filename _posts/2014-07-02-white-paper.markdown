@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: White Paper
 date: 2014-07-02 19:00:00 +01:00
-homepage: https://github.com/vinitkumar/white-paper
+repo: https://github.com/vinitkumar/white-paper
 download: https://github.com/vinitkumar/white-paper/tree/v2.0.0
 demo: https://vinitkumar.github.io/white-paper/
 author: Vinit Kumar

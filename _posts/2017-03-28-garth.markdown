@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Garth
 date: 2017-03-28 20:00:00 +01:00
-homepage: https://github.com/daviddarnes/garth
+repo: https://github.com/daviddarnes/garth
 download: https://github.com/daviddarnes/garth/archive/master.zip
 demo: https://garth.darn.es/
 author: David Darnes

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Devlopr 
 date: 2019-05-19 20:00:00 +01:00
-homepage: https://github.com/sujaykundu777/devlopr-jekyll
+repo: https://github.com/sujaykundu777/devlopr-jekyll
 download: https://rubygems.org/gems/devlopr
 demo: https://devlopr.netlify.app/#/
 author: Sujay Kundu

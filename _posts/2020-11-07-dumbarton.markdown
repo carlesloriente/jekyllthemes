@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Dumbarton
 date: 2020-11-07 16:00:00 +01:00
-homepage: https://github.com/tcbutler320/Jekyll-Theme-Dumbarton
+repo: https://github.com/tcbutler320/Jekyll-Theme-Dumbarton
 download: https://github.com/tcbutler320/Jekyll-Theme-Dumbarton/releases/latest
 demo: https://dumbarton.netlify.app/
 author: Tyler Butler

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Junior
 date: 2018-04-30 21:00:00 +01:00
-homepage: https://github.com/thundergolfer/junior-theme
+repo: https://github.com/thundergolfer/junior-theme
 download: https://github.com/thundergolfer/junior-theme/archive/master.zip
 author: Jonathon Belotti
 thumbnail: junior.webp

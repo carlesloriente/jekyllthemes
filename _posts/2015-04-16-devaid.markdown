@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: devAid
 date: 2015-04-16 18:00:00 +01:00
-homepage: https://github.com/kevit/devaid-jekyll-theme
+repo: https://github.com/kevit/devaid-jekyll-theme
 download: https://github.com/kevit/devaid-jekyll-theme/archive/master.zip
 demo: https://themes.3rdwavemedia.com/demo/devaid/
 author: Xiaoying Riley

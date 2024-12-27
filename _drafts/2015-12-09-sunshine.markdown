@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Sunshine
 date: 2015-12-09 12:00:00
-homepage: https://github.com/limingyang2012/limingyang2012.github.io
+repo: https://github.com/limingyang2012/limingyang2012.github.io
 download: https://github.com/limingyang2012/limingyang2012.github.io/archive/master.zip
 demo: https://limingyang2012.github.io/
 author: limingyang2012

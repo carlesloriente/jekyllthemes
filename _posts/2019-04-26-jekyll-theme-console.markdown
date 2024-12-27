@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Console
 date: 2019-04-26 13:45:00 +01:00
-homepage: https://github.com/b2a3e8/jekyll-theme-console
+repo: https://github.com/b2a3e8/jekyll-theme-console
 download: https://github.com/b2a3e8/jekyll-theme-console/archive/master.zip
 demo: https://b2a3e8.github.io/jekyll-theme-console-demo-dark/
 author: b2a3e8

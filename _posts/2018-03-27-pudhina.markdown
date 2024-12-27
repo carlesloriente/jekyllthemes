@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Pudhina
 date: 2018-03-27 01:23:45 +01:00
-homepage: https://github.com/Knhash/Pudhina
+repo: https://github.com/Knhash/Pudhina
 download: https://github.com/Knhash/Pudhina/archive/master.zip
 demo: https://knhash.github.io/Pudhina/
 author: Knhash

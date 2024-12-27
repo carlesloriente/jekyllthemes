@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Clean
 date: 2015-09-27 20:00:00 +01:00
-homepage: https://github.com/knaman2609/clean
+repo: https://github.com/knaman2609/clean
 download: https://github.com/knaman2609/clean/archive/master.zip
 demo: https://knaman2609.github.io/clean/
 author: knaman2609

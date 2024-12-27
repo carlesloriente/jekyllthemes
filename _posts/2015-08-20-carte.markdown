@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Carte
 date: 2015-08-20 20:00:00 +01:00
-homepage: https://github.com/Wiredcraft/carte
+repo: https://github.com/Wiredcraft/carte
 download: https://github.com/Wiredcraft/carte/archive/gh-pages.zip
 author: Wiredcraft
 thumbnail: carte.webp

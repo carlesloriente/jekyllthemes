@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Nice Blog
 date: 2016-03-30
-homepage: https://github.com/gabriel-chen/Nice_Blog
+repo: https://github.com/gabriel-chen/Nice_Blog
 download: https://github.com/gabriel-chen/Nice_Blog/archive/master.zip
 demo: https://gabriel-chen.github.io/Nice_Blog
 author: Gabriel

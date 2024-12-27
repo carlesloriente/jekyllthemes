@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Bitwiser Material
 date: 2015-08-20 20:00:00 +01:00
-homepage: https://github.com/brijeshb42/bitwiser-material
+repo: https://github.com/brijeshb42/bitwiser-material
 download: https://github.com/brijeshb42/bitwiser-material/archive/gh-pages.zip
 demo: https://bitwiser.in/bitwiser-material/
 author: Brijesh Bittu

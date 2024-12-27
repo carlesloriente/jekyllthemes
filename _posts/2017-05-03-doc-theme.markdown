@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Jekyll Doc
 date: 2017-05-03 21:24:00 +01:00
-homepage: https://github.com/aksakalli/jekyll-doc-theme
+repo: https://github.com/aksakalli/jekyll-doc-theme
 download: https://github.com/aksakalli/jekyll-doc-theme/archive/gh-pages.zip
 demo: https://aksakalli.github.io/jekyll-doc-theme
 author: Can Guney Aksakalli

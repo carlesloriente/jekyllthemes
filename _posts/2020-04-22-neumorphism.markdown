@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Neumorphism
 date: 2020-04-22 14:00:00 +01:00
-homepage: https://github.com/longpdo/neumorphism
+repo: https://github.com/longpdo/neumorphism
 download: https://github.com/longpdo/neumorphism/archive/master.zip
 demo: https://longpdo.github.io/neumorphism/
 author: Long Do

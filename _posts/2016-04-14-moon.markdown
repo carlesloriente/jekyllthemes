@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Moon
 date: 2016-04-14 20:01:00 +01:00
-homepage: https://github.com/TaylanTatli/Moon
+repo: https://github.com/TaylanTatli/Moon
 download: https://github.com/TaylanTatli/Moon/archive/gh-pages.zip
 demo: https://tolgatatli.github.io/Moon/
 author: Taylan Tatlı

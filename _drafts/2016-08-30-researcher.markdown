@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Researcher
 date: 2016-08-30 00:00:00
-homepage: https://github.com/ankitsultana/researcher
+repo: https://github.com/ankitsultana/researcher
 download: https://github.com/ankitsultana/researcher/archive/gh-pages.zip
 demo: https://ankitsultana.com/researcher
 author: Ankit Sultana

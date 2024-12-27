@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Ultra-Minimalista
 date: 2016-12-25 19:00:00
-homepage: https://brxyxncorp.github.io/ultra-minimalista/
+repo: https://brxyxncorp.github.io/ultra-minimalista/
 download: https://github.com/brxyxncorp/ultra-minimalista
 demo: https://brxyxncorp.github.io/ultra-minimalista/
 author: Brayan López

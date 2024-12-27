@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Creative
 date: 2015-09-16 01:03:00
-homepage: https://github.com/volny/creative-theme-jekyll
+repo: https://github.com/volny/creative-theme-jekyll
 download: https://github.com/volny/creative-theme-jekyll/archive/master.zip
 demo: https://volny.github.io/creative-theme-jekyll
 author: start bootstrap, felix volny

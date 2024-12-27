@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: no style, please
 date: 2020-07-24 12:00:00 +01:00
-homepage: https://github.com/riggraz/no-style-please
+repo: https://github.com/riggraz/no-style-please
 download: https://github.com/riggraz/no-style-please/archive/master.zip
 demo: https://riggraz.dev/no-style-please/
 author: riggraz

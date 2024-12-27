@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Centrarium
 date: 2015-08-02 07:42:00 +01:00
-homepage: https://github.com/bencentra/centrarium
+repo: https://github.com/bencentra/centrarium
 download: https://github.com/bencentra/centrarium/archive/master.zip
 demo: https://bencentra.com/centrarium/
 author: Ben Centra

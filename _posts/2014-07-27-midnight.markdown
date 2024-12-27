@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Midnight
 date: 2014-07-27 01:42:00 +01:00
-homepage: https://github.com/mattgraham/midnight
+repo: https://github.com/mattgraham/midnight
 download: https://github.com/mattgraham/midnight/archive/master.zip
 demo: https://madebygraham.com/midnight/
 author: Matt Graham

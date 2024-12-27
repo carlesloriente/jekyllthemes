@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Voyager
 date: 2016-06-28 14:05:03 +01:00
-homepage: https://redvi.github.io/voyager/
+repo: https://github.com/redVi/voyager
 download: https://github.com/redVi/voyager/archive/master.zip
 demo: https://redvi.github.io/voyager/
 author: redVi

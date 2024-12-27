@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Facebook.design
 date: 2017-03-04 22:00:00
-homepage: https://github.com/wnglmng/wnglmng.github.io
+repo: https://github.com/wnglmng/wnglmng.github.io
 download: https://codeload.github.com/wnglmng/wnglmng.github.io/zip/master
 demo: https://wnglmng.github.io/
 author: WngLMng

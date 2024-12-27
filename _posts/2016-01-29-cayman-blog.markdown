@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Cayman Blog
  2016-01-29 10:00:00
-homepage: https://github.com/adueck/cayman-blog
+repo: https://github.com/adueck/cayman-blog
 download: https://github.com/adueck/cayman-blog/archive/master.zip
 demo: https://adueck.github.io/cayman-blog/
 thumbnail: cayman-blog.webp

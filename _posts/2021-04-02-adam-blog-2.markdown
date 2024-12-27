@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Adam Blog
 date: 2021-04-02 03:24:04 +01:00
-homepage: https://github.com/the-mvm/the-mvm.github.io
+repo: https://github.com/the-mvm/the-mvm.github.io
 download: https://github.com/the-mvm/the-mvm.github.io/archive/refs/heads/main.zip
 demo: https://the-mvm.github.io/
 author: "Original - Artem Sheludko | Mod: Armando Maynez"

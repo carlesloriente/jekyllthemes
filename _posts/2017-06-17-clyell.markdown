@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Clyell
 date: 2017-06-17 10:00:00 +01:00
-homepage: https://github.com/gildasio/clyell
+repo: https://github.com/gildasio/clyell
 download: https://github.com/gildasio/clyell/archive/gh-pages.zip
 demo: https://gildasio.github.io/clyell/
 author: gildasio

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Chirpy
 date: 2020-08-05 00:17:00 +01:00
-homepage: https://github.com/cotes2020/jekyll-theme-chirpy/
+repo: https://github.com/cotes2020/jekyll-theme-chirpy/
 download: https://github.com/cotes2020/jekyll-theme-chirpy/archive/master.zip
 demo: https://cotes2020.github.io/chirpy-demo/
 author: Cotes Chung

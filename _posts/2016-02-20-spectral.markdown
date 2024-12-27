@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Spectral
 date: 2016-02-20 20:00:00 +01:00
-homepage: https://github.com/arkadianriver/spectral
+repo: https://github.com/arkadianriver/spectral
 download: https://github.com/arkadianriver/spectral/archive/master.zip
 demo: https://arkadianriver.github.io/spectral
 author: HTML5 UP (html5up.net), @n33co

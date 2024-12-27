@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Popup Tweets
 date: 2017-07-15 11:32:00 +01:00
-homepage: https://github.com/junlulocky/PopupTweets
+repo: https://github.com/junlulocky/PopupTweets
 download: https://github.com/junlulocky/PopupTweets/archive/gh-pages.zip
 demo: https://jekyller.github.io/PopupTweets/
 author: Jun Lu

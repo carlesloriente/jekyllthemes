@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Gesko
 date: 2021-06-06 11:42:00 +01:00
-homepage: https://github.com/DavideBri/Gesko
+repo: https://github.com/DavideBri/Gesko
 download: https://github.com/DavideBri/Gesko/generate
 demo: https://davidebri.github.io/Gesko/
 author: DavideBri

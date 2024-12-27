@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Whiteglass
 date: 2017-02-10 17:03:43 +01:00
-homepage: https://github.com/yous/whiteglass
+repo: https://github.com/yous/whiteglass
 download: https://github.com/yous/whiteglass/archive/master.zip
 demo: https://yous.github.io/whiteglass/
 author: Chayoung You

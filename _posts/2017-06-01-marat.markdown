@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Marat
 date: 2017-06-01 01:42:00 +01:00
-homepage: https://github.com/JohnCoene/marat
+repo: https://github.com/JohnCoene/marat
 download: https://github.com/JohnCoene/marat/archive/master.zip
 demo: https://marat.john-coene.com
 author: John Coene

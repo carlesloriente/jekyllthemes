@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Hydejack
 date: 2017-10-25 20:00:00 +01:00
-homepage: https://qwtel.com/hydejack/
+repo: https://github.com/qwtel/hydejack/
 download: https://github.com/qwtel/hydejack/archive/v7.zip
 demo: https://qwtel.com/hydejack/
 author: Florian Klampfer (@qwtel)

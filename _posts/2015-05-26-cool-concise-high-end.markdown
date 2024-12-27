@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Cool Concise High-end
 date: 2015-05-26 08:20:00 +01:00
-homepage: https://github.com/Gaohaoyang/gaohaoyang.github.io
+repo: https://github.com/Gaohaoyang/gaohaoyang.github.io
 download: https://github.com/Gaohaoyang/gaohaoyang.github.io/archive/v1.1.zip
 demo: https://gaohaoyang.github.io/
 author: Gaohaoyang

@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Adam Blog
 date: 2017-09-05 21:00:00 +01:00
-homepage: https://github.com/artemsheludko/adam-blog
+repo: https://github.com/artemsheludko/adam-blog
 download: https://github.com/artemsheludko/adam-blog/archive/master.zip
 demo: https://artemsheludko.github.io/adam-blog/
 author: Artem Sheludko

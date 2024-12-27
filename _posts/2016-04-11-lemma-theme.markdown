@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Lemma
 date: 2016-04-11 07:17:27 +01:00
-homepage: https://github.com/neizod/lemma-theme
+repo: https://github.com/neizod/lemma-theme
 download: https://github.com/neizod/lemma-theme/archive/gh-pages.zip
 demo: https://neizod.github.io/lemma-theme
 author: Nattawut Phetmak (@neizod)
