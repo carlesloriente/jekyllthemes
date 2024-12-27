@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Progress
 date: 2016-06-24 11:25:00 +01:00
-repo: https://github.com/alexanderussell/progress-for-jekyll/
+repo: https://github.com/alexanderussell/progress-for-jekyll
 download: https://github.com/alexanderussell/progress-for-jekyll/archive/master.zip
 demo: https://alexanderussell.github.io/progress-for-jekyll
 author: Alexander Russell

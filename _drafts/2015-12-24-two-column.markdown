@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: 2 column Blog with Video
 date: 2015-12-24 00:00:00
-repo: https://www.digitalroots.io/
+repo: https://www.digitalroots.io
 download: https://github.com/Digital-Roots/Jekyll-2-Column-Theme/archive/master.zip
 demo: https://www.digitalroots.io/two-column/
 author: Robert Edwardes

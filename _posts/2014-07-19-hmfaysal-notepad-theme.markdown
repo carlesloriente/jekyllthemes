@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Notepad
 date: 2014-07-19 20:31:50 +01:00
-repo: https://github.com/hmfaysal/Notepad/
+repo: https://github.com/hmfaysal/Notepad
 download: https://github.com/hmfaysal/Notepad/archive/gh-pages.zip
 demo: https://hmfaysal.github.io/Notepad/
 author: Hossain Mohd Faysal
