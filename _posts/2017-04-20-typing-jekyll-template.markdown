@@ -10,7 +10,6 @@ author: William Canin
 thumbnail: typing-jekyll-template-thumbnail.webp
 license: MIT
 license_link: https://github.com/williamcanin/typing-jekyll-template/blob/master/LICENSE
-github_repo: williamcanin/typing-jekyll-template
 carousel:
   - 'screenshot.png'
 ---
