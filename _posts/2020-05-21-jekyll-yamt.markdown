@@ -4,6 +4,7 @@ comments: true
 title: YAMT
 date: 2020-05-21 16:00:00 +01:00
 repo: https://github.com/PandaSekh/Jekyll-YAMT
+stars: 79
 download: https://github.com/PandaSekh/Jekyll-YAMT/releases/latest
 demo: https://yamt.netlify.app/
 author: Alessio Franceschi

@@ -4,6 +4,7 @@ comments: true
 title: Blueface
 date: 2016-03-23 10:57:00 +01:00
 repo: https://github.com/tnguyen/blueface
+stars: 28
 download: https://github.com/tnguyen/blueface/archive/master.zip
 demo: https://thien.github.io/blueface/
 author: Thien Nguyen

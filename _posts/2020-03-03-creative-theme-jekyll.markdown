@@ -4,6 +4,7 @@ comments: true
 title: Creative
 date: 2020-03-03 10:21:00 +01:00
 repo: https://github.com/vvalchev/creative-theme-jekyll-new
+stars: 61
 download: https://github.com/vvalchev/creative-theme-jekyll-new/archive/master.zip
 demo: https://vvalchev.github.io/creative-theme-jekyll-new/
 author: Start Bootstrap, Valentin Valchev

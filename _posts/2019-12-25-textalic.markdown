@@ -4,6 +4,7 @@ comments: true
 title: Textalic
 date: 2019-12-24 21:20:00 +01:00
 repo: https://github.com/UniFreak/jekyll-theme-textalic
+stars: 13
 download: https://codeload.github.com/UniFreak/jekyll-theme-textalic/zip/master
 demo: https://unifreak.github.io
 author: FangHao

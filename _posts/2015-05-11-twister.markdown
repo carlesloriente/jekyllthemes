@@ -4,6 +4,7 @@ comments: true
 title: Twister
 date: 2015-05-11 13:55:00 +01:00
 repo: https://github.com/DigitalMindCH/twister
+stars: 62
 download: https://digitalmind.ch/media/downloads/twister_theme.zip
 author: Digitalmind
 thumbnail: twister.webp

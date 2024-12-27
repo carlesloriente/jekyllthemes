@@ -4,6 +4,7 @@ comments: true
 title: Dactl
 date: 2017-04-30 20:02:00 +01:00
 repo: https://github.com/melangue/dactl
+stars: 222
 download: https://github.com/melangue/dactl/archive/refs/heads/master.zip
 demo: https://melangue.github.io/dactl/
 author: Marcin C

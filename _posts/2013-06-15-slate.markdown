@@ -4,6 +4,7 @@ comments: true
 title: Slate
 date: 2013-06-15 01:38:11 +01:00
 repo: https://github.com/jasoncostello/slate
+stars: 155
 download: https://github.com/jasoncostello/slate/archive/master.zip
 author: Jason Costello
 thumbnail: slate.webp

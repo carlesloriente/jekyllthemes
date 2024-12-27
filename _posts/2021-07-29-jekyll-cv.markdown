@@ -4,6 +4,7 @@ comments: true
 title: Jekyll CV
 date: 2021-07-29 20:00:00 +01:00
 repo: https://github.com/Stavrospanakakis/jekyll-cv
+stars: 187
 demo: https://jekyll-cv.stavrospanakakis.com
 author: Stavrospanakakis
 thumbnail: jekyll-cv.webp

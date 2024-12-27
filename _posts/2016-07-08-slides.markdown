@@ -4,6 +4,7 @@ comments: true
 title: Webjeda Slides
 date: 2016-07-08 21:40:00 +01:00
 repo: https://github.com/sharu725/slides
+stars: 60
 download: https://github.com/sharu725/slides/archive/master.zip
 demo: https://webjeda.com/slides/
 author: webjeda

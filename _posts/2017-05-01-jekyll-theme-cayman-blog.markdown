@@ -4,6 +4,7 @@ comments: true
 title: Cayman Blog
 date: 2017-05-01 08:00:00 +01:00
 repo: https://github.com/lorepirri/cayman-blog
+stars: 115
 download: https://github.com/lorepirri/cayman-blog/archive/master.zip
 demo: https://lorepirri.github.io/cayman-blog/
 author: Lorenzo Pirritano (@lorepirri)

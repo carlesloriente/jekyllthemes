@@ -4,6 +4,7 @@ comments: true
 title: Beautiful Jekyll
 date: 2015-08-20 18:00:00 +01:00
 repo: https://github.com/daattali/beautiful-jekyll
+stars: 5437
 download: https://github.com/daattali/beautiful-jekyll/archive/master.zip
 demo: https://beautifuljekyll.com/
 author: Dean Attali

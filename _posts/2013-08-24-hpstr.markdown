@@ -4,6 +4,7 @@ comments: true
 title: HPSTR
 date: 2013-08-24 18:18:00 +01:00
 repo: https://github.com/mmistakes/hpstr-jekyll-theme
+stars: 980
 download: https://github.com/mmistakes/hpstr-jekyll-theme/archive/master.zip
 demo: https://mmistakes.github.io/jekyll-theme-hpstr/
 author: Michael Rose

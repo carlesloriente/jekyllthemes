@@ -4,6 +4,7 @@ comments: true
 title: Noita
 date: 2014-04-24 21:00:00 +01:00
 repo: https://github.com/penibelst/jekyll-noita
+stars: 36
 download: https://github.com/penibelst/jekyll-noita/archive/gh-pages.zip
 demo: https://noita.penibelst.de/
 author: Anatol Broder

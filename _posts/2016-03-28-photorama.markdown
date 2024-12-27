@@ -4,6 +4,7 @@ comments: true
 title: Photorama
 date: 2016-03-28 20:00:00 +01:00
 repo: https://github.com/sunbliss/photorama
+stars: 282
 download: https://github.com/sunbliss/photorama/archive/gh-pages.zip
 demo: https://sunbliss.github.io/photorama
 author: sunbliss

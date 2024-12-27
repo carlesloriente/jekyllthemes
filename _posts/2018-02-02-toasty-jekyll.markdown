@@ -4,6 +4,7 @@ comments: true
 title: Toasty Jekyll
 date: 2018-02-18 20:00:00 +01:00
 repo: https://github.com/regmtait/Toasty-Jekyll
+stars: 3
 download: https://github.com/regmtait/Toasty-Jekyll/archive/master.zip
 author: Reg Tait
 thumbnail: toasty-jekyll.webp

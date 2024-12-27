@@ -4,6 +4,7 @@ comments: true
 title: Exemplar
 date: 2013-11-28 10:20:00 +01:00
 repo: https://github.com/tybenz/exemplar
+stars: 73
 download: https://github.com/tybenz/exemplar/archive/master.zip
 demo: https://tybenz.github.io/exemplar/
 author: Tyler Benziger

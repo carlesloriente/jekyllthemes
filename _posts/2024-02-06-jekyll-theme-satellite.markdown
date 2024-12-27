@@ -4,6 +4,7 @@ comments: true
 title: Satellite
 date: 2024-02-06 20:00:00 +01:00
 repo: https://github.com/byanko55/jekyll-theme-satellite
+stars: 32
 download: https://github.com/byanko55/jekyll-theme-satellite/releases
 demo: https://byanko55.github.io/
 thumbnail: jekyll-theme-satellite.webp

@@ -4,6 +4,7 @@ comments: true
 title: Ink
 date: 2016-06-08 10:45:00 +01:00
 repo: https://github.com/thinker3197/ink
+stars: 26
 download: https://github.com/thinker3197/ink/archive/master.zip
 demo: https://thinker3197.github.io/ink
 author: Ashish Gupta

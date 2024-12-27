@@ -4,6 +4,7 @@ comments: true
 title: Redcup
 date: 2014-01-23 20:00:00 +01:00
 repo: https://github.com/nadjetey/redcup
+stars: 25
 download: https://github.com/nadjetey/redcup/archive/master.zip
 author: Nii Adjetey Sowah
 thumbnail: redcup.webp

@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Clean Dark
 date: 2015-07-26 19:07:11 +01:00
 repo: https://github.com/streetturtle/jekyll-clean-dark
+stars: 219
 download: https://github.com/streetturtle/jekyll-clean-dark/archive/gh-pages.zip
 demo: https://pavelmakhov.com/jekyll-clean-dark/
 author: Pavel Makhov

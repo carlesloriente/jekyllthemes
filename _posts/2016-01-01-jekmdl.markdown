@@ -4,6 +4,7 @@ comments: true
 title: Jekmdl
 date: 2016-01-01 22:51:45 +01:00
 repo: https://github.com/tigefa4u/jekmdl
+stars: 11
 download: https://github.com/tigefa4u/jekmdl/archive/gh-pages.zip
 demo: https://tigefa4u.github.io/jekmdl/
 author: sugeng tigefa

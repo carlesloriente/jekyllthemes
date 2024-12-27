@@ -4,6 +4,7 @@ comments: true
 title: Little Big Blue
 date: 2016-01-06 15:45:45 +05:30
 repo: https://github.com/ninapetrop/Little-Big-Blue
+stars: 22
 download: https://github.com/ninapetrop/Little-Big-Blue/archive/master.zip
 author: Nina Petropoulos
 thumbnail: little-big-blue.webp

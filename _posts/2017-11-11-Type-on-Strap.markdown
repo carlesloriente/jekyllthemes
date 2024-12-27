@@ -4,6 +4,7 @@ comments: true
 title: Type on Strap
 date: 2017-11-11 07:00:00 +01:00
 repo: https://github.com/Sylhare/Type-on-Strap
+stars: 813
 download: https://github.com/Sylhare/Type-on-Strap/archive/master.zip
 demo: https://sylhare.github.io/Type-on-Strap/
 author: Sylhare

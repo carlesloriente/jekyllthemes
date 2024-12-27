@@ -4,6 +4,7 @@ comments: true
 title: New Age
 date: 2016-10-26 05:00:00 +01:00
 repo: https://github.com/jekynewage/jekynewage.github.io
+stars: 118
 download: https://github.com/jekynewage/jekynewage.github.io/archive/master.zip
 demo: https://jekynewage.github.io
 author: Antonio Trento

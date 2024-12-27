@@ -4,6 +4,7 @@ comments: true
 title: Leonids
 date: 2015-08-29 21:22:00 +01:00
 repo: https://github.com/renyuanz/leonids
+stars: 866
 download: https://github.com/renyuanz/leonids/archive/master.zip
 demo: https://renyuanz.github.io/leonids
 author: Renyuan Zou

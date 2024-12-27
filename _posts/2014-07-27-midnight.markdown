@@ -4,6 +4,7 @@ comments: true
 title: Midnight
 date: 2014-07-27 01:42:00 +01:00
 repo: https://github.com/mattgraham/midnight
+stars: 152
 download: https://github.com/mattgraham/midnight/archive/master.zip
 demo: https://madebygraham.com/midnight/
 author: Matt Graham

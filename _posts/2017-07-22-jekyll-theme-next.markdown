@@ -4,6 +4,7 @@ comments: true
 title: NexT
 date: 2017-07-22 17:19:00 +01:00
 repo: https://github.com/Simpleyyt/jekyll-theme-next
+stars: 801
 download: https://github.com/Simpleyyt/jekyll-theme-next/archive/master.zip
 demo: https://simpleyyt.github.io/jekyll-theme-next/
 author: Yitao Yao

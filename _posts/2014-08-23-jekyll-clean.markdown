@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Clean
 date: 2014-08-23 15:31:11 +01:00
 repo: https://github.com/scotte/jekyll-clean
+stars: 176
 download: https://github.com/scotte/jekyll-clean/zipball/gh-pages
 demo: https://scotte.github.io/jekyll-clean
 author: Scott Emmons

@@ -4,6 +4,7 @@ comments: true
 title: Swift
 date: 2013-12-01 03:55:00 +01:00
 repo: https://github.com/pranavrajs/swift
+stars: 38
 download: https://github.com/pranavrajs/swift/archive/master.zip
 demo: https://pranavrajs.github.io/swift/
 author: Pranav

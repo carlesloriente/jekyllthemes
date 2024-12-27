@@ -4,6 +4,7 @@ comments: true
 title: Alembic
 date: 2016-11-26 20:00:00 +01:00
 repo: https://github.com/daviddarnes/alembic
+stars: 772
 download: https://github.com/daviddarnes/alembic/archive/master.zip
 demo: https://alembic.darn.es/
 author: David Darnes

@@ -4,6 +4,7 @@ comments: true
 title: Holo Alfa
 date: 2015-07-29 02:19:00 +01:00
 repo: https://github.com/stijnvc/holo-alfa
+stars: 169
 download: https://github.com/stijnvc/holo-alfa/archive/gh-pages.zip
 demo: https://stijnvc.github.io/holo-alfa/
 author: Stijn van Cuijk

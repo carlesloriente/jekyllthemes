@@ -4,6 +4,7 @@ comments: true
 title: Immaculate
 date: 2016-03-31 13:46:00 +01:00
 repo: https://github.com/siawyoung/immaculate
+stars: 88
 download: https://github.com/siawyoung/immaculate/archive/master.zip
 demo: https://www.siawyoung.com
 author: Lau Siaw Young

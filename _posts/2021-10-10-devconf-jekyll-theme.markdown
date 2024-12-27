@@ -4,6 +4,7 @@ comments: true
 title: DevConf
 date: 2021-10-10 20:21:10 +01:00
 repo: https://github.com/la-rebelion/DevConf-Jekyll-Theme
+stars: 1
 download: https://github.com/la-rebelion/DevConf-Jekyll-Theme/archive/refs/heads/master.zip
 demo: https://la-rebelion.github.io/DevConf-Jekyll-Theme
 author:  Xiaoying R

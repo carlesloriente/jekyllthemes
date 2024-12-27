@@ -4,6 +4,7 @@ comments: true
 title: Libretto
 date: 2016-09-01 14:00:00 +01:00
 repo: https://github.com/ferrolho/jekyll-theme-libretto
+stars: 60
 download: https://github.com/ferrolho/jekyll-theme-libretto/archive/gh-pages.zip
 demo: https://ferrolho.github.io/jekyll-theme-libretto/
 author: Henrique Ferrolho

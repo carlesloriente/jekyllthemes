@@ -4,6 +4,7 @@ comments: true
 title: Library
 date: 2016-01-25 10:11:00 +01:00
 repo: https://github.com/alexcarpenter/library-jekyll-theme
+stars: 62
 download: https://github.com/alexcarpenter/library-jekyll-theme/archive/gh-pages.zip
 demo: https://alexcarpenter.github.io/library-jekyll-theme/
 author: Alex Carpenter

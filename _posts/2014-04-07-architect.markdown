@@ -4,6 +4,7 @@ comments: true
 title: Architect
 date: 2014-04-07 08:31:00 +01:00
 repo: https://github.com/pietromenna/jekyll-architect-theme
+stars: 96
 download: https://github.com/pietromenna/jekyll-architect-theme/archive/master.zip
 author: Jason Long, ported by Pietro Menna
 thumbnail: architect.webp

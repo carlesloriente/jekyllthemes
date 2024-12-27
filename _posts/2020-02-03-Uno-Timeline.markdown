@@ -4,6 +4,7 @@ comments: true
 title: Uno with timeline
 date: 2020-02-03 22:30:00 +01:00
 repo: https://github.com/tzuehlke/jekyll-uno-timeline
+stars: 99
 download: https://github.com/tzuehlke/jekyll-uno-timeline/archive/master.zip
 demo: https://www.zuehlke.cloud/
 author: Thomas Zühlke

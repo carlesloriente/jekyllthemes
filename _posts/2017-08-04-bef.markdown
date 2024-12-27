@@ -4,6 +4,7 @@ comments: true
 title: Bef
 date: 2017-08-04 20:00:00 +01:00
 repo: https://github.com/artemsheludko/bef
+stars: 166
 download: https://github.com/artemsheludko/bef/archive/master.zip
 demo: https://artemsheludko.github.io/bef/
 author: Artem Sheludko

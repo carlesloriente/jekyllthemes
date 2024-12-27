@@ -4,6 +4,7 @@ comments: true
 title: Agency
 date: 2020-06-08 04:20:00 +01:00
 repo: https://github.com/raviriley/agency-jekyll-theme
+stars: 361
 download: https://github.com/raviriley/agency-jekyll-theme/archive/master.zip
 demo: https://raviriley.github.io/agency-jekyll-theme-starter/
 author: Ravi Riley

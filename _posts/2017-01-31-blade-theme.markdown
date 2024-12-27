@@ -4,6 +4,7 @@ comments: true
 title: Blade Theme
 date: 2017-01-31 12:02:00 +01:00
 repo: https://github.com/mateussmedeiros/blade-theme
+stars: 4
 download: https://github.com/mateussmedeiros/blade-theme/archive/master.zip
 demo: https://mateussmedeiros.github.io/blade-theme/
 author: Mateus Medeiros

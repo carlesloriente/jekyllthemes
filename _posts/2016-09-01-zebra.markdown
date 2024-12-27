@@ -4,6 +4,7 @@ comments: true
 title: Zebra
 date: 2013-09-01 09:00:00 +01:00
 repo: https://github.com/newbiettn/zebra
+stars: 5
 download: https://github.com/newbiettn/zebra/archive/gh-pages.zip
 author: newbiettn
 thumbnail: zebra.webp

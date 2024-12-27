@@ -4,6 +4,7 @@ comments: true
 title: Wangana
 date: 2014-02-20 20:00:00 +01:00
 repo: https://github.com/nadjetey/wangana
+stars: 52
 download: https://github.com/nadjetey/wangana/archive/master.zip
 author: Nii Adjetey Sowah
 thumbnail: wangana.webp

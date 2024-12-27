@@ -4,6 +4,7 @@ comments: true
 title: Panda
 date: 2023-02-28 7:00:00 +01:00
 repo: https://github.com/sorphwer/jekyll-theme-panda
+stars: 4
 download: https://github.com/sorphwer/jekyll-theme-panda/archive/refs/tags/Release.zip
 author: Riino Zhang
 thumbnail: jekyll-theme-panda.webp

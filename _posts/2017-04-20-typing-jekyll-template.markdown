@@ -4,6 +4,7 @@ comments: true
 title: Typing
 date: 2017-04-20 14:08:10 +01:00
 repo: https://github.com/williamcanin/typing-jekyll-template
+stars: 91
 download: https://github.com/williamcanin/typing-jekyll-template/archive/master.zip
 demo: https://williamcanin.github.io/typing-jekyll-template/
 author: William Canin

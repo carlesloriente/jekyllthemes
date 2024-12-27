@@ -4,6 +4,7 @@ comments: true
 title: TeXt
 date: 2017-09-21 20:00:00 +01:00
 repo: https://github.com/kitian616/jekyll-TeXt-theme
+stars: 3193
 demo: https://tianqi.name/jekyll-TeXt-theme/
 author: Tian Qi
 thumbnail: TeXt.webp

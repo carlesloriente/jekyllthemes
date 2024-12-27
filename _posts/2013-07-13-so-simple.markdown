@@ -4,6 +4,7 @@ comments: true
 title: So Simple
 date: 2013-07-13 21:42:00 +01:00
 repo: https://github.com/mmistakes/so-simple-theme
+stars: 2056
 download: https://github.com/mmistakes/so-simple-theme/archive/master.zip
 demo: https://mmistakes.github.io/so-simple-theme/
 author: Michael Rose

@@ -4,6 +4,7 @@ comments: true
 title: Lanyon-plus
 date: 2016-02-28 20:00:00 +01:00
 repo: https://github.com/dyndna/lanyon-plus
+stars: 71
 download: https://github.com/dyndna/lanyon-plus/releases/latest
 demo: https://dyndna.github.io/lanyon-plus
 author: Samir Amin

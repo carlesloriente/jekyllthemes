@@ -4,6 +4,7 @@ comments: true
 title: Halve
 date: 2016-05-30 22:47:00 +01:00
 repo: https://github.com/TaylanTatli/Halve
+stars: 290
 download: https://github.com/TaylanTatli/Halve/archive/master.zip
 demo: https://tolgatatli.github.io/Halve/
 author: Taylan Tatlı

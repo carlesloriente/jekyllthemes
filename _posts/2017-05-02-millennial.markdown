@@ -4,6 +4,7 @@ comments: true
 title: Millennial
 date: 2017-05-02 20:00:00 +01:00
 repo: https://github.com/LeNPaul/Millennial
+stars: 445
 download: https://github.com/LeNPaul/Millennial/archive/gh-pages.zip
 demo: https://lenpaul.github.io/Millennial/
 author: Paul Le

@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Resume
 date: 2016-06-06 20:00:00 +01:00
 repo: https://github.com/mattcouchman/jekyll-resume
+stars: 92
 download: https://github.com/mattcouchman/jekyll-resume/archive/gh-pages.zip
 author: Matt Couchman
 thumbnail: jekyll-resume.webp

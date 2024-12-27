@@ -4,6 +4,7 @@ comments: true
 title: Persephone
 date: 2019-07-10 09:00:00 +01:00
 repo: https://github.com/erlzhang/jekyll-theme-persephone
+stars: 205
 download: https://github.com/erlzhang/jekyll-theme-persephone/archive/master.zip
 demo: https://erl.im
 author: Sharon Zhang
