@@ -4,6 +4,7 @@ comments: true
 title: Asko
 date: 2021-02-11 20:00:00 +01:00
 repo: https://github.com/manuelmazzuola/asko
+stars: 42
 download: https://github.com/manuelmazzuola/asko/archive/master.zip
 demo: https://asko-theme.netlify.app/
 author: Manuel Mazzuola

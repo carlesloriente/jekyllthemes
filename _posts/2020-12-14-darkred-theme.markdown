@@ -4,6 +4,7 @@ comments: true
 title: DarkRed
 date: 2020-12-14 20:00:00 +01:00
 repo: https://github.com/kkent030315/jekyll-darkred-theme
+stars: 0
 download: https://rubygems.org/gems/jekyll-darkred-theme
 demo: https://kkent030315.github.io/jekyll-darkred-theme
 author: Kento Oki

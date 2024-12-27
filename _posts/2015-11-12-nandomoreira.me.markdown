@@ -4,6 +4,7 @@ comments: true
 title: nandomoreira.me
 date: 2015-11-12 20:00:00 +01:00
 repo: https://github.com/nandomoreirame/nandomoreira-jekyll-theme
+stars: 103
 download: https://github.com/nandomoreirame/nandomoreira-jekyll-theme/archive/master.zip
 demo: https://nandomoreirame.github.io/nandomoreira-jekyll-theme/
 author: nandomoreira.me

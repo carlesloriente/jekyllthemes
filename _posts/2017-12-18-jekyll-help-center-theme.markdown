@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Help Center
 date: 2017-12-18 17:00:00 +01:00
 repo: https://github.com/gustavoquinalha/jekyll-help-center-theme
+stars: 169
 download: https://github.com/gustavoquinalha/jekyll-help-center-theme
 demo: https://gustavoquinalha.github.io/jekyll-help-center-theme/
 author: Gustavo Quinalha

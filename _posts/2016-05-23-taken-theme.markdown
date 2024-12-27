@@ -4,6 +4,7 @@ comments: true
 title: Taken
 date: 2016-05-23 08:14:00 +01:00
 repo: https://github.com/vfalanis/taken
+stars: 27
 download: https://github.com/vfalanis/taken/archive/master.zip
 author: Valentina Fernandez Alanis
 thumbnail: taken-theme.webp

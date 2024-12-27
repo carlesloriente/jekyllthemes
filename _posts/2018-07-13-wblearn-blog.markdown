@@ -4,6 +4,7 @@ comments: true
 title: wblearn blog
 date: 2018-07-13 12:00:00 +01:00
 repo: https://github.com/wblearn/wblearn.github.io
+stars: 0
 download: https://github.com/wblearn/wblearn.github.io/archive/master.zip
 demo: https://wblearn.github.io/
 author: wblearn

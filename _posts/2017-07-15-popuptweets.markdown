@@ -4,6 +4,7 @@ comments: true
 title: Popup Tweets
 date: 2017-07-15 11:32:00 +01:00
 repo: https://github.com/junlulocky/PopupTweets
+stars: 12
 download: https://github.com/junlulocky/PopupTweets/archive/gh-pages.zip
 demo: https://jekyller.github.io/PopupTweets/
 author: Jun Lu

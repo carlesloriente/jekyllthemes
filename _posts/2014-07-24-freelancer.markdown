@@ -4,6 +4,7 @@ comments: true
 title: Freelancer
 date: 2014-07-24 20:00:00 +01:00
 repo: https://github.com/jeromelachaud/freelancer-theme
+stars: 1457
 download: https://github.com/jeromelachaud/freelancer-theme/archive/master.zip
 demo: https://jeromelachaud.github.io/freelancer-theme
 author: Jerome Lachaud

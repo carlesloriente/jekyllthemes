@@ -4,6 +4,7 @@ comments: true
 title: Material Bliss
 date: 2017-01-18 20:17:14 +01:00
 repo: https://github.com/insipx/material-bliss-jekyll-theme
+stars: 77
 download: https://github.com/insipx/material-bliss-jekyll-theme/archive/master.zip
 demo: https://code.liquidthink.net
 author: Andrew Plaza

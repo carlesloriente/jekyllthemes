@@ -4,6 +4,7 @@ comments: true
 title: Chalk
 date: 2016-10-31 20:00:00 +01:00
 repo: https://github.com/nielsenramon/chalk
+stars: 1243
 download: https://github.com/nielsenramon/chalk
 demo: https://chalk.nielsenramon.com
 author: Nielsen Ramon

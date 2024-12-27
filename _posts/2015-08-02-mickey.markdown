@@ -4,6 +4,7 @@ comments: true
 title: Mickey
 date: 2015-08-02 07:42:00 +01:00
 repo: https://github.com/vincentchan/mickey
+stars: 335
 download: https://github.com/vincentchan/mickey/archive/master.zip
 demo: https://vincentchan.github.io/mickey/
 author: Vincent Chan

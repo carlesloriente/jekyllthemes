@@ -4,6 +4,7 @@ comments: true
 title: Mangan
 date: 2016-02-24 12:23:00 +01:00
 repo: https://github.com/dikiaap/mangan
+stars: 47
 download: https://github.com/dikiaap/mangan/archive/master.zip
 demo: https://mangan.pages.dev/
 author: Diki Ananta

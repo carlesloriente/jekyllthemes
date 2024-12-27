@@ -4,6 +4,7 @@ comments: true
 title: Aliquam
 date: 2016-05-24 20:40:00 +01:00
 repo: https://github.com/grrinchas/aliquam
+stars: 21
 download: https://github.com/grrinchas/aliquam/archive/refs/heads/master.zip
 demo: https://grrinchas.github.io/aliquam/
 author: grrinchas

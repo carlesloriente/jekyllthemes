@@ -4,6 +4,7 @@ comments: true
 title: Voyager
 date: 2016-06-28 14:05:03 +01:00
 repo: https://github.com/redVi/voyager
+stars: 45
 download: https://github.com/redVi/voyager/archive/master.zip
 demo: https://redvi.github.io/voyager/
 author: redVi

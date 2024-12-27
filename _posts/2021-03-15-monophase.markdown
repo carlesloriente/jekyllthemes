@@ -4,6 +4,7 @@ comments: true
 title: Monophase
 date: 2021-03-15 19:45 +01:00
 repo: https://github.com/zivhub/monophase
+stars: 45
 download: https://github.com/zivhub/monophase/archive/main.zip
 demo: https://zivlog.io/monophase/
 author: Song-Zi Vong

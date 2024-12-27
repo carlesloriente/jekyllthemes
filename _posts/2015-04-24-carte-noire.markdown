@@ -4,6 +4,7 @@ comments: true
 title: Carte Noire
 date: 2015-04-24 15:00:00 +01:00
 repo: https://github.com/jacobtomlinson/carte-noire
+stars: 297
 download: https://github.com/jacobtomlinson/carte-noire/archive/gh-pages.zip
 demo: https://carte-noire.jacobtomlinson.co.uk/
 author: Jacob Tomlinson

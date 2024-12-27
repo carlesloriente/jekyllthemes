@@ -4,6 +4,7 @@ comments: true
 title: Utterson
 date: 2016-03-24 06:04:00 +01:00
 repo: https://github.com/alidcast/Utterson
+stars: 16
 download: https://github.com/alidcast/Utterson/archive/master.zip
 demo: https://utterson.alidcastano.com/
 author: Alid Castano

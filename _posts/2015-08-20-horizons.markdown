@@ -4,6 +4,7 @@ comments: true
 title: Horizons
 date: 2015-08-20 20:00:00 +01:00
 repo: https://github.com/CloudCannon/Horizons-Jekyll-Theme
+stars: 15
 download: https://github.com/CloudCannon/Horizons-Jekyll-Theme/archive/master.zip
 author: Template
 thumbnail: horizons.webp

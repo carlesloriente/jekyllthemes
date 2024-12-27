@@ -4,6 +4,7 @@ comments: true
 title: Sleek
 date: 2018-01-13 20:00:00 +01:00
 repo: https://github.com/janczizikow/sleek
+stars: 424
 download: https://github.com/janczizikow/sleek/archive/v0.1-alpha.zip
 demo: https://janczizikow.github.io/sleek/
 author: Jan Czizikow

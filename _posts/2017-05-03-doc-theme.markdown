@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Doc
 date: 2017-05-03 21:24:00 +01:00
 repo: https://github.com/aksakalli/jekyll-doc-theme
+stars: 292
 download: https://github.com/aksakalli/jekyll-doc-theme/archive/gh-pages.zip
 demo: https://aksakalli.github.io/jekyll-doc-theme
 author: Can Guney Aksakalli

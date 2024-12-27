@@ -4,6 +4,7 @@ comments: true
 title: no style, please
 date: 2020-07-24 12:00:00 +01:00
 repo: https://github.com/riggraz/no-style-please
+stars: 1149
 download: https://github.com/riggraz/no-style-please/archive/master.zip
 demo: https://riggraz.dev/no-style-please/
 author: riggraz

@@ -4,6 +4,7 @@ comments: true
 title: Reked
 date: 2019-08-30 20:00:00 +01:00
 repo: https://github.com/artemsheludko/reked
+stars: 37
 download: https://github.com/artemsheludko/reked/archive/master.zip
 demo: https://artemsheludko.github.io/reked/
 author: Artem Sheludko

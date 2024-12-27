@@ -4,6 +4,7 @@ comments: true
 title: "*folio"
 date: 2015-07-11 20:10:00 +01:00
 repo: https://github.com/bogoli/-folio
+stars: 301
 download: https://github.com/bogoli/-folio/archive/master.zip
 demo: https://liabogoev.com/-folio/
 author: Lia Bogoev

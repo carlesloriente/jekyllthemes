@@ -4,6 +4,7 @@ comments: true
 title: Fractal
 date: 2017-11-11 09:10:00 +01:00
 repo: https://github.com/yveszenne/jekyll-html5up-fractal
+stars: 12
 download: https://github.com/yveszenne/jekyll-html5up-fractal/raw/master/archive/jekyll-html5up-fractal.zip
 demo: https://yveszenne.github.io/jekyll-html5up-fractal/
 author: Yves Espinosa

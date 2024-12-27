@@ -4,6 +4,7 @@ comments: true
 title: Sustain
 date: 2015-10-03 20:00:00 +01:00
 repo: https://github.com/biomadeira/sustain
+stars: 295
 download: https://github.com/biomadeira/sustain/archive/gh-pages.zip
 demo: https://jekyllt.github.io/sustain/
 author: biomadeira

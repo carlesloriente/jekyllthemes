@@ -4,6 +4,7 @@ comments: true
 title: Onepage
 date: 2016-11-06 20:00:00 +01:00
 repo: https://github.com/lukas-h/onepage
+stars: 32
 download: https://github.com/lukas-h/onepage/archive/master.zip
 author: Lukas Himsel
 thumbnail: onepage.webp

@@ -4,6 +4,7 @@ comments: true
 title: Saigon
 date: 2016-02-11 09:52:00 +01:00
 repo: https://github.com/hoffli/saigon-jekyll-theme
+stars: 31
 download: https://github.com/hoffli/saigon-jekyll-theme/archive/master.zip
 demo: https://hoffli.github.io/saigon-jekyll-theme/
 author: Peter Hoffler

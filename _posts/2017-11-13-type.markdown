@@ -4,6 +4,7 @@ comments: true
 title: Type
 date: 2017-11-13 07:00:00 +01:00
 repo: https://github.com/aspirethemes/type
+stars: 215
 download: https://github.com/aspirethemes/type/archive/master.zip
 author: Aspire Themes
 thumbnail: type.webp

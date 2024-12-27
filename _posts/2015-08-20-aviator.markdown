@@ -4,6 +4,7 @@ comments: true
 title: Aviator
 date: 2015-08-20 20:00:00 +01:00
 repo: https://github.com/CloudCannon/Aviator-Jekyll-Theme
+stars: 378
 download: https://github.com/CloudCannon/Aviator-Jekyll-Theme/archive/master.zip
 author: CloudCannon
 thumbnail: aviator.webp

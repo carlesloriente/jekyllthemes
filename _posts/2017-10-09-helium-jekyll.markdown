@@ -4,6 +4,7 @@ comments: true
 title: Helium Jekyll
 date: 2017-10-09 12:32:00 +01:00
 repo: https://github.com/heliumjk/heliumjk.github.io
+stars: 105
 download: https://github.com/heliumjk/heliumjk.github.io/archive/master.zip
 demo: https://heliumjk.github.io/
 author: Antonio Trento
@@ -45,7 +46,7 @@ Assuming you've got Jekyll [installed](https://jekyllrb.com/docs/installation/),
 
 ### Hosting on GitHub
 
-Fork this repo and rename it to `yourusername.github.io`... and edit the `_config.yaml` file whit your github address and your links (such as social media username, email, name, ecc.)!  
+Fork this repo and rename it to `yourusername.github.io`... and edit the `_config.yaml` file whit your github address and your links (such as social media username, email, name, ecc.)!
 Your new helium-themed Jekyll blog should be up and running at yourusername.github.io.  
 
 ### Additional information about some features

@@ -4,6 +4,7 @@ comments: true
 title: Wing
 date: 2016-07-28 21:28:00 +01:00
 repo: https://github.com/nikrich/jekyll-wing-template
+stars: 43
 download: https://github.com/nikrich/jekyll-wing-template
 demo: https://nikrich.github.io/jekyll-wing-template/#
 author: Jannik Richter

@@ -4,6 +4,7 @@ comments: true
 title: Wall-E
 date: 2017-10-21 20:00:00 +01:00
 repo: https://github.com/abhn/Wall-E
+stars: 42
 download: https://github.com/abhn/Wall-E/archive/master.zip
 demo: https://wall-e-jekyll.github.io/
 author: Abhishek Nagekar

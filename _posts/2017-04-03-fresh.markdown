@@ -4,6 +4,7 @@ comments: true
 title: Fresh
 date: 2017-04-03 20:00:00 +01:00
 repo: https://github.com/artemsheludko/fresh
+stars: 50
 download: https://github.com/artemsheludko/fresh/archive/master.zip
 demo: http://artemsheludko.com/fresh/
 author: Artem Sheludko

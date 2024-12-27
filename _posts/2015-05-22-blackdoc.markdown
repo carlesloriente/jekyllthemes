@@ -4,6 +4,7 @@ comments: true
 title: BlackDoc
 date: 2015-05-22 04:59:00 +01:00
 repo: https://github.com/karloespiritu/BlackDoc
+stars: 124
 download: https://github.com/karloespiritu/BlackDoc/archive/master.zip
 demo: https://karloespiritu.com/blackdoc
 author: Karlo Espiritu

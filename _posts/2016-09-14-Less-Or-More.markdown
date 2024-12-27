@@ -4,6 +4,7 @@ comments: true
 title: Less Or More
 date: 2016-09-14 23:22:00 +01:00
 repo: https://github.com/luoyan35714/LessOrMore
+stars: 181
 download: https://github.com/luoyan35714/LessOrMore/archive/master.zip
 demo: https://www.hifreud.com/
 author: Freud Kang

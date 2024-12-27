@@ -4,6 +4,7 @@ comments: true
 title: Artist Theme
 date: 2016-02-26 15:45:45 +05:30
 repo: https://github.com/ninapetrop/Artist-Theme
+stars: 91
 download: https://github.com/ninapetrop/Artist-Theme/archive/master.zip
 author: Nina Petropoulos
 thumbnail: artist-theme.webp

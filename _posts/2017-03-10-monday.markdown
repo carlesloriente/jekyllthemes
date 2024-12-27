@@ -4,6 +4,7 @@ comments: true
 title: Monday
 date: 2017-03-10 20:00:00 +01:00
 repo: https://github.com/artemsheludko/monday
+stars: 34
 download: https://github.com/artemsheludko/monday/archive/master.zip
 demo: http://artemsheludko.com/monday
 author: Artem Sheludko

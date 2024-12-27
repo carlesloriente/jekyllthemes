@@ -4,6 +4,7 @@ comments: true
 title: Scribble
 date: 2013-06-01 13:42:00 +01:00
 repo: https://github.com/muan/scribble
+stars: 771
 download: https://github.com/muan/scribble/archive/gh-pages.zip
 demo: https://scribble.muan.co/
 author: Mu-An Chiou

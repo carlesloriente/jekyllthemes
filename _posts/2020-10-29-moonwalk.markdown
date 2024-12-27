@@ -4,6 +4,7 @@ comments: true
 title: Moonwalk
 date: 2020-10-29 12:00:00 +01:00
 repo: https://github.com/abhinavs/moonwalk
+stars: 366
 download: https://github.com/abhinavs/moonwalk/archive/master.zip
 demo: https://www.abhinavsaxena.com/moonwalk/
 author: abhinavs

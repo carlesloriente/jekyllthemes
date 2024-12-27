@@ -4,6 +4,7 @@ comments: true
 title: Leaf
 date: 2020-02-26 22:00:00 +01:00
 repo: https://github.com/supun-io/jekyll-theme-leaf
+stars: 137
 download: https://github.com/supun-io/jekyll-theme-leaf/archive/0.1.0.zip
 demo: https://supun-io.github.io/jekyll-theme-leaf/
 author: Supun Kavinda

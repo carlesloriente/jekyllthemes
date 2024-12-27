@@ -4,6 +4,7 @@ comments: true
 title: Gaya
 date: 2015-01-14 18:14:00 +01:00
 repo: https://github.com/gayanvirajith/gaya
+stars: 99
 download: https://github.com/gayanvirajith/gaya/archive/master.zip
 demo: https://gayan.me/gaya/
 author: Gayan Virajith

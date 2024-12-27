@@ -4,6 +4,7 @@ comments: true
 title: Naringu
 date: 2015-02-21 02:30:00 +01:00
 repo: https://github.com/ariestiyansyah/naringu
+stars: 83
 download: https://github.com/ariestiyansyah/naringu/archive/master.zip
 author: Rizky Ariestiyansyah
 thumbnail: naringu.webp

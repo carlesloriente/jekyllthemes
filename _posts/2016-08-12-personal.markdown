@@ -4,6 +4,7 @@ comments: true
 title: Personal
 date: 2016-08-12 22:11:50 +01:00
 repo: https://github.com/le4ker/personal-jekyll-theme
+stars: 630
 download: https://github.com/le4ker/personal-jekyll-theme/archive/master.zip
 demo: https://le4ker.github.io/personal-jekyll-theme/
 author: Panos Sakkos

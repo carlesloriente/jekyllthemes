@@ -4,6 +4,7 @@ comments: true
 title: Minimal Mistakes
 date: 2016-04-15 10:12:46 +01:00
 repo: https://github.com/mmistakes/minimal-mistakes
+stars: 12539
 download: https://github.com/mmistakes/minimal-mistakes/archive/master.zip
 demo: https://mmistakes.github.io/minimal-mistakes/
 author: Michael Rose

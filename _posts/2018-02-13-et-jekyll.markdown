@@ -4,6 +4,7 @@ comments: true
 title: ET-Jekyll
 date: 2018-02-13 20:00:00 +01:00
 repo: https://github.com/bradleytaunt/ET-Jekyll
+stars: 158
 download: https://github.com/bradleytaunt/ET-Jekyll/archive/master.zip
 demo: https://bradleytaunt.com/et-jekyll-theme/
 author: Bradley Taunt

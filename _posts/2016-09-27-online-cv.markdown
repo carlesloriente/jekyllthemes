@@ -4,6 +4,7 @@ comments: true
 title: Online CV
 date: 2016-09-27 20:00:00 +01:00
 repo: https://github.com/sharu725/online-cv
+stars: 3218
 download: https://github.com/sharu725/online-cv/archive/master.zip
 demo: https://webjeda.com/online-cv/
 author: webjeda

@@ -4,6 +4,7 @@ comments: true
 title: Limpid
 date: 2016-06-05 20:00:00 +01:00
 repo: https://github.com/pranavrajs/limpid
+stars: 6
 download: https://github.com/pranavrajs/limpid/archive/master.zip
 demo: https://pranavrajs.github.io/limpid/
 author: Pranav Raj S

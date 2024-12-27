@@ -4,6 +4,7 @@ comments: true
 title: Surgeon Tux
 date: 2017-01-28 18.23.00 +01:00
 repo: https://github.com/lpsandaruwan/surgeon-tux
+stars: 13
 download: https://github.com/lpsandaruwan/surgeon-tux/archive/master.zip
 demo: https://lahirus.com/surgeon-tux/
 author: Lahiru Pathirage

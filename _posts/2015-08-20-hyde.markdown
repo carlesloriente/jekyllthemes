@@ -4,6 +4,7 @@ comments: true
 title: Hyde
 date: 2015-08-20 20:00:00 +01:00
 repo: https://github.com/poole/hyde
+stars: 3686
 download: https://github.com/poole/hyde/archive/master.zip
 demo: https://hyde.getpoole.com/
 author: Mark Otto

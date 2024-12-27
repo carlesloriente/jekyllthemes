@@ -4,6 +4,7 @@ comments: true
 title: Kiko
 date: 2015-09-11 17:03:00 +01:00
 repo: https://github.com/gfjaru/Kiko
+stars: 177
 download: https://github.com/gfjaru/Kiko/releases
 demo: https://kiko.gfjaru.com
 author: Gandara Fajar Umbara

@@ -4,6 +4,7 @@ comments: true
 title: Lemma
 date: 2016-04-11 07:17:27 +01:00
 repo: https://github.com/neizod/lemma-theme
+stars: 11
 download: https://github.com/neizod/lemma-theme/archive/gh-pages.zip
 demo: https://neizod.github.io/lemma-theme
 author: Nattawut Phetmak

@@ -4,6 +4,7 @@ comments: true
 title: Read Only
 date: 2015-08-20 20:00:00 +01:00
 repo: https://github.com/CloudCannon/Read-Only-Jekyll-Theme
+stars: 27
 download: https://github.com/CloudCannon/Read-Only-Jekyll-Theme/archive/master.zip
 demo: https://html5up.net/read-only
 author: HTML5 UP (html5up.net), @n33co

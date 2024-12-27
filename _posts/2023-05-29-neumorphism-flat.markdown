@@ -4,6 +4,7 @@ comments: true
 title: Neumorphism-flat
 date: 2023-05-29 14:00:00 +01:00
 repo: https://github.com/Miorey/neumorphism-flat
+stars: 9
 download: https://github.com/Miorey/neumorphism-flat/archive/refs/heads/master.zip
 demo: https://miorey.github.io/neumorphism-flat/
 author: Miorey

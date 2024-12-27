@@ -4,6 +4,7 @@ comments: true
 title: OneFlow
 date: 2024-02-18 03:00:00 +01:00
 repo: https://github.com/perstarke-webdev/oneflow-jekyll-theme
+stars: 7
 download: https://github.com/perstarke-webdev/oneflow-jekyll-theme/archive/refs/heads/main.zip
 demo: https://oneflow-jekyll-theme.github.io/
 author: "Per Starke"

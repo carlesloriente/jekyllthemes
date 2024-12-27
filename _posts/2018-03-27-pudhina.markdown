@@ -4,6 +4,7 @@ comments: true
 title: Pudhina
 date: 2018-03-27 01:23:45 +01:00
 repo: https://github.com/Knhash/Pudhina
+stars: 105
 download: https://github.com/Knhash/Pudhina/archive/master.zip
 demo: https://knhash.github.io/Pudhina/
 author: Knhash

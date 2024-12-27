@@ -4,6 +4,7 @@ comments: true
 title: 简单博客
 date: 2016-04-07 12:00:00 +01:00
 repo: https://github.com/liungkejin/liungkejin.github.io
+stars: 36
 download: https://github.com/liungkejin/liungkejin.github.io/archive/master.zip
 demo: https://liungkejin.github.io/
 author: Kejin

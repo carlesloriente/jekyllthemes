@@ -4,6 +4,7 @@ comments: true
 title: Adam Blog
 date: 2021-04-02 03:24:04 +01:00
 repo: https://github.com/the-mvm/the-mvm.github.io
+stars: 91
 download: https://github.com/the-mvm/the-mvm.github.io/archive/refs/heads/main.zip
 demo: https://the-mvm.github.io/
 author: "Armando Maynez"

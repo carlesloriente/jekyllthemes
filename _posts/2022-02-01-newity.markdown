@@ -4,6 +4,7 @@ comments: true
 title: New-ity
 date: 2022-02-01 20:24:00 UTC+03:00
 repo: https://github.com/themecreator/newity-jeykll
+stars: 0
 download: https://github.com/themecreator/newity-jeykll/archive/refs/heads/main.zip
 author: themeCreator
 ---

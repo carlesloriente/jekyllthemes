@@ -4,6 +4,7 @@ comments: true
 title: Biu
 date: 2017-04-03 20:00:00 +01:00
 repo: https://github.com/RedL0tus/Biu-Jekyll-Theme
+stars: 18
 download: https://github.com/RedL0tus/Biu-Jekyll-Theme
 author: KayMW (RedL0tus) & alexcarpenter
 thumbnail: biu.webp
