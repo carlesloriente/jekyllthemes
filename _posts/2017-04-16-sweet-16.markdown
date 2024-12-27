@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Sweet 16
-repo: https://github.com/jdh8/sweet-16/
+repo: https://github.com/jdh8/sweet-16
 download: https://github.com/jdh8/sweet-16/archive/master.zip
 demo: https://jdh8.github.io
 author: Chen-Pang He

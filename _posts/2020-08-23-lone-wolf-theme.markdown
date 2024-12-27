@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Lone Wolf
 date: 2020-08-23 22:43:04 +01:00
-repo: https://github.com/manid2/lone-wolf-theme/
+repo: https://github.com/manid2/lone-wolf-theme
 download: https://github.com/manid2/lone-wolf-theme/releases/latest/
 demo: https://manid2.github.io/lone-wolf-theme/
 author: Mani Kumar

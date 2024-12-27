@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: ResumeCards
 date: 2015-01-15 11:00:00 +01:00
-repo: https://github.com/ellekasai/resumecards/
+repo: https://github.com/ellekasai/resumecards
 download: https://github.com/ellekasai/resumecards/archive/gh-pages.zip
 demo: https://ellekasai.github.io/resumecards/
 author: Elle Kasai

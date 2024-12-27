@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: project-pages
 date: 2016-09-17 22:01:03 +01:00
-repo: https://github.com/projectpages/project-pages/
+repo: https://github.com/projectpages/project-pages
 download: https://github.com/projectpages/project-pages/archive/gh-pages.zip
 demo: https://projectpages.github.io/project-pages/
 author: Ahmet Cecen
