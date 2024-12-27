@@ -6,7 +6,7 @@ date: 2021-10-10 20:21:10 +01:00
 repo: https://github.com/la-rebelion/DevConf-Jekyll-Theme
 download: https://github.com/la-rebelion/DevConf-Jekyll-Theme/archive/refs/heads/master.zip
 demo: https://la-rebelion.github.io/DevConf-Jekyll-Theme
-author: "Original - Xiaoying Riley | Mod: La Rebelion Labs/Adrian Escutia"
+author:  Xiaoying R
 thumbnail: DevConf-Jekyll-Theme-thumbnail.webp
 license: CC-BY-NC-SA-4.0
 license_link: https://github.com/la-rebelion/DevConf-Jekyll-Theme#author--license

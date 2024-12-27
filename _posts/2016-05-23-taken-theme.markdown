@@ -5,7 +5,7 @@ title: Taken
 date: 2016-05-23 08:14:00 +01:00
 repo: https://github.com/vfalanis/taken
 download: https://github.com/vfalanis/taken/archive/master.zip
-author: Valentina Fernandez Alanis (vfalanis)
+author: Valentina Fernandez Alanis
 thumbnail: taken-theme.webp
 license: MIT
 license_link: https://github.com/vfalanis/taken/blob/master/LICENSE

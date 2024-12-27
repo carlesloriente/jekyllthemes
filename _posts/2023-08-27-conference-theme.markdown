@@ -6,7 +6,7 @@ date: 2023-08-27 10:00:00 +01:00
 repo: https://github.com/DigitaleGesellschaft/jekyll-theme-conference
 download: https://github.com/DigitaleGesellschaft/jekyll-theme-conference/releases/
 demo: https://www.winterkongress.ch/2024/
-author: "Lorenz Schmid | Digitale Gesellschaft"
+author: "Lorenz Schmid"
 thumbnail: jekyll-theme-conference.webp
 license: MIT
 license_link: https://github.com/DigitaleGesellschaft/jekyll-theme-conference/blob/main/LICENSE.md
