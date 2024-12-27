@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: RLStevenson
 date: 2013-09-08 20:00:00 +01:00
-homepage: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme
+repo: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme
 download: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme/archive/master.zip
 author: ExchangeRate-API
 thumbnail: rlstevenson.webp

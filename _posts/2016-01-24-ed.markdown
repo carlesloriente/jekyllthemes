@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Ed
 date: 2016-01-24 10:00:00 +01:00
-homepage: https://github.com/elotroalex/ed
+repo: https://github.com/elotroalex/ed
 download: https://github.com/elotroalex/ed/archive/master.zip
 demo: https://minicomp.github.io/ed/
 author: Alex Gil

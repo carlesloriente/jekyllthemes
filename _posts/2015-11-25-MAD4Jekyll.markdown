@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: MAD4Jekyll
 date: 2015-11-25 19:00:00 +01:00
-homepage: https://github.com/madforjekyll/madforjekyll.github.io
+repo: https://github.com/madforjekyll/madforjekyll.github.io
 download: https://github.com/madforjekyll/madforjekyll.github.io/archive/master.zip
 demo: https://madforjekyll.github.io
 author: MADness

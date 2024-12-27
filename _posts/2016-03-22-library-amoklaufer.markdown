@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Library Amokläufer
 date: 2016-03-22 20:00:00 +01:00
-homepage: https://github.com/SpaceG/library
+repo: https://github.com/SpaceG/library
 download: https://github.com/SpaceG/library/archive/master.zip
 demo: https://lucasgatsas.ch
 author: Lucas Gatsas

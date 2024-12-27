@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: dentistSmile
 date: 2015-10-12 12:40:00
-homepage: https://github.com/obaez/dentistsmile
+repo: https://github.com/obaez/dentistsmile
 download: https://github.com/obaez/dentistsmile/archive/master.zip
 demo: https://obaez.com/dentistsmile/
 author: Orlando Báez

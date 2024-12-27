@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Ezora
 date: 2016-09-24 20:00:00 +01:00
-homepage: https://github.com/ezrasavard/ezora-jekyll-theme
+repo: https://github.com/ezrasavard/ezora-jekyll-theme
 download: https://github.com/ezrasavard/ezora-jekyll-theme/archive/master.zip
 demo: https://ezrasavard.github.io/ezora-jekyll-theme 
 author: Ezra Savard

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Flexible Jekyll
 date: 2017-09-13 20:00:00 +01:00
-homepage: https://github.com/artemsheludko/flexible-jekyll
+repo: https://github.com/artemsheludko/flexible-jekyll
 download: https://github.com/artemsheludko/flexible-jekyll/archive/master.zip
 demo: https://artemsheludko.github.io/flexible-jekyll/
 author: Artem Sheludko

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Plain Webcomic
 date: 2017-07-23 20:06:00 +01:00
-homepage: https://peahatlanding.github.io/Plain-Webcomic/docs/index.html
+repo: https://github.com/peahatlanding/Plain-Webcomic/
 download: https://github.com/peahatlanding/Plain-Webcomic/blob/master/Archive.zip
 demo: https://peahatlanding.github.io/Plain-Webcomic/
 author: Nico Bocalan

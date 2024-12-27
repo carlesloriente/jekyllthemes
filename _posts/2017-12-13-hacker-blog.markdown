@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Hacker Blog
 date: 2017-12-13 06:49:20 +01:00
-homepage: https://github.com/tocttou/hacker-blog
+repo: https://github.com/tocttou/hacker-blog
 download: https://github.com/tocttou/hacker-blog/archive/master.zip
 demo: https://ashishchaudhary.in/hacker-blog
 author: Ashish Chaudhary

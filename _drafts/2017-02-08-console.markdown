@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Console
 date: 2017-02-08 00:00:00
-homepage: https://github.com/jaehee0113/console
+repo: https://github.com/jaehee0113/console
 download: https://github.com/jaehee0113/console/archive/master.zip
 demo: https://jaehee0113.github.io/console
 author: Jae Hee Lee

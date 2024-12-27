@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Soot Spirits
 date: 2017-04-17 20:00:00 +01:00
-homepage: https://github.com/abhn/Soot-Spirits
+repo: https://github.com/abhn/Soot-Spirits
 download: https://github.com/abhn/Soot-Spirits/archive/master.zip
 demo: https://sootspirits.github.io
 author: Abhishek Nagekar

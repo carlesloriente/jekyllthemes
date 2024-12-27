@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Daktilo
 date: 2015-09-11 00:48:00 +01:00
-homepage: https://github.com/kronik3r/daktilo
+repo: https://github.com/kronik3r/daktilo
 download: https://github.com/kronik3r/daktilo/archive/master.zip
 demo: https://daktilo.github.io/
 author: Motaquillah Maddane

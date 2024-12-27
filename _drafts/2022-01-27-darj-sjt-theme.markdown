@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: dark-SJT
 date: 2022-01-27 08:30:00
-homepage: https://github.com/Korak-997/dark-SJT
+repo: https://github.com/Korak-997/dark-SJT
 download: https://github.com/Korak-997/dark-SJT/archive/refs/heads/master.zip
 demo: https://korak-997.github.io/dark-sjt/
 author: Korak Kurani

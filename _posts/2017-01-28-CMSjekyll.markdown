@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: CMS-jekyll
 date: 2017-01-28 20:00:00 +01:00
-homepage: https://github.com/Xu-Jian/Xu-Jian.github.io
+repo: https://github.com/Xu-Jian/Xu-Jian.github.io
 download: https://github.com/Xu-Jian/Xu-Jian.github.io/archive/master.zip
 author: XuJian
 thumbnail: CMSjekyll.webp

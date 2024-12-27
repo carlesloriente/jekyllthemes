@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Tiles
 date: 2020-01-31 00:00:00
-homepage: https://github.com/matej2/tiles-theme
+repo: https://github.com/matej2/tiles-theme
 download: https://github.com/matej2/tiles-theme
 demo: https://github.com/matej2/tiles-theme
 author: Matej J

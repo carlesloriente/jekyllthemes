@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Monochrome
 date: 2017-02-19 20:00:00 +01:00
-homepage: https://github.com/dyutibarma/monochrome
+repo: https://github.com/dyutibarma/monochrome
 download: https://github.com/dyutibarma/monochrome/archive/master.zip
 demo: https://dyutibarma.github.io/monochrome/
 author: Dyuti Barma

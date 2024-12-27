@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: NexT
 date: 2017-07-22 17:19:00 +01:00
-homepage: https://github.com/Simpleyyt/jekyll-theme-next
+repo: https://github.com/Simpleyyt/jekyll-theme-next
 download: https://github.com/Simpleyyt/jekyll-theme-next/archive/master.zip
 demo: https://simpleyyt.github.io/jekyll-theme-next/
 author: Yitao Yao

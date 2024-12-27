@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Portfolio Jekyll
 date: 2017-05-25 20:00:00 +01:00
-homepage: https://github.com/LeNPaul/portfolio-jekyll-theme
+repo: https://github.com/LeNPaul/portfolio-jekyll-theme
 download: https://github.com/LeNPaul/portfolio-jekyll-theme/archive/gh-pages.zip
 demo: https://lenpaul.github.io/portfolio-jekyll-theme/
 author: Paul Le

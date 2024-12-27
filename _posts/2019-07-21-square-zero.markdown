@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Square Zero
 date: 2019-07-21 22:30:00 +01:00
-homepage: https://github.com/squarezero/squarezero.github.io
+repo: https://github.com/squarezero/squarezero.github.io
 download: https://github.com/squarezero/squarezero.github.io/releases/tag/1.0.0
 demo: https://squarezero.vercel.app/
 author: surajk95

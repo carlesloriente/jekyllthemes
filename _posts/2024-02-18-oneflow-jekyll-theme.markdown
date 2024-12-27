@@ -3,8 +3,8 @@ layout: post
 comments: true
 title: OneFlow
 date: 2024-02-18 03:00:00 +01:00
-homepage: https://oneflow-jekyll-theme.github.io/
-download: https://github.com/perstarke-webdev/oneflow-jekyll-theme
+repo: https://github.com/perstarke-webdev/oneflow-jekyll-theme
+download: https://github.com/perstarke-webdev/oneflow-jekyll-theme/archive/refs/heads/main.zip
 demo: https://oneflow-jekyll-theme.github.io/
 author: "Per Starke"
 thumbnail: oneflow.webp

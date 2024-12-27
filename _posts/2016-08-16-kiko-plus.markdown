@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Kiko Plus
 date: 2016-08-16 01:45:03 +01:00
-homepage: https://github.com/AWEEKJ
+repo: https://github.com/AWEEKJ/Kiko-plus
 download: https://github.com/AWEEKJ/Kiko-plus/archive/master.zip
 demo: https://aweekj.github.io/Kiko-plus
 author: Hanju Jamie Jo

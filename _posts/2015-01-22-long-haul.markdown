@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Long Haul
 date: 2015-01-22 12:00:00 +01:00
-homepage: https://github.com/brianmaierjr/long-haul
+repo: https://github.com/brianmaierjr/long-haul
 download: https://github.com/brianmaierjr/long-haul/archive/master.zip
 demo: https://brianmaierjr.com/long-haul/
 author: Brian Maier Jr.

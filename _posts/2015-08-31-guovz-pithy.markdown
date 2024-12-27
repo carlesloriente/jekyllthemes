@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Guovz Pithy
 date: 2015-08-31 14:37:00 +01:00
-homepage: https://github.com/jaylinwang/jekyll-pithy
+repo: https://github.com/jaylinwang/jekyll-pithy
 download: https://github.com/jaylinwang/jekyll-pithy/archive/gh-pages.zip
 demo: https://www.guovz.com
 author: Jaylin Wang

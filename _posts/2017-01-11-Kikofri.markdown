@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Kikofri 
 date: 2017-01-11 20:00:00 +01:00
-homepage: https://github.com/kxxvii/Kikofri
+repo: https://github.com/kxxvii/Kikofri
 download: https://github.com/kxxvii/Kikofri/archive/master.zip
 demo: https://kxxvii.github.io/Kikofri
 author: kxxvii

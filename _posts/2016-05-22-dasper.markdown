@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Dasper
 date: 2016-05-22 20:00:00 +01:00
-homepage: https://github.com/ozgrozer/dasper
+repo: https://github.com/ozgrozer/dasper
 download: https://github.com/ozgrozer/dasper/archive/master.zip
 demo: https://ozgrozer.github.io/dasper/
 author: ozgrozer

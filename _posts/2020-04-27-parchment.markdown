@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Parchment
 date: 2020-04-27 22:18:00 +01:00
-homepage: https://github.com/pro-panda/parchment/
+repo: https://github.com/pro-panda/parchment/
 download: https://github.com/pro-panda/parchment/archive/master.zip
 demo: https://rahulbothra.com/parchment/
 author: pro-panda

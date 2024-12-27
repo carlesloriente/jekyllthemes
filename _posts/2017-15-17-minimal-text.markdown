@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Minimal Text
 date: 2017-12-15 05:00:00 +01:00
-homepage: https://github.com/clarkhacks/Minimal-Text
+repo: https://github.com/clarkhacks/Minimal-Text
 download: https://github.com/clarkhacks/Minimal-Text
 demo: https://wkmn.gumroad.com/l/uobbk
 author: Clark Hacks

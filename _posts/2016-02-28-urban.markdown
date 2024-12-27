@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Urban
 date: 2016-02-28 23:30:00 +01:00
-homepage: https://github.com/midzer/urban-theme
+repo: https://github.com/midzer/urban-theme
 download: https://github.com/midzer/urban-theme/archive/master.zip
 demo: https://midzer.github.io/urban-theme/
 author: Dennis Rohner

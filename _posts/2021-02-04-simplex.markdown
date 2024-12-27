@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Simplex
 date: 2021-02-04 20:00:00 +01:00
-homepage: https://github.com/andreondra/jekyll-theme-simplex
+repo: https://github.com/andreondra/jekyll-theme-simplex
 download: https://rubygems.org/gems/jekyll-theme-simplex
 demo: https://golas.blog/
 author: Andrew Golasowski

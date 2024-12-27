@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Basically Basic
 date: 2017-03-30 11:32:00 +01:00
-homepage: https://github.com/mmistakes/jekyll-theme-basically-basic
+repo: https://github.com/mmistakes/jekyll-theme-basically-basic
 download: https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip
 demo: https://mmistakes.github.io/jekyll-theme-basically-basic/
 author: Michael Rose

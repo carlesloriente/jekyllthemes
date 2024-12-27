@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Not Pure Poole
 date: 2020-10-01 20:00:00 +01:00
-homepage: https://github.com/vszhub/not-pure-poole
+repo: https://github.com/vszhub/not-pure-poole
 download: https://github.com/vszhub/not-pure-poole/zipball/master
 demo: https://vszhub.github.io/not-pure-poole/
 author: Songzi Vong

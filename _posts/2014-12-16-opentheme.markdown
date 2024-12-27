@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: OpenTheme
 date: 2014-12-16 12:00:00 +01:00
-homepage: https://github.com/manavsehgal/opentheme
+repo: https://github.com/manavsehgal/opentheme
 download: https://github.com/manavsehgal/opentheme/archive/master.zip
 author: Manav Sehgal
 thumbnail: opentheme.webp

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Swift
 date: 2013-12-01 03:55:00 +01:00
-homepage: https://github.com/pranavrajs/swift/
+repo: https://github.com/pranavrajs/swift/
 download: https://github.com/pranavrajs/swift/archive/master.zip
 demo: https://pranavrajs.github.io/swift/
 author: Pranav

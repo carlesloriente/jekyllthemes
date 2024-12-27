@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Violet
 date: 2016-07-16 16:35:00 +01:00
-homepage: https://github.com/sergiokopplin/violet
+repo: https://github.com/sergiokopplin/violet
 download: https://github.com/sergiokopplin/violet/archive/gh-pages.zip
 demo: https://sergiokopplin.github.io/violet/
 author: Sérgio Kopplin

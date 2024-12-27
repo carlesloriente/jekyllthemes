@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Material Bliss
 date: 2017-01-18 20:17:14 +01:00
-homepage: https://github.com/insipx/material-bliss-jekyll-theme
+repo: https://github.com/insipx/material-bliss-jekyll-theme
 download: https://github.com/insipx/material-bliss-jekyll-theme/archive/master.zip
 demo: https://code.liquidthink.net
 author: Andrew Plaza

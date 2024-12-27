@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Jekyll-Uno
 date: 2016-01-14 10:00:00 +01:00
-homepage: https://github.com/joshgerdes/jekyll-uno
+repo: https://github.com/joshgerdes/jekyll-uno
 download: https://github.com/joshgerdes/jekyll-uno/archive/master.zip
 demo: https://joshgerdes.com/jekyll-uno/
 author: Josh Gerdes

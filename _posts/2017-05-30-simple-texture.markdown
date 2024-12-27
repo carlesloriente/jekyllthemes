@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Simple Texture
 date: 2017-05-30 20:00:00 +01:00
-homepage: https://github.com/yizeng/jekyll-theme-simple-texture
+repo: https://github.com/yizeng/jekyll-theme-simple-texture
 download: https://github.com/yizeng/jekyll-theme-simple-texture/archive/master.zip
 demo: https://yizeng.github.io/jekyll-theme-simple-texture/
 author: Yi Zeng

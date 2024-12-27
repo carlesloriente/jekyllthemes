@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Horizon Flow"
 date: 2023-09-15 08:45:00 +01:00
-homepage: https://github.com/papierkorp/jekyll-theme-horizon-flow
+repo: https://github.com/papierkorp/jekyll-theme-horizon-flow
 download: https://github.com/papierkorp/jekyll-theme-horizon-flow/archive/refs/tags/1.0.3.zip
 demo: https://papierkorp.github.io/jekyll-theme-horizon-flow/
 author: Markus Schiller

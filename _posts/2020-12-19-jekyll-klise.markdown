@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Jekyll Klisé
 date: 2020-12-19 20:00:00 +01:00
-homepage: https://github.com/piharpi/jekyll-klise
+repo: https://github.com/piharpi/jekyll-klise
 download: https://github.com/piharpi/jekyll-klise
 demo: https://klise.now.sh
 author: Mahendrata Harpi

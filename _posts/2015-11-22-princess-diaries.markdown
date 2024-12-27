@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Princess Diaries
 date: 2015-11-22 20:00:00 +01:00
-homepage: https://github.com/laixintao/Princess-Diaries
+repo: https://github.com/laixintao/Princess-Diaries
 download: https://github.com/laixintao/Princess-Diaries/archive/master.zip
 demo: https://laixintao.github.io/Princess-Diaries.html 
 author: laixintao

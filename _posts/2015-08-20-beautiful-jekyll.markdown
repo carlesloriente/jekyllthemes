@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Beautiful Jekyll
 date: 2015-08-20 18:00:00 +01:00
-homepage: https://github.com/daattali/beautiful-jekyll
+repo: https://github.com/daattali/beautiful-jekyll
 download: https://github.com/daattali/beautiful-jekyll/archive/master.zip
 demo: https://beautifuljekyll.com/
 author: Dean Attali

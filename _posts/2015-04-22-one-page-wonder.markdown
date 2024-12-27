@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: One Page Wonder
 date: 2015-04-22 20:00:00 +01:00
-homepage: https://github.com/mushishi78/one-page-wonder-jekyll
+repo: https://github.com/mushishi78/one-page-wonder-jekyll
 download: https://github.com/mushishi78/one-page-wonder-jekyll/archive/gh-pages.zip
 demo: https://mushishi78.github.io/one-page-wonder-jekyll
 author: Max White

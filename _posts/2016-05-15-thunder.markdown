@@ -3,12 +3,13 @@ layout: post
 comments: true
 title: Thunder
 date: 2014-05-15 18:50:00 +01:00
-homepage: https://webjeda.com/thunder/
+repo: https://github.com/sharu725/thunder/
 download: https://github.com/sharu725/thunder/archive/master.zip
+demo: https://webjeda.com/thunder/
 author: sharathdt
 thumbnail: thunder.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 ---
 
-[Thunder](https://webjeda.com/thunder/) minimal and light-weight jekyll theme.
+Thunder minimal and light-weight jekyll theme.

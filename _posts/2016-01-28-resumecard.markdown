@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Resumecard
 date: 2016-01-28 08:08:00 +01:00
-homepage: https://github.com/ddbullfrog/resumecard
+repo: https://github.com/ddbullfrog/resumecard
 download: https://github.com/ddbullfrog/resumecard/archive/gh-pages.zip
 demo: https://ddbullfrog.github.io/resumecard
 author: Dong Liang

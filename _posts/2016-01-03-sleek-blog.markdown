@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Sleek Blog
 date: 2016-01-03 15:45:45 +05:30
-homepage: https://github.com/bawn92/sleek_blog
+repo: https://github.com/bawn92/sleek_blog
 download: https://github.com/bawn92/sleek_blog/archive/master.zip
 author: Gearoid O'Connor
 thumbnail: sleek-blog.webp

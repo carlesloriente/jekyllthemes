@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Will Jekyll Template
 date: 2015-08-04 04:00:00 +01:00
-homepage: https://github.com/willianjusten/will-jekyll-template
+repo: https://github.com/willianjusten/will-jekyll-template
 download: https://github.com/willianjusten/will-jekyll-template/archive/master.zip
 demo: https://willianjusten.github.io/will-jekyll-template/
 author: Willian Justen

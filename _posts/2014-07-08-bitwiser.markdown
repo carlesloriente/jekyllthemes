@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Bitwiser
 date: 2014-07-08 13:26:00 +01:00
-homepage: https://bitwiser.in/bitwiser/
+repo: https://github.com/brijeshb42/bitwiser/
 download: https://goo.gl/iC85jv
 demo: https://bitwiser.in/bitwiser/demo.html
 author: Brijesh Bittu

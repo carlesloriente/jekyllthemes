@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Robotkang
 date: 2018-01-08 15:00:00 +01:00
-homepage: https://github.com/MengZheK/kangblog.github.io
+repo: https://github.com/MengZheK/kangblog.github.io
 download: https://github.com/MengZheK/kangblog.github.io/archive/master.zip
 demo: https://robotkang.cc
 author: Robotkang

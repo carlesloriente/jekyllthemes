@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Psychonaut
 date: 2020-03-10 18:00:00
-homepage: https://github.com/wu-kan/fengwei2002.github.io
+repo: https://github.com/wu-kan/fengwei2002.github.io
 download: https://github.com/wu-kan/fengwei2002.github.io/archive/master.zip
 demo: https://fengwei2002.github.io
 author: fengwei

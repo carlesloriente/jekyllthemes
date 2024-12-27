@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Helium Jekyll
 date: 2017-10-09 12:32:00 +01:00
-homepage: https://github.com/heliumjk/heliumjk.github.io
+repo: https://github.com/heliumjk/heliumjk.github.io
 download: https://github.com/heliumjk/heliumjk.github.io/archive/master.zip
 demo: https://heliumjk.github.io/
 author: Antonio Trento

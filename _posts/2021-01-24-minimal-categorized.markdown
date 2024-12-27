@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: minimal-categorized
 date: 2021-01-24 16:47:00 +01:00
-homepage: https://github.com/ItsPatrq/minimal-categorized
+repo: https://github.com/ItsPatrq/minimal-categorized
 download: https://rubygems.org/gems/minimal-categorized
 demo: https://itspatrq.github.io/minimal-categorized/
 author: Patryk Bieszke

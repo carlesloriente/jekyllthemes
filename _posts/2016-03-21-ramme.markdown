@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Ramme
 date: 2016-03-21 11:01:00 +01:00
-homepage: https://github.com/TaylanTatli/Ramme
+repo: https://github.com/TaylanTatli/Ramme
 download: https://github.com/TaylanTatli/Ramme/archive/gh-pages.zip
 demo: https://tolgatatli.github.io/Ramme/
 author: Taylan Tatlı

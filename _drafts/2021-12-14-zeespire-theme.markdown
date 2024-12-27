@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: ZeeSpire One free
 date: 2021-12-14 00:00:00
-homepage: https://shop.zeespire.com
+repo: https://shop.zeespire.com
 download: https://github.com/ZeeSpire/one-free
 demo: https://one-free.zeespire.com/
 author: ZeeSpire

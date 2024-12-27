@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Fermi
 date: 2022-10-26 19:00:00
-homepage: https://github.com/zivhacker/jekyll-theme-fermi
+repo: https://github.com/zivhacker/jekyll-theme-fermi
 download: https://github.com/zivhacker/jekyll-theme-fermi/archive/refs/heads/main.zip
 demo: https://zivs.blog/jekyll-theme-fermi/
 author: Ziv

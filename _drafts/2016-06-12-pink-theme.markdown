@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Pink
 date: 2016-06-12 23:01:03
-homepage: https://adagio-cantabile.github.io/
+repo: https://adagio-cantabile.github.io/
 download: https://github.com/Adagio-cantabile/Adagio-cantabile.github.io/archive/master.zip
 demo: https://adagio-cantabile.github.io/
 author: Yiwen Gong

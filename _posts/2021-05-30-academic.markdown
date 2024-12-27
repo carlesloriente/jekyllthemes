@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: academic
 date: 2021-05-30 20:00:00 +01:00
-homepage: https://github.com/LeNPaul/academic
+repo: https://github.com/LeNPaul/academic
 download: https://github.com/LeNPaul/academic/archive/gh-pages.zip
 demo: https://lenpaul.github.io/academic
 author: Paul Le

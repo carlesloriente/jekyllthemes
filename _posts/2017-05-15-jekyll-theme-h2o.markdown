@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: H2O
 date: 2017-05-15 20:00:00 +01:00
-homepage: https://github.com/kaeyleo/jekyll-theme-H2O
+repo: https://github.com/kaeyleo/jekyll-theme-H2O
 download: https://github.com/kaeyleo/jekyll-theme-H2O/archive/master.zip
 demo: https://liaokeyu.com
 author: liaokeyu

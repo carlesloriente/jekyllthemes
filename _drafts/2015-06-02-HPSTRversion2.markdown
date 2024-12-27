@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: HPSTR Version 2 - Vietnamese
 date: 2015-06-02 00:10:00
-homepage: https://github.com/minhhuy150894/minhhuy150894.github.io
+repo: https://github.com/minhhuy150894/minhhuy150894.github.io
 download: https://github.com/minhhuy150894/minhhuy150894.github.io/archive/master.zip
 demo: https://minhhuy150894.github.io
 author: David Ng (Nguyen Minh Huy) - Michael Rose

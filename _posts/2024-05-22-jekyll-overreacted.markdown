@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Overreacted
 date: 2024-05-22 03:00:00 +01:00
-homepage: https://github.com/foodgy/jekyll-overreacted
+repo: https://github.com/foodgy/jekyll-overreacted
 download: https://github.com/foodgy/jekyll-overreacted/archive/refs/heads/main.zip
 demo: https://romakoch.com/
 author: Roman Koch

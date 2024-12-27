@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Type on Strap
 date: 2017-11-11 07:00:00 +01:00
-homepage: https://github.com/Sylhare/Type-on-Strap
+repo: https://github.com/Sylhare/Type-on-Strap
 download: https://github.com/Sylhare/Type-on-Strap/archive/master.zip
 demo: https://sylhare.github.io/Type-on-Strap/
 author: Sylhare

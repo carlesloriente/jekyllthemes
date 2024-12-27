@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Millennial
 date: 2017-05-02 20:00:00 +01:00
-homepage: https://github.com/LeNPaul/Millennial
+repo: https://github.com/LeNPaul/Millennial
 download: https://github.com/LeNPaul/Millennial/archive/gh-pages.zip
 demo: https://lenpaul.github.io/Millennial/
 author: Paul Le

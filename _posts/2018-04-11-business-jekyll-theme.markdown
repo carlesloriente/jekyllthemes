@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Business
 date: 2018-04-11 20:00:00 +01:00
-homepage: https://github.com/melvinchng/business-jekyll-theme
+repo: https://github.com/melvinchng/business-jekyll-theme
 download: https://github.com/melvinchng/business-jekyll-theme/archive/master.zip
 demo: https://business-jekyll-theme.github.io/
 author: Melvin Ch'ng

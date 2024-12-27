@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: minimal-music-project
 date: 2021-05-29 17:22:00 +01:00
-homepage: https://github.com/ItsPatrq/minimal-music-project
+repo: https://github.com/ItsPatrq/minimal-music-project
 download: https://github.com/ItsPatrq/minimal-music-project/archive/master.zip
 demo: https://minimal-music-project.netlify.app/
 author: Patryk Bieszke

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Kactus
 date: 2015-06-11 12:40:00 +01:00
-homepage: https://github.com/nickbalestra/kactus
+repo: https://github.com/nickbalestra/kactus
 download: https://github.com/nickbalestra/kactus/archive/master.zip
 demo: https://nick.balestra.ch/2015/Kactus/
 author: Nick Balestra

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Jasper
 date: 2015-10-01 20:00:00 +01:00
-homepage: https://github.com/biomadeira/jasper
+repo: https://github.com/biomadeira/jasper
 download: https://github.com/biomadeira/jasper/archive/master.zip
 demo: https://jekyllt.github.io/jasper/
 author: biomadeira

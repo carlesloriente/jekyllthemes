@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Stylish Portfolio
 date: 2015-09-08 01:03:00 +01:00
-homepage: https://github.com/volny/stylish-portfolio-jekyll
+repo: https://github.com/volny/stylish-portfolio-jekyll
 download: https://github.com/volny/stylish-portfolio-jekyll/archive/master.zip
 demo: https://volny.github.io/stylish-portfolio-jekyll/
 author: Start Bootstrap, Felix Volny

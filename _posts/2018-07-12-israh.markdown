@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Israh
 date: 2018-07-12 20:00:00 +01:00
-homepage: https://github.com/ezrasavard/israh-jekyll-theme
+repo: https://github.com/ezrasavard/israh-jekyll-theme
 download: https://github.com/ezrasavard/israh-jekyll-theme/archive/master.zip
 demo: https://ezrasavard.github.io/israh-jekyll-theme
 author: Ezra Savard

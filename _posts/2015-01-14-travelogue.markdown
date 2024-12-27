@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Travelogue
 date: 2015-01-14 20:00:00 +01:00
-homepage: https://github.com/SalGnt/Travelogue
+repo: https://github.com/SalGnt/Travelogue
 download: https://github.com/SalGnt/Travelogue/archive/master.zip
 demo: https://salgnt.github.io/Travelogue/
 author: Salvatore Gentile

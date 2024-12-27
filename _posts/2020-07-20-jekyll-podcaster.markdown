@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Podcaster
 date: 2020-07-20 16:00:00 +01:00
-homepage: https://github.com/PandaSekh/Jekyll-Podcaster
+repo: https://github.com/PandaSekh/Jekyll-Podcaster
 download: https://github.com/PandaSekh/Jekyll-Podcaster/releases/latest
 demo: https://jekyll-podcaster.netlify.app/
 author: Alessio Franceschi

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Uno-dbyll
 date: 2015-01-02 03:26:00 +01:00
-homepage: https://github.com/meliodus/uno-dbyll
+repo: https://github.com/meliodus/uno-dbyll
 download: https://github.com/meliodus/uno-dbyll/archive/gh-pages.zip
 author: Ankan Biswas
 thumbnail: uno-dbyll.webp

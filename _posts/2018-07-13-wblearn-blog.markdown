@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: wblearn blog
 date: 2018-07-13 12:00:00 +01:00
-homepage: https://github.com/wblearn/wblearn.github.io
+repo: https://github.com/wblearn/wblearn.github.io
 download: https://github.com/wblearn/wblearn.github.io/archive/master.zip
 demo: https://wblearn.github.io/
 author: wblearn

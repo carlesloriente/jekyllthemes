@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Jekyll Now
 date: 2015-08-20 15:00:00 +01:00
-homepage: https://github.com/barryclark/jekyll-now
+repo: https://github.com/barryclark/jekyll-now
 download: https://github.com/barryclark/jekyll-now/archive/master.zip
 demo: https://www.jekyllnow.com/
 author: Barry Clark

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Smart Material
 date: 2016-09-20 20:00:00 +01:00
-homepage: https://github.com/ssokurenko/jekyll-smart-material
+repo: https://github.com/ssokurenko/jekyll-smart-material
 download: https://github.com/ssokurenko/jekyll-smart-material/archive/gh-pages.zip
 demo: https://ssokurenko.github.io/jekyll-smart-material/
 author: Sergey Sokurenko

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Airspace
 date: 2016-09-12 20:00:00 +01:00
-homepage: https://github.com/luminousrubyist/airspace-jekyll
+repo: https://github.com/luminousrubyist/airspace-jekyll
 download: https://github.com/luminousrubyist/airspace-jekyll/archive/master.zip
 demo: https://luminousrubyist.github.io/airspace-jekyll
 author: Andrew Lee

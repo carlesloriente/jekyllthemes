@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Leap Day
 date: 2014-07-24 01:42:00 +01:00
-homepage: https://github.com/mattgraham/Leap-Day
+repo: https://github.com/mattgraham/Leap-Day
 download: https://github.com/mattgraham/Leap-Day/archive/master.zip
 demo: https://madebygraham.com/leapday/
 author: Matt Graham

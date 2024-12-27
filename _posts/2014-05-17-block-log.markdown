@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Block-log
 date: 2014-05-17 20:00:00 +01:00
-homepage: https://github.com/anandubajith/block-log
+repo: https://github.com/anandubajith/block-log
 download: https://github.com/anandubajith/block-log/archive/master.zip
 demo: https://anandubajith.github.io/demo/block-log/
 author: Anandu B Ajith

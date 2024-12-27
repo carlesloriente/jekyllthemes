@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Catbook
 date: 2019-12-22 02:30:00 +01:00
-homepage: https://github.com/starry99/catbook
+repo: https://github.com/starry99/catbook
 download: https://github.com/starry99/catbook/archive/master.zip
 demo: https://starry99.github.io/catbook
 author: Starry99

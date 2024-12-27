@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Accent
 date: 2016-02-12 21:00:00 +01:100
-homepage: https://github.com/ankitsultana/accent
+repo: https://github.com/ankitsultana/accent
 download: https://github.com/ankitsultana/accent/archive/gh-pages.zip
 demo: https://ankitsultana.com/accent
 author: Ankit Sultana

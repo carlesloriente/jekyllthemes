@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Feeling Responsive
 date: 2015-03-02 20:00:00 +01:00
-homepage: https://github.com/Phlow/feeling-responsive
+repo: https://github.com/Phlow/feeling-responsive
 download: https://github.com/Phlow/feeling-responsive/archive/gh-pages.zip
 demo: https://phlow.github.io/feeling-responsive/
 author: Phlow – Moritz »mo.« Sauer

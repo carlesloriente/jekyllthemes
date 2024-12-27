@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Friday
 date: 2020-03-02 18:00:00 +01:00
-homepage: https://github.com/sfreytag/friday-theme/
+repo: https://github.com/sfreytag/friday-theme/
 download: https://github.com/sfreytag/friday-theme/archive/master.zip
 demo: https://sfreytag.github.io/friday-theme/
 author: Simon Freytag

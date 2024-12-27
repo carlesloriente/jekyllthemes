@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Alembic
 date: 2016-11-26 20:00:00 +01:00
-homepage: https://github.com/daviddarnes/alembic
+repo: https://github.com/daviddarnes/alembic
 download: https://github.com/daviddarnes/alembic/archive/master.zip
 demo: https://alembic.darn.es/
 author: David Darnes

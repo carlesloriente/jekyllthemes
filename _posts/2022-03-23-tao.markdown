@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Tao
 date: 2022-03-23 23:14:00 +01:00
-homepage: https://github.com/vfvong/jekyll-theme-tao
+repo: https://github.com/vfvong/jekyll-theme-tao
 download: https://github.com/vfvong/jekyll-theme-tao/archive/refs/heads/main.zip
 author: Song-Zi Vong
 thumbnail: tao.webp

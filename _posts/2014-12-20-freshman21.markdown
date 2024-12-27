@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Freshman21
 date: 2014-12-20 16:55:00 +01:00
-homepage: https://github.com/yulijia/freshman21
+repo: https://github.com/yulijia/freshman21
 download: https://github.com/yulijia/freshman21/archive/master.zip
 demo: https://yulijia.net/freshman21/
 author: Lijia Yu

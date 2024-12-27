@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: HCZ Material
 date: 2016-06-05 14:30:00 +01:00
-homepage: https://github.com/codeasashu/hcz-jekyll-blog
+repo: https://github.com/codeasashu/hcz-jekyll-blog
 download: https://github.com/codeasashu/hcz-jekyll-blog/archive/gh-pages.zip
 demo: https://codeasashu.github.io/hcz-jekyll-blog/
 author: Ashutosh Chaudhary

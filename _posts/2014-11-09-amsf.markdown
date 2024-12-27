@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Almace Scaffolding
 date: 2014-11-09 10:00:00 +01:00
-homepage: https://github.com/sparanoid/almace-scaffolding
+repo: https://github.com/sparanoid/almace-scaffolding
 download: https://github.com/sparanoid/almace-scaffolding/archive/master.zip
 demo: https://sparanoid.com/lab/amsf/
 author: Tunghsiao Liu

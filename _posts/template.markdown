@@ -6,12 +6,13 @@ description: Short theme description
 date: 2030-01-01 20:00:00 +01:00
 update_date:
 homepage: https://homepage.url
-download: https://homepage.url/download.zip
-demo: http://demopage.url/
+repo: https://themepage.url
+download: https://themepage.url/download.zip
+demo: http://themedemopage.url/
 author: Author name
 thumbnail: thumbnail.webp
 license: MIT
-license_link: https://homepage.url/LICENCE
+license_link: https://themepage.url/LICENCE
 version: '0.1'
 carousel:
   - 'screenshot-1.webp'

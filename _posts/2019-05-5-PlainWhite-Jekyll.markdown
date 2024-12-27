@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Plainwhite
 date: 2019-05-05 09:20:00 +01:00
-homepage: https://github.com/samarsault/plainwhite-jekyll
+repo: https://github.com/samarsault/plainwhite-jekyll
 download: https://github.com/samarsault/plainwhite-jekyll/archive/master.zip
 demo: https://samarsault.com/
 author: samarsault

@@ -3,9 +3,9 @@ layout: post
 comments: true
 title: WuK
 date: 2019-06-21 18:00:00 +01:00
-homepage: https://jekyll-theme-WuK.wu-kan.cn
+repo: https://github.com/wu-kan/wu-kan.github.io/
 download: https://github.com/wu-kan/wu-kan.github.io/archive/master.zip
-demo: https://wu-kan.cn
+demo: https://jekyll-theme-WuK.wu-kan.cn
 author: WuK
 thumbnail: wu-kan.webp
 license: MIT

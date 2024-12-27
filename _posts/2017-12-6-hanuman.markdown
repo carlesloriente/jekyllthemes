@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Hanuman
 date: 2017-12-06 04:00:00 +01:00
-homepage: https://github.com/samanyougarg/hanuman
+repo: https://github.com/samanyougarg/hanuman
 download: https://github.com/samanyougarg/hanuman/archive/master.zip
 demo: https://samanyougarg.github.io/hanuman/
 author: Samanyou Garg

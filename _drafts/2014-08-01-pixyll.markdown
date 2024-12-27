@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: Pixyll
 date: 2014-08-01 03:33:00
-homepage: https://github.com/johnotander/pixyll
+repo: https://github.com/johnotander/pixyll
 download: https://github.com/johnotander/pixyll/archive/master.zip
 demo: https://pixyll.com
 author: John Otander

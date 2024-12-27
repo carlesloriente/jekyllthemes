@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Freelancer
 date: 2014-07-24 20:00:00 +01:00
-homepage: https://github.com/jeromelachaud/freelancer-theme
+repo: https://github.com/jeromelachaud/freelancer-theme
 download: https://github.com/jeromelachaud/freelancer-theme/archive/master.zip
 demo: https://jeromelachaud.github.io/freelancer-theme
 author: Jerome Lachaud

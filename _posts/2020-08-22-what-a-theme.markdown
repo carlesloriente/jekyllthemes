@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: What A THeme
 date: 2020-08-22 00:15:00 +01:00
-homepage: https://github.com/thedevslot/WhatATheme
+repo: https://github.com/thedevslot/WhatATheme
 download: https://github.com/thedevslot/WhatATheme/archive/master.zip
 demo: https://thedevslot.github.io/WhatATheme/
 author: Sneha Omer, Harsh Trivedi

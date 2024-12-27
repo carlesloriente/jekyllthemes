@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Skinny Bones
 date: 2014-09-03 21:00:00 +01:00
-homepage: https://github.com/mmistakes/skinny-bones-jekyll
+repo: https://github.com/mmistakes/skinny-bones-jekyll
 download: https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip
 demo: https://mmistakes.github.io/jekyll-theme-skinny-bones/
 author: Michael Rose
