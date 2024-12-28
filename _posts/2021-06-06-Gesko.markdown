@@ -4,6 +4,7 @@ comments: true
 title: Gesko
 date: 2021-06-06 11:42:00 +01:00
 repo: https://github.com/DavideBri/Gesko
+forks: 73
 stars: 198
 download: https://github.com/DavideBri/Gesko/generate
 demo: https://davidebri.github.io/Gesko/

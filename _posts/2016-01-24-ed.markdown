@@ -4,6 +4,7 @@ comments: true
 title: Ed
 date: 2016-01-24 10:00:00 +01:00
 repo: https://github.com/elotroalex/ed
+forks: 132
 stars: 125
 download: https://github.com/elotroalex/ed/archive/master.zip
 demo: https://minicomp.github.io/ed/

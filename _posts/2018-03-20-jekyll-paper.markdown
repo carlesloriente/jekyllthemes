@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Paper
 date: 2018-03-20 20:00:00 +01:00
 repo: https://github.com/ghosind/Jekyll-Paper
+forks: 21
 stars: 57
 download: https://github.com/ghosind/Jekyll-Paper/archive/master.zip
 demo: https://www.ghosind.com

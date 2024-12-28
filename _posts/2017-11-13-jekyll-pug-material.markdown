@@ -4,6 +4,7 @@ comments: true
 title: Jekyll-Pug Material
 date: 2017-11-13 00:56:00 +01:00
 repo: https://github.com/dougbeney/jekyll-pug-material
+forks: 12
 stars: 12
 download: https://github.com/dougbeney/jekyll-pug-material/archive/master.zip
 demo: http://material.jekyll-pug.dougie.io

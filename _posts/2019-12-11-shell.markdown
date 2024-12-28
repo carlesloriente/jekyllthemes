@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Shell
 date: 2019-12-11 10:20:00 +01:00
 repo: https://github.com/tareqdandachi/jekyll-shell-theme
+forks: 57
 stars: 81
 download: https://rubygems.org/gems/jekyll-shell-theme
 author: Tareq El Dandachi

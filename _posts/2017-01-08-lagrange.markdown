@@ -4,6 +4,7 @@ comments: true
 title: Lagrange
 date: 2017-01-08 21:00:00 +01:00
 repo: https://github.com/LeNPaul/Lagrange
+forks: 673
 stars: 686
 download: https://github.com/LeNPaul/Lagrange/archive/gh-pages.zip
 demo: https://lenpaul.github.io/Lagrange/

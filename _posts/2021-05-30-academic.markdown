@@ -4,6 +4,7 @@ comments: true
 title: academic
 date: 2021-05-30 20:00:00 +01:00
 repo: https://github.com/LeNPaul/academic
+forks: 188
 stars: 168
 download: https://github.com/LeNPaul/academic/archive/gh-pages.zip
 demo: https://lenpaul.github.io/academic

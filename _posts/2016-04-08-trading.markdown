@@ -4,6 +4,7 @@ comments: true
 title: Trading
 date: 2016-04-08 11:43:00 +01:00
 repo: https://github.com/altcointrading/trading
+forks: 10
 stars: 15
 download: https://github.com/altcointrading/trading/archive/master.zip
 demo: https://www.altcointrading.net/

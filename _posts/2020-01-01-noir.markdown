@@ -4,6 +4,7 @@ comments: true
 title: Noir
 date: 2020-01-01 11:45:00 +01:00
 repo: https://github.com/essentialenemy/noir
+forks: 21
 stars: 68
 download: https://github.com/essentialenemy/noir/archive/master.zip
 demo: https://noir.essentialenemy.com

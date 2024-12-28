@@ -4,6 +4,7 @@ comments: true
 title: Almace Scaffolding
 date: 2014-11-09 10:00:00 +01:00
 repo: https://github.com/sparanoid/almace-scaffolding
+forks: 184
 stars: 333
 download: https://github.com/sparanoid/almace-scaffolding/archive/master.zip
 demo: https://sparanoid.com/lab/amsf/

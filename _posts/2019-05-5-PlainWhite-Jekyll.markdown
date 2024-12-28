@@ -4,6 +4,7 @@ comments: true
 title: Plainwhite
 date: 2019-05-05 09:20:00 +01:00
 repo: https://github.com/samarsault/plainwhite-jekyll
+forks: 484
 stars: 466
 download: https://github.com/samarsault/plainwhite-jekyll/archive/master.zip
 demo: https://samarsault.com/

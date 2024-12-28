@@ -4,6 +4,7 @@ comments: true
 title: Metaphor
 date: 2015-02-05 01:42:00 +01:00
 repo: https://github.com/prio101/metaphor-jekyll
+forks: 7
 stars: 5
 download: https://github.com/prio101/metaphor-jekyll/archive/master.zip
 author: Mahabub I.

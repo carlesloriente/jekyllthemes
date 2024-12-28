@@ -4,6 +4,7 @@ comments: true
 title: Gradfolio
 date: 2021-03-11 12:33:00 +01:00
 repo: https://github.com/jitinnair1/gradfolio
+forks: 85
 stars: 248
 download: https://github.com/jitinnair1/gradfolio/releases/latest/
 demo: https://jitinnair1.github.io/gradfolio/

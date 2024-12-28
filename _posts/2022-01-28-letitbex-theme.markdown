@@ -3,6 +3,7 @@ layout: post
 comments: true
 title: Letitbex
 repo: https://gitlab.com/mrtsukim0t0-/letitbex-theme
+forks: 424
 stars: 719
 download: https://gitlab.com/mrtsukim0t0-/letitbex-theme/-/raw/master/letitbex-theme.tar.gz
 author: 0t0

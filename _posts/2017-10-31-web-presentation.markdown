@@ -4,6 +4,7 @@ comments: true
 title: Web-presentation
 date: 2017-10-31 20:00:00 +01:00
 repo: https://github.com/deepidea/web-presentation
+forks: 119
 stars: 186
 download: https://github.com/deepidea/web-presentation/archive/refs/heads/master.zip
 demo: https://deepidea.github.io/web-presentation/

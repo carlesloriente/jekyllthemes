@@ -4,6 +4,7 @@ comments: true
 title: Monos
 date: 2020-01-02 19:56:49 +01:00
 repo: https://github.com/ejjoo/jekyll-theme-monos
+forks: 263
 stars: 52
 download: https://github.com/ejjoo/jekyll-theme-monos/archive/master.zip
 demo: https://ejjoo.github.io/

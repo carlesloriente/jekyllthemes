@@ -4,6 +4,7 @@ comments: true
 title: Minimal Text
 date: 2017-12-15 05:00:00 +01:00
 repo: https://github.com/clarkhacks/Minimal-Text
+forks: 33
 stars: 20
 download: https://github.com/clarkhacks/Minimal-Text
 demo: https://wkmn.gumroad.com/l/uobbk

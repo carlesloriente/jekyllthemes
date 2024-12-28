@@ -4,6 +4,7 @@ comments: true
 title: Hydure
 date: 2021-04-29 21:27:00 +01:00
 repo: https://github.com/zivong/jekyll-theme-hydure
+forks: 73
 stars: 31
 download: https://github.com/zivong/jekyll-theme-hydure/archive/refs/heads/master.zip
 author: Song-Zi Vong

@@ -4,6 +4,7 @@ comments: true
 title: mug
 date: 2015-11-21 11:42:09 +01:00
 repo: https://github.com/nandomoreirame/mug
+forks: 34
 stars: 44
 download: https://github.com/nandomoreirame/mug/archive/master.zip
 demo: https://nandomoreirame.github.io/mug/

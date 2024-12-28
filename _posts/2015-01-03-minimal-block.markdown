@@ -4,6 +4,7 @@ comments: true
 title: Minimal-block
 date: 2015-01-03 13:46:00 +01:00
 repo: https://github.com/drvy/minimal-block
+forks: 29
 stars: 42
 download: https://github.com/drvy/minimal-block/archive/master.zip
 demo: https://blog.drvy.net/minimal-block/

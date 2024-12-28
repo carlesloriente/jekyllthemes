@@ -4,6 +4,7 @@ comments: true
 title: Malt
 date: 2016-12-13 20:00:00 +01:00
 repo: https://github.com/CloudCannon/malt-jekyll-template
+forks: 26
 stars: 20
 download: https://github.com/CloudCannon/malt-jekyll-template/archive/master.zip
 demo: https://whispering-boat.cloudvent.net/

@@ -4,6 +4,7 @@ comments: true
 title: Hydejack
 date: 2017-10-25 20:00:00 +01:00
 repo: https://github.com/qwtel/hydejack
+forks: 805
 stars: 1430
 download: https://github.com/qwtel/hydejack/archive/v7.zip
 demo: https://qwtel.com/hydejack/

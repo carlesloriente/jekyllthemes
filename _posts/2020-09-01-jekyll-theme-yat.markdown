@@ -4,6 +4,7 @@ comments: true
 title: Yet Another Theme (YAT)
 date: 2020-09-01 19:38:24 +01:00
 repo: https://github.com/jeffreytse/jekyll-theme-yat
+forks: 931
 stars: 1024
 download: https://github.com/jeffreytse/jekyll-theme-yat/releases/latest/
 demo: https://jeffreytse.github.io/jekyll-theme-yat/
@@ -36,7 +37,7 @@ Hey, nice to meet you, you found this [Jekyll][jekyll] theme. Here the yet anoth
 
 ## Installation
 
-For more info checkout github repository [jeffreytse/jekyll-theme-yat][yat-git-repo].  
+For more info checkout github repository [jeffreytse/jekyll-theme-yat][yat-git-repo]. 
 
 <!-- External links -->
 [jekyll]: https://jekyllrb.com/

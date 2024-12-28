@@ -4,6 +4,7 @@ comments: true
 title: Feature Blog
 date: 2017-01-30 01:38:11 +01:00
 repo: https://github.com/lavkumarv/feature-blog-jekyll
+forks: 20
 stars: 11
 download: https://github.com/lavkumarv/feature-blog-jekyll/archive/master.zip
 author: Lav Kumar Vishwakarma

@@ -4,6 +4,7 @@ comments: true
 title: Slate+Simple
 date: 2017-05-28 11:44:00 +01:00
 repo: https://github.com/benradford/Slate-and-Simple-Jekyll-Theme
+forks: 47
 stars: 31
 download: https://github.com/benradford/Slate-and-Simple-Jekyll-Theme.git
 demo: https://benradford.github.io

@@ -4,6 +4,7 @@ comments: true
 title: Slender
 date: 2016-03-31 13:34:00 +01:00
 repo: https://github.com/nikrich/jekyll-slender-template
+forks: 47
 stars: 50
 download: https://github.com/nikrich/jekyll-slender-template/archive/master.zip
 demo: https://nikrich.github.io/jekyll-slender-template/#

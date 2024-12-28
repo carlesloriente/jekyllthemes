@@ -4,6 +4,7 @@ comments: true
 title: Sciblog
 date: 2016-03-14 03:03:00 +01:00
 repo: https://github.com/yourfreebies/sciblog
+forks: 15
 stars: 16
 download: https://github.com/yourfreebies/sciblog/archive/master.zip
 demo: https://yourfreebies.github.io/sciblog/

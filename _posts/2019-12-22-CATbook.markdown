@@ -4,6 +4,7 @@ comments: true
 title: Catbook
 date: 2019-12-22 02:30:00 +01:00
 repo: https://github.com/starry99/catbook
+forks: 144
 stars: 85
 download: https://github.com/starry99/catbook/archive/master.zip
 demo: https://starry99.github.io/catbook

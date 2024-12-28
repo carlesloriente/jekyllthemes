@@ -4,6 +4,7 @@ comments: true
 title: Atlas
 date: 2020-11-16 08:54:20 +01:00
 repo: https://github.com/NrdyBhu1/atlas-jekyll-theme
+forks: 60
 stars: 8
 download: https://github.com/NrdyBhu1/atlas-jekyll-theme/archive/main.zip   
 demo: https://nrdybhu1.github.io/atlas-jekyll-theme/

@@ -4,6 +4,7 @@ comments: true
 title: Yellowblue
 date: 2015-10-18 21:00:00 +01:00
 repo: https://github.com/chalatz/yellowblue
+forks: 15
 stars: 14
 download: https://github.com/chalatz/yellowblue/archive/master.zip
 demo: https://chalatz.github.io/yellowblue/

@@ -4,6 +4,7 @@ comments: true
 title: Modernist
 date: 2015-08-20 20:00:00 +01:00
 repo: https://github.com/orderedlist/modernist
+forks: 90
 stars: 469
 download: https://github.com/orderedlist/modernist/archive/master.zip
 demo: https://orderedlist.com/modernist/

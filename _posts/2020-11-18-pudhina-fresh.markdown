@@ -4,6 +4,7 @@ comments: true
 title: Pudhina Fresh
 date: 2020-11-18 10:00:00 +01:00
 repo: https://github.com/ritijjain/pudhina-fresh
+forks: 30
 stars: 77
 download: https://github.com/ritijjain/pudhina-fresh/archive/master.zip
 demo: https://ritijjain.github.io/pudhina-fresh/

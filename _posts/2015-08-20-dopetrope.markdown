@@ -4,6 +4,7 @@ comments: true
 title: Dopetrope
 date: 2015-08-20 20:00:00 +01:00
 repo: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme
+forks: 61
 stars: 61
 download: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme/archive/master.zip
 demo: https://html5up.net/dopetrope

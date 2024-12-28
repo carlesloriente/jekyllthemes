@@ -4,6 +4,7 @@ comments: true
 title: Neumorphism
 date: 2020-04-22 14:00:00 +01:00
 repo: https://github.com/longpdo/neumorphism
+forks: 607
 stars: 426
 download: https://github.com/longpdo/neumorphism/archive/master.zip
 demo: https://longpdo.github.io/neumorphism/

@@ -4,6 +4,7 @@ comments: true
 title: dotX
 date: 2015-12-21 21:42:09 +01:00
 repo: https://github.com/nandomoreirame/dotX
+forks: 54
 stars: 92
 download: https://github.com/nandomoreirame/dotX/archive/master.zip
 demo: https://nandomoreirame.github.io/dotX/

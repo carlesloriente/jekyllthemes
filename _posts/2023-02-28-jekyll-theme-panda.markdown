@@ -4,6 +4,7 @@ comments: true
 title: Panda
 date: 2023-02-28 7:00:00 +01:00
 repo: https://github.com/sorphwer/jekyll-theme-panda
+forks: 1
 stars: 4
 download: https://github.com/sorphwer/jekyll-theme-panda/archive/refs/tags/Release.zip
 author: Riino Zhang
@@ -67,7 +68,7 @@ theme: jekyll-theme-panda
 
 And then execute: `bundle install` or install it yourself as `gem install jekyll-theme-panda`
 
-### Choice 3 : Directly use this repo 
+### Choice 3 : Directly use this repo
 
 Clone this repo or download this repo in your computer, then edit files in `_post` and edit `_config.yml`.
 

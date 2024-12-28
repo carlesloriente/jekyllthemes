@@ -4,6 +4,7 @@ comments: true
 title: Cover Card
 date: 2018-01-24 21:30:10 +02:00
 repo: https://github.com/epidrome/cover-card
+forks: 111
 stars: 113
 download: https://github.com/epidrome/cover-card/archive/gh-pages.zip
 demo: https://epidrome.github.io/cover-card/

@@ -4,6 +4,7 @@ comments: true
 title: Mere Blog
 date: 2019-10-08 10:11:00 +01:00
 repo: https://github.com/chrisrhymes/mere-blog-theme
+forks: 62
 stars: 31
 download: https://rubygems.org/gems/mere-blog-theme
 demo: https://www.csrhymes.com/mere-blog-theme/

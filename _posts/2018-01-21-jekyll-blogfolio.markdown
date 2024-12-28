@@ -4,6 +4,7 @@ comments: true
 title: Jekyll BlogFolio
 date: 2018-1-21 21:00:00 +01:00
 repo: https://github.com/lamccloskey/jekyll-theme-blogfolio
+forks: 34
 stars: 8
 download: https://github.com/lamccloskey/jekyll-theme-blogfolio
 demo: https://lamccloskey.github.io/jekyll-theme-blogfolio/

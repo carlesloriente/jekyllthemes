@@ -4,6 +4,7 @@ comments: true
 title: Dumbarton
 date: 2020-11-07 16:00:00 +01:00
 repo: https://github.com/tcbutler320/Jekyll-Theme-Dumbarton
+forks: 62
 stars: 70
 download: https://github.com/tcbutler320/Jekyll-Theme-Dumbarton/releases/latest
 demo: https://dumbarton.netlify.app/

@@ -4,6 +4,7 @@ comments: true
 title: Polar Bear
 date: 2015-05-25 07:42:00 +01:00
 repo: https://github.com/diezcami/polar-bear-theme
+forks: 53
 stars: 50
 download: https://github.com/diezcami/polar-bear-theme/archive/master.zip
 author: Camille Diez

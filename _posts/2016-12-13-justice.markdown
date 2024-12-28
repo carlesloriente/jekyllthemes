@@ -4,6 +4,7 @@ comments: true
 title: Justice
 date: 2016-12-13 20:00:00 +01:00
 repo: https://github.com/CloudCannon/justice-jekyll-template
+forks: 75
 stars: 65
 download: https://github.com/CloudCannon/justice-jekyll-template/archive/master.zip
 demo: https://grey-grouse.cloudvent.net/

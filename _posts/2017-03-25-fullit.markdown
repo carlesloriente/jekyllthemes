@@ -4,6 +4,7 @@ comments: true
 title: FullIt
 date: 2017-03-25 17:30:00 +01:00
 repo: https://github.com/fullit/fullit.github.io
+forks: 50
 stars: 26
 download: https://github.com/fullit/fullit.github.io/archive/master.zip
 demo: https://fullit.github.io

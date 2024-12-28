@@ -4,6 +4,7 @@ comments: true
 title: Resumecard
 date: 2016-01-28 08:08:00 +01:00
 repo: https://github.com/ddbullfrog/resumecard
+forks: 227
 stars: 236
 download: https://github.com/ddbullfrog/resumecard/archive/gh-pages.zip
 demo: https://ddbullfrog.github.io/resumecard

@@ -4,6 +4,7 @@ comments: true
 title: Simplest
 date: 2016-01-02 15:05:09 +01:00
 repo: https://github.com/nandomoreirame/simplest
+forks: 47
 stars: 128
 download: https://github.com/nandomoreirame/simplest/archive/master.zip
 demo: https://nandomoreirame.github.io/simplest/

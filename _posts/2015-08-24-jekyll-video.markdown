@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Video
 date: 2015-08-24 20:00:00 +01:00
 repo: https://github.com/mushishi78/jekyll-video
+forks: 26
 stars: 20
 download: https://github.com/mushishi78/jekyll-video/archive/gh-pages.zip
 demo: https://mushishi78.github.io/jekyll-video/

@@ -4,6 +4,7 @@ comments: true
 title: SparrowX 
 date: 2018-10-30 09:20:00 +01:00
 repo: https://github.com/verfasor/sparrowx
+forks: 26
 stars: 29
 download: https://github.com/verfasor/sparrowx/archive/master.zip
 demo: https://sparrowx.mighil.com/

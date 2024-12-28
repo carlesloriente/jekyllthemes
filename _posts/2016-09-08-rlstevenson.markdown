@@ -4,6 +4,7 @@ comments: true
 title: RLStevenson
 date: 2013-09-08 20:00:00 +01:00
 repo: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme
+forks: 15
 stars: 8
 download: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme/archive/master.zip
 author: ExchangeRate-API

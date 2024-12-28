@@ -4,6 +4,7 @@ comments: true
 title: Bay
 date: 2020-07-19 13:54:30 +01:00
 repo: https://github.com/eliottvincent/bay
+forks: 388
 stars: 155
 download: https://rubygems.org/gems/bay_jekyll_theme
 demo: https://eliottvincent.github.io/bay/

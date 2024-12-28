@@ -4,6 +4,7 @@ comments: true
 title: devAid
 date: 2015-04-16 18:00:00 +01:00
 repo: https://github.com/kevit/devaid-jekyll-theme
+forks: 27
 stars: 41
 download: https://github.com/kevit/devaid-jekyll-theme/archive/master.zip
 demo: https://themes.3rdwavemedia.com/demo/devaid/

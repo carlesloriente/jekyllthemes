@@ -4,6 +4,7 @@ comments: true
 title: Gitbook
 date: 2021-01-23 23:44:51 +01:00
 repo: https://github.com/sighingnow/jekyll-gitbook
+forks: 1041
 stars: 541
 download: https://github.com/sighingnow/jekyll-gitbook/archive/master.zip
 demo: https://sighingnow.github.io/jekyll-gitbook/
@@ -22,6 +23,7 @@ This theme brings the Gitbook style to [Jekyll][jekyll], by taking style definit
 ## Installation
 
 For more info checkout github repository [sighingnow/jekyll-gitbook][repo].
+
 
 <!-- External links -->
 [gitbook]: https://github.com/GitbookIO/gitbook

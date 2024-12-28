@@ -4,6 +4,7 @@ comments: true
 title: Balzac
 date: 2013-08-19 13:52:00 +01:00
 repo: https://github.com/coletownsend/balzac-for-jekyll
+forks: 25842
 stars: 509
 download: https://github.com/coletownsend/balzac-for-jekyll/archive/master.zip
 author: Cole Townsend
