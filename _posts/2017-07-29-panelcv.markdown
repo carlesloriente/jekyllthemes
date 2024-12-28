@@ -23,6 +23,5 @@ I have made this into a Jekyll Theme.
 ## Installation
 
 * Fork the repository
-forks: 417
 * Go to settings and set Github Pages source as master.
 * Your new site should be ready at `https://username.github.io/PanelCV/`

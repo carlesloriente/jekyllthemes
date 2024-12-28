@@ -17,7 +17,6 @@ license_link: https://raw.githubusercontent.com/Focx-o/Focx-o.github.io/refs/hea
 Atmos Plus, this is the copycat, modified version of atmos.org and collection of my older blog posts that I had in 2013 and newly what i add. All of my posts on meliodus.github.io.
 
 It is automatically transformed by Jekyll into a static site whenever I push this repository to GitHub.
-forks: 7
 
 Thanks to Corey, Dhrubajyoti and Dan for their awesome work which i followed as references:
 
@@ -31,7 +30,6 @@ I would also like to thank Dale-Anthony for the his awesome website as a next-re
 ## Contribute
 
 Start by [forking the repository](https://github.com/Focx-o/Focx-o.github.io/fork).
-forks: 7
 
 ## Contact
 

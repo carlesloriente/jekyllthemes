@@ -17,4 +17,3 @@ carousel:
 ---
 
 Event Jekyll Theme, please refer to [this repository](https://github.com/melvinchng/event-jekyll-theme) for instructions on how to use it.
-forks: 203

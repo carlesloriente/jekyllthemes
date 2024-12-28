@@ -19,7 +19,6 @@ Web-presentation, project is designed to quickly build presentation as a web pag
 ## Installation
 
 To create your presentation just fork this repository.
-forks: 119
 
 * Files names should start with valid  year-month-day format (f.e. 1000-01-01-example.md)
 * Years will be displayed horizontally  

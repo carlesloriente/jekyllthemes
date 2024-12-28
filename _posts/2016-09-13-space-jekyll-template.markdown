@@ -21,7 +21,6 @@ The [Space Jekyll Template](https://github.com/victorvoid/space-jekyll-template/
 ## Contribute
 
 Start by [forking the repository](https://github.com/victorvoid/space-jekyll-template/).
-forks: 321
 
 ## Contact
 

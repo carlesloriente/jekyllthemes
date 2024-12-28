@@ -29,7 +29,6 @@ Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. It is 
 ## Installation
 
 1. Fork and Clone the project repository
-forks: 554
 2. Customize your blog
 3. Add a new post in `_posts/` directory with proper name format (as shown in placeholder posts)
 4. Commit and push to master
@@ -52,7 +51,6 @@ docker run --rm -p 8000:8000 \
 ```
 
 Replace `LOCATION_OF_YOUR_JEKYLL_BLOG` with the full path of your blog repository. Visit `https://localhost:8000` to access the blog.
-forks: 554
 
 ### Customizing
 

@@ -46,7 +46,6 @@ carousel:
 
 * Fork the [Repository](https://github.com/thedevslot/WhatATheme/)
 * Clone or download the repository into directory of your choice: `git clone https://github.com/thedevslot/WhatATheme.git`
-forks: 639
 * Inside the directory run `bundle install`
 * Host WhatATheme locally by running `bundle exec jekyll s`
 

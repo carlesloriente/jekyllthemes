@@ -24,6 +24,5 @@ I have made this into a Jekyll Theme. Demo: [https://jekyller.github.io/online-c
 ## Installation
 
 * Fork the repository
-forks: 78
 * Go to settings and set Github Pages source as master
 * Your new site should be ready at https://username.github.io/online-cv/

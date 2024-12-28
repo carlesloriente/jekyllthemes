@@ -33,7 +33,6 @@ Wall-E is fully furnished right out of the box. To use this template on your blo
 
 * If this is your first Jekyll blog, follow this [helpful guide](https://jekyllrb.com/docs/installation/) to set up Jekyll.
 * Fork this repository, rename the fork as `your-username.github.io`. Your blog should immediately be live on `https://your-username.github.io`
-forks: 87
 * Clone your fork
 * Delete everything in `_posts` directory. Delete the `tmp` directory.
 * Open `_config.yml` and set the variables

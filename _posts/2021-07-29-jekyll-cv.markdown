@@ -20,7 +20,6 @@ CV jekyll theme, free theme for the creation of your CV. View demo [here](https:
 ## Installation
 
 1. [Fork](https://github.com/stavrospanakakis/jekyll-cv/fork) the repository
-forks: 254
 2. Create a `gh-pages` branch
 3. Go to Settings and select `gh-pages` as Github Pages source
 4. Replace dummy data at `_data/data.yml` and `_config.yml`

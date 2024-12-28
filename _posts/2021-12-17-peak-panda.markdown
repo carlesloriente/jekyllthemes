@@ -44,7 +44,6 @@ Jekyll theme: Peak Panda
 ### Usage & Customization
 
 1. Fork this repo
-forks: 0
 2. Update `_config.ytml` file and fill in your site configuration
 3. (Optional) Update the `_sass/peak-panda.scss` to use your own branding elements (colors, fonts etc.)
 
@@ -73,4 +72,3 @@ For more Jekyll details, look at [Jekyll documentation](http://jekyllrb.com/).
 ### Deployment
 
 It supports Github Pages and Netlify. Please check out the Github repo.
-forks: 0

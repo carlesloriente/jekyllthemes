@@ -5,7 +5,6 @@ title: Neo-HPSTR Jekyll template
 date: 2015-09-05 12:00:00 +01:00
 repo: https://github.com/aron-bordin/neo-hpstr-jekyll-theme
 forks: 240
-forks: 1435
 stars: 221
 download: https://github.com/aron-bordin/neo-hpstr-jekyll-theme/archive/master.zip
 demo: https://aron-bordin.github.io/neo-hpstr-jekyll-theme/
@@ -20,8 +19,6 @@ The [Neo-HPSTR Jekyll Template](https://github.com/aron-bordin/neo-hpstr-jekyll-
 ## Contribute
 
 Start by [forking the repository](https://github.com/aron-bordin/neo-hpstr-jekyll-theme).
-forks: 240
-forks: 1435
 
 ## Contact
 

@@ -68,11 +68,9 @@ theme: jekyll-theme-panda
 
 And then execute: `bundle install` or install it yourself as `gem install jekyll-theme-panda`
 
-### Choice 3 : Directly use this repo 
-forks: 1
+### Choice 3 : Directly use this repo
 
 Clone this repo or download this repo in your computer, then edit files in `_post` and edit `_config.yml`.
-forks: 1
 
 **Tips: Please keep using one level permalink:**
 
@@ -186,4 +184,3 @@ Check `_sass\syntax.scss`
 ## Contribute
 
 Bug reports and pull requests are welcome on GitHub at [https://github.com/sorphwer/jekyll-theme-panda](https://github.com/sorphwer/jekyll-theme-panda). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-forks: 1

@@ -5,7 +5,6 @@ title: Robotkang
 date: 2018-01-08 15:00:00 +01:00
 repo: https://github.com/MengZheK/kangblog.github.io
 forks: 73
-forks: 314
 stars: 70
 download: https://github.com/MengZheK/kangblog.github.io/archive/master.zip
 demo: https://robotkang.cc

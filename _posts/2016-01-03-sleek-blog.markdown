@@ -26,7 +26,6 @@ To use this project, you'll need the following things installed on your machine.
 ### Local Installation
 
 1. Clone this repo, or download it into a directory of your choice.
-forks: 73
 2. Inside the directory, run `npm install`.
 
 ### Usage

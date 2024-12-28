@@ -44,12 +44,10 @@ Though minimalistic-looking by nature, dactl is easily configurable and includes
 ## Installation
 
 Assuming you've got Jekyll [installed](https://jekyllrb.com/docs/installation/), clone or download this repo, `cd` to wherever you've put `helium` folder and run `jekyll -s'`
-forks: 136
 
 ### Hosting on GitHub
 
 Fork this repo and rename it to `yourusername.github.io`... and edit the `_config.yaml` file whit your github address and your links (such as social media username, email, name, ecc.)!
-forks: 136
 Your new helium-themed Jekyll blog should be up and running at yourusername.github.io.  
 
 ### Additional information about some features

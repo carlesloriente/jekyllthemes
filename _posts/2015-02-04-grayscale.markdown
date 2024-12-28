@@ -21,7 +21,6 @@ Grayscale theme, a portfolio theme that allows you to showcase your projects. Th
 ## Contribute
 
 Start by [forking](https://github.com/jeromelachaud/grayscale-theme/fork) this repository.
-forks: 477
 
 ## Contact
 

@@ -47,7 +47,6 @@ To add a custom directory to your theme-gem, please edit the regexp in `techdoc.
 ## Contribute
 
 Bug reports and pull requests are welcome on GitHub at [https://github.com/jianmin-chen/techdoc](https://github.com/jianmin-chen/techdoc). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-forks: 0
 
 ## Contact
 

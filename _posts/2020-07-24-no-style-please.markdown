@@ -21,7 +21,6 @@ A (nearly) no-CSS, fast, minimalist Jekyll theme.
 ## Features
 
 * Fast (**< 1kb of CSS**, see [Page Speed Insights report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/page-speed-insights-report.png) and [Lighthouse report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/lighthouse-report.png))
-forks: 566
 * Responsive
 * Content first (typography optimized for maximum readability)
 * SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag))

@@ -22,7 +22,6 @@ If you want to contribute to this project, please read the [Contribute](https://
 
 ```bash
     # Fork this repository
-forks: 156
     # Clone your fork
     jekyll serve --watch
 

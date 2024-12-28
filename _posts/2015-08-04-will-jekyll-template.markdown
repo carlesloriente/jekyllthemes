@@ -21,7 +21,6 @@ The [Will Jekyll Template](https://github.com/willianjusten/will-jekyll-template
 ## Contribute
 
 Start by [forking the repository](https://github.com/willianjusten/will-jekyll-template/).
-forks: 423
 
 ## Contact
 

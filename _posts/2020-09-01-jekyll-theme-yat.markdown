@@ -37,13 +37,11 @@ Hey, nice to meet you, you found this [Jekyll][jekyll] theme. Here the yet anoth
 
 ## Installation
 
-For more info checkout github repository [jeffreytse/jekyll-theme-yat][yat-git-repo].  
-forks: 931
+For more info checkout github repository [jeffreytse/jekyll-theme-yat][yat-git-repo]. 
 
 <!-- External links -->
 [jekyll]: https://jekyllrb.com/
 [yat-git-repo]: https://github.com/jeffreytse/jekyll-theme-yat/
-forks: 931
 [jekyll-spaceship]: https://github.com/jeffreytse/jekyll-spaceship
 [jekyll-seo-tag]: https://github.com/jekyll/jekyll-seo-tag
 [jekyll-sitemap]: https://github.com/jekyll/jekyll-sitemap

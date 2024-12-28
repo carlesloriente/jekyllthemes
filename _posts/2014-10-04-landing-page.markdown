@@ -21,7 +21,6 @@ Landing-Page theme, a services theme that allows you to showcase your services. 
 ## Contribute
 
 Start by [forking](https://github.com/swcool/landing-page-theme/fork) this repository.
-forks: 606
 
 ## Contact
 

@@ -29,7 +29,6 @@ A Jekyll template inspired by Netflix.
 ## Contribute
 
 Start by [forking the repository](https://github.com/thiagorossener/jekflix-template/).
-forks: 1198
 
 ## Contact
 

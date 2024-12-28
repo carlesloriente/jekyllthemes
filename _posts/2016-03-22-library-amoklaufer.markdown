@@ -19,7 +19,6 @@ The [Theme Demo of Library Jekyll Theme](https://github.com/SpaceG/library) show
 ## Contribute
 
 Start by [forking the repository](https://github.com/spaceg/library/fork).
-forks: 0
 
 ## Contact
 

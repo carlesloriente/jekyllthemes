@@ -21,6 +21,5 @@ This is a simple, beautiful and swift theme for Jekyll. It's mobile first, fluid
 **[3 Steps (2 minutes) to Setup Your Personal Website with Jalpc](https://jarrekk.github.io/Jalpc/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html)**
 
 Start by [forking the repository](https://github.com/jarrekk/Jalpc).
-forks: 1098
 
 If you have any questions or suggestions for improvements, you can mail to me: `me@jarrekk.com`, don't hesitate to [open an issue](https://github.com/jarrekk/Jalpc/issues) or making a pull request for your fork!

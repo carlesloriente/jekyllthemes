@@ -21,7 +21,6 @@ Lora theme.
 ## Installation
 
 1. Download or clone repo `git clone git@github.com:nandomoreirame/lora.git`
-forks: 31
 2. Enter the folder: `cd lora/`
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `jekyll serve`

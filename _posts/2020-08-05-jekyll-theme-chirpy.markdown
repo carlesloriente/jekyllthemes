@@ -34,5 +34,4 @@ A minimal, sidebar, responsive web design Jekyll theme, focusing on text present
 * Disqus Comments
 * Google Analytics
 * GA Pageviews reporting (Advanced)
-forks: 6103
 * SEO and Performance Optimization

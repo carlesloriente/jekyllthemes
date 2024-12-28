@@ -5,7 +5,6 @@ title: Israh
 date: 2018-07-12 20:00:00 +01:00
 repo: https://github.com/ezrasavard/israh-jekyll-theme
 forks: 9
-forks: 1960
 stars: 6
 download: https://github.com/ezrasavard/israh-jekyll-theme/archive/master.zip
 demo: https://ezrasavard.github.io/israh-jekyll-theme

@@ -22,7 +22,6 @@ I would also like to thank Dale-Anthony for the his awesome website as a next-re
 ## Contribute
 
 Start by [forking the repository](https://github.com/meliodus/uno-dbyll/fork).
-forks: 49
 
 ## Contact
 

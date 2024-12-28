@@ -17,4 +17,3 @@ carousel:
 ---
 
 Business Jekyll Theme, please refer to [this repository](https://github.com/melvinchng/business-jekyll-theme) for instructions on how to use it.
-forks: 117

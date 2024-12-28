@@ -30,9 +30,7 @@ Zebra is a minimal Jekyll theme. The idea of Zebra mainly comes from [https://ww
 ## Installation
 
 1. Fork the repository.
-forks: 1
 2. Clone the repository: `git clone https://github.com/<YOUR USERNAME>/zebra`
-forks: 1
 3. Install the GitHub Pages gem (included Jekyll): `bundle install`
 4. Start the Jekyll server: `jekyll server --watch`
 5. Open [https://127.0.0.1:4000/](https://127.0.0.1:4000/) or [https://localhost:4000/](https://localhost:4000/)

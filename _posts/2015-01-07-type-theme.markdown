@@ -5,7 +5,6 @@ title: Type
 date: 2015-01-07 09:00:00 +01:00
 repo: https://github.com/sergiokopplin/indigo
 forks: 2297
-forks: 2297
 stars: 2654
 download: https://github.com/rohanchandra/type-theme/archive/master.zip
 demo: https://rohanchandra.github.io/type-theme/

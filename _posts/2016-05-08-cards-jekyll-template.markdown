@@ -21,7 +21,6 @@ The [Cards Jekyll Template](https://github.com/willianjusten/cards-jekyll-templa
 ## Contribute
 
 Start by [forking the repository](https://github.com/willianjusten/cards-jekyll-template/).
-forks: 276
 
 ## Contact
 

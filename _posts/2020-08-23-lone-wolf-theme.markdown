@@ -32,7 +32,6 @@ Since there is no good boostrap based theme for [jekyll][jekyll] I have created 
 ## Installation
 
 For more info checkout github repository [manid2/lone-wolf-theme][lwt_git_repo].
-forks: 80
 
 <!-- External links -->
 [jekyll]: https://jekyllrb.com/
@@ -40,4 +39,3 @@ forks: 80
 [bootswatch]: https://bootswatch.com/
 [jst]: https://github.com/jekyll/jekyll-seo-tag
 [lwt_git_repo]: https://github.com/manid2/lone-wolf-theme/
-forks: 80

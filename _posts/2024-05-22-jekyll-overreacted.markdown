@@ -5,7 +5,6 @@ title: Overreacted
 date: 2024-05-22 03:00:00 +01:00
 repo: https://github.com/foodgy/jekyll-overreacted
 forks: 0
-forks: 1041
 stars: 2
 download: https://github.com/foodgy/jekyll-overreacted/archive/refs/heads/main.zip
 demo: https://romakoch.com/
@@ -33,8 +32,6 @@ carousel:
 This theme can be used just as other [Jekyll themes](https://pages.github.com).
 
 [Fork](https://github.com/sighingnow/jekyll-gitbook/fork) this repository and add your markdown posts to the `_posts` folder.
-forks: 0
-forks: 1041
 
 ### Deploy Locally with Jekyll Serve
 

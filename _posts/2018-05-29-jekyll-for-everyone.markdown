@@ -17,4 +17,3 @@ carousel:
 ---
 
 Jekyll For Everyone, Please refer to [this repository](https://github.com/melvinchng/jekyll-for-everyone) for instructions on how to use it.
-forks: 28

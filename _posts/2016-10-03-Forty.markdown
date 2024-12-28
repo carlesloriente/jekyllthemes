@@ -7,7 +7,6 @@ repo: https://github.com/andrewbanchich/Forty-Jekyll-Theme
 forks: 2207
 stars: 1066
 download: https://gitlab.com/andrewbanchich/forty-jekyll-theme/repository/archive.zip?ref=master
-forks: 2207
 demo: https://andrewbanchich.gitlab.io/forty-jekyll-theme/
 author: Andrew Banchich
 thumbnail: forty.webp

@@ -33,7 +33,6 @@ A simple Jekyll blog theme
 ## Installation
 
 1. Download or clone repository `git clone https://github.com/mateussmedeiros/blade-theme.git`
-forks: 11
 2. Enter the folder: `cd blade-theme`
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `jekyll serve`

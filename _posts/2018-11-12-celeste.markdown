@@ -5,7 +5,6 @@ title: celeste
 date: 2018-11-12 19:00:00 +01:00
 repo: https://github.com/nicoelayda/celeste
 forks: 57
-forks: 1960
 stars: 59
 download: https://github.com/nicoelayda/celeste/archive/master.zip
 demo: https://nicoelayda.github.io/celeste/

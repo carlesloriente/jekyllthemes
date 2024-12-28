@@ -31,7 +31,6 @@ This is a simple Jekyll theme for a minimal resume website.
 
 1. Install Jekyll: `gem install jekyll bundler`
 2. For this repository and clone your fork
-forks: 593
 3. Edit `_config.yml` to personalize your site
 
 ### Settings

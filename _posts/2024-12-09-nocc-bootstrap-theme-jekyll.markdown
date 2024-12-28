@@ -88,7 +88,6 @@ Just follow the instructions below, and then you can change the content of the p
    - `description`
    - `full_description` (Setting for the theme landing site, please set to `false`)
    - `gh_repository` (Optional; if not needed, comment it out)
-forks: 0
    - `email` (Set to a working email address, and then if you want to enable the contact form, create a free account at [Formspree](https://formspree.io))
    - `formemail` (fill in with your Formspree code; after that, fill out and send the form on the contact page, check your email and verify if you are receiving the messages)
    - `twitter_username` (Optional; if not needed, comment it out)
@@ -135,7 +134,6 @@ Navigate to folder `bin/certs` and execute the following command to validate cer
 You can host your site using GitHub Pages. Follow the [official guide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
 
 > **&#9432;** GitHub Pages hosting is free; you need an account and repository{:.alert alert-info}
-forks: 0
 
 #### in Amazon S3 bucket
 

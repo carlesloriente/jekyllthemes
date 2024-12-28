@@ -24,7 +24,6 @@ OpenTheme is designed to use YAML, JSON, CSV, and other data-as-a-service integr
 ## Contribute
 
 Start by [forking the repository](https://github.com/manavsehgal/opentheme/fork).
-forks: 203
 
 ## Contact
 

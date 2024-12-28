@@ -25,9 +25,7 @@ Fengzhichu Theme, a jekyll theme for personal blog which based on [Type theme](h
 ## Installation
 
 * Star & Fork the [repo](https://github.com/fengzhichu/fengzhichu-theme).
-forks: 42
 * Rename repo as `yourusername.github.io`.
-forks: 42
 * You can delete gh-pages branch if you want.
 * Clone your **master branch** to local directory
 * Custom the `_config.yml`' to your style.
