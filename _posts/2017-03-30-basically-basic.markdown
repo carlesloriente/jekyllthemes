@@ -4,6 +4,7 @@ comments: true
 title: Basically Basic
 date: 2017-03-30 11:32:00 +01:00
 repo: https://github.com/mmistakes/jekyll-theme-basically-basic
+forks: 1225
 stars: 860
 download: https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip
 demo: https://mmistakes.github.io/jekyll-theme-basically-basic/

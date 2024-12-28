@@ -4,6 +4,7 @@ comments: true
 title: Joytou
 date: 2017-08-04 00:08:00 +01:00
 repo: https://github.com/joytou/joytou.github.io
+forks: 19
 stars: 10
 download: https://github.com/joytou/joytou.github.io/archive/master.zip
 author: Joytou

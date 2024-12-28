@@ -4,6 +4,7 @@ comments: true
 title: Lone Wolf
 date: 2020-08-23 22:43:04 +01:00
 repo: https://github.com/manid2/lone-wolf-theme
+forks: 80
 stars: 22
 download: https://github.com/manid2/lone-wolf-theme/releases/latest/
 demo: https://manid2.github.io/lone-wolf-theme/
@@ -31,6 +32,7 @@ Since there is no good boostrap based theme for [jekyll][jekyll] I have created 
 ## Installation
 
 For more info checkout github repository [manid2/lone-wolf-theme][lwt_git_repo].
+forks: 80
 
 <!-- External links -->
 [jekyll]: https://jekyllrb.com/
@@ -38,3 +40,4 @@ For more info checkout github repository [manid2/lone-wolf-theme][lwt_git_repo].
 [bootswatch]: https://bootswatch.com/
 [jst]: https://github.com/jekyll/jekyll-seo-tag
 [lwt_git_repo]: https://github.com/manid2/lone-wolf-theme/
+forks: 80

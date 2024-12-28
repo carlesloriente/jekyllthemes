@@ -4,6 +4,7 @@ comments: true
 title: Library Amokläufer
 date: 2016-03-22 20:00:00 +01:00
 repo: https://github.com/SpaceG/library
+forks: 0
 stars: 0
 download: https://github.com/SpaceG/library/archive/master.zip
 demo: https://lucasgatsas.ch
@@ -18,6 +19,7 @@ The [Theme Demo of Library Jekyll Theme](https://github.com/SpaceG/library) show
 ## Contribute
 
 Start by [forking the repository](https://github.com/spaceg/library/fork).
+forks: 0
 
 ## Contact
 

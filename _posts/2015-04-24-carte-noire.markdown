@@ -4,6 +4,7 @@ comments: true
 title: Carte Noire
 date: 2015-04-24 15:00:00 +01:00
 repo: https://github.com/jacobtomlinson/carte-noire
+forks: 219
 stars: 297
 download: https://github.com/jacobtomlinson/carte-noire/archive/gh-pages.zip
 demo: https://carte-noire.jacobtomlinson.co.uk/
@@ -20,10 +21,12 @@ Carte Noire, a dark blog theme for Jekyll focusing on a clear reading experience
 ## Installation
 
 Carte Noire may be installed by simply downloading the [zip file]({{ page.download }}) from the [repository on Github]({{ page.repo }}).
+forks: 219
 
 Extract the zip to your desired location and then open that location in your terminal, you can then type `jekyll serve` from the terminal and open [https://localhost:4000/](https://localhost:4000/) in your browser to see Carte Noire.
 
 Additionally it is possible to fork the repository and use Github Pages as hosting. Following this method you only need to change the `baseurl` value in the `_config.yml` file.
+forks: 219
 
 ## Contact
 

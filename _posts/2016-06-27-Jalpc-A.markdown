@@ -4,6 +4,7 @@ comments: true
 title: Jalpc-A
 date: 2016-06-27 12:30:00 +01:00
 repo: https://github.com/Jack614/Jalpc-A
+forks: 28
 stars: 34
 download: https://github.com/Jack614/Jalpc-A/archive/gh-pages.zip
 author: Kun Jia

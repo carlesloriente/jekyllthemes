@@ -4,6 +4,7 @@ comments: true
 title: Book
 date: 2015-08-28 07:11:00 +01:00
 repo: https://github.com/kkninjae/book
+forks: 61
 stars: 133
 download: https://github.com/kkninjae/book/archive/master.zip
 demo: https://kkninjae.github.io/book

@@ -4,6 +4,7 @@ comments: true
 title: Xixia
 date: 2017-09-19 16:26:00 +01:00
 repo: https://github.com/zxixia/jekyll-xixia
+forks: 71
 stars: 34
 download: https://github.com/zxixia/jekyll-xixia/archive/gh-pages.zip
 demo: https://xixia.info/jekyll-xixia/

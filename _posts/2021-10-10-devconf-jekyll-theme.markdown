@@ -4,6 +4,7 @@ comments: true
 title: DevConf
 date: 2021-10-10 20:21:10 +01:00
 repo: https://github.com/la-rebelion/DevConf-Jekyll-Theme
+forks: 0
 stars: 1
 download: https://github.com/la-rebelion/DevConf-Jekyll-Theme/archive/refs/heads/master.zip
 demo: https://la-rebelion.github.io/DevConf-Jekyll-Theme
@@ -40,8 +41,10 @@ DevConf is a free Bootstrap 5 for Jekyll. The idea of the template is to emulate
 ## Installation
 
 * [Fork](https://github.com/la-rebelion/DevConf-Jekyll-Theme/fork) your own copy of the repository to your account.
+forks: 0
 
 Clone your repository to add/edit your own files.  
+forks: 0
 `git clone git@github.com:<YOUR-GIT-USER-NAME>/DevConf-Jekyll-Theme.git`
 
 * Per each event, in the "root" directory create a markdown file with the event `slug` in the `front matter`.
@@ -64,6 +67,7 @@ slug: we-are-developers-2024
 
 * Create as many events as you want.
 * Make sure GitHub Pages are turned on in the repository settings, and pointing to the `main` or `master` branch (where you cloned this repo).
+forks: 0
 * Commit and push changes.
 * Your new site should be ready at `https://username.github.io/DevConf-Jekyll-Theme`.
 

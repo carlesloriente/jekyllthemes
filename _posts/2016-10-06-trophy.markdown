@@ -4,6 +4,7 @@ comments: true
 title: Trophy
 date: 2016-10-06 20:00:00 +01:00
 repo: https://github.com/thomasvaeth/trophy-jekyll
+forks: 208
 stars: 288
 download: https://github.com/thomasvaeth/trophy-jekyll/archive/master.zip
 demo: https://thomasvaeth.com/trophy/

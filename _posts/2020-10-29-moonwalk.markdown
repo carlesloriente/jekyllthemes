@@ -4,6 +4,7 @@ comments: true
 title: Moonwalk
 date: 2020-10-29 12:00:00 +01:00
 repo: https://github.com/abhinavs/moonwalk
+forks: 519
 stars: 366
 download: https://github.com/abhinavs/moonwalk/archive/master.zip
 demo: https://www.abhinavsaxena.com/moonwalk/
@@ -23,6 +24,7 @@ A fast and minimalistic blog theme with clean dark mode.
 * Vertical list, horizontal list, card list
 * Landing page with navbar, footer, portfolio
 * Fast (very minimal CSS) - 100/100 on performance, accessibility, best practices and SEO, please see [Lighthouse Report](https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png) for more details
+forks: 519
 * Responsive and mobile friendly
 * SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag))
 * RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed))

@@ -4,6 +4,7 @@ comments: true
 title: Webjeda Karna
 date: 2016-11-01 20:00:00 +01:00
 repo: https://github.com/sharu725/karna
+forks: 97
 stars: 46
 download: https://github.com/sharu725/karna/archive/master.zip
 demo: https://webjeda.com/karna

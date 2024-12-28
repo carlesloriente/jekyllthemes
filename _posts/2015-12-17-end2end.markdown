@@ -4,6 +4,7 @@ comments: true
 title: end2end
 date: 2015-12-17 21:42:09 +01:00
 repo: https://github.com/nandomoreirame/end2end
+forks: 196
 stars: 276
 download: https://github.com/nandomoreirame/end2end/archive/master.zip
 demo: https://nandomoreirame.github.io/end2end/
@@ -20,6 +21,7 @@ end2end theme.
 ## Installation
 
 1. Download or clone repo `git clone git@github.com:nandomoreirame/end2end.git`
+forks: 196
 2. Enter the folder: `cd end2end/`
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `jekyll serve`

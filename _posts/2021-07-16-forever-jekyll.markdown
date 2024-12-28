@@ -4,6 +4,7 @@ comments: true
 title: Forever
 date: 2021-07-16 03:50:00 +05:30
 repo: https://github.com/forever-jekyll/forever-jekyll
+forks: 178
 stars: 87
 download: https://github.com/forever-jekyll/forever-jekyll/archive/refs/heads/main.zip
 demo: https://forever-jekyll.github.io/

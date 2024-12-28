@@ -4,6 +4,7 @@ comments: true
 title: Pinghsu
 date: 2019-07-13 13:30:00 +01:00
 repo: https://github.com/lightfish-zhang/pinghsu-jekyll
+forks: 51
 stars: 33
 download: https://github.com/lightfish-zhang/pinghsu-jekyll/archive/master.zip
 demo: https://lightfish.cn/

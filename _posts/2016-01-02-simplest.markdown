@@ -4,6 +4,7 @@ comments: true
 title: Simplest
 date: 2016-01-02 15:05:09 +01:00
 repo: https://github.com/nandomoreirame/simplest
+forks: 47
 stars: 128
 download: https://github.com/nandomoreirame/simplest/archive/master.zip
 demo: https://nandomoreirame.github.io/simplest/
@@ -20,6 +21,7 @@ Simplest theme.
 ## Installation
 
 1. Download or clone repo `git clone git@github.com:nandomoreirame/simplest.git`
+forks: 47
 2. Enter the folder: `cd simplest/`
 3. Install bundle gem: `gem install bundle`
 4. Install local gems: `bundle install`

@@ -4,6 +4,7 @@ comments: true
 title: Ice Bear
 date: 2016-10-02 00:52:00 +01:00
 repo: https://github.com/songkong/Blog
+forks: 49
 stars: 68
 download: https://github.com/songkong/Blog/archive/gh-pages.zip
 author: Song

@@ -4,6 +4,7 @@ comments: true
 title: Memoirs Jekyll
 date: 2020-04-08 09:20:00 +01:00
 repo: https://github.com/wowthemesnet/jekyll-theme-memoirs
+forks: 335
 stars: 361
 download: https://github.com/wowthemesnet/jekyll-theme-memoirs/archive/master.zip
 demo: https://wowthemesnet.github.io/jekyll-theme-memoirs

@@ -4,6 +4,7 @@ comments: true
 title: Nangka
 date: 2016-05-13 21:40:00 +01:00
 repo: https://github.com/rmsubekti/nangka
+forks: 1
 stars: 9
 download: https://github.com/rmsubekti/nangka/archive/master.zip
 demo: https://rmsubekti.github.io/nangka

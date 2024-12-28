@@ -4,6 +4,7 @@ comments: true
 title: Sleek Blog
 date: 2016-01-03 15:45:45 +05:30
 repo: https://github.com/bawn92/sleek_blog
+forks: 73
 stars: 40
 download: https://github.com/bawn92/sleek_blog/archive/master.zip
 author: Gearoid O'Connor
@@ -25,6 +26,7 @@ To use this project, you'll need the following things installed on your machine.
 ### Local Installation
 
 1. Clone this repo, or download it into a directory of your choice.
+forks: 73
 2. Inside the directory, run `npm install`.
 
 ### Usage

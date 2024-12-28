@@ -4,6 +4,8 @@ comments: true
 title: Hydeout
 date: 2017-06-08 17:00:00 +01:00
 repo: https://github.com/fongandrew/hydeout
+forks: 770
+forks: 3971
 stars: 594
 download: https://github.com/fongandrew/hydeout/archive/master.zip
 demo: https://fongandrew.github.io/hydeout/

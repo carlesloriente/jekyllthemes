@@ -4,6 +4,7 @@ comments: true
 title: Square Zero
 date: 2019-07-21 22:30:00 +01:00
 repo: https://github.com/squarezero/squarezero.github.io
+forks: 44
 stars: 22
 download: https://github.com/squarezero/squarezero.github.io/releases/tag/1.0.0
 demo: https://squarezero.vercel.app/

@@ -4,6 +4,8 @@ comments: true
 title: Agency
 date: 2020-06-08 04:20:00 +01:00
 repo: https://github.com/raviriley/agency-jekyll-theme
+forks: 704
+forks: 36
 stars: 361
 download: https://github.com/raviriley/agency-jekyll-theme/archive/master.zip
 demo: https://raviriley.github.io/agency-jekyll-theme-starter/
@@ -21,6 +23,8 @@ This is the [Agency Bootstrap theme](https://startbootstrap.com/themes/agency/) 
 
 * GitHub Pages support
 * [template repo][template] to get up and running in minutes
+forks: 704
+forks: 36
 * contact form functionality powered by [Formspree.io](https://formspree.io)
 * custom pages
 * 404 page
@@ -65,6 +69,8 @@ Or, install it yourself as:
 
 This is the fastest and easiest way to get up and running on GitHub Pages.
 Simply generate your own repository by clicking [here](https://github.com/new?template_name=agency-jekyll-theme-starter&template_owner=raviriley), then replace the sample content with your own and configure for your needs.
+forks: 704
+forks: 36
 
 ### 3. Remote Theme Installation
 
@@ -82,11 +88,15 @@ Replace the contents of your `_config.yml` file with [this](https://raw.githubus
 ### Development
 
 To set up your environment to develop this theme, clone this repo, then run `bundle install`. To test the theme, run `bundle exec jekyll serve` and open your browser at `https://localhost:4000`. Add pages, documents, data, etc. like normal to test the theme's contents. As you make modifications, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+forks: 704
+forks: 36
 
 ## Contribute
 
 This project is intended to be a welcoming space for collaboration. If you have an idea, suggestion, feature request, etc., feel free to open an issue or pull request.
 For bug reports, follow the provided template.
+forks: 704
+forks: 36
 
 ## Support
 

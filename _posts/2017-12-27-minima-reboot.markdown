@@ -4,6 +4,7 @@ comments: true
 title: Minima Reboot
 date: 2017-12-27 20:00:00 +01:00
 repo: https://github.com/aterenin/minima-reboot
+forks: 49
 stars: 41
 download: https://github.com/aterenin/minima-reboot
 demo: https://aterenin.github.io/minima-reboot/

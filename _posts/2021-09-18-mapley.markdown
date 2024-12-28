@@ -4,6 +4,7 @@ comments: true
 title: Mapley
 date: 2021-09-18 22:00:00 +01:00
 repo: https://github.com/Vector-7/mapley
+forks: 0
 stars: 0
 download: https://github.com/Vector-7/mapley/archive/refs/heads/master.zip
 demo: https://recoma96.github.io/mapley/
@@ -25,11 +26,13 @@ carousel:
 ## Installation
 
 You can install this the easiest by forking [mapley repository](https://github.com/Vector-7/mapley/fork)
+forks: 0
 
 ### Install
 
 * Install Ruby
 * git clone from repository
+forks: 0
 
 ```bash
 git clone https://github.com/Vector-7/mapley.git

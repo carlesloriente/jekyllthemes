@@ -4,6 +4,7 @@ comments: true
 title: Travelogue
 date: 2015-01-14 20:00:00 +01:00
 repo: https://github.com/SalGnt/Travelogue
+forks: 53
 stars: 157
 download: https://github.com/SalGnt/Travelogue/archive/master.zip
 demo: https://salgnt.github.io/Travelogue/

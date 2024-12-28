@@ -4,6 +4,7 @@ comments: true
 title: Material blog
 date: 2016-11-05 20:00:00 +01:00
 repo: https://github.com/mumuxme/materialize-jekyll
+forks: 29
 stars: 42
 download: https://github.com/mumuxme/materialize-jekyll/archive/master.zip
 demo: https://mumuxme.github.io/materialize-jekyll/

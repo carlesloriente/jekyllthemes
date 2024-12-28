@@ -4,6 +4,7 @@ comments: true
 title: Portfolio
 date: 2018-09-01 20:00:00 +01:00
 repo: https://github.com/abhn/portfolio
+forks: 120
 stars: 43
 download: https://github.com/abhn/portfolio/archive/master.zip
 demo: https://abhn.io
@@ -28,5 +29,6 @@ Portfolio, a simple and modern portfolio template that is lightweight, mobile re
 ## Installation
 
 * Clone this repository and in the settings, set up Github pages in the setting and optionally a custom domain. The site is live now on `your-username.github.io/portfolio`.
+forks: 120
 * In the config variables, add your details and if you use Google Analytics, add your Publisher ID in the `google_analytics` variable.
 * You can add/remove sections from the `_layouts/default.html` file, and then adding the corresponding html file in `_includes/` directory.

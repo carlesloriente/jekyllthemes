@@ -4,6 +4,7 @@ comments: true
 title: no style, please
 date: 2020-07-24 12:00:00 +01:00
 repo: https://github.com/riggraz/no-style-please
+forks: 566
 stars: 1149
 download: https://github.com/riggraz/no-style-please/archive/master.zip
 demo: https://riggraz.dev/no-style-please/
@@ -20,6 +21,7 @@ A (nearly) no-CSS, fast, minimalist Jekyll theme.
 ## Features
 
 * Fast (**< 1kb of CSS**, see [Page Speed Insights report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/page-speed-insights-report.png) and [Lighthouse report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/lighthouse-report.png))
+forks: 566
 * Responsive
 * Content first (typography optimized for maximum readability)
 * SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag))

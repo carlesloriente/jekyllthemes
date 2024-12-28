@@ -4,6 +4,7 @@ comments: true
 title: Landing Page
 date: 2014-10-04 20:00:00 +01:00
 repo: https://github.com/swcool/landing-page-theme
+forks: 606
 stars: 450
 download: https://github.com/swcool/landing-page-theme/archive/master.zip
 demo: https://shaneweng.com/landing-page-theme/
@@ -20,6 +21,7 @@ Landing-Page theme, a services theme that allows you to showcase your services. 
 ## Contribute
 
 Start by [forking](https://github.com/swcool/landing-page-theme/fork) this repository.
+forks: 606
 
 ## Contact
 

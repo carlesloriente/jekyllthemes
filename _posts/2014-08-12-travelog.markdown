@@ -4,6 +4,7 @@ comments: true
 title: Travelog
 date: 2014-08-12 20:00:00 +01:00
 repo: https://github.com/rowanoulton/travelog-theme
+forks: 91
 stars: 100
 download: https://github.com/rowanoulton/travelog-theme/archive/master.zip
 author: Rowan Oulton

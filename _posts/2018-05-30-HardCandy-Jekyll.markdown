@@ -4,6 +4,7 @@ comments: true
 title: HardCandy-Jekyll
 date: 2018-05-30 09:20:00 +01:00
 repo: https://github.com/xukimseven/HardCandy-Jekyll
+forks: 134
 stars: 223
 download: https://github.com/xukimseven/HardCandy-Jekyll/archive/master.zip
 author: xujinqi
@@ -272,6 +273,7 @@ livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 Gitment: false
 Gitment_owner: ''  # github用户名
 Gitment_repos: ''  # github博客存放的仓库名
+forks: 134
 client_id: ''  # 注册 OAuth Application 后获得的 client_id
 client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
 ```

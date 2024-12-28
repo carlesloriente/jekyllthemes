@@ -4,6 +4,7 @@ comments: true
 title: Cards
 date: 2016-05-08 21:40:00 +01:00
 repo: https://github.com/willianjusten/cards-jekyll-template
+forks: 276
 stars: 314
 download: https://github.com/willianjusten/cards-jekyll-template/archive/master.zip
 demo: https://willianjusten.github.io/cards-jekyll-template/
@@ -20,6 +21,7 @@ The [Cards Jekyll Template](https://github.com/willianjusten/cards-jekyll-templa
 ## Contribute
 
 Start by [forking the repository](https://github.com/willianjusten/cards-jekyll-template/).
+forks: 276
 
 ## Contact
 

@@ -4,6 +4,7 @@ comments: true
 title: Papyrus
 date: 2016-11-05 22:35:00 +01:00
 repo: https://github.com/hugoferreira/papyrus-theme
+forks: 55
 stars: 114
 download: https://github.com/hugoferreira/papyrus-theme/archive/master.zip
 demo: https://hugosereno.eu

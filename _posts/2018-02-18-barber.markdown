@@ -4,6 +4,7 @@ comments: true
 title: Barber
 date: 2018-02-18 20:00:00 +01:00
 repo: https://github.com/samesies/barber-jekyll
+forks: 278
 stars: 291
 download: https://github.com/samesies/barber-jekyll/archive/master.zip
 demo: https://barber.samesies.io/

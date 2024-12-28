@@ -4,6 +4,7 @@ comments: true
 title: TechDoc
 date: 2021-05-08 09:30:00 +01:00
 repo: https://github.com/jianmin-chen/techdoc
+forks: 0
 stars: 1
 download: https://github.com/jianmin-chen/techdoc/releases
 demo: https://jianmin-chen.github.io/techdoc/2021/04/01/test-page.html
@@ -46,6 +47,7 @@ To add a custom directory to your theme-gem, please edit the regexp in `techdoc.
 ## Contribute
 
 Bug reports and pull requests are welcome on GitHub at [https://github.com/jianmin-chen/techdoc](https://github.com/jianmin-chen/techdoc). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+forks: 0
 
 ## Contact
 

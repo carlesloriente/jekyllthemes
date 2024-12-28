@@ -4,6 +4,7 @@ comments: true
 title: Peak Panda Landing Page
 date: 2021-12-17 02:27:04 +01:00
 repo: https://github.com/junjizhi/peak-panda
+forks: 0
 stars: 3
 download: https://github.com/junjizhi/peak-panda/archive/refs/heads/main.zip
 demo: https://junjizhi.github.io/peak-panda/
@@ -43,6 +44,7 @@ Jekyll theme: Peak Panda
 ### Usage & Customization
 
 1. Fork this repo
+forks: 0
 2. Update `_config.ytml` file and fill in your site configuration
 3. (Optional) Update the `_sass/peak-panda.scss` to use your own branding elements (colors, fonts etc.)
 
@@ -71,3 +73,4 @@ For more Jekyll details, look at [Jekyll documentation](http://jekyllrb.com/).
 ### Deployment
 
 It supports Github Pages and Netlify. Please check out the Github repo.
+forks: 0

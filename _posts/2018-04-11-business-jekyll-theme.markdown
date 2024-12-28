@@ -4,6 +4,7 @@ comments: true
 title: Business
 date: 2018-04-11 20:00:00 +01:00
 repo: https://github.com/melvinchng/business-jekyll-theme
+forks: 117
 stars: 60
 download: https://github.com/melvinchng/business-jekyll-theme/archive/master.zip
 demo: https://business-jekyll-theme.github.io/
@@ -16,3 +17,4 @@ carousel:
 ---
 
 Business Jekyll Theme, please refer to [this repository](https://github.com/melvinchng/business-jekyll-theme) for instructions on how to use it.
+forks: 117

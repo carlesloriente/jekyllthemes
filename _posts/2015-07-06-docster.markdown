@@ -4,6 +4,8 @@ comments: true
 title: Docster
 date: 2015-07-06 10:44:00 +01:00
 repo: https://github.com/DigitalMindCH/docster-jekyll-theme
+forks: 28
+forks: 63
 stars: 42
 download: https://github.com/DigitalMindCH/docster-jekyll-theme/archive/gh-pages.zip
 author: Digitalmind

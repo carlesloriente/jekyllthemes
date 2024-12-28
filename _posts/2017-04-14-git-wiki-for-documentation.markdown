@@ -4,6 +4,7 @@ comments: true
 title: Git-Wiki
 date: 2017-04-14 20:00:00 +01:00
 repo: https://github.com/drassil/git-wiki
+forks: 125
 stars: 67
 download: https://github.com/Drassil/git-wiki/archive/master.zip
 demo: https://drassil.github.io/git-wiki
@@ -34,7 +35,9 @@ Note: You can even include the github wiki as a submodule and enable the conf, b
 ## Installation
 
 1. Fork or copy this repository
+forks: 125
 2. copy and rename _config.yml.dist in `_config.yml` changing settings inside
 3. create your index.md in root directory
 4. push your changes in your repository, then configure the github pages in your repository settings
+forks: 125
 5. Your wiki is ready!

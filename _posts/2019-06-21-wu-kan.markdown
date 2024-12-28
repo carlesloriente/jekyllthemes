@@ -4,6 +4,8 @@ comments: true
 title: WuK
 date: 2019-06-21 18:00:00 +01:00
 repo: https://github.com/wu-kan/wu-kan.github.io
+forks: 364
+forks: 2951
 stars: 232
 download: https://github.com/wu-kan/wu-kan.github.io/archive/master.zip
 demo: https://jekyll-theme-WuK.wu-kan.cn

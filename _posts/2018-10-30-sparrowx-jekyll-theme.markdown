@@ -4,6 +4,7 @@ comments: true
 title: SparrowX 
 date: 2018-10-30 09:20:00 +01:00
 repo: https://github.com/verfasor/sparrowx
+forks: 26
 stars: 29
 download: https://github.com/verfasor/sparrowx/archive/master.zip
 demo: https://sparrowx.mighil.com/
@@ -40,6 +41,7 @@ SparrowX, a clean minimal Jekyll theme for SEO-focused writers. The theme loads 
 ## Installation
 
 Just fork this repo and replace the posts with your own. Also rename the sample poetry collection to replace it with your own collection, or just delete it if you don't need to use collections. The example is poetry, but you can easily revamp this into essays, short stories, portfolio, or whatever your creative work is.
+forks: 26
 
 ### Up and running with Netlify CMS
 

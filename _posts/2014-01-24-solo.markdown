@@ -4,6 +4,7 @@ comments: true
 title: Solo (single-page)
 date: 2014-01-24 19:00:00 +01:00
 repo: https://github.com/chibicode/solo
+forks: 172
 stars: 323
 download: https://github.com/chibicode/solo/archive/refs/heads/gh-pages.zip
 demo: https://chibicode.github.io/solo/
@@ -23,3 +24,4 @@ carousel:
 * You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
 * You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
 * You want something like GitHub's [automatic page generator](https://pages.github.com/) for a non-code repository.
+forks: 172

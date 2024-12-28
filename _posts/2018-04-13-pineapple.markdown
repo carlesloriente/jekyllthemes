@@ -4,6 +4,7 @@ comments: true
 title: Pineapple
 date: 2018-04-13 20:00:00 +01:00
 repo: https://github.com/arnolds/pineapple
+forks: 130
 stars: 111
 download: https://github.com/arnolds/pineapple/archive/master.zip
 demo: https://arnolds.io/pineapple/

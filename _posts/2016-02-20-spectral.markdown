@@ -4,6 +4,7 @@ comments: true
 title: Spectral
 date: 2016-02-20 20:00:00 +01:00
 repo: https://github.com/arkadianriver/spectral
+forks: 398
 stars: 393
 download: https://github.com/arkadianriver/spectral/archive/master.zip
 demo: https://arkadianriver.github.io/spectral

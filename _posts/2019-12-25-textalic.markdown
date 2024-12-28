@@ -4,6 +4,7 @@ comments: true
 title: Textalic
 date: 2019-12-24 21:20:00 +01:00
 repo: https://github.com/UniFreak/jekyll-theme-textalic
+forks: 29
 stars: 13
 download: https://codeload.github.com/UniFreak/jekyll-theme-textalic/zip/master
 demo: https://unifreak.github.io
@@ -34,8 +35,10 @@ Jekyll Theme **Textalic** is a simple, responsive jekyll theme focus on blogging
 Before anything, make sure you have set up jekyll correctly. See [the official jekyll doc](https://jekyllrb.com/docs/).
 
 ### Clone this repo
+forks: 29
 
 Clone this repo into to your local machine, then `cd` to the root directory of your local copy. Here is an overview of the project's file structure:
+forks: 29
 
 ```console
 jekyll-theme-textalic

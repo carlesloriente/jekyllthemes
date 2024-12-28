@@ -4,6 +4,7 @@ comments: true
 title: Multiverse
 date: 2019-08-11 20:00:00 +01:00
 repo: https://github.com/joaomlneto/jekyll-multiverse-template
+forks: 57
 stars: 77
 download: https://github.com/joaomlneto/jekyll-multiverse-template/archive/master.zip
 demo: https://joaomlneto.github.io/jekyll-multiverse-template/

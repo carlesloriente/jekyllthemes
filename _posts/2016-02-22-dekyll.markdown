@@ -4,6 +4,7 @@ comments: true
 title: Dekyll
 date: 2016-02-22 21:08:00 +01:00
 repo: https://github.com/kuntoaji/dekyll
+forks: 12
 stars: 9
 download: https://github.com/kuntoaji/dekyll/archive/master.zip
 demo: https://www.kaklabs.com

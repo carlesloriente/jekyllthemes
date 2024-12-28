@@ -4,6 +4,7 @@ comments: true
 title: Minimal Resume
 date: 2019-06-12 20:00:00 +01:00
 repo: https://github.com/murraco/jekyll-theme-minimal-resume
+forks: 593
 stars: 535
 download: https://github.com/murraco/jekyll-theme-minimal-resume/archive/master.zip
 demo: https://jekyll-theme-minimal-resume.netlify.app/
@@ -30,6 +31,7 @@ This is a simple Jekyll theme for a minimal resume website.
 
 1. Install Jekyll: `gem install jekyll bundler`
 2. For this repository and clone your fork
+forks: 593
 3. Edit `_config.yml` to personalize your site
 
 ### Settings

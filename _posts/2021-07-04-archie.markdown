@@ -4,6 +4,7 @@ comments: true
 title: Archie
 date: 2021-07-04 01:00:00 +01:00
 repo: https://github.com/slashformotion/jekyll-archie
+forks: 2
 stars: 6
 download: https://github.com/slashformotion/jekyll-archie/archive/refs/heads/main.zip
 demo: https://slashformotion.github.io/jekyll-archie/
@@ -47,6 +48,7 @@ And then execute `$ bundle` or install it yourself as `$ gem install jekyll-arch
 ### Usage
 
 I will release a template repository to use with this theme.
+forks: 2
 Meanwhile you can use the `_BLANK_config.yml` as a starting point for your config.
 
 ### Development
@@ -58,4 +60,5 @@ To test your theme, run `bundle exec jekyll serve --config _config.yml,_config_d
 ## Contribute
 
 Bug reports and pull requests are welcome on GitHub at [https://github.com/slashformotion/jekyll-archie](https://github.com/slashformotion/jekyll-archie). 
+forks: 2
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.

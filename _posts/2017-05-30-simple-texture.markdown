@@ -4,6 +4,7 @@ comments: true
 title: Simple Texture
 date: 2017-05-30 20:00:00 +01:00
 repo: https://github.com/yizeng/jekyll-theme-simple-texture
+forks: 219
 stars: 190
 download: https://github.com/yizeng/jekyll-theme-simple-texture/archive/master.zip
 demo: https://yizeng.github.io/jekyll-theme-simple-texture/
@@ -53,8 +54,10 @@ Then for newly created or existing Jekyll app,
 ### As a fork
 
 * Fork the repo [here](https://github.com/yizeng/jekyll-theme-simple-texture#fork-destination-box)
+forks: 219
 
 * Clone the repo just forked.
+forks: 219
 `git clone git@github.com:[YOUR_USERNAME]/jekyll-theme-simple-texture.git`
 
 * Delete `starter-kit` folder and `jekyll-theme-simple-texture.gemspec` file (they're for people installing via gem)

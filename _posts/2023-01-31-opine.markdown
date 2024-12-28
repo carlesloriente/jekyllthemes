@@ -4,6 +4,7 @@ comments: true
 title: Opine
 date: 2023-01-31 03:24:04 +01:00
 repo: https://github.com/leabs/jekyll-opine
+forks: 0
 stars: 1
 download: https://github.com/leabs/jekyll-opine/archive/refs/tags/v1.zip
 demo: https://jekyll-opine.vercel.app/
@@ -28,7 +29,9 @@ Jekyll Opine
 ## Installation
 
 1. [Fork this repository](https://github.com/leabs/jekyll-opine/fork/) into your own account (if you use as destination a repository named **USERNAME.github.io** then your url will be `username.github.io`, else `username.github.io/REPONAME/`)
+forks: 0
 2. Modify `_config.yml` with your data
 3. Use the files inside of the `/_posts/` directory as templates to modify and create your own blog posts.
 4. Replace `avatar.png` inside of `/assets/images/`.
 5. Make sure Github Pages are turned on in the repository settings, and pointing to the main or master branch (where you cloned this repo)
+forks: 0

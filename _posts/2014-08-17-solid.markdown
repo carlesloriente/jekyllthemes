@@ -4,6 +4,7 @@ comments: true
 title: Solid
 date: 2014-08-17 12:00:00 +01:00
 repo: https://github.com/st4ple/solid-jekyll
+forks: 450
 stars: 338
 download: https://github.com/st4ple/solid-jekyll/archive/master.zip
 demo: https://st4ple.github.io/solid-jekyll/
@@ -26,5 +27,6 @@ It includes the Retina.js to work nice with retina display devices. It's fully r
 ## Contribute
 
 Start by [forking the repository](https://github.com/st4ple/solid-jekyll/fork).
+forks: 450
 
 If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/st4ple/solid-jekyll/issues/new) or making a pull request for your fork!

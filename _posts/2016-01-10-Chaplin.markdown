@@ -4,6 +4,7 @@ comments: true
 title: Chaplin 
 date: 2016-01-10 21:00:00 +01:00
 repo: https://github.com/ankitsultana/Chaplin
+forks: 10
 stars: 22
 download: https://github.com/ankitsultana/Chaplin/archive/master.zip
 demo: https://ankitsultana.github.io/Chaplin

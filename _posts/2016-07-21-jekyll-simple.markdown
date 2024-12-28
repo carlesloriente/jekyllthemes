@@ -4,6 +4,7 @@ comments: true
 title: Simple
 date: 2016-07-21 19:01:03 +01:00
 repo: https://github.com/wild-flame/jekyll-simple
+forks: 139
 stars: 151
 download: https://github.com/wild-flame/jekyll-simple/archive/master.zip 
 demo: https://wild-flame.github.io/jekyll-simple

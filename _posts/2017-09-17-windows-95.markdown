@@ -4,6 +4,7 @@ comments: true
 title: Windows 95
 date: 2017-09-17 21:10:00 +01:00
 repo: https://github.com/h01000110/windows-95
+forks: 155
 stars: 452
 download: https://github.com/h01000110/windows-95/archive/master.zip
 demo: https://h01000110.github.io/windows-95/

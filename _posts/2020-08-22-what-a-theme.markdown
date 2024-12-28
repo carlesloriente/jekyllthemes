@@ -4,6 +4,7 @@ comments: true
 title: What A THeme
 date: 2020-08-22 00:15:00 +01:00
 repo: https://github.com/thedevslot/WhatATheme
+forks: 639
 stars: 293
 download: https://github.com/thedevslot/WhatATheme/archive/master.zip
 demo: https://thedevslot.github.io/WhatATheme/
@@ -45,6 +46,7 @@ carousel:
 
 * Fork the [Repository](https://github.com/thedevslot/WhatATheme/)
 * Clone or download the repository into directory of your choice: `git clone https://github.com/thedevslot/WhatATheme.git`
+forks: 639
 * Inside the directory run `bundle install`
 * Host WhatATheme locally by running `bundle exec jekyll s`
 

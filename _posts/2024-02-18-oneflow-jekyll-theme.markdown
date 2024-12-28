@@ -4,6 +4,7 @@ comments: true
 title: OneFlow
 date: 2024-02-18 03:00:00 +01:00
 repo: https://github.com/perstarke-webdev/oneflow-jekyll-theme
+forks: 41
 stars: 7
 download: https://github.com/perstarke-webdev/oneflow-jekyll-theme/archive/refs/heads/main.zip
 demo: https://oneflow-jekyll-theme.github.io/
@@ -22,7 +23,9 @@ It offers lots of features and customization options, so you can easily create a
 
 The **vision of this theme** is **simplicity and accessibility**, to easily create stunning websites from scratch.  
 Therefore, it's not available as a classic gem-based Jekyll theme, but as a ready-to-use GitHub repository that you just need to fork and clone.  
+forks: 41
 So, get ahead and make a fork of this repository, rename it if you like to suit the name of the site you want to create, locally clone it, and directly start editing!
+forks: 41
 
 ### How to start a development docker container
 
@@ -30,6 +33,7 @@ To test your website and see all of your changes in real-time without deploying 
 
 * Make sure you have [Bundler](https://bundler.io/) and [Docker](https://www.docker.com/) installed.
 * Open up a terminal, navigate to your local repository, and run `docker compose up`.
+forks: 41
 
 Your site will then be visible at `http://0.0.0.0:4000/` in any browser.
 

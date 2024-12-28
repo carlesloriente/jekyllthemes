@@ -4,6 +4,7 @@ comments: true
 title: Hacker Blog
 date: 2017-12-13 06:49:20 +01:00
 repo: https://github.com/tocttou/hacker-blog
+forks: 554
 stars: 321
 download: https://github.com/tocttou/hacker-blog/archive/master.zip
 demo: https://ashishchaudhary.in/hacker-blog
@@ -28,6 +29,7 @@ Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. It is 
 ## Installation
 
 1. Fork and Clone the project repository
+forks: 554
 2. Customize your blog
 3. Add a new post in `_posts/` directory with proper name format (as shown in placeholder posts)
 4. Commit and push to master
@@ -50,6 +52,7 @@ docker run --rm -p 8000:8000 \
 ```
 
 Replace `LOCATION_OF_YOUR_JEKYLL_BLOG` with the full path of your blog repository. Visit `https://localhost:8000` to access the blog.
+forks: 554
 
 ### Customizing
 

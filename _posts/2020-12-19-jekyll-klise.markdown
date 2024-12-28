@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Klisé
 date: 2020-12-19 20:00:00 +01:00
 repo: https://github.com/piharpi/jekyll-klise
+forks: 400
 stars: 958
 download: https://github.com/piharpi/jekyll-klise
 demo: https://klise.now.sh
@@ -47,6 +48,7 @@ Run local server:
 Navigate to `localhost:4000`. You're Welcome, Fork and be Stargazer.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/piharpi/jekyll-klise) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/piharpi/jekyll-klise)
+forks: 400
 
 ## Limitation
 

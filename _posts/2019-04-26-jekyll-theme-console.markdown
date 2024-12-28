@@ -4,6 +4,7 @@ comments: true
 title: Console
 date: 2019-04-26 13:45:00 +01:00
 repo: https://github.com/b2a3e8/jekyll-theme-console
+forks: 424
 stars: 719
 download: https://github.com/b2a3e8/jekyll-theme-console/archive/master.zip
 demo: https://b2a3e8.github.io/jekyll-theme-console-demo-dark/
