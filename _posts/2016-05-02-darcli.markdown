@@ -4,6 +4,7 @@ comments: true
 title: Darcli
 date: 2016-05-02 17:00:00 +01:00
 repo: https://github.com/gjuniioor/darcli
+update_date: 2024-12-23
 forks: 43
 stars: 66
 download: https://github.com/gjuniioor/darcli/archive/master.zip

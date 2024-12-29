@@ -4,6 +4,7 @@ comments: true
 title: Business
 date: 2018-04-11 20:00:00 +01:00
 repo: https://github.com/melvinchng/business-jekyll-theme
+update_date: 2024-10-01
 forks: 117
 stars: 60
 download: https://github.com/melvinchng/business-jekyll-theme/archive/master.zip

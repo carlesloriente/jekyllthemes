@@ -4,6 +4,7 @@ comments: true
 title: project-pages
 date: 2016-09-17 22:01:03 +01:00
 repo: https://github.com/projectpages/project-pages
+update_date: 2024-12-07
 forks: 350
 stars: 148
 download: https://github.com/projectpages/project-pages/archive/gh-pages.zip

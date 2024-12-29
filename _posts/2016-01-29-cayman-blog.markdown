@@ -4,6 +4,7 @@ comments: true
 title: Cayman Blog
  2016-01-29 10:00:00
 repo: https://github.com/adueck/cayman-blog
+update_date: 2024-02-15
 forks: 64
 stars: 19
 download: https://github.com/adueck/cayman-blog/archive/master.zip

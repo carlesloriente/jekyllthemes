@@ -4,6 +4,7 @@ comments: true
 title: Front-cover
 date: 2016-02-21 12:21:00 +01:00
 repo: https://github.com/dashingcode/front-cover
+update_date: 2024-07-20
 forks: 188
 stars: 126
 download: https://github.com/dashingcode/front-cover/archive/master.zip

@@ -4,6 +4,7 @@ comments: true
 title: Autm-rb
 date: 2014-10-10 10:00:00 +01:00
 repo: https://github.com/railsr/autm-rb
+update_date: 2024-02-06
 forks: 113
 stars: 81
 download: https://github.com/railsr/autm-rb/archive/master.zip

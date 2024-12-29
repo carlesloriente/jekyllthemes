@@ -4,6 +4,7 @@ comments: true
 title: Chirpy
 date: 2020-08-05 00:17:00 +01:00
 repo: https://github.com/cotes2020/jekyll-theme-chirpy
+update_date: 2024-12-28
 forks: 6103
 stars: 7784
 download: https://github.com/cotes2020/jekyll-theme-chirpy/archive/master.zip

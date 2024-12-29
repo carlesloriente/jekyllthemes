@@ -4,6 +4,7 @@ comments: true
 title: uBuild
 date: 2018-06-26 20:00:00 +01:00
 repo: https://github.com/forestryio/ubuild-jekyll
+update_date: 2024-09-22
 forks: 300
 stars: 274
 download: https://github.com/forestryio/ubuild-jekyll/archive/master.zip

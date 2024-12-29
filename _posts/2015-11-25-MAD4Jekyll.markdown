@@ -4,6 +4,7 @@ comments: true
 title: MAD4Jekyll
 date: 2015-11-25 19:00:00 +01:00
 repo: https://github.com/madforjekyll/madforjekyll.github.io
+update_date: 2023-06-20
 forks: 41
 stars: 20
 download: https://github.com/madforjekyll/madforjekyll.github.io/archive/master.zip

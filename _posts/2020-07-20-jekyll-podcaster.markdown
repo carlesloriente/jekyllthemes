@@ -4,6 +4,7 @@ comments: true
 title: Podcaster
 date: 2020-07-20 16:00:00 +01:00
 repo: https://github.com/PandaSekh/Jekyll-Podcaster
+update_date: 2024-12-11
 forks: 27
 stars: 60
 download: https://github.com/PandaSekh/Jekyll-Podcaster/releases/latest

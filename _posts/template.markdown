@@ -7,6 +7,8 @@ date: 2030-01-01 20:00:00 +01:00
 update_date:
 homepage: https://homepage.url
 repo: https://themepage.url
+stars:
+forks:
 download: https://themepage.url/download.zip
 demo: http://themedemopage.url/
 author: Author name

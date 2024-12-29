@@ -4,6 +4,7 @@ comments: true
 title: Yummy
 date: 2016-05-19 11:40:00 +01:00
 repo: https://github.com/DONGChuan/Yummy-Jekyll
+update_date: 2024-12-26
 forks: 373
 stars: 550
 download: https://github.com/DONGChuan/Yummy-Jekyll/archive/master.zip

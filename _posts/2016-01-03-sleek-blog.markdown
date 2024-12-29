@@ -4,6 +4,7 @@ comments: true
 title: Sleek Blog
 date: 2016-01-03 15:45:45 +05:30
 repo: https://github.com/bawn92/sleek_blog
+update_date: 2022-10-31
 forks: 73
 stars: 40
 download: https://github.com/bawn92/sleek_blog/archive/master.zip

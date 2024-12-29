@@ -4,6 +4,7 @@ comments: true
 title: Hikari
 date: 2014-02-05 12:42:00 +01:00
 repo: https://github.com/mx3m/hikari-for-Jekyll
+update_date: 2024-07-17
 forks: 86
 stars: 235
 download: https://github.com/mx3m/hikari-for-Jekyll/archive/master.zip

@@ -4,6 +4,7 @@ comments: true
 title: Fica
 date: 2022-04-13 19:00:00 +01:00
 repo: https://github.com/aeziyehl/jekyll-theme-fica
+update_date: 2024-12-05
 forks: 0
 stars: 1
 download: https://github.com/aeziyehl/jekyll-theme-fica/zipball/master

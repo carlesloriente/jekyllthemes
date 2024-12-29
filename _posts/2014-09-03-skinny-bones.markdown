@@ -4,6 +4,7 @@ comments: true
 title: Skinny Bones
 date: 2014-09-03 21:00:00 +01:00
 repo: https://github.com/mmistakes/skinny-bones-jekyll
+update_date: 2024-12-24
 forks: 901
 stars: 806
 download: https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip

@@ -4,6 +4,7 @@ comments: true
 title: HPSTR
 date: 2013-08-24 18:18:00 +01:00
 repo: https://github.com/mmistakes/hpstr-jekyll-theme
+update_date: 2024-11-19
 forks: 1435
 stars: 980
 download: https://github.com/mmistakes/hpstr-jekyll-theme/archive/master.zip

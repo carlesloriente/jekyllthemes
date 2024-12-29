@@ -4,6 +4,7 @@ comments: true
 title: Vyaasa
 date: 2016-10-01 20:00:00 +01:00
 repo: https://github.com/sharu725/vyaasa
+update_date: 2023-11-24
 forks: 35
 stars: 25
 download: https://github.com/sharu725/vyaasa/archive/master.zip

@@ -4,6 +4,7 @@ comments: true
 title: Good Clean Read
 date: 2016-01-16 10:00:00 +01:00
 repo: https://github.com/adueck/good-clean-read
+update_date: 2024-10-23
 forks: 125
 stars: 227
 download: https://github.com/adueck/good-clean-read/archive/master.zip

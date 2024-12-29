@@ -4,6 +4,7 @@ comments: true
 title: brume
 date: 2014-02-08 19:17:00 +01:00
 repo: https://github.com/aigarsdz/brume
+update_date: 2024-10-30
 forks: 139
 stars: 123
 download: https://github.com/aigarsdz/brume/archive/master.zip

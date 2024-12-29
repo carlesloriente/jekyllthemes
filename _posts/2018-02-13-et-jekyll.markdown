@@ -4,6 +4,7 @@ comments: true
 title: ET-Jekyll
 date: 2018-02-13 20:00:00 +01:00
 repo: https://github.com/bradleytaunt/ET-Jekyll
+update_date: 2024-11-28
 forks: 27
 stars: 158
 download: https://github.com/bradleytaunt/ET-Jekyll/archive/master.zip

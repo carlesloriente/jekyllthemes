@@ -4,6 +4,8 @@ comments: true
 title: Ezora
 date: 2016-09-24 20:00:00 +01:00
 repo: https://github.com/ezrasavard/ezora-jekyll-theme
+update_date: 2020-09-08
+update_date: 2024-12-13
 forks: 14
 stars: 8
 download: https://github.com/ezrasavard/ezora-jekyll-theme/archive/master.zip

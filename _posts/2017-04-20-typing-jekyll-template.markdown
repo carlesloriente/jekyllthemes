@@ -4,6 +4,7 @@ comments: true
 title: Typing
 date: 2017-04-20 14:08:10 +01:00
 repo: https://github.com/williamcanin/typing-jekyll-template
+update_date: 2024-05-27
 forks: 52
 stars: 91
 download: https://github.com/williamcanin/typing-jekyll-template/archive/master.zip

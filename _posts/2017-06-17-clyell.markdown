@@ -4,6 +4,7 @@ comments: true
 title: Clyell
 date: 2017-06-17 10:00:00 +01:00
 repo: https://github.com/gildasio/clyell
+update_date: 2024-10-28
 forks: 43
 stars: 52
 download: https://github.com/gildasio/clyell/archive/gh-pages.zip

@@ -4,6 +4,7 @@ comments: true
 title: Oinam
 date: 2021-07-11 01:01:01 +01:30
 repo: https://github.com/oinam/oinam-jekyll
+update_date: 2024-11-10
 forks: 14
 stars: 29
 download: https://github.com/oinam/oinam-jekyll/archive/refs/heads/main.zip

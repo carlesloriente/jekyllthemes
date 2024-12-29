@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Material
 date: 2017-12-07 17:00:00 +01:00
 repo: https://github.com/jameshamann/jekyll-material-theme
+update_date: 2024-10-24
 forks: 213
 stars: 168
 download: https://github.com/jameshamann/jekyll-material-theme

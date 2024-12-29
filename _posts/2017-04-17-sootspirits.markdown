@@ -4,6 +4,7 @@ comments: true
 title: Soot Spirits
 date: 2017-04-17 20:00:00 +01:00
 repo: https://github.com/abhn/Soot-Spirits
+update_date: 2024-10-04
 forks: 41
 stars: 47
 download: https://github.com/abhn/Soot-Spirits/archive/master.zip

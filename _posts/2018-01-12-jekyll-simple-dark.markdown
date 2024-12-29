@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Simple dark
 date: 2018-01-12 20:00:00 +01:00
 repo: https://github.com/son-link/jekyll-simple-dark
+update_date: 2024-12-13
 forks: 1
 stars: 0
 download: https://github.com/son-link/jekyll-simple-dark/archive/master.zip

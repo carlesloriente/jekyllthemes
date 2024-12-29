@@ -4,6 +4,7 @@ comments: true
 title: Minimalist
 date: 2021-08-22 20:00:00 +01:00
 repo: https://github.com/BDHU/minimalist
+update_date: 2024-12-12
 forks: 123
 stars: 104
 download: https://github.com/BDHU/minimalist/archive/main.zip

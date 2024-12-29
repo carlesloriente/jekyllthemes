@@ -4,6 +4,7 @@ comments: true
 title: Little Big Blue
 date: 2016-01-06 15:45:45 +05:30
 repo: https://github.com/ninapetrop/Little-Big-Blue
+update_date: 2024-10-09
 forks: 16
 stars: 22
 download: https://github.com/ninapetrop/Little-Big-Blue/archive/master.zip
@@ -13,7 +14,7 @@ license: MIT
 license_link: https://github.com/ninapetrop/Little-Big-Blue/blob/master/license.txt
 ---
 
-A Jekyll theme for blogging. With built in category sorting and author blocks,  this theme is perfect for collaborative projects.
+A Jekyll theme for blogging. With built in category sorting and author blocks, this theme is perfect for collaborative projects.
 
 ## Installation
 

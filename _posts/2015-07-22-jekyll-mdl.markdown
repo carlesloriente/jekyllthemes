@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Material Design Lite
 date: 2015-07-22 10:10:10 +01:00
 repo: https://github.com/gdgmanagua/jekyll-mdl
+update_date: 2024-11-08
 forks: 156
 stars: 233
 download: https://github.com/gdgmanagua/jekyll-mdl/releases

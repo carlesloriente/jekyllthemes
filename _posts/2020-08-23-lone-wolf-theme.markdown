@@ -4,6 +4,7 @@ comments: true
 title: Lone Wolf
 date: 2020-08-23 22:43:04 +01:00
 repo: https://github.com/manid2/lone-wolf-theme
+update_date: 2024-11-08
 forks: 80
 stars: 22
 download: https://github.com/manid2/lone-wolf-theme/releases/latest/

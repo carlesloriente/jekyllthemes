@@ -4,6 +4,7 @@ comments: true
 title: Lanyon
 date: 2015-08-20 20:00:00 +01:00
 repo: https://github.com/poole/lanyon
+update_date: 2024-12-28
 forks: 2951
 stars: 3252
 download: https://github.com/poole/lanyon/archive/master.zip

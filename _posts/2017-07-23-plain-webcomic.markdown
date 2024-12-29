@@ -4,6 +4,7 @@ comments: true
 title: Plain Webcomic
 date: 2017-07-23 20:06:00 +01:00
 repo: https://github.com/peahatlanding/Plain-Webcomic
+update_date: 2024-06-19
 forks: 16
 stars: 16
 download: https://github.com/peahatlanding/Plain-Webcomic/blob/master/Archive.zip

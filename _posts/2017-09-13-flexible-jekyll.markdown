@@ -4,6 +4,7 @@ comments: true
 title: Flexible Jekyll
 date: 2017-09-13 20:00:00 +01:00
 repo: https://github.com/artemsheludko/flexible-jekyll
+update_date: 2024-12-28
 forks: 1761
 stars: 760
 download: https://github.com/artemsheludko/flexible-jekyll/archive/master.zip

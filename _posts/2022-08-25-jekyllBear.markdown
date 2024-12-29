@@ -4,6 +4,7 @@ comments: true
 title: jekyllBear
 date: 2022-08-25 01:23:45 +01:00
 repo: https://github.com/Knhash/jekyllBear
+update_date: 2024-12-26
 forks: 47
 stars: 105
 download: https://github.com/Knhash/jekyllBear/archive/master.zip

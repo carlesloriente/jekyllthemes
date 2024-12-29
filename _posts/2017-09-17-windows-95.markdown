@@ -4,6 +4,7 @@ comments: true
 title: Windows 95
 date: 2017-09-17 21:10:00 +01:00
 repo: https://github.com/h01000110/windows-95
+update_date: 2024-12-16
 forks: 155
 stars: 452
 download: https://github.com/h01000110/windows-95/archive/master.zip

@@ -4,6 +4,7 @@ comments: true
 title: Dbyll
 date: 2013-11-15 11:53:00 +01:00
 repo: https://github.com/dbtek/dbyll
+update_date: 2024-12-05
 forks: 426
 stars: 556
 download: https://github.com/dbtek/dbyll/archive/master.zip

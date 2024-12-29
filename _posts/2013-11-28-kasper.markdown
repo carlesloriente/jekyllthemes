@@ -4,6 +4,7 @@ comments: true
 title: Kasper
 date: 2013-11-28 10:20:00 +01:00
 repo: https://github.com/rosario/kasper
+update_date: 2024-12-05
 forks: 395
 stars: 1039
 download: https://github.com/rosario/kasper/archive/master.zip

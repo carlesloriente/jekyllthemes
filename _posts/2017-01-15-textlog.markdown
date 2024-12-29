@@ -4,6 +4,7 @@ comments: true
 title: TextLog
 date: 2017-01-15 16:41:00 +01:00
 repo: https://github.com/heiswayi/textlog
+update_date: 2024-12-03
 forks: 49
 stars: 161
 download: https://github.com/heiswayi/textlog/archive/gh-pages.zip

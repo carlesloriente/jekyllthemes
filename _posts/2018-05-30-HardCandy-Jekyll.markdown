@@ -4,6 +4,7 @@ comments: true
 title: HardCandy-Jekyll
 date: 2018-05-30 09:20:00 +01:00
 repo: https://github.com/xukimseven/HardCandy-Jekyll
+update_date: 2024-11-24
 forks: 134
 stars: 223
 download: https://github.com/xukimseven/HardCandy-Jekyll/archive/master.zip

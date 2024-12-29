@@ -4,6 +4,7 @@ comments: true
 title: Simple Green Techblog
 date: 2019-07-12 22:30:00 +01:00
 repo: https://github.com/alainpham/alainpham.github.io
+update_date: 2024-06-17
 forks: 125
 stars: 26
 download: https://github.com/alainpham/alainpham.github.io/releases/download/0.1.0/simple.green.techblog.zip

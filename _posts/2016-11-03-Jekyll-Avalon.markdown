@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Avalon
 date: 2016-11-03 20:00:00 +01:00
 repo: https://github.com/joshuaavalon/Jekyll-Avalon
+update_date: 2024-04-25
 forks: 18
 stars: 16
 download: https://github.com/joshuaavalon/Jekyll-Avalon/archive/master.zip

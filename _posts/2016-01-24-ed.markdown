@@ -4,6 +4,7 @@ comments: true
 title: Ed
 date: 2016-01-24 10:00:00 +01:00
 repo: https://github.com/elotroalex/ed
+update_date: 2023-10-12
 forks: 132
 stars: 125
 download: https://github.com/elotroalex/ed/archive/master.zip

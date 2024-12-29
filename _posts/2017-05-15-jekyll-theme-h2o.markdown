@@ -4,6 +4,7 @@ comments: true
 title: H2O
 date: 2017-05-15 20:00:00 +01:00
 repo: https://github.com/kaeyleo/jekyll-theme-H2O
+update_date: 2024-11-21
 forks: 535
 stars: 938
 download: https://github.com/kaeyleo/jekyll-theme-H2O/archive/master.zip

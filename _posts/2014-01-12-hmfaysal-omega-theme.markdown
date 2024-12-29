@@ -4,6 +4,7 @@ comments: true
 title: Omega
 date: 2014-01-12 09:37:16 +01:00
 repo: https://github.com/hmfaysal/hmfaysal-omega-theme
+update_date: 2024-08-15
 forks: 420
 stars: 322
 download: https://github.com/hmfaysal/hmfaysal-omega-theme/archive/refs/heads/gh-pages.zip

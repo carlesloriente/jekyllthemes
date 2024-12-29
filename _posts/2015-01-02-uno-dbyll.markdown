@@ -4,6 +4,7 @@ comments: true
 title: Uno-dbyll
 date: 2015-01-02 03:26:00 +01:00
 repo: https://github.com/meliodus/uno-dbyll
+update_date: 2024-11-20
 forks: 49
 stars: 41
 download: https://github.com/meliodus/uno-dbyll/archive/gh-pages.zip

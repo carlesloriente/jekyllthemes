@@ -4,6 +4,7 @@ comments: true
 title: Wangana
 date: 2014-02-20 20:00:00 +01:00
 repo: https://github.com/nadjetey/wangana
+update_date: 2024-09-16
 forks: 43
 stars: 52
 download: https://github.com/nadjetey/wangana/archive/master.zip

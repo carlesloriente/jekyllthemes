@@ -4,6 +4,7 @@ comments: true
 title: A Bon Blog
 date: 2019-08-27 01:00:00 +01:00
 repo: https://github.com/ninapetrop/a-bon-blog
+update_date: 2021-09-02
 forks: 1
 stars: 3
 download: https://github.com/ninapetrop/a-bon-blog/archive/master.zip

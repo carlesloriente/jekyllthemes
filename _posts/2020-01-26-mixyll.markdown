@@ -4,6 +4,7 @@ comments: true
 title: Mixyll
 date: 2020-01-26 03:33:00 +01:00
 repo: https://github.com/saikiransripada/mixyll
+update_date: 2024-11-22
 forks: 17
 stars: 32
 download: https://github.com/saikiransripada/mixyll/archive/gh-pages.zip

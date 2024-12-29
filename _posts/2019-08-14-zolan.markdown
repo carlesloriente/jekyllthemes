@@ -4,6 +4,7 @@ comments: true
 title: Zolan
 date: 2019-08-14 20:00:00 +01:00
 repo: https://github.com/artemsheludko/zolan
+update_date: 2024-12-26
 forks: 273
 stars: 212
 download: https://github.com/artemsheludko/zolan/archive/master.zip

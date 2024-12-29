@@ -4,6 +4,7 @@ comments: true
 title: Fengzhichu
 date: 2015-12-18 17:10:00 +01:00
 repo: https://github.com/fengzhichu/fengzhichu-theme
+update_date: 2024-11-25
 forks: 42
 stars: 62
 download: https://github.com/fengzhichu/fengzhichu-theme/archive/master.zip

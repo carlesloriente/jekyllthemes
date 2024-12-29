@@ -4,6 +4,7 @@ comments: true
 title: wblearn blog
 date: 2018-07-13 12:00:00 +01:00
 repo: https://github.com/wblearn/wblearn.github.io
+update_date: 2024-05-12
 forks: 0
 stars: 6
 download: https://github.com/wblearn/wblearn.github.io/archive/master.zip

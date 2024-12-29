@@ -4,6 +4,7 @@ comments: true
 title: SinglePaged
 date: 2014-09-21 08:20:00 +01:00
 repo: https://github.com/t413/SinglePaged
+update_date: 2024-12-01
 forks: 1168
 stars: 872
 download: https://github.com/t413/SinglePaged/archive/gh-pages.zip

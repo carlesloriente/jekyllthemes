@@ -4,6 +4,7 @@ comments: true
 title: Asko
 date: 2021-02-11 20:00:00 +01:00
 repo: https://github.com/manuelmazzuola/asko
+update_date: 2024-09-17
 forks: 23
 stars: 42
 download: https://github.com/manuelmazzuola/asko/archive/master.zip

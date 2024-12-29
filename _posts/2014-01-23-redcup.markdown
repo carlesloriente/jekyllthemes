@@ -4,6 +4,7 @@ comments: true
 title: Redcup
 date: 2014-01-23 20:00:00 +01:00
 repo: https://github.com/nadjetey/redcup
+update_date: 2022-05-13
 forks: 18
 stars: 25
 download: https://github.com/nadjetey/redcup/archive/master.zip

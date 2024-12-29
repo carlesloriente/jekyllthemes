@@ -6,6 +6,7 @@ description: A responsive Bootstrap 5 dual theme
 date: 2024-12-09 17:20:01 +01:00
 homepage: https://bootstrap-theme.notesoncloudcomputing.com/
 repo: https://github.com/carlesloriente/bootstrap-theme-jekyll
+update_date: 2024-12-26
 forks: 0
 stars: 4
 download: https://github.com/carlesloriente/bootstrap-theme-jekyll/archive/refs/heads/main.zip

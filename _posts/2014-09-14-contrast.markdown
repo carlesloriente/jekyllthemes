@@ -4,6 +4,7 @@ comments: true
 title: Contrast
 date: 2014-09-14 00:03:00 +01:00
 repo: https://github.com/niklasbuschmann/contrast
+update_date: 2024-12-19
 forks: 2172
 stars: 427
 download: https://github.com/niklasbuschmann/contrast/archive/gh-pages.zip

@@ -4,6 +4,7 @@ comments: true
 title: Cool Concise High-end
 date: 2015-05-26 08:20:00 +01:00
 repo: https://github.com/Gaohaoyang/gaohaoyang.github.io
+update_date: 2024-12-26
 forks: 2004
 stars: 1902
 download: https://github.com/Gaohaoyang/gaohaoyang.github.io/archive/v1.1.zip

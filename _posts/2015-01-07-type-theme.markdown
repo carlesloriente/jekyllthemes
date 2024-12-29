@@ -4,6 +4,7 @@ comments: true
 title: Type
 date: 2015-01-07 09:00:00 +01:00
 repo: https://github.com/sergiokopplin/indigo
+update_date: 2024-12-27
 forks: 2297
 stars: 2654
 download: https://github.com/rohanchandra/type-theme/archive/master.zip

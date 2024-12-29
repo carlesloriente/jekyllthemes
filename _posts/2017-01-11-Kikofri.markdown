@@ -4,6 +4,7 @@ comments: true
 title: Kikofri 
 date: 2017-01-11 20:00:00 +01:00
 repo: https://github.com/kxxvii/Kikofri
+update_date: 2024-05-05
 forks: 9
 stars: 16
 download: https://github.com/kxxvii/Kikofri/archive/master.zip

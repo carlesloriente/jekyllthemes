@@ -4,6 +4,7 @@ comments: true
 title: panthera-jekyll
 date: 2019-06-08 21:45:00 +01:00
 repo: https://github.com/christianezeani/panthera-jekyll
+update_date: 2024-07-30
 forks: 45
 stars: 21
 download: https://github.com/christianezeani/panthera-jekyll/archive/master.zip
