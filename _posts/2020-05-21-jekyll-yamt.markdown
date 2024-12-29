@@ -4,6 +4,7 @@ comments: true
 title: YAMT
 date: 2020-05-21 16:00:00 +01:00
 repo: https://github.com/PandaSekh/Jekyll-YAMT
+update_date: 2024-11-11
 forks: 106
 stars: 79
 download: https://github.com/PandaSekh/Jekyll-YAMT/releases/latest

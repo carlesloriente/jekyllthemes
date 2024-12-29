@@ -4,6 +4,7 @@ comments: true
 title: Elementary
 date: 2018-02-18 20:00:00 +01:00
 repo: https://github.com/abhn/Elementary
+update_date: 2024-10-18
 forks: 34
 stars: 65
 download: https://github.com/abhn/Elementary/archive/master.zip

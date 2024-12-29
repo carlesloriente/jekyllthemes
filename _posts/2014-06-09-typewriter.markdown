@@ -4,6 +4,7 @@ comments: true
 title: Typewriter
 date: 2014-06-09 17:37:30 +01:00
 repo: https://github.com/alixedi/typewriter
+update_date: 2024-12-13
 forks: 50
 stars: 59
 download: https://github.com/alixedi/typewriter/zipball/master

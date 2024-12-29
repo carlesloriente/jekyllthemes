@@ -4,6 +4,7 @@ comments: true
 title: Kagami
 date: 2017-03-07 20:00:00 +01:00
 repo: https://github.com/kamikat/jekyll-theme-kagami
+update_date: 2024-11-12
 forks: 49
 stars: 149
 download: https://github.com/kamikat/jekyll-theme-kagami/releases

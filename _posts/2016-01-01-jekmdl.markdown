@@ -4,6 +4,7 @@ comments: true
 title: Jekmdl
 date: 2016-01-01 22:51:45 +01:00
 repo: https://github.com/tigefa4u/jekmdl
+update_date: 2024-06-27
 forks: 4
 stars: 11
 download: https://github.com/tigefa4u/jekmdl/archive/gh-pages.zip

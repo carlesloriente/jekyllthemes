@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Clean
 date: 2014-08-23 15:31:11 +01:00
 repo: https://github.com/scotte/jekyll-clean
+update_date: 2024-11-19
 forks: 343
 stars: 176
 download: https://github.com/scotte/jekyll-clean/zipball/gh-pages

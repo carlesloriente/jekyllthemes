@@ -4,6 +4,7 @@ comments: true
 title: Devcarpet Portfolio 01
 date: 2022-07-24 13:24:04 +02:00
 repo: https://github.com/bluszcz/jekyll-theme-devcarpet-01
+update_date: 2022-07-23
 forks: 0
 stars: 0
 download: https://rubygems.org/gems/jekyll-theme-devcarpet-01

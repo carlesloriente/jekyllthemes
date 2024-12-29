@@ -4,6 +4,7 @@ comments: true
 title: Simpleyyt
 date: 2014-04-09 21:00:00 +01:00
 repo: https://github.com/Simpleyyt/jekyll-simpleyyt
+update_date: 2022-06-13
 forks: 41
 stars: 42
 download: https://github.com/Simpleyyt/jekyll-simpleyyt/archive/master.zip

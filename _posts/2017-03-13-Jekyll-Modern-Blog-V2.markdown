@@ -4,6 +4,7 @@ comments: true
 title: Modern Blog
 date: 2017-03-13 20:00:00 +01:00
 repo: https://github.com/Open-SL/Jekyll-Modern-Blog
+update_date: 2024-03-08
 forks: 24
 stars: 17
 download: https://github.com/Open-SL/Jekyll-Modern-Blog/archive/1.0.zip

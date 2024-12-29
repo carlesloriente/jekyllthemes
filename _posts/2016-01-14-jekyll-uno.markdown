@@ -4,6 +4,7 @@ comments: true
 title: Jekyll-Uno
 date: 2016-01-14 10:00:00 +01:00
 repo: https://github.com/joshgerdes/jekyll-uno
+update_date: 2024-12-23
 forks: 575
 stars: 618
 download: https://github.com/joshgerdes/jekyll-uno/archive/master.zip

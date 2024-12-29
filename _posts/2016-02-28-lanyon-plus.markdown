@@ -4,6 +4,7 @@ comments: true
 title: Lanyon-plus
 date: 2016-02-28 20:00:00 +01:00
 repo: https://github.com/dyndna/lanyon-plus
+update_date: 2024-08-12
 forks: 75
 stars: 71
 download: https://github.com/dyndna/lanyon-plus/releases/latest

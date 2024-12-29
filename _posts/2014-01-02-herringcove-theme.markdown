@@ -4,6 +4,7 @@ comments: true
 title: Herring Cove
 date: 2014-01-02 10:40:30 +01:00
 repo: https://github.com/arnp/herring-cove
+update_date: 2024-07-31
 forks: 152
 stars: 153
 download: https://github.com/arnp/herring-cove/archive/master.zip

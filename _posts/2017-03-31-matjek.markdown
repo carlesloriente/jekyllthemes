@@ -4,6 +4,7 @@ comments: true
 title: MatJek
 date: 2017-03-31 20:00:00 +01:00
 repo: https://github.com/ShawnTeoh/matjek
+update_date: 2024-09-05
 forks: 414
 stars: 108
 download: https://github.com/ShawnTeoh/matjek/archive/gh-pages.zip

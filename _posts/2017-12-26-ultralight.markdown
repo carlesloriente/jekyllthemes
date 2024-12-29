@@ -4,6 +4,7 @@ comments: true
 title: Ultralight
 date: 2017-12-26 12:00:00 +01:00
 repo: https://github.com/kotet/ultralight
+update_date: 2024-12-07
 forks: 12
 stars: 16
 download: https://github.com/kotet/ultralight

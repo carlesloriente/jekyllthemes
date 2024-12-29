@@ -4,6 +4,7 @@ comments: true
 title: Startbootstrap Agency
 date: 2018-05-29 20:00:00 +01:00
 repo: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency
+update_date: 2024-02-24
 forks: 36
 stars: 23
 download: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/archive/master.zip

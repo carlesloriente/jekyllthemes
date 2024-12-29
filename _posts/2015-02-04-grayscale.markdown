@@ -4,6 +4,7 @@ comments: true
 title: Grayscale
 date: 2015-02-04 18:00:00 +01:00
 repo: https://github.com/jeromelachaud/grayscale-theme
+update_date: 2024-07-27
 forks: 477
 stars: 296
 download: https://github.com/jeromelachaud/grayscale-theme/archive/master.zip

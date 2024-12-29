@@ -4,6 +4,7 @@ comments: true
 title: OneFlow
 date: 2024-02-18 03:00:00 +01:00
 repo: https://github.com/perstarke-webdev/oneflow-jekyll-theme
+update_date: 2024-12-11
 forks: 41
 stars: 7
 download: https://github.com/perstarke-webdev/oneflow-jekyll-theme/archive/refs/heads/main.zip
@@ -22,7 +23,7 @@ It offers lots of features and customization options, so you can easily create a
 ## Installation
 
 The **vision of this theme** is **simplicity and accessibility**, to easily create stunning websites from scratch.  
-Therefore, it's not available as a classic gem-based Jekyll theme, but as a ready-to-use GitHub repository that you just need to fork and clone.  
+Therefore, it's not available as a classic gem-based Jekyll theme, but as a ready-to-use GitHub repository that you just need to fork and clone.
 So, get ahead and make a fork of this repository, rename it if you like to suit the name of the site you want to create, locally clone it, and directly start editing!
 
 ### How to start a development docker container

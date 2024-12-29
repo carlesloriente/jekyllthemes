@@ -4,6 +4,7 @@ comments: true
 title: Hacker Blog
 date: 2017-12-13 06:49:20 +01:00
 repo: https://github.com/tocttou/hacker-blog
+update_date: 2024-12-26
 forks: 554
 stars: 321
 download: https://github.com/tocttou/hacker-blog/archive/master.zip

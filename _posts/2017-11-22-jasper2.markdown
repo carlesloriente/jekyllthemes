@@ -4,6 +4,7 @@ comments: true
 title: Jasper2
 date: 2017-11-22 15:00:00 +01:00
 repo: https://github.com/jekyller/jasper2
+update_date: 2024-12-26
 forks: 663
 stars: 765
 download: https://github.com/jekyller/jasper2/archive/master.zip

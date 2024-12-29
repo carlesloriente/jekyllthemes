@@ -4,6 +4,7 @@ comments: true
 title: Personal
 date: 2016-08-12 22:11:50 +01:00
 repo: https://github.com/le4ker/personal-jekyll-theme
+update_date: 2024-12-21
 forks: 645
 stars: 630
 download: https://github.com/le4ker/personal-jekyll-theme/archive/master.zip

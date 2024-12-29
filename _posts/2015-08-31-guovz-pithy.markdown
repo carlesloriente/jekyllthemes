@@ -4,6 +4,7 @@ comments: true
 title: Guovz Pithy
 date: 2015-08-31 14:37:00 +01:00
 repo: https://github.com/jaylinwang/jekyll-pithy
+update_date: 2022-02-12
 forks: 33
 stars: 60
 download: https://github.com/jaylinwang/jekyll-pithy/archive/gh-pages.zip

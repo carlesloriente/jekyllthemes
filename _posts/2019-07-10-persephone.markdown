@@ -4,6 +4,7 @@ comments: true
 title: Persephone
 date: 2019-07-10 09:00:00 +01:00
 repo: https://github.com/erlzhang/jekyll-theme-persephone
+update_date: 2024-11-28
 forks: 60
 stars: 205
 download: https://github.com/erlzhang/jekyll-theme-persephone/archive/master.zip

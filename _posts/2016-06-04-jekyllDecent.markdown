@@ -4,6 +4,7 @@ comments: true
 title: jekyllDecent
 date: 2016-06-04 23:03:00 +0300
 repo: https://github.com/jwillmer/jekyllDecent
+update_date: 2024-12-26
 forks: 123
 stars: 133
 download: https://github.com/jwillmer/jekyllDecent/archive/gh-pages.zip

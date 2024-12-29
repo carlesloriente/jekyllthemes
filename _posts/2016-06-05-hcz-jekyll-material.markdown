@@ -4,6 +4,7 @@ comments: true
 title: HCZ Material
 date: 2016-06-05 14:30:00 +01:00
 repo: https://github.com/codeasashu/hcz-jekyll-blog
+update_date: 2024-12-02
 forks: 250
 stars: 250
 download: https://github.com/codeasashu/hcz-jekyll-blog/archive/gh-pages.zip

@@ -4,6 +4,7 @@ comments: true
 title: Material Bliss
 date: 2017-01-18 20:17:14 +01:00
 repo: https://github.com/insipx/material-bliss-jekyll-theme
+update_date: 2024-08-20
 forks: 45
 stars: 77
 download: https://github.com/insipx/material-bliss-jekyll-theme/archive/master.zip

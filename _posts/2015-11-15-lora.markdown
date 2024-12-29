@@ -4,6 +4,7 @@ comments: true
 title: Lora
 date: 2015-11-15 19:33:00 +01:00
 repo: https://github.com/nandomoreirame/lora
+update_date: 2024-04-08
 forks: 31
 stars: 35
 download: https://github.com/nandomoreirame/lora/archive/master.zip

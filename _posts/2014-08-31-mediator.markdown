@@ -4,6 +4,7 @@ comments: true
 title: Mediator
 date: 2014-08-31 18:03:00 +01:00
 repo: https://github.com/dirkfabisch/mediator
+update_date: 2024-11-08
 forks: 875
 stars: 811
 download: https://github.com/dirkfabisch/mediator/archive/master.zip

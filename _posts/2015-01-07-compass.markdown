@@ -4,6 +4,7 @@ comments: true
 title: Compass
 date: 2015-01-07 19:33:00 +01:00
 repo: https://github.com/excentris/compass
+update_date: 2024-12-06
 forks: 329
 stars: 195
 download: https://github.com/excentris/compass/archive/master.zip

@@ -4,6 +4,7 @@ comments: true
 title: Safarnama
 date: 2016-05-27 21:24:48 +01:00
 repo: https://github.com/hemangsk/safarnama
+update_date: 2021-09-06
 forks: 7
 stars: 6
 download: https://github.com/hemangsk/safarnama/archive/master.zip

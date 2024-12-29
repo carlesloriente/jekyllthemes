@@ -4,6 +4,7 @@ comments: true
 title: Sleek
 date: 2018-01-13 20:00:00 +01:00
 repo: https://github.com/janczizikow/sleek
+update_date: 2024-11-27
 forks: 638
 stars: 424
 download: https://github.com/janczizikow/sleek/archive/v0.1-alpha.zip

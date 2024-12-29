@@ -4,6 +4,7 @@ comments: true
 title: Mangan
 date: 2016-02-24 12:23:00 +01:00
 repo: https://github.com/dikiaap/mangan
+update_date: 2024-12-23
 forks: 27
 stars: 47
 download: https://github.com/dikiaap/mangan/archive/master.zip

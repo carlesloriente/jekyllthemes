@@ -4,6 +4,7 @@ comments: true
 title: Event
 date: 2017-08-09 20:00:00 +01:00
 repo: https://github.com/melvinchng/event-jekyll-theme
+update_date: 2024-12-07
 forks: 203
 stars: 137
 download: https://github.com/melvinchng/event-jekyll-theme/archive/master.zip

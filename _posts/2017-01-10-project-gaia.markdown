@@ -4,6 +4,7 @@ comments: true
 title: Project Gaia
 date: 2017-01-10 20:00:00 +01:00
 repo: https://github.com/szhshp/JekyllTheme-ProjectGaia
+update_date: 2023-08-02
 forks: 40
 stars: 108
 download: https://github.com/szhshp/JekyllTheme-ProjectGaia/archive/master.zip

@@ -4,6 +4,7 @@ comments: true
 title: Monophase
 date: 2021-03-15 19:45 +01:00
 repo: https://github.com/zivhub/monophase
+update_date: 2024-07-10
 forks: 63
 stars: 45
 download: https://github.com/zivhub/monophase/archive/main.zip

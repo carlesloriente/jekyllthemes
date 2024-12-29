@@ -4,6 +4,7 @@ comments: true
 title: Panel CV
 date: 2017-08-24 11:32:00 +01:00
 repo: https://github.com/jekyller/online-cv
+update_date: 2024-10-01
 forks: 78
 stars: 32
 download: https://github.com/jekyller/online-cv/archive/master.zip

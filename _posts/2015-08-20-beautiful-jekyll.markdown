@@ -4,6 +4,7 @@ comments: true
 title: Beautiful Jekyll
 date: 2015-08-20 18:00:00 +01:00
 repo: https://github.com/daattali/beautiful-jekyll
+update_date: 2024-12-27
 forks: 16444
 stars: 5437
 download: https://github.com/daattali/beautiful-jekyll/archive/master.zip

@@ -4,6 +4,7 @@ comments: true
 title: Cayman
 date: 2016-04-05 21:40:00 +01:00
 repo: https://github.com/pietromenna/jekyll-cayman-theme
+update_date: 2024-12-10
 forks: 224
 stars: 242
 download: https://github.com/pietromenna/jekyll-cayman-theme/archive/master.zip

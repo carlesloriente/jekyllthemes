@@ -4,6 +4,7 @@ comments: true
 title: Landing Page
 date: 2014-10-04 20:00:00 +01:00
 repo: https://github.com/swcool/landing-page-theme
+update_date: 2024-12-26
 forks: 606
 stars: 450
 download: https://github.com/swcool/landing-page-theme/archive/master.zip

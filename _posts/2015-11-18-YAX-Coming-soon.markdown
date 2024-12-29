@@ -4,6 +4,7 @@ comments: true
 title: YAX-Coming-soon
 date: 2015-11-18 19:50:00 +01:00
 repo: https://github.com/yonojoy/YAX-Coming-soon-Jekyll-Template
+update_date: 2024-09-04
 forks: 39
 stars: 30
 download: https://github.com/yonojoy/YAX-Coming-soon-Jekyll-Template/archive/v0.1-beta.zip

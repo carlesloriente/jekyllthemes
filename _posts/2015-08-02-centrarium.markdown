@@ -4,6 +4,7 @@ comments: true
 title: Centrarium
 date: 2015-08-02 07:42:00 +01:00
 repo: https://github.com/bencentra/centrarium
+update_date: 2024-12-21
 forks: 654
 stars: 435
 download: https://github.com/bencentra/centrarium/archive/master.zip

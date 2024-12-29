@@ -4,6 +4,7 @@ comments: true
 title: Panda
 date: 2023-02-28 7:00:00 +01:00
 repo: https://github.com/sorphwer/jekyll-theme-panda
+update_date: 2023-05-25
 forks: 1
 stars: 4
 download: https://github.com/sorphwer/jekyll-theme-panda/archive/refs/tags/Release.zip

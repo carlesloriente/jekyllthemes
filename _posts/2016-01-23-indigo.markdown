@@ -4,6 +4,7 @@ comments: true
 title: Indigo
 date: 2016-01-23 21:54:00 +01:00
 repo: https://github.com/sergiokopplin/indigo
+update_date: 2024-12-27
 forks: 2297
 stars: 2654
 download: https://github.com/sergiokopplin/indigo/archive/refs/heads/gh-pages.zip

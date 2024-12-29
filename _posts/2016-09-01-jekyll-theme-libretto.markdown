@@ -4,6 +4,7 @@ comments: true
 title: Libretto
 date: 2016-09-01 14:00:00 +01:00
 repo: https://github.com/ferrolho/jekyll-theme-libretto
+update_date: 2024-05-20
 forks: 60
 stars: 60
 download: https://github.com/ferrolho/jekyll-theme-libretto/archive/gh-pages.zip

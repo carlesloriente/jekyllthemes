@@ -4,6 +4,7 @@ comments: true
 title: Archie
 date: 2021-07-04 01:00:00 +01:00
 repo: https://github.com/slashformotion/jekyll-archie
+update_date: 2024-12-28
 forks: 2
 stars: 6
 download: https://github.com/slashformotion/jekyll-archie/archive/refs/heads/main.zip

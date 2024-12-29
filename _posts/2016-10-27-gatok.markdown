@@ -4,6 +4,7 @@ comments: true
 title: Webjeda Gatok
 date: 2016-10-27 20:00:00 +01:00
 repo: https://github.com/sharu725/gatok
+update_date: 2024-09-14
 forks: 55
 stars: 27
 download: https://github.com/sharu725/gatok/archive/master.zip

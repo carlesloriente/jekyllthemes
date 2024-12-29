@@ -4,6 +4,7 @@ comments: true
 title: Robotkang
 date: 2018-01-08 15:00:00 +01:00
 repo: https://github.com/MengZheK/kangblog.github.io
+update_date: 2024-12-19
 forks: 73
 stars: 70
 download: https://github.com/MengZheK/kangblog.github.io/archive/master.zip

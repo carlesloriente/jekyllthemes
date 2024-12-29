@@ -4,6 +4,7 @@ comments: true
 title: Jekyll HTML Pages
 date: 2024-01-01 01:42:00 +01:00
 repo: https://github.com/francescobianco/jekyll-html-pages
+update_date: 2024-10-22
 forks: 0
 stars: 3
 download: https://github.com/francescobianco/jekyll-html-pages/archive/gh-pages.zip

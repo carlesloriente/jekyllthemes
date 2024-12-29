@@ -4,6 +4,7 @@ comments: true
 title: Latex Jekyll
 date: 2020-04-17 20:00:00 +01:00
 repo: https://github.com/Hammie217/LatexJekyll
+update_date: 2024-12-20
 forks: 49
 stars: 127
 download: https://github.com/Hammie217/LatexJekyll

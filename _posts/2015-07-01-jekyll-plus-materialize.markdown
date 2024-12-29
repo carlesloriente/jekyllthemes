@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Plus Materialize
 date: 2015-07-01 20:00:00 +01:00
 repo: https://github.com/enterthecrucible/materialized_jekyll_theme
+update_date: 2019-10-03
 forks: 18
 stars: 9
 download: https://github.com/enterthecrucible/materialized_jekyll_theme/archive/master.zip

@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Vision Casper
 date: 2016-11-27 11:42:00 +01:00
 repo: https://github.com/hugocarreira/jekyll-vision-casper-theme
+update_date: 2024-01-06
 forks: 13
 stars: 8
 download: https://codeload.github.com/hugocarreira/jekyll-vision-casper-theme/zip/gh-pages

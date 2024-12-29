@@ -4,6 +4,7 @@ comments: true
 title: Experiment
 date: 2018-02-27 21:30:00 +01:00
 repo: https://github.com/anxhe/jekyll-theme-experiment
+update_date: 2024-12-01
 forks: 5
 stars: 7
 download: https://github.com/anxhe/jekyll-theme-experiment/archive/master.zip

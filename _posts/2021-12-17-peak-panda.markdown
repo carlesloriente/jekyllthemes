@@ -4,6 +4,7 @@ comments: true
 title: Peak Panda Landing Page
 date: 2021-12-17 02:27:04 +01:00
 repo: https://github.com/junjizhi/peak-panda
+update_date: 2024-12-06
 forks: 0
 stars: 3
 download: https://github.com/junjizhi/peak-panda/archive/refs/heads/main.zip

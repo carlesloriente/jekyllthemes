@@ -4,6 +4,7 @@ comments: true
 title: Shiori
 date: 2014-09-07 15:00:00 +01:00
 repo: https://github.com/ellekasai/shiori
+update_date: 2024-10-02
 forks: 130
 stars: 325
 download: https://github.com/ellekasai/shiori/archive/gh-pages.zip

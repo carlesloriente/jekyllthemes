@@ -4,6 +4,7 @@ comments: true
 title: HackCSS
 date: 2016-08-27 01:42:00 +01:00
 repo: https://github.com/wemake-services/jekyll-theme-hackcss
+update_date: 2024-11-03
 forks: 57
 stars: 131
 download: https://github.com/wemake-services/jekyll-theme-hackcss/releases

@@ -4,6 +4,7 @@ comments: true
 title: Arctic Fox
 date: 2015-06-16 07:42:00 +01:00
 repo: https://github.com/diezcami/arctic-fox-theme
+update_date: 2024-01-30
 forks: 58
 stars: 71
 download: https://github.com/diezcami/arctic-fox-theme/archive/master.zip

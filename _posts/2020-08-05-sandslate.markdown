@@ -4,6 +4,7 @@ comments: true
 title: Sandslate
 date: 2020-08-05 13:25:29 +01:00
 repo: https://github.com/tareqdandachi/sandslate
+update_date: 2022-05-19
 forks: 0
 stars: 2
 download: https://rubygems.org/gems/sandslate

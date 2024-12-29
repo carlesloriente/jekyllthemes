@@ -4,6 +4,7 @@ comments: true
 title: Friday
 date: 2020-03-02 18:00:00 +01:00
 repo: https://github.com/sfreytag/friday-theme
+update_date: 2024-11-29
 forks: 96
 stars: 70
 download: https://github.com/sfreytag/friday-theme/archive/master.zip

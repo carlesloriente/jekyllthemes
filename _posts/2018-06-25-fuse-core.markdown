@@ -4,6 +4,7 @@ comments: true
 title: Fuse Core
 date: 2018-06-25 20:00:00 +01:00
 repo: https://github.com/tsjensen/fuse-core
+update_date: 2024-12-11
 forks: 116
 stars: 52
 download: https://github.com/tsjensen/fuse-core/archive/gh-pages.zip

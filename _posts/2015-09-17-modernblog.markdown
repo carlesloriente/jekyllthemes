@@ -4,6 +4,7 @@ comments: true
 title: ModernBlog
 date: 2015-09-17 01:01:00 +01:00
 repo: https://github.com/inded/Jekyll_modern-blog
+update_date: 2024-08-22
 forks: 310
 stars: 247
 download: https://github.com/inded/Jekyll_modern-blog/archive/gh-pages.zip

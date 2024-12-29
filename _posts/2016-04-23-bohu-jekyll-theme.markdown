@@ -4,6 +4,7 @@ comments: true
 title: BoHu
 date: 2016-04-23 12:00:00 +01:00
 repo: https://github.com/Clark-Zhao/bohu-jekyll-theme
+update_date: 2020-05-07
 forks: 4
 stars: 0
 download: https://github.com/Clark-Zhao/bohu-jekyll-theme/archive/gh-pages.zip

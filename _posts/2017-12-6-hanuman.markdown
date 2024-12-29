@@ -4,6 +4,7 @@ comments: true
 title: Hanuman
 date: 2017-12-06 04:00:00 +01:00
 repo: https://github.com/samanyougarg/hanuman
+update_date: 2024-09-04
 forks: 314
 stars: 106
 download: https://github.com/samanyougarg/hanuman/archive/master.zip

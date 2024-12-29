@@ -4,6 +4,7 @@ comments: true
 title: J1 Template
 date: 2021-04-14 20:00:00 +01:00
 repo: https://github.com/jekyll-one/j1-template-starter
+update_date: 2024-12-06
 forks: 13
 stars: 15
 download: https://github.com/jekyll-one/j1-template-starter/archive/refs/heads/main.zip

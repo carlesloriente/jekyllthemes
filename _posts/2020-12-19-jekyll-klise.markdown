@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Klisé
 date: 2020-12-19 20:00:00 +01:00
 repo: https://github.com/piharpi/jekyll-klise
+update_date: 2024-12-28
 forks: 400
 stars: 958
 download: https://github.com/piharpi/jekyll-klise

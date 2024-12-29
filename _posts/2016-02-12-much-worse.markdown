@@ -4,6 +4,7 @@ comments: true
 title: Much-Worse
 date: 2016-02-12 22:00:00 +01:00
 repo: https://github.com/gchauras/much-worse-jekyll-theme
+update_date: 2024-09-16
 forks: 69
 stars: 46
 download: https://github.com/gchauras/much-worse-jekyll-theme/archive/gh-pages.zip

@@ -4,6 +4,7 @@ comments: true
 title: Fractal
 date: 2017-11-11 09:10:00 +01:00
 repo: https://github.com/yveszenne/jekyll-html5up-fractal
+update_date: 2023-07-12
 forks: 13
 stars: 12
 download: https://github.com/yveszenne/jekyll-html5up-fractal/raw/master/archive/jekyll-html5up-fractal.zip

@@ -4,6 +4,7 @@ comments: true
 title: Mdui
 date: 2017-05-30 17:25:00 +01:00
 repo: https://github.com/KeJunMao/jekyll-theme-mdui
+update_date: 2024-10-19
 forks: 72
 stars: 171
 download: https://github.com/KeJunMao/jekyll-theme-mdui/archive/master.zip

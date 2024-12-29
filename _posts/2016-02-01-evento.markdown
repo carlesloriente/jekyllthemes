@@ -4,6 +4,7 @@ comments: true
 title: Evento
 date: 2016-02-01 10:11:00 +01:00
 repo: https://github.com/boyney123/evento
+update_date: 2024-03-30
 forks: 47
 stars: 42
 download: https://github.com/boyney123/evento/archive/master.zip

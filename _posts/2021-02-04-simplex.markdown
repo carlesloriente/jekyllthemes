@@ -4,6 +4,7 @@ comments: true
 title: Simplex
 date: 2021-02-04 20:00:00 +01:00
 repo: https://github.com/andreondra/jekyll-theme-simplex
+update_date: 2024-12-14
 forks: 78
 stars: 75
 download: https://rubygems.org/gems/jekyll-theme-simplex
