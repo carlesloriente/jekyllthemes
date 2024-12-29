@@ -14,8 +14,6 @@ version: '2.0'
 thumbnail: panelcv2.webp
 license: MIT
 license_link: https://github.com/jekyller/online-cv/blob/master/LICENSE
-carousel:
-  - 'screenshot.png'
 ---
 
 PanelCV, this theme is collected from [cssmoban](https://www.cssmoban.com/) and modified by [Locky](https://github.com/junlulocky)
