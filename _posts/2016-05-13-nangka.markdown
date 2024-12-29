@@ -14,7 +14,7 @@ thumbnail: nangka.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
 carousel:
-  - 'screenshot.png'
+  - 'screenshots.png'
 ---
 
 Just a simple Jekyll theme.
