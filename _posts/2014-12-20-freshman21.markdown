@@ -17,7 +17,7 @@ carousel:
   - 'screenshot.png'
 ---
 
-Freshman21 is a Jekyll blog theme, base on theme [Freshman](https://github.com/yulijia/freshman).
+Freshman21 is a Jekyll blog theme, base on theme [Freshman](https://github.com/yulijia/freshman){:target="_blank"}{:rel="noopener noreferrer"}.
 A tribute to WordPress Theme Twenty-Twelve and Twenty-eleven.
 
 ## Features

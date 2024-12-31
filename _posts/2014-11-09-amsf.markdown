@@ -21,12 +21,12 @@ AMSF, a.k.a. Almace Scaffolding, a super-fast Jekyll framework fighting against 
 
 ## Features
 
-* A basic, fully configured Jekyll setup with well-defined [Atom feed](https://github.com/sparanoid/almace-scaffolding/blob/master/_app/feed-atom.xml), [sitemap](https://github.com/sparanoid/almace-scaffolding/blob/master/_app/sitemap.xml), and [Twitter Cards](https://dev.twitter.com/docs/cards) support
-* **Almace Scaffolding** ships a sleek responsive theme, a variant of [sparanoid.com](https://sparanoid.com/), looking great on any mordern browsers
+* A basic, fully configured Jekyll setup with well-defined [Atom feed](https://github.com/sparanoid/almace-scaffolding/blob/master/_app/feed-atom.xml){:target="_blank"}{:rel="noopener noreferrer"}, [sitemap](https://github.com/sparanoid/almace-scaffolding/blob/master/_app/sitemap.xml){:target="_blank"}{:rel="noopener noreferrer"}, and [Twitter Cards](https://dev.twitter.com/docs/cards){:target="_blank"}{:rel="noopener noreferrer"} support
+* **Almace Scaffolding** ships a sleek responsive theme, a variant of [sparanoid.com](https://sparanoid.com/){:target="_blank"}{:rel="noopener noreferrer"}, looking great on any mordern browsers
 * Every minified page generates only one HTTP request
 * Minimalism design, No jQuery, no `everybody-shake-ur-body.js`
 * Ideal for personal blog, portfolio, product blog and Tumblr-like link blog
-* (Maybe) the first template that uses [viewport relative units](https://www.w3.org/TR/css3-values/#viewport-relative-lengths)
+* (Maybe) the first template that uses [viewport relative units](https://www.w3.org/TR/css3-values/#viewport-relative-lengths){:target="_blank"}{:rel="noopener noreferrer"}
 * Tons of configurable settings for your posts and site customization
 * Handcrafted stylesheets. No Bootstrap or other bloated frameworks are used, unminified CSS < 12 KB
 * Predefined LESS variables make it easier to change color schemes for different posts

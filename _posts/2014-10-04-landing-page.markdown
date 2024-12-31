@@ -17,14 +17,14 @@ carousel:
   - 'screenshot.png'
 ---
 
-Landing-Page theme, a services theme that allows you to showcase your services. The theme is based on [Landing Page](https://startbootstrap.com/templates/landing-page/) theme by [Start Bootstrap](https://startbootstrap.com/).
+Landing-Page theme, a services theme that allows you to showcase your services. The theme is based on [Landing Page](https://startbootstrap.com/templates/landing-page/){:target="_blank"}{:rel="noopener noreferrer"} theme by [Start Bootstrap](https://startbootstrap.com/){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Contribute
 
-Start by [forking](https://github.com/swcool/landing-page-theme/fork) this repository.
+Start by [forking](https://github.com/swcool/landing-page-theme/fork){:target="_blank"}{:rel="noopener noreferrer"} this repository.
 
 ## Contact
 
-Feel free to [open issues](https://github.com/swcool/landing-page-theme/issues/new) if you run into trouble or have suggestions.
+Feel free to [open issues](https://github.com/swcool/landing-page-theme/issues/new){:target="_blank"}{:rel="noopener noreferrer"} if you run into trouble or have suggestions.
 
 Pull Requests always welcome.

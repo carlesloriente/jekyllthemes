@@ -17,16 +17,16 @@ carousel:
   - 'screenshot.png'
 ---
 
-Clean Blog is a Jekyll theme by [Start Bootstrap](https://startbootstrap.com). It is perfect for stylish personal blogs, or any other use you can think of! For support, you can open issues on the GitHub repository for the theme, or you can visit the theme's overview page on Start Bootstrap at [https://startbootstrap.com/template-overviews/clean-blog/](https://startbootstrap.com/template-overviews/clean-blog/).
+Clean Blog is a Jekyll theme by [Start Bootstrap](https://startbootstrap.com){:target="_blank"}{:rel="noopener noreferrer"}. It is perfect for stylish personal blogs, or any other use you can think of! For support, you can open issues on the GitHub repository for the theme, or you can visit the theme's overview page on Start Bootstrap at [https://startbootstrap.com/template-overviews/clean-blog/](https://startbootstrap.com/template-overviews/clean-blog/){:target="_blank"}{:rel="noopener noreferrer"}.
 
 You can also download a raw HTML/CSS version of the theme there.
 
 ## Contribute
 
-Start by [forking](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll/fork) this repository. Then make changes and submit pull requests which will be reviewed and merged.
+Start by [forking](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll/fork){:target="_blank"}{:rel="noopener noreferrer"} this repository. Then make changes and submit pull requests which will be reviewed and merged.
 
 ## Contact
 
-Feel free to [open issues](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll) if you run into trouble or have suggestions.
+Feel free to [open issues](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll){:target="_blank"}{:rel="noopener noreferrer"} if you run into trouble or have suggestions.
 
 Pull Requests always welcome.

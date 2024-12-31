@@ -21,9 +21,9 @@ It was forked from Jekyll Clean theme modified a bit and 'darkified' with inspir
 
 ## Features
 
-* [Disqus comments](https://disqus.com);
-* [Google Analytics](https://www.google.com/analytics/);
-* [Yandex Metrika](https://metrica.yandex.com);
+* [Disqus comments](https://disqus.com){:target="_blank"}{:rel="noopener noreferrer"};
+* [Google Analytics](https://www.google.com/analytics/){:target="_blank"}{:rel="noopener noreferrer"};
+* [Yandex Metrika](https://metrica.yandex.com){:target="_blank"}{:rel="noopener noreferrer"};
 * Blog tags.
 
 It has some preinstalled social icons (LinkedIn, GitHub, StackOverflow, LastFm, Instagram). You can easily add more by putting .svg images in a `/css/social` folder.

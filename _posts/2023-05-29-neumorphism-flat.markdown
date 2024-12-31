@@ -24,11 +24,11 @@ This is a personal responsive website built with `Jekyll`, which is based on the
 
 * Mobile-First Responsive Design
 * Animated preloader animation
-* Landing Page with animated flying logos using [tsParticles](https://particles.js.org/), a Typing Carousel and animated social icons
+* Landing Page with animated flying logos using [tsParticles](https://particles.js.org/){:target="_blank"}{:rel="noopener noreferrer"}, a Typing Carousel and animated social icons
 * Dark Neumorphism Design on main content
-* [Animations On Scroll](https://michalsnik.github.io/aos/)
+* [Animations On Scroll](https://michalsnik.github.io/aos/){:target="_blank"}{:rel="noopener noreferrer"}
 * Filterable and manageable *Skills* word cloud
-* [Github's API](https://developer.github.com/v3/) automatically populating the *Open Source Projects* section
-* Gulp dev workflow with [BrowserSync](https://browsersync.io/), [Autoprefixer](https://autoprefixer.github.io/) and `JS` & `SCSS` minifying.
-* [Google Analytics](https://analytics.google.com/)
+* [Github's API](https://developer.github.com/v3/){:target="_blank"}{:rel="noopener noreferrer"} automatically populating the *Open Source Projects* section
+* Gulp dev workflow with [BrowserSync](https://browsersync.io/), [Autoprefixer](https://autoprefixer.github.io/){:target="_blank"}{:rel="noopener noreferrer"} and `JS` & `SCSS` minifying.
+* [Google Analytics](https://analytics.google.com/){:target="_blank"}{:rel="noopener noreferrer"}
   

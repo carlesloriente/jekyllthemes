@@ -26,9 +26,9 @@ carousel:
   - '7-bootstrap-theme.notesoncloudcomputing.com.png'
 ---
 
-[NOCC Jekyll Bundle](https://bootstrap-theme.notesoncloudcomputing.com/). A fully featured bundle site for [Jekyll](https://jekyllrb.com/) created by [Carles Loriente](https://github.com/carlesloriente).
-Features a homepage, about page, tags cloud page, gallery of images page, examples post pages with comments powered by [Disqus](https://disqus.com/) and a contact form powered by [Formspree](https://formspree.io/).
-Using the [NOCC Bootstrap theme](https://www.npmjs.com/package/nocc-bootstrap-theme) npm package.
+[NOCC Jekyll Bundle](https://bootstrap-theme.notesoncloudcomputing.com/){:target="_blank"}{:rel="noopener noreferrer"}. A fully featured bundle site for [Jekyll](https://jekyllrb.com/){:target="_blank"}{:rel="noopener noreferrer"} created by [Carles Loriente](https://github.com/carlesloriente){:target="_blank"}{:rel="noopener noreferrer"}.
+Features a homepage, about page, tags cloud page, gallery of images page, examples post pages with comments powered by [Disqus](https://disqus.com/){:target="_blank"}{:rel="noopener noreferrer"} and a contact form powered by [Formspree](https://formspree.io/){:target="_blank"}{:rel="noopener noreferrer"}.
+Using the [NOCC Bootstrap theme](https://www.npmjs.com/package/nocc-bootstrap-theme){:target="_blank"}{:rel="noopener noreferrer"} npm package.
 
 ![NOCC Jekyll Bundle webshots](/screenshots/2024-12-09-nocc-bootstrap-theme-jekyll/nocc-showcase.webp){:.img-fluid}
 
@@ -60,7 +60,7 @@ Using the [NOCC Bootstrap theme](https://www.npmjs.com/package/nocc-bootstrap-th
 
 Just follow the instructions below, and then you can change the content of the pages and site settings.
 
-- [Download the package](https://github.com/carlesloriente/bootstrap-theme-jekyll/archive/refs/heads/main.zip) or clone the project running the command:
+- [Download the package](https://github.com/carlesloriente/bootstrap-theme-jekyll/archive/refs/heads/main.zip){:target="_blank"}{:rel="noopener noreferrer"} or clone the project running the command:
 
 ```bash
    git clone --recursive git@github.com:carlesloriente/bootstrap-theme-jekyll.git
@@ -89,7 +89,7 @@ Just follow the instructions below, and then you can change the content of the p
    - `description`
    - `full_description` (Setting for the theme landing site, please set to `false`)
    - `gh_repository` (Optional; if not needed, comment it out)
-   - `email` (Set to a working email address, and then if you want to enable the contact form, create a free account at [Formspree](https://formspree.io))
+   - `email` (Set to a working email address, and then if you want to enable the contact form, create a free account at [Formspree](https://formspree.io){:target="_blank"}{:rel="noopener noreferrer"})
    - `formemail` (fill in with your Formspree code; after that, fill out and send the form on the contact page, check your email and verify if you are receiving the messages)
    - `twitter_username` (Optional; if not needed, comment it out)
    - `github_username` (Optional; if not needed, comment it out)
@@ -99,11 +99,11 @@ Just follow the instructions below, and then you can change the content of the p
    - `kofi` (Optional; if not needed, comment it out)
    - `google_site_verification` (Optional; if not needed, comment it out)
    - `google_analytics` (Optional; if not needed, comment it out)
-   - `disqus_shortname` (To enable the comments feature, create a free account at [Disqus](https://disqus.com), and fill in with your Disqus shortname, if not needed; comment it out)
+   - `disqus_shortname` (To enable the comments feature, create a free account at [Disqus](https://disqus.com){:target="_blank"}{:rel="noopener noreferrer"}, and fill in with your Disqus shortname, if not needed; comment it out)
 
 ### Add your content
 
-You need to create new posts/articles inside the folder named `_posts`. The files should be in markdown format. Use one of the sample files to learn more about the syntax and [Front Matter](https://jekyllrb.com/docs/front-matter/) settings. Remove the unwanted files.
+You need to create new posts/articles inside the folder named `_posts`. The files should be in markdown format. Use one of the sample files to learn more about the syntax and [Front Matter](https://jekyllrb.com/docs/front-matter/){:target="_blank"}{:rel="noopener noreferrer"} settings. Remove the unwanted files.
 
 > **&#9940;** Posts should be named YEAR-MONTH-DAY-title.MARKUP (Note the MARKUP extension, which is usually .md or .markdown){:.alert alert-danger}
 
@@ -132,26 +132,26 @@ Navigate to folder `bin/certs` and execute the following command to validate cer
 
 #### in GitHub-Pages
 
-You can host your site using GitHub Pages. Follow the [official guide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
+You can host your site using GitHub Pages. Follow the [official guide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site){:target="_blank"}{:rel="noopener noreferrer"}.
 
 > **&#9432;** GitHub Pages hosting is free; you need an account and repository{:.alert alert-info}
 
 #### in Amazon S3 bucket
 
-You can host the site using an S3 Bucket; please follow the [AWS guide](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html).
+You can host the site using an S3 Bucket; please follow the [AWS guide](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/carlesloriente/bootstrap-theme-jekyll/issues) here on GitHub!
+Have a bug or an issue with this template? [Open a new issue](https://github.com/carlesloriente/bootstrap-theme-jekyll/issues){:target="_blank"}{:rel="noopener noreferrer"} here on GitHub!
 
 ## Contribute
 
-New contributors are always welcome! Check out [CONTRIBUTING.md](https://github.com/carlesloriente/bootstrap-theme-jekyll/blob/main/CONTRIBUTING.md) to get involved.
+New contributors are always welcome! Check out [CONTRIBUTING.md](https://github.com/carlesloriente/bootstrap-theme-jekyll/blob/main/CONTRIBUTING.md){:target="_blank"}{:rel="noopener noreferrer"} to get involved.
 
 ## Contact
 
-**[Carles Loriente](https://www.linkedin.com/in/carles-loriente/)** is the creator and maintainer of the NOCC Bootstrap theme.
+**[Carles Loriente](https://www.linkedin.com/in/carles-loriente/){:target="_blank"}{:rel="noopener noreferrer"}** is the creator and maintainer of the NOCC Bootstrap theme.
 
-- [Linkedin](https://www.linkedin.com/in/carles-loriente)
-- [Twitter](https://twitter.com/godarthvader)
-- [GitHub](https://github.com/carlesloriente)
+- [Linkedin](https://www.linkedin.com/in/carles-loriente){:target="_blank"}{:rel="noopener noreferrer"}
+- [Twitter](https://twitter.com/godarthvader){:target="_blank"}{:rel="noopener noreferrer"}
+- [GitHub](https://github.com/carlesloriente){:target="_blank"}{:rel="noopener noreferrer"}

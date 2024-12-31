@@ -38,4 +38,4 @@ A simple Jekyll blog theme
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `jekyll serve`
 
-Access: [localhost:4000](https://localhost:4000)
+Access `https://localhost:4000`

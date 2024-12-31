@@ -16,17 +16,17 @@ license_link: https://github.com/ngzhio/jekyll-theme-hamilton/blob/master/LICENS
 
 A minimal and beautiful Jekyll theme best for writing and note-taking.
 
-The original purpose of this theme is to be a replacement of the default Jekyll theme -- [Minima](https://github.com/jekyll/minima). Hamilton is an enhancement of Minima but still, keep in minimal.
+The original purpose of this theme is to be a replacement of the default Jekyll theme -- [Minima](https://github.com/jekyll/minima){:target="_blank"}{:rel="noopener noreferrer"}. Hamilton is an enhancement of Minima but still, keep in minimal.
 
 ## Features
 
-* [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
-* [Jekyll Feed](https://github.com/jekyll/jekyll-feed)
-* [Jekyll Sitemap](https://github.com/jekyll/jekyll-sitemap)
-* [Google Analytics](https://analytics.google.com/)
-* [MathJax](https://www.mathjax.org/)
-* [Disqus](https://disqus.com/)
-* [Font Awesome](https://fontawesome.com/)
+* [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag){:target="_blank"}{:rel="noopener noreferrer"}
+* [Jekyll Feed](https://github.com/jekyll/jekyll-feed){:target="_blank"}{:rel="noopener noreferrer"}
+* [Jekyll Sitemap](https://github.com/jekyll/jekyll-sitemap){:target="_blank"}{:rel="noopener noreferrer"}
+* [Google Analytics](https://analytics.google.com/){:target="_blank"}{:rel="noopener noreferrer"}
+* [MathJax](https://www.mathjax.org/){:target="_blank"}{:rel="noopener noreferrer"}
+* [Disqus](https://disqus.com/){:target="_blank"}{:rel="noopener noreferrer"}
+* [Font Awesome](https://fontawesome.com/){:target="_blank"}{:rel="noopener noreferrer"}
 * Customizable head
 * Configurable page navigation
 * Customizable styles and skins

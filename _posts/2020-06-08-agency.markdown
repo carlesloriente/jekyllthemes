@@ -17,13 +17,13 @@ carousel:
   - 'screenshot.png'
 ---
 
-This is the [Agency Bootstrap theme](https://startbootstrap.com/themes/agency/) converted to a gem-based Jekyll theme with GitHub Pages support. While this had been done before, ([here](https://github.com/y7kim/agency-jekyll-theme), [here](https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency), and [here](https://github.com/laklau/agency-jekyll-theme/)), these are outdated and have not been updated or maintained for years. I built this theme from the most recent Bootstrap source. I also added a lot of new features that go beyond the original theme's capabilities:
+This is the [Agency Bootstrap theme](https://startbootstrap.com/themes/agency/){:target="_blank"}{:rel="noopener noreferrer"} converted to a gem-based Jekyll theme with GitHub Pages support. While this had been done before, ([here](https://github.com/y7kim/agency-jekyll-theme), [here](https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency){:target="_blank"}{:rel="noopener noreferrer"}, and [here](https://github.com/laklau/agency-jekyll-theme/){:target="_blank"}{:rel="noopener noreferrer"}), these are outdated and have not been updated or maintained for years. I built this theme from the most recent Bootstrap source. I also added a lot of new features that go beyond the original theme's capabilities:
 
 ## Features
 
 * GitHub Pages support
 * [template repo][template] to get up and running in minutes
-* contact form functionality powered by [Formspree.io](https://formspree.io)
+* contact form functionality powered by [Formspree.io](https://formspree.io){:target="_blank"}{:rel="noopener noreferrer"}
 * custom pages
 * 404 page
 * legal/Privacy Policy page
@@ -53,7 +53,7 @@ Add this line to your Jekyll site's `Gemfile`:
 gem "jekyll-agency"
 ```
 
-Then, replace the contents of your `_config.yml` file with [this](https://github.com/raviriley/agency-jekyll-theme/blob/master/_config.yml).
+Then, replace the contents of your `_config.yml` file with [this](https://github.com/raviriley/agency-jekyll-theme/blob/master/_config.yml){:target="_blank"}{:rel="noopener noreferrer"}.
 
 And then execute:
 
@@ -66,11 +66,11 @@ Or, install it yourself as:
 ### 2. Using the [Starter Template][template]
 
 This is the fastest and easiest way to get up and running on GitHub Pages.
-Simply generate your own repository by clicking [here](https://github.com/new?template_name=agency-jekyll-theme-starter&template_owner=raviriley), then replace the sample content with your own and configure for your needs.
+Simply generate your own repository by clicking [here](https://github.com/new?template_name=agency-jekyll-theme-starter&template_owner=raviriley){:target="_blank"}{:rel="noopener noreferrer"}, then replace the sample content with your own and configure for your needs.
 
 ### 3. Remote Theme Installation
 
-Replace the contents of your `_config.yml` file with [this](https://raw.githubusercontent.com/raviriley/agency-jekyll-theme-starter/master/_config.yml) and your `Gemfile` with [this](https://raw.githubusercontent.com/raviriley/agency-jekyll-theme-starter/master/Gemfile). Then execute:
+Replace the contents of your `_config.yml` file with [this](https://raw.githubusercontent.com/raviriley/agency-jekyll-theme-starter/master/_config.yml){:target="_blank"}{:rel="noopener noreferrer"} and your `Gemfile` with [this](https://raw.githubusercontent.com/raviriley/agency-jekyll-theme-starter/master/Gemfile){:target="_blank"}{:rel="noopener noreferrer"}. Then execute:
 
 `$ bundle`
 
@@ -92,4 +92,4 @@ For bug reports, follow the provided template.
 
 ## Support
 
-If you enjoy this theme, please consider [supporting me](https://www.paypal.me/raviriley) to continue developing and maintaining it.
+If you enjoy this theme, please consider [supporting me](https://www.paypal.me/raviriley){:target="_blank"}{:rel="noopener noreferrer"} to continue developing and maintaining it.

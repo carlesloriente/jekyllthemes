@@ -21,4 +21,4 @@ Jekyll theme Twail, card style Jekyll theme for blog.
 
 ## Installation
 
-[Installation](https://leetaewook.github.io/jekyll-theme-twail/installation)
+[Installation](https://leetaewook.github.io/jekyll-theme-twail/installation){:target="_blank"}{:rel="noopener noreferrer"}

@@ -17,12 +17,12 @@ carousel:
   - 'screenshot.png'
 ---
 
-The [Will Jekyll Template](https://github.com/willianjusten/will-jekyll-template/) show the main Theme. Feel free to Fork, Star it and make a New Version of it.
+The [Will Jekyll Template](https://github.com/willianjusten/will-jekyll-template/){:target="_blank"}{:rel="noopener noreferrer"} show the main Theme. Feel free to Fork, Star it and make a New Version of it.
 
 ## Contribute
 
-Start by [forking the repository](https://github.com/willianjusten/will-jekyll-template/).
+Start by [forking the repository](https://github.com/willianjusten/will-jekyll-template/){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Contact
 
-If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/willianjusten/will-jekyll-template/issues) or making a pull request for your fork!
+If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/willianjusten/will-jekyll-template/issues){:target="_blank"}{:rel="noopener noreferrer"} or making a pull request for your fork!

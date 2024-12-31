@@ -24,7 +24,7 @@ Jekyll Theme **Textalic** is a simple, responsive jekyll theme focus on blogging
 * Code highlighting
 * Autogenerate table of content
 * Disqus comment
-* Fulltext search (powered by [jekyll-simple-search plugin](https://github.com/christian-fei/Simple-Jekyll-Search))
+* Fulltext search (powered by [jekyll-simple-search plugin](https://github.com/christian-fei/Simple-Jekyll-Search){:target="_blank"}{:rel="noopener noreferrer"})
 * Google analytics
 * Atom feed
 * Sitemap
@@ -33,7 +33,7 @@ Jekyll Theme **Textalic** is a simple, responsive jekyll theme focus on blogging
 
 ### Set up jekyll
 
-Before anything, make sure you have set up jekyll correctly. See [the official jekyll doc](https://jekyllrb.com/docs/).
+Before anything, make sure you have set up jekyll correctly. See [the official jekyll doc](https://jekyllrb.com/docs/){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ### Clone this repo
 
@@ -86,13 +86,13 @@ Run `bundle exec serve --watch` to run it locally.
 
 ## Blogging
 
-You can begin writting your posts under `/_posts` folder. See [Jekyll doc on posts](https://jekyllrb.com/docs/posts/).
+You can begin writting your posts under `/_posts` folder. See [Jekyll doc on posts](https://jekyllrb.com/docs/posts/){:target="_blank"}{:rel="noopener noreferrer"}.
 
-Posts are automatically grouped under site's post/category and post/tag menu. You can define post's category and tags in the post's [front matter](https://jekyllrb.com/docs/front-matter/), using `category` and `tags` front matter block.
+Posts are automatically grouped under site's post/category and post/tag menu. You can define post's category and tags in the post's [front matter](https://jekyllrb.com/docs/front-matter/){:target="_blank"}{:rel="noopener noreferrer"}, using `category` and `tags` front matter block.
 
 ### Series
 
-Sereis are implemented using [Jekyll's collections](https://jekyllrb.com/docs/collections/). So to add new series, following these steps:
+Sereis are implemented using [Jekyll's collections](https://jekyllrb.com/docs/collections/){:target="_blank"}{:rel="noopener noreferrer"}. So to add new series, following these steps:
 
 1. Define a new collection in `_config.yml`, under `collections` configuration block
 
@@ -110,4 +110,4 @@ Sereis are implemented using [Jekyll's collections](https://jekyllrb.com/docs/co
 
 ### Deployment
 
-See [Jekyll doc on deployment](https://jekyllrb.com/docs/deployment/)
+See [Jekyll doc on deployment](https://jekyllrb.com/docs/deployment/){:target="_blank"}{:rel="noopener noreferrer"}

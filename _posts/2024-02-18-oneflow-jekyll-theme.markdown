@@ -30,11 +30,11 @@ So, get ahead and make a fork of this repository, rename it if you like to suit 
 
 To test your website and see all of your changes in real-time without deploying it online, you can easily build your site locally.  
 
-* Make sure you have [Bundler](https://bundler.io/) and [Docker](https://www.docker.com/) installed.
+* Make sure you have [Bundler](https://bundler.io/){:target="_blank"}{:rel="noopener noreferrer"} and [Docker](https://www.docker.com/){:target="_blank"}{:rel="noopener noreferrer"} installed.
 * Open up a terminal, navigate to your local repository, and run `docker compose up`.
 
 Your site will then be visible at `http://0.0.0.0:4000/` in any browser.
 
 ### Documentation
 
-Extensive documentation for OneFlow is available [here](https://perstarke-webdev.de/oneflow-jekyll-theme).
+Extensive documentation for OneFlow is available [here](https://perstarke-webdev.de/oneflow-jekyll-theme){:target="_blank"}{:rel="noopener noreferrer"}.

@@ -18,7 +18,7 @@ carousel:
   - 'post.png'
 ---
 
-**Simple Texture** is a gem-based responsive simple texture styled Jekyll theme for [Jekyll][Jekyll] 3.3 or above, which can also be forked as a boilerplate for older versions of Jekyll.
+**Simple Texture** is a gem-based responsive simple texture styled Jekyll theme for [Jekyll][Jekyll]{:target="_blank"}{:rel="noopener noreferrer"} 3.3 or above, which can also be forked as a boilerplate for older versions of Jekyll.
 
 ## Installation
 
@@ -26,7 +26,7 @@ carousel:
 
 If you are creating a new website or blog, please follow the commands below first:
 
-1. Install Jekyll and [Bunlder][Bunlder]
+1. Install Jekyll and [Bunlder][Bunlder]{:target="_blank"}{:rel="noopener noreferrer"}
 `gem install jekyll bundler`
 
 2. Create a new Jekyll app
@@ -42,7 +42,7 @@ Then for newly created or existing Jekyll app,
 
 2. Remove Jekyll auto-generated default pages `about.md` and `index.md`.
 
-3. Download the respository [here](https://github.com/yizeng/jekyll-theme-simple-texture/archive/master.zip) and locate `starter-kit` folder, or download `starter-kit` folder directly [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/yizeng/jekyll-theme-simple-texture/tree/master/starter-kit).
+3. Download the respository [here](https://github.com/yizeng/jekyll-theme-simple-texture/archive/master.zip) and locate `starter-kit` folder, or download `starter-kit` folder directly [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/yizeng/jekyll-theme-simple-texture/tree/master/starter-kit){:target="_blank"}{:rel="noopener noreferrer"}.
 
 4. Put everything in the `starter-kit` in the root directory, i.e. `jekyllapp` in this example.
 
@@ -50,11 +50,11 @@ Then for newly created or existing Jekyll app,
 
 6. Run Jekyll with `bundle exec jekyll serve`
 
-7. Hack away at <https://localhost:4000>!
+7. Hack away at `https://localhost:4000`!
 
 ### As a fork
 
-* Fork the repo [here](https://github.com/yizeng/jekyll-theme-simple-texture#fork-destination-box)
+* Fork the repo [here](https://github.com/yizeng/jekyll-theme-simple-texture#fork-destination-box){:target="_blank"}{:rel="noopener noreferrer"}
 
 * Clone the repo just forked.
 `git clone git@github.com:[YOUR_USERNAME]/jekyll-theme-simple-texture.git`
@@ -81,7 +81,7 @@ source "https://rubygems.org"
 
 * Run Jekyll with `bundle exec jekyll serve`
 
-* Hack away at [https://localhost:4000](https://localhost:4000)!
+* Hack away at `https://localhost:4000`
 
 [Jekyll]: https://jekyllrb.com/
 [Bunlder]: https://bundler.io/

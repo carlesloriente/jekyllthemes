@@ -21,4 +21,4 @@ Lightweight Jekyll theme
 
 * mobile first
 * syntax highlighting
-* automatic [disqus](https://disqus.com/) / [isso](https://posativ.org/isso/) integration
+* automatic [disqus](https://disqus.com/){:target="_blank"}{:rel="noopener noreferrer"} / [isso](https://posativ.org/isso/){:target="_blank"}{:rel="noopener noreferrer"} integration

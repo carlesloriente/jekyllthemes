@@ -19,4 +19,4 @@ This is a simple and minimal theme to host your blog and a description about you
 
 ## Installation
 
-You can always install gem and follow [these](https://github.com/rohitjain00/dev-portfolio-blog#usage) simple steps to get your website up and running.
+You can always install gem and follow [these](https://github.com/rohitjain00/dev-portfolio-blog#usage){:target="_blank"}{:rel="noopener noreferrer"} simple steps to get your website up and running.

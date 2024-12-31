@@ -21,9 +21,9 @@ A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
 ## Features
 
-* Fast (**< 1kb of CSS**, see [Page Speed Insights report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/page-speed-insights-report.png) and [Lighthouse report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/lighthouse-report.png))
+* Fast (**< 1kb of CSS**, see [Page Speed Insights report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/page-speed-insights-report.png){:target="_blank"}{:rel="noopener noreferrer"} and [Lighthouse report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/lighthouse-report.png){:target="_blank"}{:rel="noopener noreferrer"})
 * Responsive
-* Content first (typography optimized for maximum readability)
-* SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag))
-* RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed))
-* Fully compatible with [GitHub Pages](https://pages.github.com/)
+* Content first (typography optimized for maximum readability){:target="_blank"}{:rel="noopener noreferrer"}
+* SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag){:target="_blank"}{:rel="noopener noreferrer"})
+* RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed){:target="_blank"}{:rel="noopener noreferrer"})
+* Fully compatible with [GitHub Pages](https://pages.github.com/){:target="_blank"}{:rel="noopener noreferrer"}

@@ -24,7 +24,7 @@ carlousel:
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `jekyll serve`
 
-Access, [localhost:4000/mug](https://localhost:4000/mug)
+Access `https://localhost:4000/mug`
 
 ### Deploy in Github pages in 2 steps
 

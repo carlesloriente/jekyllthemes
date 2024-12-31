@@ -32,4 +32,4 @@ Sass preprocessing and the use of Data Files require Jekyll 2.x
 
 ## Creadits
 
-*Skinny Bones was built by [Michael Rose](https://mademistakes.com) [@mmistakes](https://twitter.com/mmistakes).*
+*Skinny Bones was built by [Michael Rose](https://mademistakes.com){:target="_blank"}{:rel="noopener noreferrer"} [@mmistakes](https://twitter.com/mmistakes){:target="_blank"}{:rel="noopener noreferrer"}.*

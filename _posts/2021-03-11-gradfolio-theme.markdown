@@ -17,7 +17,7 @@ carousel:
   - '110634179-acaa7e00-81cf-11eb-8846-062ecf961d1e.png'
 ---
 
-Gradfolio, responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio. [Here's a live demo](https://jitinnair1.github.io/gradfolio/)
+Gradfolio, responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio.
 
 ## Features
 
@@ -28,6 +28,6 @@ Gradfolio, responsive, dark-mode ready Jekyll theme designed for use as a person
 
 ## Installation
 
-* Click on `Use this template` on the [GitHub homepage](https://github.com/jitinnair1/gradfolio)
-* Your new site should be ready at https://username.github.io/gradfolio/
+* Click on `Use this template` on the [GitHub homepage](https://github.com/jitinnair1/gradfolio){:target="_blank"}{:rel="noopener noreferrer"}
+* Your new site should be ready at `https://username.github.io/gradfolio/`
 * You can now modify the contents and personalise the template

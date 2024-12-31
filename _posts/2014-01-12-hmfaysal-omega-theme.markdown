@@ -36,9 +36,9 @@ Omega is a minimalist, beautiful, responsive theme for Jekyll designed for engin
 * SVG graphics
 * Google Fonts
 * 361 Fontawesome icons
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience
-* Beautifully crafted [404 page](https://hmfaysal.github.io/hmfaysal-omega-theme/404.html)
-* Custom [categories](https://hmfaysal.github.io/hmfaysal-omega-theme/categories/) and [tags](https://hmfaysal.github.io/hmfaysal-omega-theme/tags/) pages for viewers pleasure
+* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/){:target="_blank"}{:rel="noopener noreferrer"} and [Twitter Cards](https://dev.twitter.com/docs/cards){:target="_blank"}{:rel="noopener noreferrer"} for a better social sharing experience
+* Beautifully crafted [404 page](https://hmfaysal.github.io/hmfaysal-omega-theme/404.html){:target="_blank"}{:rel="noopener noreferrer"}
+* Custom [categories](https://hmfaysal.github.io/hmfaysal-omega-theme/categories/){:target="_blank"}{:rel="noopener noreferrer"} and [tags](https://hmfaysal.github.io/hmfaysal-omega-theme/tags/){:target="_blank"}{:rel="noopener noreferrer"} pages for viewers pleasure
 * Stylesheets for Pygments and Coderay to make your code examples look snazzy
 * Simple search that overlays results based on post title
 * Sitemap for search engines

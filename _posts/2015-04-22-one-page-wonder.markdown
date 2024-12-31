@@ -17,4 +17,4 @@ carousel:
   - 'screenshot.png'
 ---
 
-Port of [One Page Wonder](https://github.com/IronSummitMedia/startbootstrap-one-page-wonder).
+Port of [One Page Wonder](https://github.com/IronSummitMedia/startbootstrap-one-page-wonder){:target="_blank"}{:rel="noopener noreferrer"}.

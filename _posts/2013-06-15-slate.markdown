@@ -15,4 +15,4 @@ license_link: https://github.com/jasoncostello/slate/blob/master/LICENSE
 ---
 
 Slate is responsive theme for GitHub Pages.
-[Fork it](https://github.com/jsncostello/slate/fork) and use it on your own site or generate one automatically using [GitHub Pages](https://pages.github.com).
+[Fork it](https://github.com/jsncostello/slate/fork){:target="_blank"}{:rel="noopener noreferrer"} and use it on your own site or generate one automatically using [GitHub Pages](https://pages.github.com){:target="_blank"}{:rel="noopener noreferrer"}.

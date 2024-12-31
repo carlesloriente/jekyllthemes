@@ -24,9 +24,9 @@ A fast and minimalistic blog theme with clean dark mode.
 * Light & dark mode with theme switcher
 * Vertical list, horizontal list, card list
 * Landing page with navbar, footer, portfolio
-* Fast (very minimal CSS) - 100/100 on performance, accessibility, best practices and SEO, please see [Lighthouse Report](https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png) for more details
+* Fast (very minimal CSS) - 100/100 on performance, accessibility, best practices and SEO, please see [Lighthouse Report](https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png){:target="_blank"}{:rel="noopener noreferrer"} for more details
 * Responsive and mobile friendly
-* SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag))
-* RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed))
-* Fully compatible with [GitHub Pages](https://pages.github.com/)
+* SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag){:target="_blank"}{:rel="noopener noreferrer"})
+* RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed){:target="_blank"}{:rel="noopener noreferrer"})
+* Fully compatible with [GitHub Pages](https://pages.github.com/){:target="_blank"}{:rel="noopener noreferrer"}
 * Easy to extend

@@ -27,4 +27,4 @@ Simplex, a blog theme I've developed for my blog. The theme is simple but full o
 
 ## Installation
 
-More information and installation steps are in the [repository](https://github.com/andreondra/jekyll-theme-simplex).
+More information and installation steps are in the [repository](https://github.com/andreondra/jekyll-theme-simplex){:target="_blank"}{:rel="noopener noreferrer"}.

@@ -18,10 +18,10 @@ Tao is a content-first minimalist Jekyll theme for blogs.
 
 ## Features
 
-* Support the CSS resets [Normalize](https://github.com/necolas/normalize.css)
-* Support [Font Awesome](https://fontawesome.com/)
-* Support [MathJax](https://www.mathjax.org/)
-* Support [Disqus](https://disqus.com/)
-* Support [Google Analytics 4](https://analytics.google.com/analytics/web/)
-* Light and dark mode, via [`prefers-color-scheme`](https://web.dev/prefers-color-scheme/)
-* Archive pages implemented in pure [Liquid](https://shopify.github.io/liquid/)
+* Support the CSS resets [Normalize](https://github.com/necolas/normalize.css){:target="_blank"}{:rel="noopener noreferrer"}
+* Support [Font Awesome](https://fontawesome.com/){:target="_blank"}{:rel="noopener noreferrer"}
+* Support [MathJax](https://www.mathjax.org/){:target="_blank"}{:rel="noopener noreferrer"}
+* Support [Disqus](https://disqus.com/){:target="_blank"}{:rel="noopener noreferrer"}
+* Support [Google Analytics 4](https://analytics.google.com/analytics/web/){:target="_blank"}{:rel="noopener noreferrer"}
+* Light and dark mode, via [`prefers-color-scheme`](https://web.dev/prefers-color-scheme/){:target="_blank"}{:rel="noopener noreferrer"}
+* Archive pages implemented in pure [Liquid](https://shopify.github.io/liquid/){:target="_blank"}{:rel="noopener noreferrer"}

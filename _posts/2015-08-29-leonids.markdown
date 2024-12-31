@@ -17,7 +17,7 @@ carousel:
   - 'screenshot.png'
 ---
 
-**[Leonids](https://renyuanz.github.io/leonids)** is a clean and awesome Jekyll theme perfect for powering your GitHub hosted blog.
+**Leonids** is a clean and awesome Jekyll theme perfect for powering your GitHub hosted blog.
 
 ## Features
 
@@ -25,7 +25,7 @@ carousel:
 * Simple and clear permalink structure.
 * Support for Disqus Comments.
 * Support for multi-authors.
-* And the Leonids (/ˈliːənɪdz/ lee-ə-nidz) are a prolific meteor shower associated with the comet [Tempel-Tuttle](https://en.wikipedia.org/wiki/55P/Tempel%E2%80%93Tuttle).
+* And the Leonids (/ˈliːənɪdz/ lee-ə-nidz) are a prolific meteor shower associated with the comet [Tempel-Tuttle](https://en.wikipedia.org/wiki/55P/Tempel%E2%80%93Tuttle){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Installation
 

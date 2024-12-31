@@ -14,6 +14,6 @@ license: CC-BY-4.0
 license_link: https://github.com/pietromenna/jekyll-architect-theme/blob/master/README.md#license
 ---
 
-Architect is responsive theme for GitHub Pages. [Fork it](https://github.com/jasonlong/architect-theme/fork) and use it on your own site or generate one automatically using [GitHub Pages](https://pages.github.com).
+Architect is responsive theme for GitHub Pages. [Fork it](https://github.com/jasonlong/architect-theme/fork){:target="_blank"}{:rel="noopener noreferrer"} and use it on your own site or generate one automatically using [GitHub Pages](https://pages.github.com){:target="_blank"}{:rel="noopener noreferrer"}.
 
 Theme is ported to Jekyll by Pietro Menna.

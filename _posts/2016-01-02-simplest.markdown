@@ -27,4 +27,4 @@ Simplest theme.
 4. Install local gems: `bundle install`
 5. Start Jekyll server: `jekyll serve`
 
-Access, [localhost:4000/simplest](https://localhost:4000/simplest)
+Access `https://localhost:4000/simplest`
