@@ -13,8 +13,8 @@ thumbnail: gridgallery.webp
 license: WTF
 ---
 
-GridGallery theme, pushes the boundaries of Jekyll. This is a photo blogging theme that allows you to share your images on internet. This theme is a chip of this parent [experiment](https://github.com/codrops/GridGallery). There aren't any of such unauthodox themes for Jekyll ('till now). Enjoy!
+GridGallery theme, pushes the boundaries of Jekyll. This is a photo blogging theme that allows you to share your images on internet. This theme is a chip of this parent [experiment](https://github.com/codrops/GridGallery){:target="_blank"}{:rel="noopener noreferrer"}. There aren't any of such unauthodox themes for Jekyll ('till now). Enjoy!
 
 ## Contact
 
-I'd love to hear from you, send me a [tweet](https://twitter.com/_nadjetey). Feel free to [open issues](https://github.com/nadjetey/GridGallery/issues/new) if you run into trouble or have suggestions. Pull Requests always welcome.
+I'd love to hear from you, send me a [tweet](https://twitter.com/_nadjetey){:target="_blank"}{:rel="noopener noreferrer"}. Feel free to [open issues](https://github.com/nadjetey/GridGallery/issues/new){:target="_blank"}{:rel="noopener noreferrer"} if you run into trouble or have suggestions. Pull Requests always welcome.

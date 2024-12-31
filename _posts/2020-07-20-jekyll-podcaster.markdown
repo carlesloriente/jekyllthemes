@@ -17,6 +17,6 @@ carousel:
   - 'screenshot.png'
 ---
 
-Jekyll Podcaster is a [Jekyll](https://jekyllrb.com) theme built for podcasters. Every podcast needs a great website and this theme helps you achieve that.
+Jekyll Podcaster is a [Jekyll](https://jekyllrb.com){:target="_blank"}{:rel="noopener noreferrer"} theme built for podcasters. Every podcast needs a great website and this theme helps you achieve that.
 
 Please note that this theme will not build a RSS feed for your podcast, meaning that this is just for showcasing your podcast and not for distributing it. You still need to use a distribution platform.

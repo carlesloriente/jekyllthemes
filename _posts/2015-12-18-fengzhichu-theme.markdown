@@ -21,11 +21,11 @@ carousel:
   - 'Screenshot5.png'
 ---
 
-Fengzhichu Theme, a jekyll theme for personal blog which based on [Type theme](https://github.com/rohanchandra/type-theme) and [ibireme's blog](https://blog.ibireme.com). Add several useful features. Fengzhichu Theme is powered by [Jekyll](https://jekyllrb.com/) and freely hosted in [Github pages](https://pages.github.com/).
+Fengzhichu Theme, a jekyll theme for personal blog which based on [Type theme](https://github.com/rohanchandra/type-theme){:target="_blank"}{:rel="noopener noreferrer"} and [ibireme's blog](https://blog.ibireme.com){:target="_blank"}{:rel="noopener noreferrer"}. Add several useful features. Fengzhichu Theme is powered by [Jekyll](https://jekyllrb.com/){:target="_blank"}{:rel="noopener noreferrer"} and freely hosted in [Github pages](https://pages.github.com/){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Installation
 
-* Star & Fork the [repo](https://github.com/fengzhichu/fengzhichu-theme).
+* Star & Fork the [repo](https://github.com/fengzhichu/fengzhichu-theme){:target="_blank"}{:rel="noopener noreferrer"}.
 * Rename repo as `yourusername.github.io`.
 * You can delete gh-pages branch if you want.
 * Clone your **master branch** to local directory

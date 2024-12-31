@@ -46,11 +46,11 @@ HardCandy-Jekyll
 
 使用 `gem install jekyll-paginate` 或 `sudo gem install jekyll-paginate` 安装Jekyll的分页插件。
 
-将源码 `clone` 到本地后，在终端进入 `HardCandy-Jekyll` 根目录，运行 `jekyll server` 或 `bundle exec jekyll serve` ，即可开启jekyll的服务。通过浏览器访问 [https://localhost:4000](https://localhost:4000) ，即可看到本地部署的 `HardCandy-Jekyll` 博客了。
+将源码 `clone` 到本地后，在终端进入 `HardCandy-Jekyll` 根目录，运行 `jekyll server` 或 `bundle exec jekyll serve` ，即可开启jekyll的服务。通过浏览器访问 `https://localhost:4000` ，即可看到本地部署的 `HardCandy-Jekyll` 博客了。
 
 > warning！值得注意的地方：
 >
-> 由于本主题是基于 `jekyll 3.8.1` 开发 ，jekyll的版本差异也许会导致相关显示效果的差异。详情请参考官方文档：[news](https://jekyllrb.com/news/)
+> 由于本主题是基于 `jekyll 3.8.1` 开发 ，jekyll的版本差异也许会导致相关显示效果的差异。详情请参考官方文档：[news](https://jekyllrb.com/news/){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### 配置文档
 
@@ -124,8 +124,6 @@ cover: ''
 关于cover：
 
 此处需填写某一张图片的 `url` ，`url` 值可以是线上的某张图片，也可以是博客目录下的图片。关键是要书写正确。这张图片用于在首页下博客列表里显示，如下图。
-
-![5](https://github.com/xukimseven/HardCandy-Jekyll/raw/master/screenshot/5.png)
 
 #### 博主个人信息
 

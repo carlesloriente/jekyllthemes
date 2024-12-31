@@ -14,4 +14,4 @@ license: MIT
 license_link: https://github.com/enterthecrucible/materialized_jekyll_theme/blob/master/LISCENSE.md
 ---
 
-A Jekyll theme that uses [Materialize.css](https://www.materializecss.com)
+A Jekyll theme that uses [Materialize.css](https://www.materializecss.com){:target="_blank"}{:rel="noopener noreferrer"}

@@ -17,14 +17,14 @@ carousel:
   - 'screenshot.png'
 ---
 
-Grayscale theme, a portfolio theme that allows you to showcase your projects. The theme is based on [Grayscale](https://startbootstrap.com/templates/grayscale/) theme by [Start Bootstrap](https://startbootstrap.com/).
+Grayscale theme, a portfolio theme that allows you to showcase your projects. The theme is based on [Grayscale](https://startbootstrap.com/templates/grayscale/){:target="_blank"}{:rel="noopener noreferrer"} theme by [Start Bootstrap](https://startbootstrap.com/){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Contribute
 
-Start by [forking](https://github.com/jeromelachaud/grayscale-theme/fork) this repository.
+Start by [forking](https://github.com/jeromelachaud/grayscale-theme/fork){:target="_blank"}{:rel="noopener noreferrer"} this repository.
 
 ## Contact
 
-Feel free to [open issues](https://github.com/jeromelachaud/grayscale-theme/issues/new) if you run into trouble or have suggestions.
+Feel free to [open issues](https://github.com/jeromelachaud/grayscale-theme/issues/new){:target="_blank"}{:rel="noopener noreferrer"} if you run into trouble or have suggestions.
 
 Pull Requests always welcome.

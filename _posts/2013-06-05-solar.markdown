@@ -18,7 +18,7 @@ carousel:
 ---
 
 A stylish theme for Jekyll blogs, based on the Solarized color palette.
-For installation instructions, please read the README.md [on GitHub!](https://github.com/mattvh/solar-theme-jekyll)
+For installation instructions, please read the README.md [on GitHub!](https://github.com/mattvh/solar-theme-jekyll){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Features
 

@@ -23,13 +23,13 @@ Jekyll Opine
 
 ## Features
 
-* [Bulma](https://bulma.io/)
-* [Disqus](https://disqus.com/)
-* [Search](https://github.com/christian-fei/Simple-Jekyll-Search)
+* [Bulma](https://bulma.io/){:target="_blank"}{:rel="noopener noreferrer"}
+* [Disqus](https://disqus.com/){:target="_blank"}{:rel="noopener noreferrer"}
+* [Search](https://github.com/christian-fei/Simple-Jekyll-Search){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Installation
 
-1. [Fork this repository](https://github.com/leabs/jekyll-opine/fork/) into your own account (if you use as destination a repository named **USERNAME.github.io** then your url will be `username.github.io`, else `username.github.io/REPONAME/`)
+1. [Fork this repository](https://github.com/leabs/jekyll-opine/fork/){:target="_blank"}{:rel="noopener noreferrer"} into your own account (if you use as destination a repository named **USERNAME.github.io** then your url will be `username.github.io`, else `username.github.io/REPONAME/`)
 2. Modify `_config.yml` with your data
 3. Use the files inside of the `/_posts/` directory as templates to modify and create your own blog posts.
 4. Replace `avatar.png` inside of `/assets/images/`.

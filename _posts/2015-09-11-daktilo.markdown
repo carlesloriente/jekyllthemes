@@ -22,9 +22,9 @@ Daktilo is a Jekyll theme with a minimal design inspired from typewriters.
 ## Features
 
 * Fully responsive
-* [Disqus](https://disqus.com/) integration for comments.
+* [Disqus](https://disqus.com/){:target="_blank"}{:rel="noopener noreferrer"} integration for comments.
 * Google Analytics integration.
-* Syntax Highlighter (using [highlight.js](https://highlightjs.org/)).
+* Syntax Highlighter (using [highlight.js](https://highlightjs.org/){:target="_blank"}{:rel="noopener noreferrer"}).
 * Support for categories.
 * Font-Awesome Icons.
 * Optimized for SEO.

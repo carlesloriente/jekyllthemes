@@ -17,8 +17,8 @@ carousel:
   - 'screenshot.png'
 ---
 
-Beautiful Jekyll is a ready-to-use template to help you create an awesome website quickly. Perfect for personal blogs or simple project websites. [Check out a demo](https://beautifuljekyll.com/) of what you'll get after just two minutes or look at [my personal website](https://deanattali.com/) to see it in use.
+Beautiful Jekyll is a ready-to-use template to help you create an awesome website quickly. Perfect for personal blogs or simple project websites. [Check out a demo](https://beautifuljekyll.com/){:target="_blank"}{:rel="noopener noreferrer"} of what you'll get after just two minutes or look at [my personal website](https://deanattali.com/){:target="_blank"}{:rel="noopener noreferrer"} to see it in use.
 
 ## Contact
 
-If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/daattali/beautiful-jekyll/issues), make a pull request, or [contact me](https://deanattali.com/aboutme#contact).
+If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/daattali/beautiful-jekyll/issues){:target="_blank"}{:rel="noopener noreferrer"}, make a pull request, or [contact me](https://deanattali.com/aboutme#contact){:target="_blank"}{:rel="noopener noreferrer"}.

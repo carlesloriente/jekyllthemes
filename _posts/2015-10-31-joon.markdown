@@ -17,4 +17,4 @@ carousel:
   - 'screenshot.png'
 ---
 
-Joon: Roon theme for Jekyll, based on the Roon for [Ghost](https://github.com/tryghost/roon/).
+Joon: Roon theme for Jekyll, based on the Roon for [Ghost](https://github.com/tryghost/roon/){:target="_blank"}{:rel="noopener noreferrer"}.

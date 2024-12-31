@@ -59,7 +59,7 @@ The site has been tested with the following Ruby and Jekyll versions:
 * ruby 3.0.3
 * jekyll 4.2.1
 
-We recommend using [rbenv](https://github.com/rbenv/rbenv) to manage your Ruby versions.
+We recommend using [rbenv](https://github.com/rbenv/rbenv){:target="_blank"}{:rel="noopener noreferrer"} to manage your Ruby versions.
 
 To run the site locally:
 
@@ -68,7 +68,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-For more Jekyll details, look at [Jekyll documentation](http://jekyllrb.com/).
+For more Jekyll details, look at [Jekyll documentation](http://jekyllrb.com/){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ### Deployment
 

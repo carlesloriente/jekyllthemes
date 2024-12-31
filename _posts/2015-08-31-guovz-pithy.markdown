@@ -17,8 +17,8 @@ carousel:
   - 'screenshot.png'
 ---
 
-The [Guovz Pithy](https://github.com/jaylinwang/jekyll-pithy) An open source minimal theme for Jekyll. You can Fork, Star it and make a New Version of it. of course. it's free.
+The [Guovz Pithy](https://github.com/jaylinwang/jekyll-pithy){:target="_blank"}{:rel="noopener noreferrer"} An open source minimal theme for Jekyll. You can Fork, Star it and make a New Version of it. of course. it's free.
 
 ## Contact
 
-If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/jaylinwang/jekyll-pithy/issues) or making a pull request for your fork!
+If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/jaylinwang/jekyll-pithy/issues){:target="_blank"}{:rel="noopener noreferrer"} or making a pull request for your fork!

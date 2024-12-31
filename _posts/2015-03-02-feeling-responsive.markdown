@@ -21,10 +21,10 @@ carousel:
 
 ## Features
 
-* It works with [GitHub-Pages](https://pages.github.com/).
+* It works with [GitHub-Pages](https://pages.github.com/){:target="_blank"}{:rel="noopener noreferrer"}.
 * Language-Support: Translate *Feeling Responsive* in seconds.
 * Optimized for speed and search engines.
-* Built on [Foundation Framework](https://foundation.zurb.com/).
+* Built on [Foundation Framework](https://foundation.zurb.com/){:target="_blank"}{:rel="noopener noreferrer"}.
 * Style your content with six different Headers.
 * Customizable navigation, footer, and social media links...
 * Beautiful Typography.

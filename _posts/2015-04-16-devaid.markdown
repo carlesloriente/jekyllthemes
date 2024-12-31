@@ -21,7 +21,7 @@ devAid, a free mobile-friendly Bootstrap theme designed to help developers promo
 
 ## Installation
 
-devAid may be installed by simply downloading the [repository on Github](https://github.com/kevit/devaid-jekyll-theme/archive/master.zip).
+devAid may be installed by simply downloading the [repository on Github](https://github.com/kevit/devaid-jekyll-theme/archive/master.zip){:target="_blank"}{:rel="noopener noreferrer"}.
 
 After extracting the content from the folder into the selected directory, you can type `jekyll serve` from the terminal, than open your browser to `0.0.0.0:4000/` and you will find there.
 

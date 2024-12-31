@@ -28,7 +28,7 @@ Theme Panda
   * Hide posts in home page
   * Make article pinned at home page
   * Mark a custom status symbol
-* Auto/Manual Dark/Light Mode 
+* Auto/Manual Dark/Light Mode
 * Responsive design, optimized for mobile devices
 * Global fuzzy search bar for articles and tags
 * Code highlights & Latex support
@@ -47,9 +47,9 @@ Theme Panda
 
 ### Choice 1 : Set up via jekyll-remote-theme
 
-**Step 1**  Install [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme)
+**Step 1**  Install [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme){:target="_blank"}{:rel="noopener noreferrer"}
 
-**Step 2**  Fork this [jekyll-theme-panda]( https://github.com/sorphwer/jekyll-theme-panda)
+**Step 2**  Fork this [jekyll-theme-panda]( https://github.com/sorphwer/jekyll-theme-panda){:target="_blank"}{:rel="noopener noreferrer"}
 
 **Step 3**  Set `remote_theme : <your-github-username>/jekyll-theme-panda`
 
@@ -184,4 +184,4 @@ Check `_sass\syntax.scss`
 
 ## Contribute
 
-Bug reports and pull requests are welcome on GitHub at [https://github.com/sorphwer/jekyll-theme-panda](https://github.com/sorphwer/jekyll-theme-panda). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at [https://github.com/sorphwer/jekyll-theme-panda](https://github.com/sorphwer/jekyll-theme-panda){:target="_blank"}{:rel="noopener noreferrer"}. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org){:target="_blank"}{:rel="noopener noreferrer"} code of conduct.

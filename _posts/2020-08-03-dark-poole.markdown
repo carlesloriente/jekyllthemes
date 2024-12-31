@@ -17,5 +17,5 @@ carousel:
   - 'screenshot.png'
 ---
 
-A minimal, responsive, and no frills theme built from a fork of Poole by [@mdo](https://markdotto.com/). The theme is permanently dark with color schemes inspired by [Derek Kedziora](https://derekkedziora.com/)'s site.
+A minimal, responsive, and no frills theme built from a fork of Poole by [@mdo](https://markdotto.com/){:target="_blank"}{:rel="noopener noreferrer"}. The theme is permanently dark with color schemes inspired by [Derek Kedziora](https://derekkedziora.com/){:target="_blank"}{:rel="noopener noreferrer"}'s site.
 Best for blogs and personal sites.

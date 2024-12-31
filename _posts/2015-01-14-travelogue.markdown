@@ -17,7 +17,7 @@ carousel:
   - 'screenshot.png'
 ---
 
-Travelogue is a minimal, single-column [Jekyll](https://jekyllrb.com/) theme that provides an immersive read experience for your readers.
+Travelogue is a minimal, single-column [Jekyll](https://jekyllrb.com/){:target="_blank"}{:rel="noopener noreferrer"} theme that provides an immersive read experience for your readers.
 
 ## Features
 

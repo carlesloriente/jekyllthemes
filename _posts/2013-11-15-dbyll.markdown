@@ -19,4 +19,4 @@ carousel:
 
 Bootstrap based two-column, minimalistic theme for your jekyll powered website. Supports tags, categories, social links, bio, gravatar, disqus. Perfect for blogging!
 
-There is also [another edition](https://github.com/jekyll-bs3/dbyll) of the theme for project [jekyll-bootstrap-3](https://github.com/dbtek/jekyll-bootstrap-3).
+There is also [another edition](https://github.com/jekyll-bs3/dbyll){:target="_blank"}{:rel="noopener noreferrer"} of the theme for project [jekyll-bootstrap-3](https://github.com/dbtek/jekyll-bootstrap-3){:target="_blank"}{:rel="noopener noreferrer"}.

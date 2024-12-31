@@ -19,7 +19,7 @@ A Jekyll theme based in Google Material Design Lite library.
 
 ## Contribute
 
-If you want to contribute to this project, please read the [Contribute](https://github.com/gdgmanagua/jekyll-mdl/blob/master/Contribute.md) file and perform the following steps:
+If you want to contribute to this project, please read the [Contribute](https://github.com/gdgmanagua/jekyll-mdl/blob/master/Contribute.md){:target="_blank"}{:rel="noopener noreferrer"} file and perform the following steps:
 
 ```bash
     # Fork this repository
@@ -35,4 +35,4 @@ If you want to contribute to this project, please read the [Contribute](https://
 
 ## Contact
 
-If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/gdgmanagua/jekyll-mdl/issues) or making a pull request for your fork!
+If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/gdgmanagua/jekyll-mdl/issues){:target="_blank"}{:rel="noopener noreferrer"} or making a pull request for your fork!

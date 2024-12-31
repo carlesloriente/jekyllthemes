@@ -17,7 +17,7 @@ carousel:
   - 'screenshot.png'
 ---
 
-This is a responsive [Jekyll](http://jekyllrb.com) theme based on [Bootstrap 4](http://getbootstrap.com) for conferences.
+This is a responsive [Jekyll](http://jekyllrb.com){:target="_blank"}{:rel="noopener noreferrer"} theme based on [Bootstrap 4](http://getbootstrap.com){:target="_blank"}{:rel="noopener noreferrer"} for conferences.
 
 ## Features
 
@@ -27,7 +27,7 @@ This is a responsive [Jekyll](http://jekyllrb.com) theme based on [Bootstrap 4](
 * realtime live indications during the conference, and
 * supports embedded video streaming or recordings.
 
-All components such as talks, speakers or rooms are represented as collection of files. The schedule is given is defined via a simple structure stored in a [YAML](https://en.wikipedia.org/wiki/YAML) file. There is no need for databases and once generated the website consists only of static files. A script and workflows are available for easy import, e.g. of [frab](https://github.com/frab/frab/wiki/Manual#introduction) compatible schedules.
+All components such as talks, speakers or rooms are represented as collection of files. The schedule is given is defined via a simple structure stored in a [YAML](https://en.wikipedia.org/wiki/YAML){:target="_blank"}{:rel="noopener noreferrer"} file. There is no need for databases and once generated the website consists only of static files. A script and workflows are available for easy import, e.g. of [frab](https://github.com/frab/frab/wiki/Manual#introduction){:target="_blank"}{:rel="noopener noreferrer"} compatible schedules.
 The design is easily customizable and is adapted for mobile uses and printing.
 
-The theme was originally created for the yearly Winterkongress conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+The theme was originally created for the yearly Winterkongress conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/){:target="_blank"}{:rel="noopener noreferrer"}.

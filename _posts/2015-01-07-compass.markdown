@@ -23,4 +23,4 @@ A simple and elegant personal landing page.
 
 * Responsive design
 * Mobile friendly
-* Easy deployment to [GitHub Pages](https://pages.github.com)
+* Easy deployment to [GitHub Pages](https://pages.github.com){:target="_blank"}{:rel="noopener noreferrer"}

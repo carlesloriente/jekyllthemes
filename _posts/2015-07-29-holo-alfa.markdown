@@ -23,11 +23,11 @@ Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability a
 
 * Mobile first design
 * Extensive content styling
-* Responsive video's (using [FitVids.JS](https://fitvidsjs.com/))
+* Responsive video's (using [FitVids.JS](https://fitvidsjs.com/){:target="_blank"}{:rel="noopener noreferrer"})
 * Support for authors and guest authors
 * Read time on articles
 * Disqus comments
-* Automatic [og metadata](https://ogp.me/)
+* Automatic [og metadata](https://ogp.me/){:target="_blank"}{:rel="noopener noreferrer"}
 * Automatic archive page (without plugins)
 * Automatic sitemap en RSS feed
 * Contact page (with working email form)
@@ -37,10 +37,10 @@ And much more.
 
 ## Installation
 
-If you're new to Jekyll, [check out](https://jekyllrb.com/) and read up on Jekyll. It's worth it.
+If you're new to Jekyll, [check out](https://jekyllrb.com/){:target="_blank"}{:rel="noopener noreferrer"} and read up on Jekyll. It's worth it.
 
-* [Another great resource to learn about Jekyll](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
-* [Github's guide to using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/)
+* [Another great resource to learn about Jekyll](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/){:target="_blank"}{:rel="noopener noreferrer"}
+* [Github's guide to using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/){:target="_blank"}{:rel="noopener noreferrer"}
 
 If you run one of the latest versions of Jekyll, this theme will work with no* problems.
 

@@ -16,11 +16,11 @@ license_link: https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang.github.io/
 ---
 
 This is a blog theme based on jekyll. You can use on your own blog.
-Before you use it, please click a star on [this respository](https://github.com/Gaohaoyang/gaohaoyang.github.io/). You will encourage me to do more great things!
+Before you use it, please click a star on [this respository](https://github.com/Gaohaoyang/gaohaoyang.github.io/){:target="_blank"}{:rel="noopener noreferrer"}. You will encourage me to do more great things!
 
 ## Installation
 
-When you use this theme. Please make sure to add the author's info, like this: Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang) or Designed by [Gaohaoyang](https://github.com/Gaohaoyang)
+When you use this theme. Please make sure to add the author's info, like this: Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang){:target="_blank"}{:rel="noopener noreferrer"} or Designed by [Gaohaoyang](https://github.com/Gaohaoyang){:target="_blank"}{:rel="noopener noreferrer"}.
 
 While you should delete statistics code in _includes/head.html.
 

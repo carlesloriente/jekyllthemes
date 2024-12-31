@@ -26,7 +26,7 @@ Lora theme.
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `jekyll serve`
 
-Access, [localhost:4000](https://localhost:4000/)
+Access `https://localhost:4000/`
 
 ### Deploy in Github pages in 2 steps
 

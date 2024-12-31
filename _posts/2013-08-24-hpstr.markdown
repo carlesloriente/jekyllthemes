@@ -25,9 +25,9 @@ carousel:
 * Sweet animated menu.
 * Readable typography to make your words shine.
 * Support for large images to call out your favorite posts.
-* Comments powered by [Disqus](https://disqus.com) if you choose to enable.
+* Comments powered by [Disqus](https://disqus.com){:target="_blank"}{:rel="noopener noreferrer"} if you choose to enable.
 * Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
+* [Open Graph](https://developers.facebook.com/docs/opengraph/){:target="_blank"}{:rel="noopener noreferrer"} and [Twitter Cards](https://dev.twitter.com/docs/cards){:target="_blank"}{:rel="noopener noreferrer"} support for a better social sharing experience.
 * Simple custom 404 page to get you started.
 * Stylesheets for Pygments and Coderay syntax highlighting to make your code examples look snazzy.
 * Grunt build script for easy theme development

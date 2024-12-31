@@ -41,7 +41,7 @@ DevConf is a free Bootstrap 5 for Jekyll. The idea of the template is to emulate
 
 ## Installation
 
-* [Fork](https://github.com/la-rebelion/DevConf-Jekyll-Theme/fork) your own copy of the repository to your account.
+* [Fork](https://github.com/la-rebelion/DevConf-Jekyll-Theme/fork){:target="_blank"}{:rel="noopener noreferrer"} your own copy of the repository to your account.
 
 Clone your repository to add/edit your own files.
 `git clone git@github.com:<YOUR-GIT-USER-NAME>/DevConf-Jekyll-Theme.git`
@@ -71,7 +71,7 @@ slug: we-are-developers-2024
 
 To run it locally:
 
-1. Install [Jekyll](https://jekyllrb.com/docs/).  
+1. Install [Jekyll](https://jekyllrb.com/docs/){:target="_blank"}{:rel="noopener noreferrer"}.
 `gem install jekyll bundler`
 1. Build the site and make it available on a local server  
 `bundle exec jekyll serve  --config _config.yml,_config_development.yml`

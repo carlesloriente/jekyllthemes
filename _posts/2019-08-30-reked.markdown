@@ -61,14 +61,14 @@ For tags, try to not add space between two words, for example, `Ruby on Rails`, 
 
 Reked Theme comes with Disqus comments enabled.
 
-Open `_config.yml` file, and change the `mr-brown` value on line 30 with your [Disqus account shortname](https://help.disqus.com/customer/portal/articles/466208).
+Open `_config.yml` file, and change the `mr-brown` value on line 30 with your [Disqus account shortname](https://help.disqus.com/customer/portal/articles/466208){:target="_blank"}{:rel="noopener noreferrer"}.
 
       Comment Section (Disqus)
       disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 
-That’s all you need to setup Disqus from the theme side. If you get any issue regarding that comments are unable to load. First, make sure you have [registered your website with Disqus (Step 1)](https://help.disqus.com/customer/portal/articles/466182-publisher-quick-start-guide).
+That’s all you need to setup Disqus from the theme side. If you get any issue regarding that comments are unable to load. First, make sure you have [registered your website with Disqus (Step 1)](https://help.disqus.com/customer/portal/articles/466182-publisher-quick-start-guide){:target="_blank"}{:rel="noopener noreferrer"}.
 
-And also check [Disqus troubleshooting guide](https://help.disqus.com/customer/portal/articles/472007-i-m-receiving-the-message-%22we-were-unable-to-load-disqus-%22) if you still have issues.
+And also check [Disqus troubleshooting guide](https://help.disqus.com/customer/portal/articles/472007-i-m-receiving-the-message-%22we-were-unable-to-load-disqus-%22){:target="_blank"}{:rel="noopener noreferrer"} if you still have issues.
 
 ### Google Analytics
 
@@ -83,4 +83,4 @@ You can find the current favicon (favicon.ico) inside the theme root directory, 
 
 ## Support
 
-If you’d like to support me so I can continue to provide free content and themes you can become my sponsor on [Patreon](https://www.patreon.com/artemsheludko)
+If you’d like to support me so I can continue to provide free content and themes you can become my sponsor on [Patreon](https://www.patreon.com/artemsheludko){:target="_blank"}{:rel="noopener noreferrer"}

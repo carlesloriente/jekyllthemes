@@ -22,8 +22,8 @@ I would also like to thank Dale-Anthony for the his awesome website as a next-re
 
 ## Contribute
 
-Start by [forking the repository](https://github.com/meliodus/uno-dbyll/fork).
+Start by [forking the repository](https://github.com/meliodus/uno-dbyll/fork){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Contact
 
-I am a starter. If you have any suggestions for improvements, don't hesitate to [open an issue](https://github.com/meliodus/uno-dbyll/issues) or making a pull request for your fork!
+I am a starter. If you have any suggestions for improvements, don't hesitate to [open an issue](https://github.com/meliodus/uno-dbyll/issues){:target="_blank"}{:rel="noopener noreferrer"} or making a pull request for your fork!

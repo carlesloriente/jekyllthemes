@@ -20,7 +20,7 @@ carousel:
   - 'JBPoetry.png?'
 ---
 
-jekyllBear, an easy to use, minimal, text focused Jekyll theme. [Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*.
+jekyllBear, an easy to use, minimal, text focused Jekyll theme. [Bear Blog](https://bearblog.dev/){:target="_blank"}{:rel="noopener noreferrer"} is *"a blogging platform where words matter most"*.
 
 This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
 

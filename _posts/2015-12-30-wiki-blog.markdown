@@ -15,7 +15,7 @@ license: MIT
 license_link: https://opensource.org/license/mit
 ---
 
-This is a wiki style blog theme based on [concise-high-end theme](https://github.com/Gaohaoyang/gaohaoyang.github.io).
+This is a wiki style blog theme based on [concise-high-end theme](https://github.com/Gaohaoyang/gaohaoyang.github.io){:target="_blank"}{:rel="noopener noreferrer"}.
 The theme is meant to be hosted on github.com directly.
 
 ## Features
@@ -25,7 +25,7 @@ The theme is meant to be hosted on github.com directly.
 * duoshuo.com is integrated for Chinese users.
 * auto size on all devices
 
-For more information, please see [here](https://lixizhi.github.io/about/)
+For more information, please see [here](https://lixizhi.github.io/about/){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Installation
 

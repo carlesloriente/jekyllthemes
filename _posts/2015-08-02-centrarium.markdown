@@ -19,7 +19,7 @@ carousel:
 
 Centrarium, a simple yet classy theme for your Jekyll website or blog. Mobile responsive. Customizable to fit your style or brand.
 
-Don't just take my word for it, [check out the demo!](https://bencentra.com/centrarium/)
+Don't just take my word for it, [check out the demo!](https://bencentra.com/centrarium/){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Features
 
@@ -34,4 +34,4 @@ Don't just take my word for it, [check out the demo!](https://bencentra.com/cent
 
 ## Installation
 
-See the [README](https://github.com/bencentra/centrarium/blob/master/README.md) for full installation and customization details.
+See the [README](https://github.com/bencentra/centrarium/blob/master/README.md){:target="_blank"}{:rel="noopener noreferrer"} for full installation and customization details.

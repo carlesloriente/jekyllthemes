@@ -18,4 +18,4 @@ carousel:
 ---
 
 Multiverse is a slick one-page gallery design with a fully functional lightbox and a custom reusable panel system.
-Template originally by [HTML5UP](https://html5up.net) / [@ajlkn](https://github.com/ajlkn). Adapted to Jekyll by [@joaomlneto](https://joao.neto.pt)
+Template originally by [HTML5UP](https://html5up.net){:target="_blank"}{:rel="noopener noreferrer"} / [@ajlkn](https://github.com/ajlkn){:target="_blank"}{:rel="noopener noreferrer"}. Adapted to Jekyll by [@joaomlneto](https://joao.neto.pt){:target="_blank"}{:rel="noopener noreferrer"}

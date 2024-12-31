@@ -17,10 +17,10 @@ carousel:
   - 'screenshot.png'
 ---
 
-Freelancer theme, a portfolio theme that allows you to showcase your projects. The theme is based on [Freelancer](https://startbootstrap.com/templates/freelancer/) theme by [Start Bootstrap](https://startbootstrap.com/).
+Freelancer theme, a portfolio theme that allows you to showcase your projects. The theme is based on [Freelancer](https://startbootstrap.com/templates/freelancer/){:target="_blank"}{:rel="noopener noreferrer"} theme by [Start Bootstrap](https://startbootstrap.com/){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Contact
 
-Feel free to [open issues](https://github.com/jeromelachaud/freelancer-theme/issues/new) if you run into trouble or have suggestions.
+Feel free to [open issues](https://github.com/jeromelachaud/freelancer-theme/issues/new){:target="_blank"}{:rel="noopener noreferrer"} if you run into trouble or have suggestions.
 
 Pull Requests always welcome.

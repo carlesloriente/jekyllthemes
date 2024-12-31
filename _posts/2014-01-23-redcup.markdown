@@ -14,4 +14,4 @@ license: CC-BY-3.0
 license_link: https://creativecommons.org/licenses/by/3.0/deed.en_US
 ---
 
-[Rasmus Andersson's](https://rsms.me/) blog made ready for use with a few tweaks here & there :)
+[Rasmus Andersson's](https://rsms.me/){:target="_blank"}{:rel="noopener noreferrer"} blog made ready for use with a few tweaks here & there :)

@@ -17,4 +17,4 @@ carousel:
   - 'screenshot.png'
 ---
 
-Noita is built with the responsive front-end framework [Foundation](https://foundation.zurb.com/). The theme is fully compatible with Github Pages.
+Noita is built with the responsive front-end framework [Foundation](https://foundation.zurb.com/){:target="_blank"}{:rel="noopener noreferrer"}. The theme is fully compatible with Github Pages.

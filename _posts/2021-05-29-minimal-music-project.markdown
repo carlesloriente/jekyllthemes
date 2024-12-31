@@ -17,7 +17,7 @@ carousel:
   - 'screenshot.png'
 ---
 
-Flexible, extendable Jekyll theme that makes it plain simple to create a good looking website for a music band with all the required components to list all releases and news For installation instructions, please read the README.md [on GitHub!](https://github.com/ItsPatrq/minimal-music-project)
+Flexible, extendable Jekyll theme that makes it plain simple to create a good looking website for a music band with all the required components to list all releases and news For installation instructions, please read the README.md [on GitHub!](https://github.com/ItsPatrq/minimal-music-project){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Features
 

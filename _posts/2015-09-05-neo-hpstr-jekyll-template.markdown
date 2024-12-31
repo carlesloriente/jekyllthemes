@@ -15,12 +15,12 @@ license: MIT
 license_link: https://github.com/aron-bordin/neo-hpstr-jekyll-theme?tab=MIT-1-ov-file#readme
 ---
 
-The [Neo-HPSTR Jekyll Template](https://github.com/aron-bordin/neo-hpstr-jekyll-theme) show the main Theme. Feel free to Fork, Star it and make a New Version of it. Forked from [HPSTR](https://github.com/mmistakes/hpstr-jekyll-theme)
+The [Neo-HPSTR Jekyll Template](https://github.com/aron-bordin/neo-hpstr-jekyll-theme){:target="_blank"}{:rel="noopener noreferrer"} show the main Theme. Feel free to Fork, Star it and make a New Version of it. Forked from [HPSTR](https://github.com/mmistakes/hpstr-jekyll-theme){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Contribute
 
-Start by [forking the repository](https://github.com/aron-bordin/neo-hpstr-jekyll-theme).
+Start by [forking the repository](https://github.com/aron-bordin/neo-hpstr-jekyll-theme){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Contact
 
-If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/aron-bordin/neo-hpstr-jekyll-theme) or making a pull request for your fork!
+If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/aron-bordin/neo-hpstr-jekyll-theme){:target="_blank"}{:rel="noopener noreferrer"} or making a pull request for your fork!

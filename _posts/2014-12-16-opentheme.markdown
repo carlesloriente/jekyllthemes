@@ -24,8 +24,8 @@ OpenTheme is designed to use YAML, JSON, CSV, and other data-as-a-service integr
 
 ## Contribute
 
-Start by [forking the repository](https://github.com/manavsehgal/opentheme/fork).
+Start by [forking the repository](https://github.com/manavsehgal/opentheme/fork){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Contact
 
-If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/manavsehgal/opentheme/issues) or making a pull request for your fork!
+If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/manavsehgal/opentheme/issues){:target="_blank"}{:rel="noopener noreferrer"} or making a pull request for your fork!

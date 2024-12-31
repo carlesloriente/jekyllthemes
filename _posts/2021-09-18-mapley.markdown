@@ -26,7 +26,7 @@ carousel:
 
 ## Installation
 
-You can install this the easiest by forking [mapley repository](https://github.com/Vector-7/mapley/fork)
+You can install this the easiest by forking [mapley repository](https://github.com/Vector-7/mapley/fork){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Install
 

@@ -31,4 +31,4 @@ Fica theme
 
 ## Installation
 
-[installing the Theme?](https://aeziyehl.github.io/jekyll-theme-fica/Posts/Getting-Started/)
+[installing the Theme?](https://aeziyehl.github.io/jekyll-theme-fica/Posts/Getting-Started/){:target="_blank"}{:rel="noopener noreferrer"}

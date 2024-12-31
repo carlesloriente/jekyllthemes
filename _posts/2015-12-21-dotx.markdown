@@ -26,7 +26,7 @@ dotX theme.
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `jekyll serve`
 
-Access, [localhost:4000/dotX](https://localhost:4000/dotX)
+Access `https://localhost:4000/dotX`
 
 ### Deploy in Github pages in 2 steps
 
