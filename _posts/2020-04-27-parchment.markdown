@@ -3,16 +3,16 @@ layout: post
 comments: true
 title: Parchment
 date: 2020-04-27 22:18:00 +01:00
-repo: https://github.com/pro-panda/parchment
+repo: https://github.com/rhl-bthr/parchment
 update_date: 2024-12-26
 forks: 92
 stars: 123
-download: https://github.com/pro-panda/parchment/archive/master.zip
+download: https://github.com/rhl-bthr/parchment/archive/master.zip
 demo: https://rahulbothra.com/parchment/
-author: pro-panda
+author: rhl-bthr
 thumbnail: parchment.webp
 license: GPLv3
-license_link: https://github.com/pro-panda/parchment/blob/master/LICENSE
+license_link: https://github.com/rhl-bthr/parchment/blob/master/LICENSE
 carousel:
   - 'screenshot.png'
 ---

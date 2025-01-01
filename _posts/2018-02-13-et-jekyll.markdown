@@ -8,7 +8,7 @@ update_date: 2024-11-28
 forks: 27
 stars: 158
 download: https://github.com/bradleytaunt/ET-Jekyll/archive/master.zip
-demo: https://bradleytaunt.com/et-jekyll-theme/
+demo: https://bradleytaunt.com/posts/et-jekyll-theme/
 author: Bradley Taunt
 thumbnail: et-jekyll.webp
 license: MIT

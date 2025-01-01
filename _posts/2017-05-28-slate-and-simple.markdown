@@ -7,7 +7,7 @@ repo: https://github.com/benradford/Slate-and-Simple-Jekyll-Theme
 update_date: 2024-10-03
 forks: 47
 stars: 31
-download: https://github.com/benradford/Slate-and-Simple-Jekyll-Theme.git
+download: https://github.com/benradford/Slate-and-Simple-Jekyll-Theme/archive/refs/heads/master.zip
 demo: https://benradford.github.io
 author: Benjamin J. Radford
 thumbnail: slate-and-simple.webp

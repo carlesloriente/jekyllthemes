@@ -3,16 +3,16 @@ layout: post
 comments: true
 title: pRoJEct-NeGYa
 date: 2019-06-28 16:00:00 +01:00
-repo: https://github.com/akiritsu/pRoJEct-NeGYa
+repo: https://github.com/gmkzwwg/pRoJEct-NeGYa
 update_date: 2024-12-16
 forks: 4
 stars: 16
-download: https://github.com/akiritsu/pRoJEct-NeGYa/archive/refs/heads/main.zip
-demo: https://akiritsu.github.io/pRoJEct-NeGYa/
+download: https://github.com/gmkzwwg/pRoJEct-NeGYa/archive/refs/heads/main.zip
+demo: https://gmkzwwg.github.io/pRoJEct-NeGYa/
 author: DeerRIDER
 thumbnail: pn.webp
 license: MIT
-license_link: https://github.com/akiritsu/pRoJEct-NeGYa/blob/master/LICENSE
+license_link: https://github.com/gmkzwwg/pRoJEct-NeGYa/blob/master/LICENSE
 ---
 
 pRoJEct-NeGYa is an open source jekyll theme for personal homepage or tech blog.

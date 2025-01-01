@@ -3,16 +3,15 @@ layout: post
 comments: true
 title: Archie
 date: 2021-07-04 01:00:00 +01:00
-repo: https://github.com/slashformotion/jekyll-archie
+repo: https://github.com/Slashformotion-s-Graveyard/jekyll-archie
 update_date: 2024-12-28
 forks: 2
 stars: 6
-download: https://github.com/slashformotion/jekyll-archie/archive/refs/heads/main.zip
-demo: https://slashformotion.github.io/jekyll-archie/
+download: https://github.com/Slashformotion-s-Graveyard/jekyll-archie/archive/refs/heads/main.zip
 author: "Slashformotion"
 thumbnail: archie.webp
 license: MIT
-license_link: https://github.com/slashformotion/jekyll-archie/blob/master/LICENSE.txt
+license_link: https://github.com/Slashformotion-s-Graveyard/jekyll-archie/blob/master/LICENSE.txt
 carousel:
   - 'screenshot.png'
   - 'screenshot2.png'

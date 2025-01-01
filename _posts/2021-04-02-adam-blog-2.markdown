@@ -26,8 +26,8 @@ Adam Blog theme.
 ## Features
 
 * automatic [sitemap.xml](https://the-mvm.github.io/sitemap.xml){:target="_blank"}{:rel="noopener noreferrer"}
-* automatic [archive page](https://the-mvm.github.io/archive/){:target="_blank"}{:rel="noopener noreferrer"} with infinite scrolling capability
-* [new page](https://the-mvm.github.io/tag/?tag=Coding){:target="_blank"}{:rel="noopener noreferrer"} of posts filtered by a single tag (without needing autopages from paginator V2), also with infinite scrolling
+* automatic [archive page](https://the-mvm.github.io/archive){:target="_blank"}{:rel="noopener noreferrer"} with infinite scrolling capability
+* [new page](https://the-mvm.github.io/tag.html?tag=coding){:target="_blank"}{:rel="noopener noreferrer"} of posts filtered by a single tag (without needing autopages from paginator V2), also with infinite scrolling
 * custom and responsive [404 page](https://the-mvm.github.io/404.html){:target="_blank"}{:rel="noopener noreferrer"}
 * included linkedin and reddit icons for contact and sharing
 * automatic Table of Contents (optional). It behaves as a sticky sidebar (when the screen is wide enough) or inline after the post's title and metadata

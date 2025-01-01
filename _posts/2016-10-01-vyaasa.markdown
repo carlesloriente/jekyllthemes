@@ -20,4 +20,4 @@ carousel:
 
 ## Installation
 
-[Detailed Installation and Theme Guidelines](https://blog.webjeda.com/jekyll-themes/vyaasa/)
+[Detailed Installation and Theme Guidelines](https://vyaasa.webjeda.com/documentation/#installation)

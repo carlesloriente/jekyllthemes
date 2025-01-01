@@ -39,7 +39,7 @@ Jekyll FullIt Theme, publish your static website/blog on GitHub Pages using [Jek
 
 ### 3. Edit your website configuration
 
-Edit `_includes/themes/bootstrap/` to change information about your new website and also to remove the GitHub red ribbon ([default.html#26](https://fulliit.github.io)).
+Edit `_includes/themes/bootstrap/` to change information about your new website and also to remove the GitHub red ribbon ([default.html#26](https://fullit.github.io/)).
 
 ### 4. Enjoy
 
