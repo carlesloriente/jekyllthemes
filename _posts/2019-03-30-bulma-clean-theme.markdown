@@ -7,7 +7,7 @@ repo: https://github.com/chrisrhymes/bulma-clean-theme
 update_date: 2024-12-16
 forks: 494
 stars: 389
-download: https://rubygems.org/gems/bulma-clean-theme
+download: https://rubygems.org/downloads/bulma-clean-theme-1.1.0.gem
 demo: https://www.csrhymes.com/bulma-clean-theme/
 author: chrisrhymes
 thumbnail: bulma-clean-theme.webp

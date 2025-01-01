@@ -7,7 +7,7 @@ repo: https://github.com/chrisrhymes/mere-blog-theme
 update_date: 2024-11-09
 forks: 62
 stars: 31
-download: https://rubygems.org/gems/mere-blog-theme
+download: https://rubygems.org/downloads/mere-blog-theme-1.0.1.gem
 demo: https://www.csrhymes.com/mere-blog-theme/
 author: chrisrhymes
 thumbnail: mere-blog-theme.webp
