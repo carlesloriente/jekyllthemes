@@ -12,7 +12,7 @@ demo: https://idratherbewriting.com/documentation-theme-jekyll/
 author: tomjoht
 thumbnail: documentation-theme-jekyll.webp
 license: MIT
-license_link: https://github.com/tomjoht/documentation-theme-jekyll/blob/gh-pages/licenses/LICENSE.txt
+license_link: https://raw.githubusercontent.com/tomjoht/documentation-theme-jekyll/refs/heads/gh-pages/LICENSE
 carousel:
   - 'screenshot.png'
 ---

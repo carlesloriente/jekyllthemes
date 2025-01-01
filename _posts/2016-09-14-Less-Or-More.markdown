@@ -8,7 +8,7 @@ update_date: 2024-07-13
 forks: 212
 stars: 181
 download: https://github.com/luoyan35714/LessOrMore/archive/master.zip
-demo: https://www.hifreud.com/
+demo: https://www.hifreud.com/LessOrMore/
 author: Freud Kang
 thumbnail: less-or-more.webp
 license: MIT
@@ -16,4 +16,3 @@ license_link: https://github.com/luoyan35714/LessOrMore/blob/master/LICENSE
 ---
 
 A new jekyll theme refactored from [Less](https://lesscss.org/) site.
-Detail about this theme can read from [here](https://www.hifreud.com/2016/08/26/how-to-use-this-jekyll-theme/)
