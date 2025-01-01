@@ -7,7 +7,7 @@ repo: https://github.com/sujaykundu777/devlopr-jekyll
 update_date: 2024-12-24
 forks: 991
 stars: 693
-download: https://rubygems.org/gems/devlopr
+download: https://rubygems.org/downloads/devlopr-0.4.5.gem
 demo: https://devlopr.netlify.app/#/
 author: Sujay Kundu
 thumbnail: devlopr.webp
@@ -35,4 +35,4 @@ Devlopr is a modern Jekyll theme built for Developers focused on speed performan
 
 ## Installation
 
-Check out this tutorial: [Devlopr Theme Install Guide](https://sujaykundu.com/github/jekyll/2019/05/19/setup-devlopr-for-blog.html)
+Check out this tutorial: [Devlopr Theme Install Guide](https://sujaykundu.com/projects/devlopr-jekyll)

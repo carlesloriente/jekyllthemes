@@ -21,4 +21,4 @@ carousel:
 
 ## Installation
 
-[**Detailed Installation and Theme Guidelines**](https://blog.webjeda.com/jekyll-themes/gatok/)
+[**Detailed Installation and Theme Guidelines**](https://gatok.webjeda.com/documentation/)
