@@ -7,7 +7,7 @@ repo: https://github.com/leetaewook/jekyll-theme-twail
 update_date: 2022-01-18
 forks: 0
 stars: 0
-download: https://rubygems.org/gems/jekyll-theme-twail
+download: https://rubygems.org/downloads/jekyll-theme-twail-1.0.0.gem
 demo: https://leetaewook.github.io/jekyll-theme-twail/
 author: leetaewook
 thumbnail: twail.webp

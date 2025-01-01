@@ -7,7 +7,7 @@ repo: https://github.com/tareqdandachi/sandslate
 update_date: 2022-05-19
 forks: 0
 stars: 2
-download: https://rubygems.org/gems/sandslate
+download: https://rubygems.org/downloads/sandslate-0.1.0.gem
 author: Tareq El Dandachi
 thumbnail: sandslate.webp
 license: MIT

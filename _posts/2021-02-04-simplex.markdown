@@ -7,7 +7,7 @@ repo: https://github.com/andreondra/jekyll-theme-simplex
 update_date: 2024-12-14
 forks: 78
 stars: 75
-download: https://rubygems.org/gems/jekyll-theme-simplex
+download: https://rubygems.org/downloads/jekyll-theme-simplex-0.9.8.15.gem
 demo: https://golas.blog/
 author: Andrew Golasowski
 thumbnail: simplex.webp

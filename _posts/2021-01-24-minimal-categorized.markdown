@@ -7,7 +7,7 @@ repo: https://github.com/ItsPatrq/minimal-categorized
 update_date: 2022-05-14
 forks: 16
 stars: 14
-download: https://rubygems.org/gems/minimal-categorized
+download: https://rubygems.org/downloads/minimal-categorized-0.0.18.gem
 demo: https://itspatrq.github.io/minimal-categorized/
 author: Patryk Bieszke
 thumbnail: minimal-categorized-thumbnail.webp
