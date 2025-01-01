@@ -7,7 +7,7 @@ repo: https://github.com/aterenin/minima-reboot
 update_date: 2024-10-30
 forks: 49
 stars: 41
-download: https://github.com/aterenin/minima-reboot
+download: https://rubygems.org/downloads/minima-reboot-1.0.33.gem
 demo: https://aterenin.github.io/minima-reboot/
 author: Alexander Terenin
 thumbnail: minima-reboot.webp

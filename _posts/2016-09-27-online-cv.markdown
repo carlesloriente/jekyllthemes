@@ -20,7 +20,7 @@ carousel:
 
 ## Installation
 
-[Detailed Installation and Theme Guidelines](https://blog.webjeda.com/jekyll-themes/online-cv/)
+[Detailed Installation and Theme Guidelines](https://blog.webjeda.com/online-cv/)
 
 ### Changing color schemes
 

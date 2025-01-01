@@ -30,7 +30,7 @@ Mere is a minimal and simple blog theme, and nothing more, for use with Jekyll a
 
 ## Installation
 
-This theme is available as a [Ruby Gem](https://rubygems.org/gems/mere-blog-theme){:target="_blank"}{:rel="noopener noreferrer"}
+This theme is available as a [Ruby Gem](https://rubygems.org/downloads/mere-blog-theme-1.0.1.gem){:target="_blank"}{:rel="noopener noreferrer"}
 
 Add this line to your Jekyll site's `Gemfile`:
 

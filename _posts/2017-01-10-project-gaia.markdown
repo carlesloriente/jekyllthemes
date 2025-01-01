@@ -12,7 +12,7 @@ demo: https://szhshp.github.io/JekyllTheme-ProjectGaia-Docs/#/
 author: szhshp
 thumbnail: project-gaia.webp
 license: MIT
-license_link: https://github.com/szhshp/JekyllTheme-ProjectGaia/blob/master/LICENSE
+license_link: https://opensource.org/licenses/MIT
 carousel:
   - 'screenshot.png'
 ---

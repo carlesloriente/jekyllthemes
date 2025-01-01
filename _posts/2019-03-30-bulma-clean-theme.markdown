@@ -30,7 +30,7 @@ Bulma-clean-theme, this is a clean and simple Jekyll Theme built with the [Bulma
 
 ## Installation
 
-This theme is available as a [Ruby Gem](https://rubygems.org/gems/bulma-clean-theme)
+This theme is available as a [Ruby Gem](https://rubygems.org/downloads/bulma-clean-theme-1.1.0.gem)
 
 Add this line to your Jekyll site's `Gemfile`:
 
