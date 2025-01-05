@@ -1,6 +1,9 @@
-name: Best Jekyll Themes
-url: http://www.bestjekyllthemes.site
-description: Insert tagline here
+name: Top Jekyll Themes
+url: http://www.topjekyllthemes.com
+description: Discover the best free and premium Jekyll themes, templates, guides, and resources. Build faster, look better.
+full_description: >
+  Top Jekyll Themes | Find top-quality Jekyll templates for static and dynamic websites. Explore our curated collection of free and premium themes, perfect for blogs, portfolios, and e-commerce.
+gh_repository: https://github.com/carlesloriente/jekyllthemes/
 
 permalink: /themes/:title/
 
