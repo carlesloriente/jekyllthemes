@@ -10,7 +10,7 @@ stars: 67
 download: https://github.com/Drassil/git-wiki/archive/master.zip
 demo: https://drassil.github.io/git-wiki
 author: Yehonal
-thumbnail: git-wiki.JPG
+thumbnail: git-wiki.webp
 license: MIT
 license_link: https://opensource.org/license/mit
 carousel:
