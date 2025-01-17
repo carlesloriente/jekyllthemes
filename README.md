@@ -8,6 +8,8 @@ Forked from the discontinued project [JekyllThemes](https://github.com/mattvh/je
 Submit your Theme
 ----------------------------
 
+> Feel free to use the file `template.markdown` located in `_posts` as a starting point.
+
 Create a Fork
 ------------------
 
