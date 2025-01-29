@@ -8,11 +8,12 @@ update_date: 2024-07-10
 forks: 63
 stars: 45
 download: https://github.com/zivhub/monophase/archive/main.zip
-demo: https://zivlog.io/monophase/
 author: Song-Zi Vong
 thumbnail: monophase.webp
 license: MIT
 license_link: https://github.com/zivhub/monophase/blob/main/LICENSE.txt
+carousel:
+  - 'screenshot-light.png'
 ---
 
 Monophase is *a one-column minimal responsive Jekyll blog theme*.
