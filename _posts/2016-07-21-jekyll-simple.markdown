@@ -13,6 +13,8 @@ author: David Lin
 thumbnail: jekyll-simple.webp
 license: MIT
 license_link: https://github.com/wild-flame/jekyll-simple/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 A theme can be just `simple`!

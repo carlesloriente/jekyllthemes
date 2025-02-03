@@ -13,6 +13,8 @@ author: Ashutosh Chaudhary
 thumbnail: hcz-jekyll-material.webp
 license: MIT
 license_link: https://github.com/ashutosh2k12/hcz-jekyll-blog/blob/gh-pages/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 This is a personal material theme best suited for authors, bloggers, programmars. I just needed a simple theme to showcase my portfolio, then this came to my mind. Hence, I've added a project section as well.

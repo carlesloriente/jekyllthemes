@@ -13,6 +13,8 @@ author: DashingCode
 thumbnail: front-cover.webp
 license: MIT
 license_link: https://github.com/dashingcode/front-cover/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Front Cover theme.

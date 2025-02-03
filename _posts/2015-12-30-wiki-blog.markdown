@@ -13,6 +13,8 @@ author: LiXizhi
 thumbnail: cool-concise-high-end.webp
 license: MIT
 license_link: https://opensource.org/license/mit
+carousel:
+  - 'screenshot.png'
 ---
 
 This is a wiki style blog theme based on [concise-high-end theme](https://github.com/Gaohaoyang/gaohaoyang.github.io){:target="_blank"}{:rel="noopener noreferrer"}.

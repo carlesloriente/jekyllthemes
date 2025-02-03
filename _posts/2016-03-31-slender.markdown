@@ -13,6 +13,8 @@ author: Jannik Richter
 thumbnail: slender.webp
 license: MIT
 license_link: https://github.com/nikrich/jekyll-slender-template/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 A modern theme for graphic designers and developers.

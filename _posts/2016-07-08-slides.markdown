@@ -8,11 +8,13 @@ update_date: 2024-10-02
 forks: 87
 stars: 60
 download: https://github.com/sharu725/slides/archive/master.zip
-demo: https://webjeda.com/slides/
+demo: https://slides.webjeda.com/
 author: webjeda
 thumbnail: slides.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/hakimel/reveal.js/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Webjeda slides is built using revealjs. The idea is to keep all the slideshows in one place as posts. All your presentations can be accessed from one place!

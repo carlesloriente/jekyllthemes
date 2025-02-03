@@ -13,6 +13,8 @@ author: Sérgio Kopplin
 thumbnail: violet.webp
 license: MIT
 license_link: https://kopplin.mit-license.org/
+carousel:
+  - 'screenshot.png'
 ---
 
 A purple theme for girls and boys. Inspired on @cyberglot.

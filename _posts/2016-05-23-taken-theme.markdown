@@ -12,6 +12,8 @@ author: Valentina Fernandez Alanis
 thumbnail: taken-theme.webp
 license: MIT
 license_link: https://github.com/vfalanis/taken/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Taken is a two column minimalist Jekyll theme based on chapter tumblr theme.
