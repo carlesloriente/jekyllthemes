@@ -8,7 +8,7 @@ update_date: 2024-12-27
 forks: 277
 stars: 98
 download: https://github.com/sharu725/cards/archive/master.zip
-demo: https://webjeda.com/cards
+demo: https://cards.webjeda.com/
 author: sharathdt
 thumbnail: webjeda-cards.webp
 license: MIT

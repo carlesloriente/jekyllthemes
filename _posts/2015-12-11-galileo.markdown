@@ -12,6 +12,8 @@ author: rowanoulton
 thumbnail: galileo.webp
 license: MIT
 license_link: https://github.com/rowanoulton/galileo-theme/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Galileo theme.

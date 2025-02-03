@@ -8,11 +8,13 @@ update_date: 2024-10-27
 forks: 12
 stars: 9
 download: https://github.com/kuntoaji/dekyll/archive/master.zip
-demo: https://www.kaklabs.com
+demo: https://www.railsmine.net/
 author: Kunto Aji Kristianto
 thumbnail: dekyll.webp
 license: MIT
 license_link: https://github.com/kuntoaji/dekyll/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 Jekyll's default theme extended.

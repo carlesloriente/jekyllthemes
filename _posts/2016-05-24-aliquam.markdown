@@ -13,6 +13,8 @@ author: grrinchas
 thumbnail: aliquam.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'screenshot.png'
 ---
 
 Minimalistic Jekyll Template with Disqus integration.

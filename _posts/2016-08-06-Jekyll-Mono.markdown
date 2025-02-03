@@ -13,6 +13,8 @@ author: Akshay Agarwal
 thumbnail: jekyll-mono.webp
 license: MIT
 license_link: https://github.com/AkshayAgarwal007/Jekyll-Mono/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 Jekyll-Mono is a simple and elegant GitHub Profile cum Blog theme for Github Pages.

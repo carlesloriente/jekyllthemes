@@ -13,6 +13,8 @@ author: Gaurav Chaurasia
 thumbnail: much-worse.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'screenshot.png'
 ---
 
 Much-Worse Jekyll Theme for academic page and blog, is a modified version of Steve Miller's NGVM theme.

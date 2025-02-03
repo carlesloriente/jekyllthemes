@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Cayman Blog
- 2016-01-29 10:00:00
+date: 2016-01-29 10:00:00
 repo: https://github.com/adueck/cayman-blog
 update_date: 2024-02-15
 forks: 64
@@ -12,6 +12,8 @@ demo: https://adueck.github.io/cayman-blog/
 thumbnail: cayman-blog.webp
 license: CC-BY-4.0
 license_link: https://creativecommons.org/licenses/by/4.0/
+carousel:
+  - 'screenshot.png'
 ---
 
 A Jekyll blog theme made for simple, readable snippets of your brain drippings.

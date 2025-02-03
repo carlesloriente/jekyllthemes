@@ -13,6 +13,8 @@ author: Dong Liang
 thumbnail: resumecard.webp
 license: MIT
 license_link: https://github.com/ddbullfrog/resumecard/blob/gh-pages/LICENSE.md
+carousel:
+  - 'screenshot.jpg'
 ---
 
 Resumecard is a theme built on top of bootstrap and other freely available libraries. Its aimed to provide a fully furnished Jekyll theme for personal resume.
