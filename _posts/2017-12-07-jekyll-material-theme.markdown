@@ -13,6 +13,8 @@ author: James Hamann
 thumbnail: jekyll-material-theme.webp
 license: MIT
 license_link: https://github.com/jameshamann/jekyll-material-theme/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.gif'
 ---
 
 Welcome to Jekyll Material Theme: A Jekyll Theme based on [Material Design](https://material.io/) using [Materialize](https://materializecss.com/).

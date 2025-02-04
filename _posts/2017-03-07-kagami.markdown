@@ -12,6 +12,8 @@ author: Kamikat
 thumbnail: kagami.webp
 license: MIT
 license_link: https://opensource.org/license/mit
+carousel:
+  - 'screenshot.webp'
 ---
 
 A peaceful theme for Jekyll and GitHub Pages.

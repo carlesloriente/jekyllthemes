@@ -8,11 +8,13 @@ update_date: 2024-12-26
 forks: 364
 stars: 232
 download: https://github.com/wu-kan/wu-kan.github.io/archive/master.zip
-demo: https://jekyll-theme-WuK.wu-kan.cn
+demo: https://wu-kan.cn/
 author: WuK
 thumbnail: wu-kan.webp
 license: MIT
 license_link: https://github.com/wu-kan/wu-kan.github.io/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 WuK, a content-first, sliding sidebar theme for Jekyll.

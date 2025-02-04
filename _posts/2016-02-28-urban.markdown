@@ -13,6 +13,8 @@ author: Dennis Rohner
 thumbnail: urban.webp
 license: MIT
 license_link: https://github.com/midzer/urban-theme/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 A jekyll theme for visual artists.

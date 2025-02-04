@@ -13,6 +13,8 @@ author: Kotet
 thumbnail: ultralight.webp
 license: MIT
 license_link: https://github.com/kotet/ultralight/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Ultralight is super-lightweight responsive super Jekyll theme.

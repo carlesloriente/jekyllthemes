@@ -4,6 +4,7 @@ comments: true
 title: Panda
 date: 2023-02-28 7:00:00 +01:00
 repo: https://github.com/sorphwer/jekyll-theme-panda
+demo: https://riino.site/
 update_date: 2023-05-25
 forks: 1
 stars: 4
@@ -12,6 +13,8 @@ author: Riino Zhang
 thumbnail: jekyll-theme-panda.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'screenshot.png'
 ---
 
 Theme Panda

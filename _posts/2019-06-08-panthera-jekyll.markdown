@@ -13,6 +13,8 @@ author: Christian Ezeani
 thumbnail: panthera-jekyll.webp
 license: MIT
 license_link: https://github.com/christianezeani/panthera-jekyll/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 This template is a quick and simple responsive developer portfolio theme for GitHub Pages.

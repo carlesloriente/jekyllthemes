@@ -13,6 +13,8 @@ author: Jokin Kuang
 thumbnail: jekyll-stepbystep.webp
 license: MIT
 license_link: https://github.com/jokinkuang/stepbystep#license
+carousel:
+  - 'screenshot.png'
 ---
 
 Stepbystep is a simple and clear Jekyll Theme for Github Pages.

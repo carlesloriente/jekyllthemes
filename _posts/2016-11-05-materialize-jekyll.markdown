@@ -13,5 +13,7 @@ author: mumu
 thumbnail: material-blog.webp
 license: GPLv3
 license_link: https://github.com/mumuxme/materialize-jekyll/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 

@@ -13,6 +13,8 @@ author: redVi
 thumbnail: voyager.webp
 license: MIT
 license_link: https://github.com/redVi/voyager/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 The clean, modern, responsive theme with some features like SEO, Open Graph support, custom tags and other. This design is universal but more suited to programmers and travelers.

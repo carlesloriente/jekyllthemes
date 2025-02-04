@@ -13,6 +13,8 @@ author: Thomas Zühlke
 thumbnail: uno-timeline.webp
 license: MIT
 license_link: https://github.com/tzuehlke/jekyll-uno-timeline/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Uno-Timeline is a Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.

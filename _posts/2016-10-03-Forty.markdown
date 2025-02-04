@@ -13,6 +13,8 @@ author: Andrew Banchich
 thumbnail: forty.webp
 license: CC-BY-3.0
 license_link: https://html5up.net/license
+carousel:
+  - 'screenshot.png'
 ---
 
 A Jekyll version of the "Forty" theme by HTML5 UP.

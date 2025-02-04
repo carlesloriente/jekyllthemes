@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: Sweet 16
+date: 2017-04-16 20:00:00 +01:00
 repo: https://github.com/jdh8/sweet-16
 update_date: 2024-03-01
 forks: 12
@@ -12,6 +13,8 @@ author: Chen-Pang He
 thumbnail: sweet-16.webp
 license: GPL
 license_link: https://github.com/jdh8/sweet-16/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Sweet 16 is [Wordpress 2016 theme][2016] rewritten in Jekyll.

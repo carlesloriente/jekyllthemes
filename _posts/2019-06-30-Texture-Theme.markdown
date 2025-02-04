@@ -13,6 +13,8 @@ author: samarsault
 thumbnail: texture.webp
 license: MIT
 license_link: https://github.com/samarsault/texture/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 A configurable jekyll theme for simply beautiful blogs.

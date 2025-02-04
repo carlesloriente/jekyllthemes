@@ -12,6 +12,8 @@ author: Song-Zi Vong
 thumbnail: tao.webp
 license: MIT
 license_link: https://github.com/vfvong/jekyll-theme-tao/blob/main/LICENSE.txt
+carousel:
+  - 'screenshot.jpg'
 ---
 
 Tao is a content-first minimalist Jekyll theme for blogs.

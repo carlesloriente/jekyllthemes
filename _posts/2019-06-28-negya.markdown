@@ -13,6 +13,8 @@ author: DeerRIDER
 thumbnail: pn.webp
 license: MIT
 license_link: https://github.com/gmkzwwg/pRoJEct-NeGYa/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 pRoJEct-NeGYa is an open source jekyll theme for personal homepage or tech blog.

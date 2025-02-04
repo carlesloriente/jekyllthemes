@@ -13,6 +13,9 @@ author: Ankan Biswas
 thumbnail: atmosplus.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/Focx-o/Focx-o.github.io/refs/heads/master/LICENSE.md
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
 ---
 
 Atmos Plus, this is the copycat, modified version of atmos.org and collection of my older blog posts that I had in 2013 and newly what i add. All of my posts on meliodus.github.io.

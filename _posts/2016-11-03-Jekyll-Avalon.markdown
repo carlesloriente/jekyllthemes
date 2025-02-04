@@ -13,6 +13,8 @@ author: joshuaavalon
 thumbnail: jekyll-avalon.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'screenshot.png'
 ---
 
 Jekyll-Avalon is a Materialize Jekyll theme.

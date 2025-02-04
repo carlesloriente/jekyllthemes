@@ -8,11 +8,13 @@ update_date: 2024-12-19
 forks: 29
 stars: 13
 download: https://codeload.github.com/UniFreak/jekyll-theme-textalic/zip/master
-demo: https://unifreak.github.io
+demo: https://unifreak.github.io/jekyll-theme-textalic/
 author: FangHao
 thumbnail: textalic.webp
 license: MIT
 license_link: https://github.com/UniFreak/jekyll-theme-textalic/blob/master/LICENCE
+carousel:
+  - 'screenshot.png'
 ---
 
 Jekyll Theme **Textalic** is a simple, responsive jekyll theme focus on blogging.
