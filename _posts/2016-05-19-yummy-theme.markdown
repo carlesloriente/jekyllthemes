@@ -13,6 +13,8 @@ author: DONG Chuan
 thumbnail: yummy-theme.webp
 license: Apache 2.0
 license_link: https://www.apache.org/licenses/LICENSE-2.0
+carousel:
+  - 'screenshot.png'
 ---
 
 Simple, Bootstrap Based Theme. Especially for developers who like to show their projects on website and like to take notes. There are also some magical features to discover.

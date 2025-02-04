@@ -12,6 +12,8 @@ author: Matt Couchman
 thumbnail: jekyll-resume.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'screenshot.png'
 ---
 
 A mega simple Jekyll theme for displaying a resume/cv online.

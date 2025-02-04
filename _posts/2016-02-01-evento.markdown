@@ -12,4 +12,6 @@ author: David Boyne
 thumbnail: evento.webp
 license: MIT
 license_link: https://github.com/boyney123/evento/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---

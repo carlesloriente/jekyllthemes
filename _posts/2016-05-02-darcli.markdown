@@ -12,6 +12,8 @@ author: Gildásio Júnior aka gjuniioor
 thumbnail: darcli.webp
 license: GPLv3
 license_link: https://github.com/gjuniioor/darcli/blob/gh-pages/assets/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 A minimal dark theme focused on the content.

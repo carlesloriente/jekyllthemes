@@ -13,6 +13,8 @@ author: Jami Gibbs
 thumbnail: phantom.webp
 license: MIT
 license_link: https://github.com/jamigibbs/phantom/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Phantom theme.

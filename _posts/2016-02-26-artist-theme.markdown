@@ -8,10 +8,13 @@ update_date: 2024-07-19
 forks: 99
 stars: 91
 download: https://github.com/ninapetrop/Artist-Theme/archive/master.zip
+demo: http://ninapetrop.github.io/Artist-Theme
 author: Nina Petropoulos
 thumbnail: artist-theme.webp
 license: MIT
 license_link: https://github.com/ninapetrop/Artist-Theme/blob/master/license.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 Fully responsive. Sass files let you easily customize primary and accent colors. Built in support for sorting posts by category.

@@ -13,6 +13,8 @@ author: Sérgio Kopplin
 thumbnail: indigo.webp
 license: MIT
 license_link: https://kopplin.mit-license.org/
+carousel:
+  - 'screenshot.png'
 ---
 
 This is a simple and minimalist template for Jekyll for those who likes to eat noodles.

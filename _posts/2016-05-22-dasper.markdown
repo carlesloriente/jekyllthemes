@@ -13,6 +13,8 @@ author: ozgrozer
 thumbnail: dasper.webp
 license: MIT
 license_link: https://github.com/ozgrozer/dasper/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Dasper is a [Jekyll](https://jekyllrb.com/) theme inspired by:
