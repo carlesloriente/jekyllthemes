@@ -12,6 +12,8 @@ author: Marco Damiani
 thumbnail: jekyllmaterialize.webp
 license: MIT
 license_link: https://github.com/macrod68/jekyll-materialize-starter-template/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 A Site Starter Materialize Templates, Jekyll Materialize is a fork of the [minima][1] theme.

@@ -13,6 +13,8 @@ author: Themefisher
 thumbnail: kross-portfolio-template.webp
 license: MIT
 license_link: https://github.com/themefisher/kross-jekyll-portfolio-template/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 Kross jekyll Creative Portfolio Template ported from [Kross creative portfolio template/](https://themefisher.com/products/kross-creative-portfolio-template/).

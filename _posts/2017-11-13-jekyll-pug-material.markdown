@@ -13,6 +13,8 @@ author: Doug Beney
 thumbnail: jekyll-pug-material.webp
 license: MIT
 license_link: https://github.com/DougBeney/jekyll-pug-material/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 This is a template, originally created by Materialize, ported over to Jekyll-Pug.

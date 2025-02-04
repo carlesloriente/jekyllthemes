@@ -12,6 +12,8 @@ author: Lukas Himsel
 thumbnail: onepage.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/lukas-h/onepage/refs/heads/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Onepage theme, uncomplicated single-page jekyll blog theme.

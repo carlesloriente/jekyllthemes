@@ -13,6 +13,8 @@ author: Bradley Taunt
 thumbnail: et-jekyll.webp
 license: MIT
 license_link: https://github.com/bradleytaunt/ET-Jekyll/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 ET-Jekyll theme is based off of Dave Liepmann's awesome Tufte CSS - which takes it’s style and inspiration from the wonderful book and handout designs of Edward Tufte.

@@ -13,6 +13,8 @@ author: Abhishek Nagekar
 thumbnail: sootspirits.webp
 license: MIT
 license_link: https://opensource.org/license/mit
+carousel:
+  - 'screenshot.png'
 ---
 
 Soot Spirits is a responsive mobile ready lightweight two column Jekyll theme made with Bulma CSS. It is a great template for simple personal blogs with focus on typography.

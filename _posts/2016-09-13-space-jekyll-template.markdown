@@ -13,6 +13,8 @@ author: Victor Igor
 thumbnail: space-jekyll-template.webp
 license: MIT
 license_link: https://github.com/victorvoid/space-jekyll-template/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Space Jekyll Template, a simple and elegant Jekyll theme based on Spacemacs. The theme works well on mobile devices as well.

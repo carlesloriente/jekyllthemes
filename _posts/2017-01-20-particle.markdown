@@ -13,6 +13,8 @@ author: Nathan Randecker
 thumbnail: particle.webp
 license: MIT
 license_link: https://github.com/nrandecker/particle/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.jpg'
 ---
 
 This is a simple Jekyll theme for developers to show off their portfolios and information about themselves.

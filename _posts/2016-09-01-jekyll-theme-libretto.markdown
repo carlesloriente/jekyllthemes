@@ -13,6 +13,8 @@ author: Henrique Ferrolho
 thumbnail: jekyll-theme-libretto.webp
 license: MIT
 license_link: https://github.com/ferrolho/jekyll-theme-libretto/blob/gh-pages/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Libretto is a Jekyll theme with classic styling and typographic details.

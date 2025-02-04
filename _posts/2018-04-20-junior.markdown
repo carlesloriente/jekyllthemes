@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Junior
-date: 2018-04-30 21:00:00 +01:00
+date: 2018-04-20 21:00:00 +01:00
 repo: https://github.com/thundergolfer/junior-theme
 update_date: 2024-11-04
 forks: 40
@@ -12,6 +12,10 @@ author: Jonathon Belotti
 thumbnail: junior.webp
 license: MIT
 license_link: https://github.com/thundergolfer/junior-theme/blob/master/LICENSE
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
 ---
 
 Junior is a blog/portfolio theme for Jekyll, the static site generator. It's designed and developed by [@jonobelotti_IO](https://twitter.com/jonobelotti_IO).

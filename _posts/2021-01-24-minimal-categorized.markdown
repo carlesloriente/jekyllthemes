@@ -13,6 +13,8 @@ author: Patryk Bieszke
 thumbnail: minimal-categorized-thumbnail.webp
 license: MIT
 license_link: https://github.com/ItsPatrq/minimal-categorized/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 Minimal Jekyll theme for aggregated content, this theme is a lightweight framework for personal blogs and portfolios. It's a great way to publish your interests on a website

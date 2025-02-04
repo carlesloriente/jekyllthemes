@@ -13,6 +13,8 @@ author: Manoj Gautam
 thumbnail: jekyll-hilmi.webp
 license: MIT
 license_link: https://github.com/nix1947/jekyll-hilmi/blob/master/LICENSE.md
+carousel:
+  - 'screenshot.png'
 ---
 
 Jekyll-hilmi is the minimalist theme for clean blogging. It used google oxygen fonts and plain HTML.

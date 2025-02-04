@@ -13,6 +13,8 @@ author: Hugo Sereno Ferreira
 thumbnail: papyrus-theme.webp
 license: CC-BY-SA-3.0
 license_link: https://github.com/hugoferreira/papyrus-theme/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Papyrus is a Jekyll theme with classic styling and careful typographic details.

@@ -13,6 +13,8 @@ author: wowthemesnet
 thumbnail: memoirs.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/wowthemesnet/jekyll-theme-memoirs/master/LICENSE.txt
+carousel:
+  - 'screenshot.jpg'
 ---
 
 Memoirs Jekyll Theme

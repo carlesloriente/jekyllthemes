@@ -12,6 +12,8 @@ author: Song-Zi Vong
 thumbnail: ockham.webp
 license: MIT
 license_link: https://github.com/zivong/ockham/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 Ockham is a content-first minimalist Jekyll blog theme.

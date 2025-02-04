@@ -13,6 +13,8 @@ author: Songroger
 thumbnail: murmur.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'screenshot.png'
 ---
 
 This is another simple theme for [jekyll](https://jekyllrb.com/). Try to edit `_config.yml` first before use it. Replace all the blabla configurations(like "avatar", "about", "title", etc.) to your owns.
