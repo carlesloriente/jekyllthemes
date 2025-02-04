@@ -13,7 +13,7 @@ author: laixintao
 thumbnail: princess-diaries.webp
 license: MIT
 license_link: https://github.com/laixintao/Princess-Diaries/blob/master/LICENSE
-carlousel:
+carousel:
   - 'screenshot.png'
 ---
 

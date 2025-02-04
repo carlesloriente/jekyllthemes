@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Textalic
-date: 2019-12-24 21:20:00 +01:00
+date: 2019-12-25 21:20:00 +01:00
 repo: https://github.com/UniFreak/jekyll-theme-textalic
 update_date: 2024-12-19
 forks: 29
