@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Thunder
-date: 2014-05-15 18:50:00 +01:00
+date: 2016-05-15 18:50:00 +01:00
 repo: https://github.com/sharu725/thunder
 update_date: 2023-09-27
 forks: 56
@@ -13,6 +13,8 @@ author: sharathdt
 thumbnail: thunder.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'screenshot.png'
 ---
 
 Thunder minimal and light-weight jekyll theme.

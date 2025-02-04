@@ -4,6 +4,7 @@ comments: true
 title: Autm-rb
 date: 2014-10-10 10:00:00 +01:00
 repo: https://github.com/railsr/autm-rb
+demo: https://kirqe.be/autm-rb/
 update_date: 2024-02-06
 forks: 113
 stars: 81
@@ -12,6 +13,9 @@ author: Kirill Beletskiy
 thumbnail: autm-rb.webp
 license: MIT
 license_link: https://github.com/railsr/autm-rb/blob/master/LICENSE
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
 ---
 
 ## Features

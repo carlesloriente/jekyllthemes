@@ -12,6 +12,8 @@ author: Digitalmind
 thumbnail: twister.webp
 license: MIT
 license_link: https://github.com/DigitalMindCH/twister/blob/master/LICENSE.md
+carousel:
+  - 'screenshot.jpg'
 ---
 
 If we had to choose one word to describe Twister that would be it.

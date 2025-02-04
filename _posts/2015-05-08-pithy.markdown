@@ -12,6 +12,8 @@ author: Pawpaw
 thumbnail: pithy.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'screenshot.png'
 ---
 
 Jekyll-Pithy is a theme for Jekyll. As its name suggests, it looks very simple and clean. Also it looks good on mobile, tablet. You can use it for your blog. I believe you will very like it.

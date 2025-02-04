@@ -13,6 +13,10 @@ author: Dirk Fabisch
 thumbnail: mediator.webp
 license: MIT
 license_link: https://github.com/dirkfabisch/mediator/blob/master/LICENCE
+carousel:
+  - 'screenshot-1.jpg'
+  - 'screenshot-2.jpg'
+  - 'screenshot-3.jpg'
 ---
 
 A medium inspired Jekyll blog theme.

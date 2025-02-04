@@ -13,6 +13,13 @@ author: biomadeira
 thumbnail: jasper.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
+  - 'screenshot-4.png'
+  - 'screenshot-5.png'
+  - 'screenshot-6.png'
 ---
 
 Jekyll-ready and full featured clone of Ghost's Casper theme.

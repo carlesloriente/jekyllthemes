@@ -13,6 +13,10 @@ author: Niklas Buschmann
 thumbnail: contrast.webp
 license: Public Domain
 license_link: https://opensource.org/license/unlicense
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
 ---
 
 Lightweight Jekyll theme

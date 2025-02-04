@@ -8,7 +8,6 @@ update_date: 2024-07-17
 forks: 86
 stars: 235
 download: https://github.com/mx3m/hikari-for-Jekyll/archive/master.zip
-demo: https://mx3m.github.io/hikari-for-Jekyll/
 author: Mathieu Mayer-Mazzoli
 thumbnail: hikari.webp
 license: MIT

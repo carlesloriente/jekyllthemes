@@ -8,11 +8,13 @@ update_date: 2024-12-20
 forks: 312
 stars: 301
 download: https://github.com/bogoli/-folio/archive/master.zip
-demo: https://liabogoev.com/-folio/
+demo: https://bogoli.github.io/-folio/
 author: Lia Bogoev
 thumbnail: folio.webp
 license: MIT
 license_link: https://github.com/bogoli/-folio/blob/master/README.md
+carousel:
+  - 'screenshot.png'
 ---
 
 *folio is a clean, minimal, helvetica-based theme for showcasing your work and blogging with images. Make a portfolio, create a site for your writing, and blog, all in one beautiful place.

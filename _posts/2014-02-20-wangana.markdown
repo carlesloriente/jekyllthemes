@@ -12,6 +12,8 @@ author: Nii Adjetey Sowah
 thumbnail: wangana.webp
 license: MIT
 license_link: https://github.com/nadjetey/wangana/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Wangana is responsive Jekyll theme, perfect for powering your GitHub hosted blog -- by developer and design hacker [Nii](https://twitter.com/_nadjetey){:target="_blank"}{:rel="noopener noreferrer"}.

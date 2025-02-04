@@ -12,6 +12,8 @@ author: CloudCannon
 thumbnail: aviator.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'screenshot.png'
 ---
 
 Aviator theme.

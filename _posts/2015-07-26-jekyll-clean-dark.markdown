@@ -13,6 +13,8 @@ author: Pavel Makhov
 thumbnail: jekyll-clean-dark.webp
 license: CC-BY-4.0
 license_link: https://creativecommons.org/licenses/by/4.0/legalcode
+carousel:
+  - 'screenshot.jpg'
 ---
 
 Cool dark theme which looks nice on a desktop and on mobile devices.
