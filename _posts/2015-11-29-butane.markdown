@@ -13,7 +13,7 @@ author: alexcarpenter
 thumbnail: butane.webp
 license: MIT
 license_link: https://github.com/alexcarpenter/butane-jekyll-theme/blob/gh-pages/LICENSE
-carlousel:
+carousel:
   - 'screenshot.png'
 ---
 

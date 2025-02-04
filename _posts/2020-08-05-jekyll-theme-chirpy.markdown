@@ -13,6 +13,7 @@ author: Cotes Chung
 thumbnail: chirpy.webp
 license: MIT
 license_link: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
+version: "7.2.4"
 carousel:
   - 'screenshot.png'
 ---
