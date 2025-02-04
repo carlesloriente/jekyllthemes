@@ -13,6 +13,8 @@ author: b2a3e8
 thumbnail: jekyll-theme-console.webp
 license: MIT
 license_link: https://github.com/b2a3e8/jekyll-theme-console/blob/master/LICENSE.txt
+carousel:
+  - 'screenrec.gif'
 ---
 
 A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.

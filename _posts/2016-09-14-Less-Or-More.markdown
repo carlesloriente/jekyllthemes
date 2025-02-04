@@ -13,6 +13,8 @@ author: Freud Kang
 thumbnail: less-or-more.webp
 license: MIT
 license_link: https://github.com/luoyan35714/LessOrMore/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 A new jekyll theme refactored from [Less](https://lesscss.org/) site.

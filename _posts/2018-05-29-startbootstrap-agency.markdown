@@ -8,7 +8,6 @@ update_date: 2024-02-24
 forks: 36
 stars: 23
 download: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/archive/master.zip
-demo: https://www.vrachas.com/jekyll-theme-startbootstrap-agency/
 author: Sotirios Vrachas
 thumbnail: startbootstrap-agency.webp
 license: MIT

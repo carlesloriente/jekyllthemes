@@ -13,6 +13,8 @@ author: Angeleene Ang
 thumbnail: bootstrap-resume.webp
 license: MIT
 license_link: https://github.com/zemmyang/Bootstrap-Resume-Jekyll/blob/main/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 I adapted the Resume theme from StartBootstrap to be usable with Jekyll.

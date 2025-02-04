@@ -8,7 +8,6 @@ update_date: 2024-04-09
 forks: 264
 stars: 132
 download: https://github.com/AkshayAgarwal007/Jekyll-Mono/archive/master.zip
-demo: https://akshayagarwal007.github.io/Jekyll-Mono
 author: Akshay Agarwal
 thumbnail: jekyll-mono.webp
 license: MIT

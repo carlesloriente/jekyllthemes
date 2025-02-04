@@ -12,6 +12,8 @@ author: Lukas Himsel
 thumbnail: light-material.webp
 license: MIT
 license_link: https://github.com/lukas-h/material-theme/blob/gh-pages/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Light Material, uncomplicated theme, good to build your personal site.

@@ -13,6 +13,8 @@ author: Kaptn
 thumbnail: future-imperfect.webp
 license: MIT
 license_link: https://github.com/kaptn3/future-imperfect/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 There Future Imperfect from HTML5Up theme for blog site, responsive and adaptive for any devices.

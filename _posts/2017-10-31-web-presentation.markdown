@@ -13,6 +13,8 @@ author: DeepIdea
 thumbnail: web-presentation.webp
 license: MIT
 lincense_link: https://opensource.org/license/mit
+carousel:
+  - 'screenshot.png'
 ---
 
 Web-presentation, project is designed to quickly build presentation as a web page.

@@ -13,6 +13,10 @@ author: Lightfish Zhang
 thumbnail: pinghsu-jekyll.webp
 license: MIT
 license_link: https://github.com/lightfish-zhang/pinghsu-jekyll/blob/master/LICENSE
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
 ---
 
 A jekyll theme which is based on a typecho theme pinghsu, it count make you homepage illustrated !

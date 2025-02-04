@@ -12,6 +12,8 @@ author: Somiibo
 thumbnail: massively.webp
 license: CC-BY-3.0
 license_link: https://github.com/iwiedenm/jekyll-theme-massively-src/blob/master/LICENSE.md
+carousel:
+  - 'screenshot.jpg'
 ---
 
 A Jekyll integrated version of the "Massively" theme by HTML5 UP.

@@ -13,6 +13,10 @@ author: Chen Su
 thumbnail: jekyll-paper.webp
 license: MIT
 license_link: https://github.com/ghosind/Jekyll-Paper/blob/master/LICENSE
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
 ---
 
 Jekyll Paper is a simple Jekyll theme, and it is aim to helping you to create your own blog by the easiest way. Jekyll Paper was designed as a paper book style, giving the reader a sense of what it looked like to read a paper book.

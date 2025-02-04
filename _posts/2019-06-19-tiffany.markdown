@@ -13,6 +13,8 @@ author: bit-ranger
 thumbnail: tiffany.webp
 license: MIT
 license_link: https://github.com/bit-ranger/blog/blob/gh-pages/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 An open source minimal theme for Jekyll, ideal for blogging.

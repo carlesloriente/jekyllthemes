@@ -12,6 +12,8 @@ author: Shangzhi Huang
 thumbnail: hamilton.webp
 license: MIT
 license_link: https://github.com/ngzhio/jekyll-theme-hamilton/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 A minimal and beautiful Jekyll theme best for writing and note-taking.

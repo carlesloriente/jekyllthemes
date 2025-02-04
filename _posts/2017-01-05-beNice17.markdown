@@ -13,6 +13,8 @@ author: Viet Anh Nguyen
 thumbnail: beNice17.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/vietanhdev/beNice17/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 A very light, simple and responsive jekyll theme. Suitable for personal websites and blogs.

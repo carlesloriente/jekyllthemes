@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Toasty Jekyll
-date: 2018-02-18 20:00:00 +01:00
+date: 2018-02-02 20:00:00 +01:00
 repo: https://github.com/regmtait/Toasty-Jekyll
 update_date: 2022-05-28
 forks: 2
@@ -12,6 +12,8 @@ author: Reg Tait
 thumbnail: toasty-jekyll.webp
 license: MIT
 license_link: https://github.com/regmtait/Toasty-Jekyll/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 Toasty Jekyll is a super simple white label website built with Jekyll and using Dan Eden's Toast grid layout.
