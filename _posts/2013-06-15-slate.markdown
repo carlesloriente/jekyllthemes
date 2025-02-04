@@ -4,6 +4,7 @@ comments: true
 title: Slate
 date: 2013-06-15 01:38:11 +01:00
 repo: https://github.com/jasoncostello/slate
+demo: https://jasoncostello.github.io/slate/
 update_date: 2024-02-19
 forks: 128
 stars: 155
@@ -12,6 +13,8 @@ author: Jason Costello
 thumbnail: slate.webp
 license: MIT
 license_link: https://github.com/jasoncostello/slate/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Slate is responsive theme for GitHub Pages.

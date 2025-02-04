@@ -12,6 +12,10 @@ author: Rizky Ariestiyansyah
 thumbnail: naringu.webp
 license: MIT
 license_link: https://github.com/ariestiyansyah/naringu/blob/master/LICENSE.md
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
 ---
 
 Naringu is a hacker like with dark theme for jekyll, it's based on poole and come with several change like the contact form using formspree, reverse layout and more. Just checkout the web and start using the theme

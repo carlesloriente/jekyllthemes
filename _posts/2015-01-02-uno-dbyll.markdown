@@ -12,6 +12,10 @@ author: Ankan Biswas
 thumbnail: uno-dbyll.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/meliodus/uno-dbyll/gh-pages/LICENSE
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
 ---
 
 Uno-dbyll is a simple, clean, responsive and stylist theme for jekyll.

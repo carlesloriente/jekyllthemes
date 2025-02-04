@@ -13,6 +13,8 @@ author: knaman2609
 thumbnail: clean.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'screenshot.png'
 ---
 
 A simple clean theme for jekyll.

@@ -8,11 +8,13 @@ update_date: 2024-12-01
 forks: 1168
 stars: 872
 download: https://github.com/t413/SinglePaged/archive/gh-pages.zip
-demo: https://t413.com/SinglePaged
+demo: http://t413.com/SinglePaged/
 author: Tim O'Brien
 thumbnail: singlepaged.webp
 license: MIT
 license_link: https://github.com/t413/SinglePaged/blob/gh-pages/LICENSE.txt
+carousel:
+  - 'screenshot.png'
 ---
 
 SinglePaged - wow the world with some single page madness

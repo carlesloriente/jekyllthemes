@@ -13,6 +13,8 @@ author: Hossain Mohd Faysal
 thumbnail: hmfaysal-omega.webp
 license: MIT
 license_link: https://hmfaysal.github.io/hmfaysal-omega-theme/license/
+carousel:
+  - 'screenshot.jpg'
 ---
 
 Omega is a minimalist, beautiful, responsive theme for Jekyll designed for engineers as well as writers who want their content to take front and center. This theme elegantly wraps each page and post with featured images complementing the content. Omega is the most complete and complex theme designed for Jekyll to date, ready to handle whatever you throw at it. It was built -- by Engineer slash Mathematician Hossain Mohd Faysal.

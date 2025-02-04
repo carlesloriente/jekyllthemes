@@ -12,6 +12,8 @@ author: Digitalmind
 thumbnail: gridster.webp
 license: MIT
 license_link: https://github.com/DigitalMindCH/gridster-jekyll-theme/blob/master/LICENCE
+carousel:
+  - 'screenshot.jpg'
 ---
 
 If we had to choose one word to describe Gridster that would be it.

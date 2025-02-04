@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: RLStevenson
-date: 2013-09-08 20:00:00 +01:00
+date: 2016-09-08 20:00:00 +01:00
 repo: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme
 update_date: 2024-11-10
 forks: 15
@@ -12,6 +12,9 @@ author: ExchangeRate-API
 thumbnail: rlstevenson.webp
 license: MIT
 license_link: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
 ---
 
 RLStevenson is a clone of the popular theme Hyde - but built using Bootstrap. It's responsive and supports Google and Piwik Analytic integration.

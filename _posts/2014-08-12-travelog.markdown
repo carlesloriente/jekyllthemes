@@ -12,6 +12,8 @@ author: Rowan Oulton
 thumbnail: travelog.webp
 license: MIT
 license_link: https://github.com/rowanoulton/travelog-theme/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Travelog is a theme for Jekyll that is both elegant and downright simple.

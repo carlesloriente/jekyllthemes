@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Zebra
-date: 2013-09-01 09:00:00 +01:00
+date: 2016-09-01 09:00:00 +01:00
 repo: https://github.com/newbiettn/zebra
 update_date: 2022-08-23
 forks: 1
@@ -12,6 +12,9 @@ author: newbiettn
 thumbnail: zebra.webp
 license: MIT
 license_link: https://github.com/newbiettn/zebra/blob/gh-pages/LICENSE
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
 ---
 
 Zebra is a minimal Jekyll theme. The idea of Zebra mainly comes from [https://www.subtraction.com/](https://www.subtraction.com/) of Khoi Vinh.
