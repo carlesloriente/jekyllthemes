@@ -8,7 +8,6 @@ update_date: 2024-11-12
 forks: 158
 stars: 99
 download: https://github.com/gayanvirajith/gaya/archive/master.zip
-demo: https://gayan.me/gaya/
 author: Gayan Virajith
 thumbnail: gaya.webp
 license: MIT

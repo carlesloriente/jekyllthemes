@@ -13,6 +13,8 @@ author: Gaohaoyang
 thumbnail: cool-concise-high-end.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang.github.io/refs/heads/master/LICENSE
+carousel:
+  - 'screenshot.jpg'
 ---
 
 This is a blog theme based on jekyll. You can use on your own blog.

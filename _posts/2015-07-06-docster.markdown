@@ -12,6 +12,8 @@ author: Digitalmind
 thumbnail: docster.webp
 license: MIT
 license_link: https://github.com/DigitalMindCH/twister/blob/master/LICENSE.md
+carousel:
+  - 'screenshot.jpg'
 ---
 
 Simple and easy, that's how we would describe working with docster.

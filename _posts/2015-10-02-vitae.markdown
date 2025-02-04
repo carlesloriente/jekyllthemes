@@ -2,17 +2,18 @@
 layout: post
 comments: true
 title: Vitae
-date: 2015-10-03 20:00:00 +01:00
+date: 2015-10-02 20:00:00 +01:00
 repo: https://github.com/biomadeira/vitae
 update_date: 2024-12-20
 forks: 233
 stars: 229
 download: https://github.com/biomadeira/vitae/archive/gh-pages.zip
-demo: https://jekyllt.github.io/vitae/
 author: biomadeira
 thumbnail: vitae.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'screenshot.png'
 ---
 
 A simple and elegante personal resume.

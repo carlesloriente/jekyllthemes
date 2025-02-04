@@ -12,6 +12,9 @@ author: arnp
 thumbnail: herring-cove.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
 ---
 
 Herring Cove is a clean and responsive theme for Jekyll.

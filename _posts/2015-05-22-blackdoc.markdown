@@ -13,6 +13,8 @@ author: Karlo Espiritu
 thumbnail: blackdoc.webp
 license: MIT
 license_link: https://github.com/karloespiritu/BlackDoc/blob/master/LICENSE.md
+carousel:
+  - 'screenshot.png'
 ---
 
 BlackDoc is a two-column black theme with a scrolling sidebar. It's ideal for websites that require a master-detail layout for viewing of content, e.g. documentation, cheatsheets, lyrics, notes, etc.

@@ -13,6 +13,8 @@ author: Google Developers Group Managua
 thumbnail: jekyll-mdl.webp
 license: Apache 2.0
 license_link: https://github.com/gdgmanagua/jekyll-mdl/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 A Jekyll theme based in Google Material Design Lite library.

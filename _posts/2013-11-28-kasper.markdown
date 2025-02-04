@@ -8,11 +8,13 @@ update_date: 2024-12-05
 forks: 395
 stars: 1039
 download: https://github.com/rosario/kasper/archive/master.zip
-demo: https://rosario.io/2013/11/10/kasper-theme-for-jekyll.html
 author: Rosario Rascuna
 thumbnail: kasper.webp
 license: MIT
 license_link: https://github.com/rosario/kasper/blob/master/LICENSE.txt
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
 ---
 
 Kasper is a port of Ghost's Casper default theme.
