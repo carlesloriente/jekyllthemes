@@ -4,6 +4,7 @@ comments: true
 title: Jekyll Shell
 date: 2019-12-11 10:20:00 +01:00
 repo: https://github.com/tareqdandachi/jekyll-shell-theme
+demo: https://www.itstorque.com/jekyll-shell-theme/
 update_date: 2024-12-18
 forks: 57
 stars: 81
@@ -12,6 +13,8 @@ author: Tareq El Dandachi
 thumbnail: shell.webp
 license: MIT
 license_link: https://github.com/tareqdandachi/jekyll-shell-theme/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 **Jekyll Shell Theme** is a light-weight customizable one-column jekyll theme that gives off:

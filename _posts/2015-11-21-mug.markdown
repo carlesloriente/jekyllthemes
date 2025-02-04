@@ -13,7 +13,7 @@ author: nandomoreira.me
 thumbnail: mug.webp
 license: MIT
 license_link: https://github.com/nandomoreirame/mug/blob/master/LICENSE
-carlousel:
+carousel:
   - 'screenshot.png'
 ---
 

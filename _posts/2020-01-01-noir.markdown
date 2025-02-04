@@ -8,7 +8,6 @@ update_date: 2024-09-23
 forks: 21
 stars: 68
 download: https://github.com/essentialenemy/noir/archive/master.zip
-demo: https://noir.essentialenemy.com
 author: Victor Johnson
 thumbnail: noir.webp
 license: MIT

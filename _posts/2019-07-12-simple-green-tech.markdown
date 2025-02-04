@@ -13,6 +13,8 @@ author: Alain Pham
 thumbnail: simple-green-techblog.webp
 license: WTF
 license_link: https://github.com/alainpham/alainpham.github.io/blob/master/LICENSE
+carousel:
+  - 'screenshot.png'
 ---
 
 Simple Green TechBlog is a forkable minimal responsive theme with a green/black/white color scheme.

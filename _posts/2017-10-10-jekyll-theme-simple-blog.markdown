@@ -5,7 +5,6 @@ title: Simple Blog
 date: 2017-10-10 08:00:00 +01:00
 repo: https://gitlab.com/lorepirri/jekyll-theme-simple-blog
 download: https://gitlab.com/lorepirri/jekyll-theme-simple-blog/repository/master/archive.zip
-demo: https://lorepirri.gitlab.io/jekyll-theme-simple-blog/
 author: Lorenzo Pirritano (@lorepirri)
 thumbnail: simple-blog-theme.webp
 license: CC-BY-1.0

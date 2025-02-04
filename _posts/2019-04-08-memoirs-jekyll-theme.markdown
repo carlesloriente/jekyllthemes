@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Memoirs Jekyll
-date: 2020-04-08 09:20:00 +01:00
+date: 2019-04-08 09:20:00 +01:00
 repo: https://github.com/wowthemesnet/jekyll-theme-memoirs
 update_date: 2024-12-26
 forks: 335
