@@ -15,6 +15,7 @@ license: ISC
 license_link: https://github.com/eliottvincent/bay/blob/master/LICENSE.md
 carousel:
   - 'screenshot.png'
+redirect_from: 'themes/bay/index.html.html'
 ---
 
 Bay is a simple theme for Jekyll.
