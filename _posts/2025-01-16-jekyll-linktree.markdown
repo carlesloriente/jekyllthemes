@@ -20,9 +20,9 @@ Jekyll-Linktree is a simple and lightweight Jekyll plugin to create a customizab
 
 ## Features
 
-- Easy setup with global variables.
-- Customizable to fit your style.
-- Supports multiple social platforms.
+- Easy setup with global variables
+- Customizable to fit your style
+- Supports multiple social platforms
 
 ## Setup
 
