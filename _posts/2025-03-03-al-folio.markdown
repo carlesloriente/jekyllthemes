@@ -63,7 +63,7 @@ A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 ## Getting started
 
-Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/). Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)! Why write a blog? Read [Rachel Thomas blog post](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045).
+Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/){:target="_blank"}{:rel="noopener noreferrer"}. Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/){:target="_blank"}{:rel="noopener noreferrer"}! Why write a blog? Read [Rachel Thomas blog post](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Installation
 
@@ -71,7 +71,7 @@ For installation and deployment details please refer to [INSTALL.md](https://raw
 
 ### CV
 
-There are currently 2 different ways of generating the CV page content. The first one is by using a json file located in `assets/json/resume.json`. It is a [known standard](https://jsonresume.org/) for creating a CV programmatically. The second one, currently used as a fallback when the json file is not found, is by using a yml file located in `_data/cv.yml`. This was the original way of creating the CV page content and since it is more human readable than a json file we decided to keep it as an option.
+There are currently 2 different ways of generating the CV page content. The first one is by using a json file located in `assets/json/resume.json`. It is a [known standard](https://jsonresume.org/){:target="_blank"}{:rel="noopener noreferrer"} for creating a CV programmatically. The second one, currently used as a fallback when the json file is not found, is by using a yml file located in `_data/cv.yml`. This was the original way of creating the CV page content and since it is more human readable than a json file we decided to keep it as an option.
 
 What this means is, if there is no resume data defined in `_config.yml` and loaded via a json file, it will load the contents of `_data/cv.yml` as fallback.
 
@@ -89,7 +89,7 @@ You can add extra information to a publication, like a PDF file in the `assets/p
 
 This Jekyll theme implements `collections` to let you break up your work into categories. The theme comes with two default collections: `news` and `projects`. Items from the `news` collection are automatically displayed on the home page. Items from the `projects` collection are displayed on a responsive grid on projects page.
 
-You can easily create your own collections, apps, short stories, courses, or whatever your creative work is. To do this, edit the collections in the [\_config.yml](_config.yml) file, create a corresponding folder, and create a landing page for your collection, similar to `_pages/projects.md`.
+You can easily create your own collections, apps, short stories, courses, or whatever your creative work is. To do this, edit the collections in the `_config.yml` file, create a corresponding folder, and create a landing page for your collection, similar to `_pages/projects.md`.
 
 ### Layouts
 
@@ -97,23 +97,23 @@ You can easily create your own collections, apps, short stories, courses, or wha
 
 #### The iconic style of Distill
 
-The theme allows you to create blog posts in the [distill.pub](https://distill.pub/) style:
+The theme allows you to create blog posts in the [distill.pub](https://distill.pub/){:target="_blank"}{:rel="noopener noreferrer"} style:
 
-For more details on how to create distill-styled posts using `<d-*>` tags, please refer to [the example](https://alshedivat.github.io/al-folio/blog/2021/distill/).
+For more details on how to create distill-styled posts using `<d-*>` tags, please refer to [the example](https://alshedivat.github.io/al-folio/blog/2021/distill/){:target="_blank"}{:rel="noopener noreferrer"}.
 
 #### Full support for math & code
 
-**al-folio** supports fast math typesetting through [MathJax](https://www.mathjax.org/) and code syntax highlighting using [GitHub style](https://github.com/jwarby/jekyll-pygments-themes). Also supports [chartjs charts](https://www.chartjs.org/), [mermaid diagrams](https://mermaid-js.github.io/mermaid/#/), and [TikZ figures](https://tikzjax.com/).
+**al-folio** supports fast math typesetting through [MathJax](https://www.mathjax.org/){:target="_blank"}{:rel="noopener noreferrer"} and code syntax highlighting using [GitHub style](https://github.com/jwarby/jekyll-pygments-themes){:target="_blank"}{:rel="noopener noreferrer"}. Also supports [chartjs charts](https://www.chartjs.org/){:target="_blank"}{:rel="noopener noreferrer"}, [mermaid diagrams](https://mermaid-js.github.io/mermaid/#/){:target="_blank"}{:rel="noopener noreferrer"}, and [TikZ figures](https://tikzjax.com/){:target="_blank"}{:rel="noopener noreferrer"}.
 
 #### Photos, Audio, Video and more
 
-Photo formatting is made simple using [Bootstrap's grid system](https://getbootstrap.com/docs/4.4/layout/grid/). Easily create beautiful grids within your blog posts and project pages, also with support for [video](https://alshedivat.github.io/al-folio/blog/2023/videos/) and [audio](https://alshedivat.github.io/al-folio/blog/2023/audios/) embeds:
+Photo formatting is made simple using [Bootstrap's grid system](https://getbootstrap.com/docs/4.4/layout/grid/){:target="_blank"}{:rel="noopener noreferrer"}. Easily create beautiful grids within your blog posts and project pages, also with support for [video](https://alshedivat.github.io/al-folio/blog/2023/videos/) and [audio](https://alshedivat.github.io/al-folio/blog/2023/audios/){:target="_blank"}{:rel="noopener noreferrer"} embeds:
 
 ### Other features
 
 #### GitHub's repositories and user stats
 
-**al-folio** uses [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) to display GitHub repositories and user stats on the `/repositories/` page.
+**al-folio** uses [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy){:target="_blank"}{:rel="noopener noreferrer"} to display GitHub repositories and user stats on the `/repositories/` page.
 
 Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories to the `/repositories/` page.
 
@@ -166,18 +166,18 @@ By default, there will be a related posts section on the bottom of the blog post
 
 Currently, we run some checks to ensure that the code quality and generated site are good. The checks are done using GitHub Actions and the following tools:
 
-- [Prettier](https://prettier.io/) - check if the formatting of the code follows the style guide
-- [lychee](https://lychee.cli.rs/) - check for broken links
-- [Axe](https://github.com/dequelabs/axe-core) (need to run manually) - do some accessibility testing
+- [Prettier](https://prettier.io/){:target="_blank"}{:rel="noopener noreferrer"} - check if the formatting of the code follows the style guide
+- [lychee](https://lychee.cli.rs/){:target="_blank"}{:rel="noopener noreferrer"} - check for broken links
+- [Axe](https://github.com/dequelabs/axe-core){:target="_blank"}{:rel="noopener noreferrer"} (need to run manually) - do some accessibility testing
 
 We decided to keep `Axe` runs manual because fixing the issues are not straightforward and might be hard for people without web development knowledge.
 
 ## FAQ
 
-For frequently asked questions, please refer to [FAQ.md](https://raw.githubusercontent.com/alshedivat/al-folio/refs/heads/main/FAQ.md).
+For frequently asked questions, please refer to [FAQ.md](https://raw.githubusercontent.com/alshedivat/al-folio/refs/heads/main/FAQ.md){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Contributing
 
-Contributions to al-folio are very welcome! Before you get started, please take a look at [the guidelines](https://raw.githubusercontent.com/alshedivat/al-folio/refs/heads/main/CONTRIBUTING.md).
+Contributions to al-folio are very welcome! Before you get started, please take a look at [the guidelines](https://raw.githubusercontent.com/alshedivat/al-folio/refs/heads/main/CONTRIBUTING.md){:target="_blank"}{:rel="noopener noreferrer"}.
 
 If you would like to improve documentation or fix a minor inconsistency or bug, please feel free to send a PR directly to `main`. For more complex issues/bugs or feature requests, please open an issue using the appropriate template.

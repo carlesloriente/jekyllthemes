@@ -2,7 +2,7 @@ name: Dispatch an Update
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   dispatch:
     runs-on: ubuntu-24.04
