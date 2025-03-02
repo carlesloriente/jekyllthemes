@@ -27,7 +27,7 @@ Starting from Jekyll's minima theme, I created a simple design according to my t
 - Pages: about, 404
 - Layouts
 
-## Install
+## Installation
 
 1. Clone this repo: `git clone https://github.com/bjkawecki/Jekyll-Theme-Bluegreen`
 2. Use your preferred node package manager to install from `package.json`
@@ -41,4 +41,4 @@ Starting from Jekyll's minima theme, I created a simple design according to my t
 - Edit your Tailwind color palettes in `tailwind.config.js`
 - Personalize the values for name, email, description, etc. in `_config.yml`
 
-Source of cat profile image: [dreamstime.com](https://www.dreamstime.com/adorable-minty-green-cat-cartoon-design-perfect-playful-illustrations-image354438289)
+Source of cat profile image: [dreamstime.com](https://www.dreamstime.com/adorable-minty-green-cat-cartoon-design-perfect-playful-illustrations-image354438289){:target="_blank"}{:rel="noopener noreferrer"}

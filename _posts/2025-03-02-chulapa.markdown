@@ -16,7 +16,17 @@ carousel:
   - 'screenshot.png'
 ---
 
-Chulapa, A full flexible Jekyll theme for Github Pages
+Chulapa, A full flexible Jekyll theme for Github Pages. A great alternative for blogs, news, portfolios and personal sites.
+
+## Table Of Contents
+
+- [Table Of Contents](#table-of-contents)
+- [Features](#features)
+- [Installation](#installation)
+  - [A. Use our Github Template](#a-use-our-github-template)
+  - [B. Remote theme method](#b-remote-theme-method)
+  - [C. Gem-based method 💎](#c-gem-based-method-)
+- [Configuration and Layouts](#configuration-and-layouts)
 
 ## Features
 
@@ -39,11 +49,11 @@ Chulapa, A full flexible Jekyll theme for Github Pages
 - **Do you like breadcrumbs?** We have it.
 - **Multiple authors** with location, picture and social links. Travel blogs and colaborative sites welcome!
 
-A great alternative for blogs, news, portfolios and personal sites. Want to know more? [Go to Docs](https://dieghernan.github.io/chulapa/docs/01-install).
+Want to know more? [Go to Docs](https://dieghernan.github.io/chulapa/docs/01-install){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Installation
 
-Sample `_config` file [here](https://github.com/dieghernan/chulapa/blob/master/_config.yml).
+Sample `_config` file [here](https://github.com/dieghernan/chulapa/blob/master/_config.yml){:target="_blank"}{:rel="noopener noreferrer"}.
 
 There are three possible ways for installing Chulapa:
 
@@ -51,7 +61,7 @@ There are three possible ways for installing Chulapa:
 
 **Recommended if your are starting from scratch.**
 
-Create a Github account, click [this link](https://github.com/dieghernan/chulapa-101/generate) and quickstart your site!
+Create a Github account, click [this link](https://github.com/dieghernan/chulapa-101/generate){:target="_blank"}{:rel="noopener noreferrer"} and quickstart your site!
 
 ### B. Remote theme method
 
@@ -83,7 +93,7 @@ To install as a Gem-based theme:
 gem "chulapa-jekyll"
 ```
 
-2.- Fetch and update bundled gems by running the following [Bundler](https://bundler.io/) command:
+2.- Fetch and update bundled gems by running the following [Bundler](https://bundler.io/){:target="_blank"}{:rel="noopener noreferrer"} command:
 
 ``` bash
 bundle
@@ -99,4 +109,4 @@ To update the theme run `bundle update`.
 
 ## Configuration and Layouts
 
-You have available an extensive documentation [here](https://dieghernan.github.io/chulapa/docs/01-install)
+You have available an extensive documentation [here](https://dieghernan.github.io/chulapa/docs/01-install){:target="_blank"}{:rel="noopener noreferrer"}

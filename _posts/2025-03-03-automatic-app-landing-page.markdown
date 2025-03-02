@@ -126,13 +126,13 @@ I'd love to see the sites you create using this little tool.
 
 ## Credits
 
-- [Jekyll](https://github.com/jekyll/jekyll)
-- [FontAwesome](https://fontawesome.github.io/Font-Awesome/)
+- [Jekyll](https://github.com/jekyll/jekyll){:target="_blank"}{:rel="noopener noreferrer"}
+- [FontAwesome](https://fontawesome.github.io/Font-Awesome/){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Donations
 
-[Donations are welcome](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S8ZZT3JXJPN92&currency_code=USD&source=url)
+[Donations are welcome](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S8ZZT3JXJPN92&currency_code=USD&source=url){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Contact
 
-[Emil Baehr](https://emilbaehr.com/)
+[Emil Baehr](https://emilbaehr.com/){:target="_blank"}{:rel="noopener noreferrer"}
