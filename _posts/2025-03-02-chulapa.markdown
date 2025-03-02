@@ -1,0 +1,102 @@
+---
+layout: post
+comments: true
+title: Chulapa
+date: 2025-03-02 00:42:18 +02:00
+repo: https://github.com/dieghernan/chulapa
+demo: https://dieghernan.github.io/chulapa/
+forks: 0
+stars: 0
+download: https://github.com/dieghernan/chulapa/archive/refs/heads/main.zip
+author: dieghernan
+thumbnail: chulapa.jpg
+license: MIT
+license_link: https://opensource.org/license/MIT
+carousel:
+  - 'screenshot.png'
+---
+
+Chulapa, A full flexible Jekyll theme for Github Pages
+
+## Features
+
+- **Bootstrap 4** - Fully responsive
+- **Fontawesome 6** - v5 also supported. v4 is supported via shims but would be deprecated at some point
+- **3 different navbar styles**
+- **Atom and RSS 2.0** feed
+- **Internal search** by Algolia, Lunr or Google Custom Search
+- **Comments** by Disqus and Giscus
+- **Masonry gallery**
+- **Video support** - self-hosted or from core providers: Youtube, Vimeo, DailyMotion...
+- **Structured data** for better SEO
+- **Code highlight** - +20 Pygment styles
+- **Mathjax** inside
+- **Google Analytics**
+- **Twitter/X Cards** and **Open Graph** data valid for Facebook, LinkedIn and WhatsApp
+- **14+ preinstalled skins**
+- **Powerful look-and-feel customization** with a dedicated sandbox
+- **Archive, cloud tag and index special layouts**
+- **Do you like breadcrumbs?** We have it.
+- **Multiple authors** with location, picture and social links. Travel blogs and colaborative sites welcome!
+
+A great alternative for blogs, news, portfolios and personal sites. Want to know more? [Go to Docs](https://dieghernan.github.io/chulapa/docs/01-install).
+
+## Installation
+
+Sample `_config` file [here](https://github.com/dieghernan/chulapa/blob/master/_config.yml).
+
+There are three possible ways for installing Chulapa:
+
+### A. Use our Github Template
+
+**Recommended if your are starting from scratch.**
+
+Create a Github account, click [this link](https://github.com/dieghernan/chulapa-101/generate) and quickstart your site!
+
+### B. Remote theme method
+
+**Recommended if you are migrating a previous site.**
+
+If you prefer not to use the template, you can use the `jekyll-remote-theme` method. Just follow these steps:
+
+1.- Create a new GitHub repository or go to an existing one
+
+2.- Add this line to your `_config.yml`:
+
+``` yaml
+remote_theme: dieghernan/chulapa
+... more config options
+```
+
+3.- Remove other `remote_theme/theme` instances of your `_config.yml` file.
+
+### C. Gem-based method 💎
+
+With Gem-based themes, directories such as the `assets`, `_layouts`, `_includes`, and `_sass` are stored in the theme's gem, hidden from your
+immediate view. This allows for easier installation and updating as you don't have to manage any of the theme files.
+
+To install as a Gem-based theme:
+
+1.- Add the following to your `Gemfile`:
+
+``` ruby
+gem "chulapa-jekyll"
+```
+
+2.- Fetch and update bundled gems by running the following [Bundler](https://bundler.io/) command:
+
+``` bash
+bundle
+```
+
+3.- Set the `theme` in your project's Jekyll `_config.yml` file:
+
+``` yaml
+theme: chulapa-jekyll
+```
+
+To update the theme run `bundle update`.
+
+## Configuration and Layouts
+
+You have available an extensive documentation [here](https://dieghernan.github.io/chulapa/docs/01-install)

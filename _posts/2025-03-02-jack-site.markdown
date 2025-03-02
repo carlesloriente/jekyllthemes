@@ -1,0 +1,30 @@
+---
+layout: post
+comments: true
+title: Jack Site
+date: 2025-03-02 00:55:18 +02:00
+repo: https://github.com/JackDougherty/jack-site
+demo: https://jackdougherty.org/
+forks: 5
+stars: 3
+download: https://github.com/JackDougherty/jack-site/archive/refs/heads/master.zip
+author: Jack Dougherty
+thumbnail: jack-site.png
+license: MIT
+license_link: https://opensource.org/license/MIT
+carousel:
+  - 'screenshot.png'
+---
+
+Jack-Site personal site using Jekyll remote theme Minimal Mistakes on GitHub Pages with custom domain jackdougherty.org. Includes blog, CV, and projects.
+
+## Features
+
+- Jekyll remote theme Minimal Mistakes
+- Custom domain jackdougherty.org
+- Blog, CV, and projects
+- GitHub Pages
+- Responsive design
+- SEO optimized
+- Google Analytics
+- Disqus comments
