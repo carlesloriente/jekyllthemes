@@ -1,0 +1,28 @@
+---
+layout: post
+comments: true
+title: Card
+date: 2025-03-02 01:15:18 +02:00
+repo: https://github.com/q3it/card
+forks: 0
+stars: 0
+download: https://github.com/q3it/card/archive/refs/heads/main.zip
+author: q3it
+thumbnail: card.png
+license: MIT
+license_link: https://opensource.org/license/MIT
+carousel:
+  - 'screenshot.png'
+---
+
+Card, responsive, dark-mode ready Jekyll theme designed for use as a personal website.
+
+## Features
+
+- Responsive.
+- Dark Mode preference.
+- Page for presentations.
+
+## Documentation
+
+Check out the [Wiki](https://github.com/q3it/card/wiki) for some tips on [publishing to a custom domain](https://github.com/q3it/card/wiki/Publishing-your-website) or an [indicative list of things to customise before you publish](https://github.com/q3it/card/wiki/Customising-your-website)

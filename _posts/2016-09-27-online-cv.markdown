@@ -1,14 +1,14 @@
 ---
 layout: post
 comments: true
-title: Online CV
+title: Orbyt
 date: 2016-09-27 20:00:00 +01:00
 repo: https://github.com/sharu725/online-cv
-update_date: 2024-12-27
-forks: 6033
-stars: 3218
+update_date: 2025-02-03
+forks: 6065
+stars: 3260
 download: https://github.com/sharu725/online-cv/archive/master.zip
-demo: https://webjeda.com/online-cv/
+demo: https://online-cv.webjeda.com/
 author: webjeda
 thumbnail: online-cv.webp
 license: CC-BY-3.0
@@ -18,19 +18,59 @@ carousel:
   - 'mobile.png'
 ---
 
+A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.
+
 ## Installation
 
-[Detailed Installation and Theme Guidelines](https://blog.webjeda.com/online-cv/)
+* [Fork](https://github.com/sharu725/online-cv/fork) the repository;
+* Go to settings and set master branch as Github Pages source;
+* Your new site should be ready at `https://<username>.github.io/online-cv/`;
+* Printable version of the site can be found at `https://<username>.github.io/online-cv/print`. Use a third party link https://pdflayer.com/, https://www.web2pdfconvert.com/ etc to get the printable PDF.
 
-### Changing color schemes
+Change all the details from one place: `_data/data.yml`.
 
-Enable a color scheme by removing # in the **_config.yml** file.
+### To preview/edit locally with docker
 
-```yml
-# Enable one of these styles by removing #
-#style: styles-2
-style: styles-3
-#style: styles-4
-#style: styles-5
-#style: styles-6
+```sh
+docker-compose up
 ```
+
+*docker-compose.yml* file is used to create a container that is reachable under <http://localhost:4000>.
+Changes *_data/data.yml* will be visible after a while.
+
+### Local machine
+
+* Get the repo into your machine
+
+```bash
+git clone https://github.com/sharu725/online-cv.git
+```
+
+* Install required ruby gems
+
+```bash
+bundle install
+```
+
+* Serve the site locally
+
+```bash
+bundle exec jekyll serve
+```
+
+* Navigate to `http://localhost:4000`
+
+## Skins
+
+There are 6 color schemes available:
+
+| Blue | Turquoise | Green |
+| Berry | Orange | Ceramic |
+
+## Credits
+
+Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
+
+Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
+
+Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
