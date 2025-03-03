@@ -18,7 +18,7 @@ carousel:
   - 'screenshot.png'
 ---
 
-A Jekyll theme for personal blog.
+A Jekyll theme for personal blogs. It's responsive, modern, and easy to customize.
 
 ## Table of contents
 
