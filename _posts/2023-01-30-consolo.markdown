@@ -5,7 +5,7 @@ title: consolo
 date: 2023-01-30 15:50:00 +01:00
 repo: https://github.com/Forthoney/consolo
 update_date: 2024-04-01
-forks: 1
+forks: 2
 stars: 3
 download: https://github.com/Forthoney/consolo/archive/master.zip
 demo: https://forthoney.github.io/
