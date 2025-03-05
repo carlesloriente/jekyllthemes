@@ -111,7 +111,7 @@ You will also need to tweak the header include `/{{ site.baseurl }}`:
     <div class="measure">
       <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
       <nav class="site-nav">
-        {% include navigation.html %}
+        {&#37; include navigation.html &#37;}
       </nav>
     </div>
   </div>
