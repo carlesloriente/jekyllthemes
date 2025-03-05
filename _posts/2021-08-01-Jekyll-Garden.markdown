@@ -5,8 +5,8 @@ title: Jekyll Garden
 date: 2021-08-01 01:42:00 +01:00
 repo: https://github.com/Jekyll-Garden/jekyll-garden.github.io
 update_date: 2024-12-10
-forks: 73
-stars: 362
+forks: 72
+stars: 378
 download: https://github.com/Jekyll-Garden/jekyll-garden.github.io/archive/refs/heads/main.zip
 demo: https://jekyll-garden.github.io
 author: Mu-An Chiou
