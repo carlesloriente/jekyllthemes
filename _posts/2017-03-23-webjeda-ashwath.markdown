@@ -9,7 +9,7 @@ forks: 46
 stars: 14
 download: https://github.com/sharu725/ashwath/archive/master.zip
 demo: https://ashwath.webjeda.com/
-author: webjeda
+author: Sharath Kumar
 thumbnail: webjeda-ashwath.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT

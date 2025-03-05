@@ -9,7 +9,7 @@ forks: 87
 stars: 60
 download: https://github.com/sharu725/slides/archive/master.zip
 demo: https://slides.webjeda.com/
-author: webjeda
+author: Sharath Kumar
 thumbnail: slides.webp
 license: MIT
 license_link: https://raw.githubusercontent.com/hakimel/reveal.js/master/LICENSE

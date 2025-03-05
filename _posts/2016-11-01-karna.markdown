@@ -9,7 +9,7 @@ forks: 97
 stars: 46
 download: https://github.com/sharu725/karna/archive/master.zip
 demo: https://webjeda.com/karna
-author: webjeda
+author: Sharath Kumar
 thumbnail: karna.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT

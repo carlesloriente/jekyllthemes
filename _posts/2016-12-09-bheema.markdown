@@ -9,7 +9,7 @@ forks: 46
 stars: 19
 download: https://github.com/sharu725/bheema/archive/master.zip
 demo: https://webjeda.com/bheema
-author: webjeda
+author: Sharath Kumar
 thumbnail: bheema.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
