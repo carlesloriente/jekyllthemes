@@ -5,10 +5,10 @@ title: Chulapa
 date: 2025-03-02 00:42:18 +02:00
 repo: https://github.com/dieghernan/chulapa
 demo: https://dieghernan.github.io/chulapa/
-forks: 0
-stars: 0
+forks: 21
+stars: 79
 download: https://github.com/dieghernan/chulapa/archive/refs/heads/main.zip
-author: dieghernan
+author: Diego H.
 thumbnail: chulapa.jpg
 license: MIT
 license_link: https://opensource.org/license/MIT

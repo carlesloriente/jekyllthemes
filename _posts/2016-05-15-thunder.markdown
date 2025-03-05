@@ -9,7 +9,7 @@ forks: 56
 stars: 19
 download: https://github.com/sharu725/thunder/archive/master.zip
 demo: https://webjeda.com/thunder/
-author: sharathdt
+author: Sharath Kumar
 thumbnail: thunder.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT

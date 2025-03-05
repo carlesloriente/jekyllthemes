@@ -9,7 +9,7 @@ forks: 55
 stars: 27
 download: https://github.com/sharu725/gatok/archive/master.zip
 demo: https://gatok.webjeda.com
-author: webjeda
+author: Sharath Kumar
 thumbnail: gatok.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT

@@ -9,7 +9,7 @@ forks: 277
 stars: 98
 download: https://github.com/sharu725/cards/archive/master.zip
 demo: https://cards.webjeda.com/
-author: sharathdt
+author: Sharath Kumar
 thumbnail: webjeda-cards.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT

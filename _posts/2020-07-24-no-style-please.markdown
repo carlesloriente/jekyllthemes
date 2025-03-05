@@ -9,7 +9,7 @@ forks: 566
 stars: 1149
 download: https://github.com/riggraz/no-style-please/archive/master.zip
 demo: https://riggraz.dev/no-style-please/
-author: riggraz
+author: Riccardo Graziosi
 thumbnail: no-style-please.webp
 license: MIT
 license_link: https://github.com/riggraz/no-style-please/blob/v0.2.0/LICENSE.txt

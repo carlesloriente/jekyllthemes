@@ -9,7 +9,7 @@ forks: 151
 stars: 263
 download: https://github.com/sharu725/hagura/archive/master.zip
 demo: https://webjeda.com/hagura
-author: webjeda
+author: Sharath Kumar
 thumbnail: hagura.webp
 license: MIT
 license_link: https://opensource.org/licenses/MIT
