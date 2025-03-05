@@ -8,7 +8,7 @@ forks: 0
 stars: 2
 download: https://github.com/lazypwny751/jekyll-linktree/archive/refs/heads/main.zip
 demo: https://lazypwny751.github.io/jekyll-linktree
-author: lazypwny751
+author: Ahmed
 thumbnail: jekyll-linktree.png
 license: MIT
 license_link: https://opensource.org/license/MIT
