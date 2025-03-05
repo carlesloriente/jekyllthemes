@@ -5,7 +5,7 @@ title: Ockham
 date: 2021-09-21 20:25:14 01:00
 repo: https://github.com/zivong/ockham
 update_date: 2023-04-14
-forks: 6
+forks: 8
 stars: 10
 download: https://github.com/zivong/ockham/archive/refs/heads/master.zip
 author: Song-Zi Vong

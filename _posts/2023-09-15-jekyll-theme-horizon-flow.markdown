@@ -6,7 +6,7 @@ date: 2023-09-15 08:45:00 +01:00
 repo: https://github.com/papierkorp/jekyll-theme-horizon-flow
 update_date: 2024-08-07
 forks: 4
-stars: 4
+stars: 5
 download: https://github.com/papierkorp/jekyll-theme-horizon-flow/archive/refs/tags/1.0.3.zip
 demo: https://papierkorp.github.io/jekyll-theme-horizon-flow/
 author: Markus Schiller

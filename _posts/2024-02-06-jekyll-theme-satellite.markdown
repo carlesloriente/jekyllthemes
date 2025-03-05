@@ -5,8 +5,8 @@ title: Satellite
 date: 2024-02-06 20:00:00 +01:00
 repo: https://github.com/byanko55/jekyll-theme-satellite
 update_date: 2024-12-27
-forks: 42
-stars: 32
+forks: 48
+stars: 41
 download: https://github.com/byanko55/jekyll-theme-satellite/releases
 demo: https://byanko55.github.io/
 thumbnail: jekyll-theme-satellite.webp
