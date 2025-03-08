@@ -11,7 +11,7 @@ author: Robert Austin
 thumbnail: jekyll-lever.png
 license: Propietary
 price: $49
-license_link: https://www.zerostatic.io/theme/jekyll-lever/
+license_link: https://www.zerostatic.io/license/
 carousel:
   - 'jekyll-lever-gallery-0.png'
   - 'jekyll-lever-gallery-1.png'

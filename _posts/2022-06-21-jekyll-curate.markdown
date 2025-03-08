@@ -11,7 +11,7 @@ author: Robert Austin
 thumbnail: jekyll-curate.png
 license: Propietary
 price: $49
-license_link: https://www.zerostatic.io/theme/jekyll-curate/
+license_link: https://www.zerostatic.io/license/
 carousel:
   - 'jekyll-curate-gallery-0.png'
   - 'jekyll-curate-gallery-1.png'

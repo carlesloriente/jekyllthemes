@@ -11,7 +11,7 @@ author: Robert Austin
 thumbnail: jekyll-advance.png
 license: Propietary
 price: $79
-license_link: https://www.zerostatic.io/theme/jekyll-advance/
+license_link: https://www.zerostatic.io/license/
 carousel:
   - 'jekyll-advance-gallery-0.png'
   - 'jekyll-advance-gallery-1.png'

@@ -11,7 +11,7 @@ author: Robert Austin
 thumbnail: jekyll-origin.png
 license: Propietary
 price: $49
-license_link: https://www.zerostatic.io/theme/jekyll-origin/
+license_link: https://www.zerostatic.io/license/
 carousel:
   - 'jekyll-origin-gallery-0.png'
   - 'jekyll-origin-gallery-1.png'
