@@ -1,0 +1,89 @@
+---
+layout: post
+comments: true
+title: Links
+date: 2025-03-08 02:40:18 +02:00
+update_date: 2025-03-03
+repo: https://github.com/harsh98trivedi/links
+demo: https://htlink.netlify.app/
+forks: 125
+stars: 200
+download: https://github.com/harsh98trivedi/links/archive/refs/heads/master.zip
+author: Harsh Trivedi
+thumbnail: links.png
+license: GPL-2.0
+license_link: https://opensource.org/licenses/GPL-2.0
+carousel:
+  - 'links.png'
+  - 'screenshot.png'
+---
+
+A Beautiful Jekyll Theme For Links.
+
+## Table of contents
+
+- [Table of contents](#table-of-contents)
+- [Installation](#installation)
+  - [Want to set this up **locally**?](#want-to-set-this-up-locally)
+  - [Want to set this up on **Docker**?](#want-to-set-this-up-on-docker)
+- [Content Credits](#content-credits)
+
+## Installation
+
+- Fork this [Repository](https://github.com/harsh98trivedi/Links){:target="_blank"}{:rel="noopener noreferrer"}
+- Edit the **_config.yml**
+- Fill the available details accordingly
+- Commit the changes
+
+> Links is also [**Netlify**](https://www.netlify.com/){:target="_blank"}{:rel="noopener noreferrer"} ready.
+
+### Want to set this up **locally**?
+
+- Clone this **Repository** using **Git**
+
+> Kindly Change [USERNAME] with your own GitHub UserName
+
+```bash
+git clone https://github.com/[USERNAME]/Links
+```
+
+- Go to the project directory
+
+```bash
+cd links
+```
+
+- Install **Links** with **npm**
+
+```bash
+npm start
+```
+
+### Want to set this up on **Docker**?
+
+View repository on [Docker Hub](https://hub.docker.com/r/harsh98trivedi/links){:target="_blank"}{:rel="noopener noreferrer"}
+
+- Edit your **_config.yml**
+- Fill in the available details accordingly
+- Run the **Docker** container:
+
+```bash
+docker run -d -p 4000:4000 -v /absolute/path/to/_config.yml:/app/_config.yml --name links harsh98trivedi/links:latest
+```
+
+- Open the browser and go to **links-ip:4000**. You should see your **links** site up and running!
+
+> Note: Whenever you make changes to the **_config.yml** file, you need to stop and remove the **Docker** container, then recreate it:
+
+```bash
+docker stop links && docker rm links && docker run -d -p 4000:4000 -v /absolute/path/to/_config.yml:/app/_config.yml --name links harsh98trivedi/links:latest
+```
+
+## Content Credits
+
+- [Cover Image](https://source.unsplash.com/){:target="_blank"}{:rel="noopener noreferrer"}
+- [Font Awesome](https://fontawesome.com/){:target="_blank"}{:rel="noopener noreferrer"}
+- [Poppins Font](https://fonts.google.com/specimen/Poppins){:target="_blank"}{:rel="noopener noreferrer"}
+- [Images.weserv.nl](https://images.weserv.nl/){:target="_blank"}{:rel="noopener noreferrer"}
+
+Special Thanks to [Rohit Motwani](https://github.com/rohittm){:target="_blank"}{:rel="noopener noreferrer"} for configuring **Nodemon** and making it up and running with his geeky mind, [Hitanshu Sahu](https://www.behance.net/phantomcluster){:target="_blank"}{:rel="noopener noreferrer"} for improving the design with his awesome UI skills and [Nelson Dane](https://github.com/NelsonDane) for making this compatible with [Docker](https://docker.com/){:target="_blank"}{:rel="noopener noreferrer"}
