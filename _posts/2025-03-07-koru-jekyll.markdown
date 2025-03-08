@@ -90,7 +90,7 @@ menu:
 
 ## Jekyll Development
 
-1. If you haven't already, [set up a GitHub Access Token](https://docs.github.com/en/packages/learn-github-packages/introduction-to-github-packages#authenticating-to-github-packages) to publish, install, and delete packages.
+1. If you haven't already, [set up a GitHub Access Token](https://docs.github.com/en/packages/learn-github-packages/introduction-to-github-packages#authenticating-to-github-packages){:target="_blank"}{:rel="noopener noreferrer"} to publish, install, and delete packages.
 2. Set a `NPM_TOKEN` variable locally that will use the GitHub access token you just created.
    - To add the variable in your current session, run `export NPM_TOKEN=your-token-here`
    - Or add the variable to the configuration file of your shell environment (.bashrc, .zshrc, etc.)
