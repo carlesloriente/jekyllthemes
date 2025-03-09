@@ -9,7 +9,7 @@ demo: https://jekyll-lever.netlify.app/
 download: https://zerostatic.lemonsqueezy.com/checkout/buy/dddb7267-559e-4b0f-8326-43d477a58108
 author: Robert Austin
 thumbnail: jekyll-lever.png
-license: Propietary
+license: Proprietary
 price: $49
 license_link: https://www.zerostatic.io/license/
 carousel:

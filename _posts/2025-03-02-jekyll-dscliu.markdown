@@ -11,7 +11,7 @@ forks: 0
 stars: 1
 download: https://github.com/kmutahar/jekyll-theme-dscliu/archive/refs/tags/v0.2.3.zip
 author: Khaldoon Mutahar
-thumbnail: dscliu.png
+thumbnail: dscliu.webp
 license: GPLv3
 license_link: https://opensource.org/license/GPL-3.0
 carousel:

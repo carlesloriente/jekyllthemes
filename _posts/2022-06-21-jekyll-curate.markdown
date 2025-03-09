@@ -9,7 +9,7 @@ demo: https://jekyll-curate.netlify.app/
 download: https://zerostatic.lemonsqueezy.com/checkout/buy/36182332-bf9a-4950-9448-a91b16010d63
 author: Robert Austin
 thumbnail: jekyll-curate.png
-license: Propietary
+license: Proprietary
 price: $49
 license_link: https://www.zerostatic.io/license/
 carousel:

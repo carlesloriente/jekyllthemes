@@ -9,7 +9,7 @@ forks: 0
 stars: 1
 download: https://github.com/attajak/jekyll-basically-basic/archive/refs/heads/main.zip
 author: Attajak Janrak
-thumbnail: basically-basic.png
+thumbnail: basically-basic-1.webp
 license: CC-1.0
 license_link: https://creativecommons.org/publicdomain/zero/1.0/
 carousel:

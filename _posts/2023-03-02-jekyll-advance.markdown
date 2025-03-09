@@ -9,7 +9,7 @@ demo: https://jekyll-advance.netlify.app/
 download: https://zerostatic.lemonsqueezy.com/checkout/buy/c3a60284-84dd-4dc4-9ad5-5a5dd5828deb
 author: Robert Austin
 thumbnail: jekyll-advance.png
-license: Propietary
+license: Proprietary
 price: $79
 license_link: https://www.zerostatic.io/license/
 carousel:

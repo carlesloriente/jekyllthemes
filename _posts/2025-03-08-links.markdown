@@ -10,7 +10,7 @@ forks: 125
 stars: 200
 download: https://github.com/harsh98trivedi/links/archive/refs/heads/master.zip
 author: Harsh Trivedi
-thumbnail: links.png
+thumbnail: links.webp
 license: GPLv2
 license_link: https://opensource.org/licenses/GPL-2.0
 carousel:
