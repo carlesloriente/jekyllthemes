@@ -12,7 +12,7 @@ demo: https://thinker3197.github.io/ink
 author: Ashish Gupta
 thumbnail: ink.webp
 license: MIT
-license_link: https://github.com/thinker3197/ink/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -12,7 +12,7 @@ demo: https://thomasvaeth.com/trophy/
 author: Thomas Vaeth
 thumbnail: trophy.webp
 license: MIT
-license_link: https://github.com/thomasvaeth/trophy-jekyll/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
  - 'screenshot-1.png'
  - 'screenshot-2.png'

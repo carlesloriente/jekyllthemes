@@ -12,7 +12,7 @@ demo: https://byanko55.github.io/
 thumbnail: jekyll-theme-satellite.webp
 author: "Yankos"
 license: MIT
-license_link: https://github.com/byanko55/jekyll-theme-satellite/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'demo.webp'
 ---

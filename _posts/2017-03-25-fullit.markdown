@@ -12,7 +12,7 @@ demo: https://fullit.github.io
 author: Antonio Trento
 thumbnail: fullit.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/fullit/fullit.github.io/refs/heads/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

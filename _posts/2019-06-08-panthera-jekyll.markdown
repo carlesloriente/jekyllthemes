@@ -12,7 +12,7 @@ demo: https://demothemes.github.io/panthera-jekyll/
 author: Christian Ezeani
 thumbnail: panthera-jekyll.webp
 license: MIT
-license_link: https://github.com/christianezeani/panthera-jekyll/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

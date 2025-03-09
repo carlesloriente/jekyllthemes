@@ -12,7 +12,7 @@ demo: https://sootspirits.github.io
 author: Abhishek Nagekar
 thumbnail: sootspirits.webp
 license: MIT
-license_link: https://opensource.org/license/mit
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

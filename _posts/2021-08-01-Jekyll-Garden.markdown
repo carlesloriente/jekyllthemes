@@ -11,7 +11,7 @@ download: https://github.com/Jekyll-Garden/jekyll-garden.github.io/archive/refs/
 demo: https://jekyll-garden.github.io
 author: Mu-An Chiou
 license: MIT
-license_link: https://raw.githubusercontent.com/Jekyll-Garden/jekyll-garden.github.io/refs/heads/main/LICENSE
+license_link: https://opensource.org/license/MIT
 thumbnail: jekyll-garden.webp
 carousel:
  - 'jekyll-garden.png'

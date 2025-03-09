@@ -12,7 +12,7 @@ demo: https://vinitkumar.github.io/white-paper/
 author: Vinit Kumar
 thumbnail: white-paper.webp
 license: MIT
-license_link: https://github.com/vinitkumar/white-paper/raw/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

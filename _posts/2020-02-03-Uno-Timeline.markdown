@@ -12,7 +12,7 @@ demo: https://www.zuehlke.cloud/
 author: Thomas Zühlke
 thumbnail: uno-timeline.webp
 license: MIT
-license_link: https://github.com/tzuehlke/jekyll-uno-timeline/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

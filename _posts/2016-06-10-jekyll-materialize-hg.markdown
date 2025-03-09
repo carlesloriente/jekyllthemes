@@ -12,6 +12,7 @@ demo: https://hugocarreira.github.io/jekyll-materializecss
 author: Hugo Carreira
 thumbnail: materialize-hg.webp
 license: MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -12,7 +12,7 @@ demo: https://webjeda.com/hagura
 author: Sharath Kumar
 thumbnail: hagura.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
   - 'hagura-dark-jekyll-theme.png'

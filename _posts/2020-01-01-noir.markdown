@@ -11,7 +11,7 @@ download: https://github.com/essentialenemy/noir/archive/master.zip
 author: Victor Johnson
 thumbnail: noir.webp
 license: MIT
-license_link: https://github.com/essentialenemy/noir/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 ---
 
 An automatic dark mode adaptation of the Poole theme for Jekyll.

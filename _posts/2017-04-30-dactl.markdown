@@ -12,7 +12,7 @@ demo: https://melangue.github.io/dactl/
 author: Marcin C
 thumbnail: dactl_small.webp
 license: MIT
-license_link: https://opensource.org/license/mit
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot_desktop_light.jpg'
   - 'screenshot_desktop_dark.jpg'

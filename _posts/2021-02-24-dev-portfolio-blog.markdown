@@ -12,7 +12,7 @@ demo: https://therohitjain.com/
 author: Rohit Jain
 thumbnail: dev-portfolio-blog-thumbnail.webp
 license: MIT
-license_link: https://github.com/rohitjain00/dev-portfolio-blog/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-1.png'
   - 'screenshot-2.png'

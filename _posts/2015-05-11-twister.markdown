@@ -11,7 +11,7 @@ download: https://digitalmind.ch/media/downloads/twister_theme.zip
 author: Digitalmind
 thumbnail: twister.webp
 license: MIT
-license_link: https://github.com/DigitalMindCH/twister/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.jpg'
 ---

@@ -11,7 +11,7 @@ download: https://github.com/prio101/metaphor-jekyll/archive/master.zip
 author: Mahabub I.
 thumbnail: metaphor.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 ---
 
 This is a simple type blog theme made with Jekyll

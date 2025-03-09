@@ -10,7 +10,7 @@ demo: https://korak-997.github.io/dark-sjt/
 author: Korak Kurani
 thumbnail: dash.jpg
 license: MIT
-license_link: https://github.com/Korak-997/dark-SJT/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 Dark- Simple Jekyll Theme, is a [Jekyll](https://jekyllrb.com/) theme.

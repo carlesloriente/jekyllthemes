@@ -12,7 +12,7 @@ demo: https://rohanchandra.github.io/type-theme/
 author: Rohan Chandra
 thumbnail: type-theme.webp
 license: MIT
-license_link: https://github.com/sergiokopplin/indigo/archive/refs/heads/gh-pages.zip
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

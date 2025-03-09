@@ -12,7 +12,7 @@ demo: https://liungkejin.github.io/
 author: Kejin
 thumbnail: easy-pure-blog.webp
 license: MIT
-license_link: https://github.com/liungkejin/liungkejin.github.io/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

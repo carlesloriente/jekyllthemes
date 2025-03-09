@@ -11,7 +11,7 @@ download: https://github.com/vfvong/jekyll-theme-tao/archive/refs/heads/main.zip
 author: Song-Zi Vong
 thumbnail: tao.webp
 license: MIT
-license_link: https://github.com/vfvong/jekyll-theme-tao/blob/main/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.jpg'
 ---

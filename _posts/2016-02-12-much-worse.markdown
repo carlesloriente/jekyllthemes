@@ -12,7 +12,7 @@ demo: https://gchauras.github.io/
 author: Gaurav Chaurasia
 thumbnail: much-worse.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

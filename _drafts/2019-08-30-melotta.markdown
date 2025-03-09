@@ -10,7 +10,7 @@ demo: https://artemsheludko.github.io/melotta/
 author: Artem Sheludko
 thumbnail: melotta-small.jpg
 license: MIT
-license_link: https://github.com/artemsheludko/melotta/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'melotta-preview.png'
 ---

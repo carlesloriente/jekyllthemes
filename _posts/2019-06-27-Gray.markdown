@@ -11,7 +11,7 @@ download: https://github.com/brunofolle/gray/archive/master.zip
 author: Bruno Folle
 thumbnail: gray.webp
 license: MIT
-license_link: https://github.com/brunofolle/gray/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 ---
 
 Gray is a simple blog for bloggers.

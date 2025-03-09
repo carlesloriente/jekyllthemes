@@ -12,7 +12,7 @@ demo: https://romakoch.com/
 author: Roman Koch
 thumbnail: jekyll-overreacted.webp
 license: MIT
-license_link: https://github.com/foodgy/jekyll-overreacted/blob/main/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

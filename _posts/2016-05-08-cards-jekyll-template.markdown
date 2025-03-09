@@ -12,7 +12,7 @@ demo: https://willianjusten.github.io/cards-jekyll-template/
 author: Willian Justen
 thumbnail: cards-jekyll-template.webp
 license: MIT
-license_link: https://github.com/willianjusten/cards-jekyll-template/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

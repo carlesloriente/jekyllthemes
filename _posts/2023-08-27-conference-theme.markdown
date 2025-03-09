@@ -12,7 +12,7 @@ demo: https://www.winterkongress.ch/2024/
 author: "Lorenz Schmid"
 thumbnail: jekyll-theme-conference.webp
 license: MIT
-license_link: https://github.com/DigitaleGesellschaft/jekyll-theme-conference/blob/main/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -12,7 +12,7 @@ demo: https://knhash.in/jekyllBear
 author: Knhash
 thumbnail: jekyllBear.webp
 license: MIT
-license_link: https://github.com/knhash/jekyllBear/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'JBHome.png'
   - 'JBBlog.png'

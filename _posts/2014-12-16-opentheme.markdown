@@ -11,7 +11,7 @@ download: https://github.com/manavsehgal/opentheme/archive/master.zip
 author: Manav Sehgal
 thumbnail: opentheme.webp
 license: MIT
-license_link: https://github.com/manavsehgal/opentheme/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 OpenTheme, starter theme using Semantic UI and Jekyll for creating awesome websites on GitHub Pages.

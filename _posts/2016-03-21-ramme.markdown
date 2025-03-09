@@ -12,7 +12,7 @@ demo: https://tolgatatli.github.io/Ramme/
 author: Taylan Tatlı
 thumbnail: ramme.webp
 license: MIT
-license_link: https://github.com/TaylanTatli/Ramme/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
  - 'screenshot.png'
 ---

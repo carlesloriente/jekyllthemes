@@ -12,7 +12,7 @@ demo: https://erayaydin.github.io/jekyll-bulma/
 author: Eray Aydın
 thumbnail: jekyll-bulma.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/erayaydin/jekyll-bulma/refs/heads/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

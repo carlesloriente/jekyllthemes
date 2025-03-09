@@ -11,7 +11,7 @@ download: https://github.com/ellekasai/shiori/archive/gh-pages.zip
 demo: https://ellekasai.github.io/shiori/
 author: Elle Kasai
 license: MIT
-license_link: https://ellekasai.mit-license.org/
+license_link: https://opensource.org/license/MIT
 thumbnail: shiori.webp
 carousel:
   - 'screenshot.png'

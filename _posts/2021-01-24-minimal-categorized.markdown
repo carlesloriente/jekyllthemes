@@ -12,7 +12,7 @@ demo: https://itspatrq.github.io/minimal-categorized/
 author: Patryk Bieszke
 thumbnail: minimal-categorized-thumbnail.webp
 license: MIT
-license_link: https://github.com/ItsPatrq/minimal-categorized/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -12,7 +12,7 @@ demo: https://aron-bordin.github.io/neo-hpstr-jekyll-theme/
 author: Aron Bordin
 thumbnail: neo-hpstr-jekyll-template.webp
 license: MIT
-license_link: https://github.com/aron-bordin/neo-hpstr-jekyll-theme?tab=MIT-1-ov-file#readme
+license_link: https://opensource.org/license/MIT
 ---
 
 The [Neo-HPSTR Jekyll Template](https://github.com/aron-bordin/neo-hpstr-jekyll-theme){:target="_blank"}{:rel="noopener noreferrer"} show the main Theme. Feel free to Fork, Star it and make a New Version of it. Forked from [HPSTR](https://github.com/mmistakes/hpstr-jekyll-theme){:target="_blank"}{:rel="noopener noreferrer"}

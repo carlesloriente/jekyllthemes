@@ -12,7 +12,7 @@ demo: https://wall-e-jekyll.github.io/
 author: Abhishek Nagekar
 thumbnail: wall-e.webp
 license: MIT
-license_link: https://opensource.org/license/mit
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

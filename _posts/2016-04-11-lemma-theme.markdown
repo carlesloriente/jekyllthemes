@@ -12,7 +12,7 @@ demo: https://neizod.github.io/lemma-theme
 author: Nattawut Phetmak
 thumbnail: lemma.webp
 license: MIT
-license_link: https://github.com/neizod/lemma-theme/blob/gh-pages/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
  - 'screenshot.png'
 ---

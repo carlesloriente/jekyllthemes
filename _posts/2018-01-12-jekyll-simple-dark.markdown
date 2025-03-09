@@ -12,7 +12,7 @@ demo: https://son-link.github.io/jekyll-simple-dark/
 author: Alfonso Saavedra 'Son Link'
 thumbnail: simple-dark.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/son-link/jekyll-simple-dark/refs/heads/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

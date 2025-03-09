@@ -12,7 +12,7 @@ demo: https://victorvoid.github.io/space-jekyll-template/
 author: Victor Igor
 thumbnail: space-jekyll-template.webp
 license: MIT
-license_link: https://github.com/victorvoid/space-jekyll-template/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

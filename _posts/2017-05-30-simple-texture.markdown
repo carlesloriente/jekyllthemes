@@ -12,7 +12,7 @@ demo: https://yizeng.github.io/jekyll-theme-simple-texture/
 author: Yi Zeng
 thumbnail: simple-texture.webp
 license: MIT
-license_link: https://github.com/yizeng/jekyll-theme-simple-texture/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'homepage.png'
   - 'post.png'

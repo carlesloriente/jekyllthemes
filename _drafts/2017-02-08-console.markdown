@@ -10,7 +10,7 @@ demo: https://jaehee0113.github.io/console
 author: Jae Hee Lee
 thumbnail: console.png
 license: MIT
-license_link: https://github.com/jaehee0113/console/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 ---
 
 Console theme, concise and fast theme for everyone.

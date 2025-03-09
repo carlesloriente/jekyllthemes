@@ -12,7 +12,7 @@ demo: https://mmistakes.github.io/jekyll-theme-basically-basic/
 author: Michael Rose
 thumbnail: basically-basic.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/mmistakes/jekyll-theme-basically-basic/refs/heads/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
  - '6dede894-0d81-11e7-9c2c-f19bea45e219.jpg'
 ---

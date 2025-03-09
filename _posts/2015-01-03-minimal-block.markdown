@@ -12,7 +12,7 @@ demo: https://blog.drvy.net/minimal-block/
 author: Dragomir Yordanov
 thumbnail: minimal-block.webp
 license: MIT
-license_link: https://github.com/drvy/minimal-block/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

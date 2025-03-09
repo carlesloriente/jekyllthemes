@@ -11,7 +11,7 @@ download: https://github.com/boyney123/evento/archive/master.zip
 author: David Boyne
 thumbnail: evento.webp
 license: MIT
-license_link: https://github.com/boyney123/evento/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

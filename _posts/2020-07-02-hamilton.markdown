@@ -11,7 +11,7 @@ download: https://github.com/ngzhio/jekyll-theme-hamilton/archive/master.zip
 author: Shangzhi Huang
 thumbnail: hamilton.webp
 license: MIT
-license_link: https://github.com/ngzhio/jekyll-theme-hamilton/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

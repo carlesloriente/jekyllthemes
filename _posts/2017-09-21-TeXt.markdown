@@ -11,7 +11,7 @@ demo: https://tianqi.name/jekyll-TeXt-theme/
 author: Tian Qi
 thumbnail: TeXt.webp
 license: MIT
-license_link: https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'TeXt-home.png'
   - 'TeXt-layouts.png'

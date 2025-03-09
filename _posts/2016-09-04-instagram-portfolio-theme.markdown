@@ -11,7 +11,7 @@ download: https://github.com/portfolio-central/jekyll-instagram-portfolio-theme/
 author: Sergey Sokurenko
 thumbnail: instagram-portfolo-theme.webp
 license: MIT
-license_link: https://github.com/portfolio-central/jekyll-instagram-portfolio-theme/blob/gh-pages/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

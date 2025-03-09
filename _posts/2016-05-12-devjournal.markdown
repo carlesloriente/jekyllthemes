@@ -12,7 +12,7 @@ demo: https://hemangsk.github.io/DevJournal
 author: Hemang Kumar
 thumbnail: devjournal.webp
 license: MIT
-license_link: https://github.com/hemangsk/DevJournal/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -11,7 +11,7 @@ download: https://github.com/olakara/JekyllMetro/archive/master.zip
 author: Abdel Raoof Olakara
 thumbnail: jekyll-metro.webp
 license: MIT
-license_link: https://github.com/olakara/JekyllMetro/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 ---
 
 jekyll metro is a Jekyll theme, inspired by Microsoft's Metro design principles.

@@ -11,7 +11,7 @@ download: https://github.com/rowanoulton/galileo-theme/archive/master.zip
 author: rowanoulton
 thumbnail: galileo.webp
 license: MIT
-license_link: https://github.com/rowanoulton/galileo-theme/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

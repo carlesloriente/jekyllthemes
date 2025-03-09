@@ -12,7 +12,7 @@ demo: https://vszhub.github.io/not-pure-poole/
 author: Songzi Vong
 thumbnail: not-pure-poole.webp
 license: MIT
-license_link: https://github.com/vszhub/not-pure-poole/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

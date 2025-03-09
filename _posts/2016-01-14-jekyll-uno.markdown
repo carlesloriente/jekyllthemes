@@ -12,7 +12,7 @@ demo: https://joshgerdes.com/jekyll-uno/
 author: Josh Gerdes
 thumbnail: jekyll-uno.webp
 license: MIT
-license_link: https://github.com/joshgerdes/jekyll-uno/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
  - 'screenshot.png'
 ---

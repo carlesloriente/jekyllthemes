@@ -12,7 +12,7 @@ demo: https://zachholman.com/left/
 author: Zach Holman
 thumbnail: left.webp
 license: MIT
-license_link: https://github.com/holman/left/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -12,7 +12,7 @@ demo: https://sfreytag.github.io/friday-theme/
 author: Simon Freytag
 thumbnail: friday-theme.webp
 license: MIT
-license_link: https://github.com/sfreytag/friday-theme/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

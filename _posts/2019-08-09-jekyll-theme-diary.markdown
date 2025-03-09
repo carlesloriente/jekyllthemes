@@ -12,7 +12,7 @@ demo: https://soyaine.github.io/jekyll-theme-diary/
 author: Soyaine
 thumbnail: jekyll-theme-diary-thumbnail-light.webp
 license: MIT
-license_link: https://github.com/soyaine/jekyll-theme-diary/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'jekyll-theme-diary-screenshot-light.jpg'
 ---

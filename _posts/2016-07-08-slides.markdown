@@ -12,7 +12,7 @@ demo: https://slides.webjeda.com/
 author: Sharath Kumar
 thumbnail: slides.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/hakimel/reveal.js/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

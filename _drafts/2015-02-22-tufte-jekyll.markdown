@@ -9,7 +9,7 @@ demo: https://clayh53.github.io/tufte-jekyll/
 author: Clay Harmon
 thumbnail: tufte-jekyll.png
 license: MIT
-license_link: https://github.com/clayh53/tufte-jekyll/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 The Tufte-Jekyll theme is a natural extension of the work done by Dave Leipmann on Github after he created a CSS file that allows web writers to use the simple and elegant style employed by Edward Tufte in his published materials. Tufte’s style is known for its extensive use of sidenotes, tight integration of graphics with text, and well-set typography. The idea for this project is essentially cribbed wholesale from Tufte and R Markdown’s Tufte Handout format.

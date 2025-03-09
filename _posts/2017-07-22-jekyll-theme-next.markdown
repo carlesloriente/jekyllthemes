@@ -12,7 +12,7 @@ demo: https://simpleyyt.github.io/jekyll-theme-next/
 author: Yitao Yao
 thumbnail: jekyll-theme-next.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel: 
   - 'screenshot.png'
 ---

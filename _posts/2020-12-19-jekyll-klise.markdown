@@ -12,7 +12,7 @@ demo: https://klise.now.sh
 author: Mahendrata Harpi
 thumbnail: jekyll-klise-thumbnail.webp
 license: MIT
-license_link: https://github.com/piharpi/jekyll-klise/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

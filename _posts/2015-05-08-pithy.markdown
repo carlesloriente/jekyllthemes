@@ -11,7 +11,7 @@ download: https://github.com/smallmuou/Jekyll-Pithy/archive/master.zip
 author: Pawpaw
 thumbnail: pithy.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

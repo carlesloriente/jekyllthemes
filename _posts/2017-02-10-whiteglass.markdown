@@ -12,7 +12,7 @@ demo: https://yous.github.io/whiteglass/
 author: Chayoung You
 thumbnail: whiteglass.webp
 license: MIT
-license_link: https://github.com/yous/whiteglass/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

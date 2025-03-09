@@ -12,7 +12,7 @@ demo: https://heiswayi.github.io/textlog/
 author: Heiswayi Nrird
 thumbnail: textlog.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/heiswayi/textlog/refs/heads/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -12,7 +12,7 @@ demo: https://nandomoreirame.github.io/end2end/
 author: nandomoreira.me
 thumbnail: end2end.webp
 license: MIT
-license_link: https://github.com/nandomoreirame/end2end/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

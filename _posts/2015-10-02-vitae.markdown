@@ -11,7 +11,7 @@ download: https://github.com/biomadeira/vitae/archive/gh-pages.zip
 author: biomadeira
 thumbnail: vitae.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

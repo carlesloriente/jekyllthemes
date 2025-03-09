@@ -12,7 +12,7 @@ demo: https://renyuanz.github.io/leonids
 author: Renyuan Zou
 thumbnail: leonids.webp
 license: MIT
-license_link: https://github.com/renyuanz/leonids/blob/master/README.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

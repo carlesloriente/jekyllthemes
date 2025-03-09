@@ -12,6 +12,7 @@ demo: https://chalk.nielsenramon.com
 author: Nielsen Ramon
 thumbnail: chalk.webp
 license: MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

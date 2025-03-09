@@ -12,7 +12,7 @@ demo: https://aigarsdz.github.io/brume
 author: Aigars Dzerviniks
 thumbnail: brume.webp
 license: MIT
-license_link: https://github.com/aigarsdz/brume/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -11,7 +11,7 @@ download: https://github.com/mattcouchman/jekyll-resume/archive/gh-pages.zip
 author: Matt Couchman
 thumbnail: jekyll-resume.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

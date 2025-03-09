@@ -12,7 +12,7 @@ demo: https://ttskch.github.io/jekyll-ttskch-theme/
 author: Takashi Kanemoto
 thumbnail: ttskch-theme.webp
 license: MIT
-license_link: https://github.com/ttskch/jekyll-ttskch-theme/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -12,7 +12,7 @@ demo: https://jameshamann.com
 author: James Hamann
 thumbnail: jekyll-material-theme.webp
 license: MIT
-license_link: https://github.com/jameshamann/jekyll-material-theme/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.gif'
 ---

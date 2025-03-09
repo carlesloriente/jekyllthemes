@@ -12,7 +12,7 @@ demo: https://lenpaul.github.io/Millennial/
 author: Paul Le
 thumbnail: millennial.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/LeNPaul/Millennial/refs/heads/gh-pages/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

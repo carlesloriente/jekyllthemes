@@ -12,7 +12,7 @@ demo: https://gatok.webjeda.com
 author: Sharath Kumar
 thumbnail: gatok.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'webjeda-gatok-jekyll-theme-screenshot.jpg'
   - 'webjeda-gatok-jekyll-theme-screenshot-1.png'

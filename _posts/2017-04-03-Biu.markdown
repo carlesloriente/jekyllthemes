@@ -11,6 +11,7 @@ download: https://github.com/RedL0tus/Biu-Jekyll-Theme
 author: KayMW (RedL0tus) & alexcarpenter
 thumbnail: biu.webp
 license: MIT
+license_link: https://opensource.org/license/MIT
 ---
 
 Biu is a minimal theme based on [Butane](https://github.com/alexcarpenter/butane-jekyll-theme)

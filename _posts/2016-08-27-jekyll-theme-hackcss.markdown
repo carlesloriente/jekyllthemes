@@ -12,7 +12,7 @@ demo: https://wemake-services.github.io/jekyll-theme-hackcss/
 author: wemake.services
 thumbnail: jekyll-theme-hackcss.webp
 license: MIT
-license_link: https://github.com/wemake-services/jekyll-theme-hackcss/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

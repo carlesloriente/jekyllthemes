@@ -12,7 +12,7 @@ demo: https://jekflix.rossener.com/
 author: Thiago Rossener
 thumbnail: jekflix.webp
 license: MIT
-license_link: https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

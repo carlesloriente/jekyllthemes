@@ -12,7 +12,7 @@ demo: https://ellekasai.github.io/resumecards/
 author: Elle Kasai
 thumbnail: resumecards.webp
 license: MIT
-license_link: https://ellekasai.mit-license.org/
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

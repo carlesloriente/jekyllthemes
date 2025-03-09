@@ -12,7 +12,7 @@ demo: https://longpdo.github.io/neumorphism/
 author: Long Do
 thumbnail: neumorphism.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/longpdo/neumorphism/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -13,7 +13,7 @@ demo: http://themedemopage.url/
 author: Author name
 thumbnail: thumbnail.webp
 license: MIT
-license_link: https://themepage.url/LICENCE
+license_link: https://opensource.org/license/MIT
 version: '0.1'
 carousel:
   - 'screenshot-1.webp'

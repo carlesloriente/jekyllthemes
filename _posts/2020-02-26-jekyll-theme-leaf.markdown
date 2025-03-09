@@ -12,7 +12,7 @@ demo: https://supun-io.github.io/jekyll-theme-leaf/
 author: Supun Kavinda
 thumbnail: leaf.webp
 license: MIT
-license_link: https://github.com/supun-io/jekyll-theme-leaf/blob/0.1.0/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

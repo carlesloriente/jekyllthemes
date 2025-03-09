@@ -12,7 +12,7 @@ demo: https://barber.samesies.io/
 author: Thomas Vaeth
 thumbnail: barber.webp
 license: MIT
-license_link: https://github.com/samesies/barber-jekyll/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'barber.jpg'
 ---

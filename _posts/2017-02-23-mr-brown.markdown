@@ -12,6 +12,7 @@ demo: http://artemsheludko.com/mr-brown
 author: Artem Sheludko
 thumbnail: mr-brown.webp
 license: MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

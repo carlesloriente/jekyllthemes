@@ -11,7 +11,7 @@ download: https://github.com/songkong/Blog/archive/gh-pages.zip
 author: Song
 thumbnail: ice-bear.webp
 license: MIT
-license_link: https://github.com/songkong/Blog/blob/gh-pages/LICENSE.md
+license_link: https://opensource.org/license/MIT
 ---
 
 This is a clean and blue theme. It's welcomed to give me a star at github if you like it.

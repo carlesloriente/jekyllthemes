@@ -12,7 +12,7 @@ demo: https://phlow.github.io/feeling-responsive/
 author: Phlow – Moritz »mo.« Sauer
 thumbnail: feeling-responsive.webp
 license: MIT
-license_link: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

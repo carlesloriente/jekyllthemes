@@ -12,7 +12,7 @@ demo: https://erl.im
 author: Sharon Zhang
 thumbnail: persephone.webp
 license: MIT
-license_link: https://github.com/erlzhang/jekyll-theme-persephone/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'home.png'
   - 'blog.png'

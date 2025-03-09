@@ -11,7 +11,7 @@ download: https://github.com/artemsheludko/flexton/archive/master.zip
 author: Artem Sheludko
 thumbnail: flexton.webp
 license: MIT
-license_link: https://github.com/artemsheludko/flexton/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'preview.png'
 ---

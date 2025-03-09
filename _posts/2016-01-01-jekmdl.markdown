@@ -12,7 +12,7 @@ demo: https://tigefa4u.github.io/jekmdl/
 author: sugeng tigefa
 thumbnail: jekmdl.webp
 license: MIT
-license_link: https://github.com/tigefa4u/jekmdl/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

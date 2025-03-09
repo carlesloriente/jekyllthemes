@@ -12,7 +12,7 @@ demo: https://liaokeyu.com
 author: liaokeyu
 thumbnail: jekyll-theme-h2o.webp
 license: MIT
-license_link: https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
 - 'jekyll-theme-h2o-realhome.jpg'
 - 'jekyll-theme-h2o-realm.png'

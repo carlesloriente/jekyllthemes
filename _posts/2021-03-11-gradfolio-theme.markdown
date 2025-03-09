@@ -12,7 +12,7 @@ demo: https://jitinnair1.github.io/gradfolio/
 author: Jitin Nair
 thumbnail: gradfolio.webp
 license: MIT
-license_link: https://github.com/jitinnair1/gradfolio/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - '110634179-acaa7e00-81cf-11eb-8846-062ecf961d1e.png'
 ---

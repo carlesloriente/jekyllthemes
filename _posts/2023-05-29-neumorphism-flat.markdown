@@ -12,7 +12,7 @@ demo: https://miorey.github.io/neumorphism-flat/
 author: Miorey
 thumbnail: neumorphism-flat.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/Miorey/neumorphism-flat/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.gif'
 ---

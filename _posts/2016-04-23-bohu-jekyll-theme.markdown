@@ -12,7 +12,7 @@ demo: https://Clark-Zhao.github.io/bohu-jekyll-theme/home/
 author: Clark Zhao
 thumbnail: BoHu-0000.webp
 license: MIT
-license_link: https://github.com/Clark-Zhao/bohu-jekyll-theme/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -10,7 +10,7 @@ demo: https://adagio-cantabile.github.io/
 author: Yiwen Gong
 thumbnail: pink-theme.jpg
 license: MIT
-license_link: https://github.com/Adagio-cantabile/Adagio-cantabile.github.io/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 ---
 
 This cute Pink theme is designed for not only technical writing, but also for sharing personal experience. This theme is especially designed for girls, but of course, you can change the theme color whatever you want.

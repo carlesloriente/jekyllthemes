@@ -12,7 +12,7 @@ demo: https://brianmaierjr.com/long-haul/
 author: Brian Maier Jr.
 thumbnail: long-haul.webp
 license: MIT
-license_link: https://github.com/brianmaierjr/long-haul/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

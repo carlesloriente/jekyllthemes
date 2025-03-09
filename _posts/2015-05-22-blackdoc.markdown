@@ -12,7 +12,7 @@ demo: https://karloespiritu.com/blackdoc
 author: Karlo Espiritu
 thumbnail: blackdoc.webp
 license: MIT
-license_link: https://github.com/karloespiritu/BlackDoc/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

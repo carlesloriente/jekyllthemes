@@ -12,7 +12,7 @@ demo: https://mushishi78.github.io/one-page-wonder-jekyll
 author: Max White
 thumbnail: one-page-wonder.webp
 license: MIT
-license_link: https://github.com/mushishi78/one-page-wonder-jekyll/blob/gh-pages/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

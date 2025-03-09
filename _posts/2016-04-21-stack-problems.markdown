@@ -12,7 +12,7 @@ demo: https://agusmakmun.github.io
 author: Agus Makmun
 thumbnail: stack-problems.webp
 license: MIT
-license_link: https://github.com/agusmakmun/agusmakmun.github.io/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
   - 'screenshot-post-page.png'

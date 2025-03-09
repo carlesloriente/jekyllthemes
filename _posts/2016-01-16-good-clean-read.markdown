@@ -12,7 +12,7 @@ demo: https://adueck.github.io/good-clean-read/
 author: Adam Dueck
 thumbnail: good-clean-read.webp
 license: MIT
-license_link: https://chibicode.mit-license.org/
+license_link: https://opensource.org/license/MIT
 carousel:
  - 'screenshot.png'
 ---

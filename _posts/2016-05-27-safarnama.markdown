@@ -12,7 +12,7 @@ demo: https://hemangsk.github.io/safarnama
 author: Hemang Kumar
 thumbnail: safarnama.webp
 license: MIT
-license_link: https://github.com/hemangsk/safarnama/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---
