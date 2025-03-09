@@ -38,4 +38,3 @@ Access `https://localhost:4000/`
 
 * Create a new page: `rake page name="contact.md"`
 * Create a new post: `rake post title="TITLE OF THE POST"`
-

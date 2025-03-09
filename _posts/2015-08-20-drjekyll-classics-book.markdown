@@ -12,6 +12,7 @@ demo: https://henrythemes.github.io/jekyll-book-theme/
 author: Gerald Bauer
 thumbnail: drjekyll-classics-book.webp
 license: Public Domain
+license_link: https://opensource.org/license/unlicense
 carousel:
   - 'screenshot.png'
 ---

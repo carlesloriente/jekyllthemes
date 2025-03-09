@@ -12,7 +12,7 @@ stars: 1033
 download: https://github.com/pages-themes/hacker/archive/refs/tags/v0.2.0.zip
 author: Ben Balter
 thumbnail: hacker.png
-license: CCO-1.0
+license: CC-1.0
 license_link: https://creativecommons.org/publicdomain/zero/1.0/
 carousel:
   - 'screenshot.png'

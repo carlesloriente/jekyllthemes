@@ -11,7 +11,7 @@ stars: 200
 download: https://github.com/harsh98trivedi/links/archive/refs/heads/master.zip
 author: Harsh Trivedi
 thumbnail: links.png
-license: GPL-2.0
+license: GPLv2
 license_link: https://opensource.org/licenses/GPL-2.0
 carousel:
   - 'links.png'

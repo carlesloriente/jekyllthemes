@@ -11,7 +11,8 @@ download: https://github.com/drjekyllthemes/jekyll-bootstrap-theme/archive/gh-pa
 demo: https://henrythemes.github.io/jekyll-bootstrap-theme/
 author: Gerald Bauer
 thumbnail: drjekyll-bootstrap.webp
-license: Public Domain
+license: CC-1.0
+license_link: https://creativecommons.org/publicdomain/zero/1.0/
 carousel:
   - 'screenshot.png'
 ---
