@@ -10,7 +10,7 @@ demo: https://hushaw.github.io
 author: signifox
 thumbnail: hushaw.png
 license: MIT
-license_link: https://github.com/hushaw/hushaw.github.com/blob/master/LICENCE
+license_link: https://opensource.org/license/MIT
 ---
 
 I just want to develop a minimal jekyll theme, and now i figure it out.

@@ -11,7 +11,7 @@ download: https://github.com/xukimseven/HardCandy-Jekyll/archive/master.zip
 author: xujinqi
 thumbnail: HardCandy-Jekyll.webp
 license: MIT
-license_link: https://github.com/xukimseven/HardCandy-Jekyll/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - '2.png'
   - '3.png'

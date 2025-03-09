@@ -11,7 +11,7 @@ download: https://github.com/rowanoulton/travelog-theme/archive/master.zip
 author: Rowan Oulton
 thumbnail: travelog.webp
 license: MIT
-license_link: https://github.com/rowanoulton/travelog-theme/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

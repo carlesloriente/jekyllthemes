@@ -12,7 +12,7 @@ demo: https://riggraz.dev/no-style-please/
 author: Riccardo Graziosi
 thumbnail: no-style-please.webp
 license: MIT
-license_link: https://github.com/riggraz/no-style-please/blob/v0.2.0/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

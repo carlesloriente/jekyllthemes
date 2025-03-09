@@ -13,7 +13,7 @@ author: Locky
 version: '2.0'
 thumbnail: panelcv2.webp
 license: MIT
-license_link: https://github.com/jekyller/online-cv/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 published: false
 ---
 

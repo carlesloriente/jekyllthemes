@@ -12,7 +12,7 @@ demo: https://mmistakes.github.io/minimal-mistakes/
 author: Michael Rose
 thumbnail: minimal-mistakes.webp
 license: MIT
-license_link: https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'dac474f4-0258-11e6-83f6-40e752028222.png'
 ---

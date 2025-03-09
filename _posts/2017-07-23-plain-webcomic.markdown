@@ -12,7 +12,7 @@ demo: https://peahatlanding.github.io/Plain-Webcomic/
 author: Nico Bocalan
 thumbnail: plain-webcomic.webp
 license: MIT
-license_link: https://opensource.org/license/mit
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

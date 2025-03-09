@@ -12,7 +12,7 @@ demo: https://wblearn.github.io/
 author: wblearn
 thumbnail: wblearn-blog.webp
 license: MIT
-license_link: https://github.com/wblearn/wblearn.github.io/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

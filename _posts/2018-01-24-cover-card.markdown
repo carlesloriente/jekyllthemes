@@ -12,7 +12,7 @@ demo: https://epidrome.github.io/cover-card/
 author: epidrome
 thumbnail: cover-card.webp
 license: MIT
-license_link: https://github.com/epidrome/cover-card/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

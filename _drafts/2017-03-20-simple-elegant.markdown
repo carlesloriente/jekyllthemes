@@ -10,7 +10,7 @@ demo: https://www.panxw.com/
 author: Panxw
 thumbnail: simple-elegant.jpg
 license: MIT
-license_link: https://opensource.org/license/mit
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'simple-elegant.jpg'
 ---

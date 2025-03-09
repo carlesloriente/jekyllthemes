@@ -12,7 +12,7 @@ demo: https://pranavrajs.github.io/limpid/
 author: Pranav Raj S
 thumbnail: limpid-minimal-theme.webp
 license: MIT
-license_link: https://github.com/pranavrajs/limpid/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

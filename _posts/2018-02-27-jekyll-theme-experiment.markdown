@@ -12,7 +12,7 @@ demo: https://anxhe.github.io/jekyll-theme-experiment
 author: Angelina Moreno
 thumbnail: jekyll-theme-experiment.webp
 license: MIT
-license_link: https://github.com/anxhe/jekyll-theme-experiment/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - '1.gif'
 ---

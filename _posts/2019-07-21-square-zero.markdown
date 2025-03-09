@@ -12,7 +12,7 @@ demo: https://squarezero.vercel.app/
 author: surajk95
 thumbnail: squarezero.webp
 license: MIT
-license_link: https://opensource.org/license/mit
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

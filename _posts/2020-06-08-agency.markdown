@@ -12,7 +12,7 @@ demo: https://raviriley.github.io/agency-jekyll-theme-starter/
 author: Ravi Riley
 thumbnail: agency.webp
 license: MIT
-license_link: https://github.com/raviriley/agency-jekyll-theme/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

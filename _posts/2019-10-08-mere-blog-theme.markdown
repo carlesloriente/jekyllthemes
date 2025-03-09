@@ -12,7 +12,7 @@ demo: https://www.csrhymes.com/mere-blog-theme/
 author: chrisrhymes
 thumbnail: mere-blog-theme.webp
 license: MIT
-license_link: https://github.com/chrisrhymes/mere-blog-theme/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

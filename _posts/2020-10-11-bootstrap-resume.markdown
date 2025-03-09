@@ -12,7 +12,7 @@ demo: https://www.zemmyang.com/Bootstrap-Resume-Jekyll/
 author: Angeleene Ang
 thumbnail: bootstrap-resume.webp
 license: MIT
-license_link: https://github.com/zemmyang/Bootstrap-Resume-Jekyll/blob/main/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -12,7 +12,7 @@ demo: https://lamccloskey.github.io/jekyll-theme-blogfolio/
 author: Logan McCloskey
 thumbnail: jekyll-blogfolio-theme.webp
 license: MIT
-license_link: https://github.com/lamccloskey/jekyll-theme-blogfolio/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

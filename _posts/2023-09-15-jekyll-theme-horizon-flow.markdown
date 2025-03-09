@@ -12,7 +12,7 @@ demo: https://papierkorp.github.io/jekyll-theme-horizon-flow/
 author: Markus Schiller
 thumbnail: jekyll-theme-horizon-flow.webp
 license: MIT
-license_link: https://github.com/papierkorp/jekyll-theme-horizon-flow/blob/main/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -11,7 +11,7 @@ download: https://github.com/DigitalMindCH/docster-jekyll-theme/archive/gh-pages
 author: Digitalmind
 thumbnail: docster.webp
 license: MIT
-license_link: https://github.com/DigitalMindCH/twister/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.jpg'
 ---

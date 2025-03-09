@@ -12,7 +12,7 @@ demo: https://minimal-music-project.netlify.app/
 author: Patryk Bieszke
 thumbnail: minimal-music-project-thumbnail.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/ItsPatrq/minimal-music-project/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

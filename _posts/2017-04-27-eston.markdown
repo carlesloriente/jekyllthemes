@@ -12,7 +12,7 @@ demo: https://cute-angelia.github.io/jekyll-theme-eston/
 author: Cyw
 thumbnail: eston.webp
 license: MIT
-license_link: https://github.com/cute-angelia/jekyll-theme-eston/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
  - 'screenshot-127.0.0.1-4000-2017-04-26-23-42-12.png'
 ---

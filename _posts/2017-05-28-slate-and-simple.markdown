@@ -12,7 +12,7 @@ demo: https://benradford.github.io
 author: Benjamin J. Radford
 thumbnail: slate-and-simple.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/benradford/Slate-and-Simple-Jekyll-Theme/refs/heads/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

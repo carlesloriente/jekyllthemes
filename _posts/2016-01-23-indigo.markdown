@@ -12,7 +12,7 @@ demo: https://sergiokopplin.github.io/indigo/
 author: Sérgio Kopplin
 thumbnail: indigo.webp
 license: MIT
-license_link: https://kopplin.mit-license.org/
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

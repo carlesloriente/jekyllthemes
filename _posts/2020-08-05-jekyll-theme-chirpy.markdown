@@ -12,7 +12,7 @@ demo: https://cotes2020.github.io/chirpy-demo/
 author: Cotes Chung
 thumbnail: chirpy.webp
 license: MIT
-license_link: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 version: "7.2.4"
 carousel:
   - 'screenshot.png'

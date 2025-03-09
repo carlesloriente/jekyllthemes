@@ -10,7 +10,7 @@ demo: https://zivs.blog/jekyll-theme-fermi/
 author: Ziv
 thumbnail: fermi.jpg
 license: MIT
-license_link: https://github.com/zivhacker/jekyll-theme-fermi/blob/main/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 ---
 
 A simple and pragmatic Jekyll theme for blog.

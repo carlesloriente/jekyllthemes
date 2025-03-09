@@ -11,7 +11,7 @@ download: https://github.com/Wiredcraft/carte/archive/gh-pages.zip
 author: Wiredcraft
 thumbnail: carte.webp
 license: MIT
-license_link: https://github.com/Wiredcraft/carte/blob/gh-pages/LICENSE.md
+license_link: https://opensource.org/license/MIT
 ---
 
 Carte theme.

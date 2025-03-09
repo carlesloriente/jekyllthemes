@@ -11,7 +11,7 @@ download: https://github.com/ariestiyansyah/naringu/archive/master.zip
 author: Rizky Ariestiyansyah
 thumbnail: naringu.webp
 license: MIT
-license_link: https://github.com/ariestiyansyah/naringu/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-1.png'
   - 'screenshot-2.png'

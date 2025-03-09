@@ -11,7 +11,7 @@ download: https://github.com/zivong/jekyll-theme-hydure/archive/refs/heads/maste
 author: Song-Zi Vong
 thumbnail: hydure.webp
 license: MIT
-license_link: https://github.com/zivong/jekyll-theme-hydure/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

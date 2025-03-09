@@ -12,7 +12,7 @@ demo: https://pardin.us/ephesus/
 author: "Hakan Torun"
 thumbnail: ephesus-jekyll-theme.webp
 license: MIT
-license_link: https://github.com/onepase/Ephesus/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'light.png'
   - 'dark.png'

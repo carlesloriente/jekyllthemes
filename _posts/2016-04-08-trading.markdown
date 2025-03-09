@@ -12,7 +12,7 @@ demo: https://www.altcointrading.net/
 author: AltcoinTrading
 thumbnail: trading.webp
 license: MIT
-license_link: https://github.com/altcointrading/trading/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

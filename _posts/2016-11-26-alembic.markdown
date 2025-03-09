@@ -12,7 +12,7 @@ demo: https://alembic.darn.es/
 author: David Darnes
 thumbnail: alembic.webp
 license: MIT
-license_link: https://github.com/daviddarnes/alembic/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

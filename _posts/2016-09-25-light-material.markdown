@@ -11,7 +11,7 @@ download: https://github.com/lukas-h/material-theme/archive/gh-pages.zip
 author: Lukas Himsel
 thumbnail: light-material.webp
 license: MIT
-license_link: https://github.com/lukas-h/material-theme/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

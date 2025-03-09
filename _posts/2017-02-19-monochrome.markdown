@@ -12,7 +12,7 @@ demo: https://dyutibarma.github.io/monochrome/
 author: Dyuti Barma
 thumbnail: monochrome.webp
 license: MIT
-license_link: https://github.com/dyutibarma/monochrome/blob/master/license.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'monochrome-mobile.png'
   - 'monochrome01.png'

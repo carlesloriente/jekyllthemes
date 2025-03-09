@@ -13,7 +13,7 @@ author: "Junji Zhi, Linghao Lin"
 thumbnail: peak-panda.webp
 version: '1.0'
 license: MIT
-license_link: https://github.com/junjizhi/peak-panda/blob/main/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - '145758133-e352473d-2afd-46cb-95e4-69b856ae7b61.png'
   - '145758143-a98dcf50-ac52-4fad-98fd-68e9917c3f94.png'

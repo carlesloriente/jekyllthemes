@@ -12,7 +12,7 @@ demo: https://lenpaul.github.io/Lagrange/
 author: Paul Le
 thumbnail: lagrange.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/LeNPaul/Lagrange/refs/heads/gh-pages/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - '7ef0e18e-d53a-11e6-8f90-8bb14b62ba20.jpg'
 ---

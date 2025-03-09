@@ -12,7 +12,7 @@ demo: https://webjeda.com/karna
 author: Sharath Kumar
 thumbnail: karna.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'karna-jekyll-theme-screenshot.png'
 ---

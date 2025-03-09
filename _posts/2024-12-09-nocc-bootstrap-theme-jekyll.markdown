@@ -13,7 +13,7 @@ demo: http://bootstrap-theme.notesoncloudcomputing.com/
 author: Carles Loriente
 thumbnail: nocc-thumbnail.webp
 license: MIT
-license_link: https://github.com/carlesloriente/bootstrap-theme-jekyll/blob/main/LICENSE
+license_link: https://opensource.org/license/MIT
 version: '1.3.8'
 carousel:
   - '1-bootstrap-theme.notesoncloudcomputing.com.png'

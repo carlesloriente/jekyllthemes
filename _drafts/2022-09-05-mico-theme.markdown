@@ -10,7 +10,7 @@ demo: https://zachfette.rs/mico
 author: "Zachary Fetters"
 thumbnail: mico-theme.jpg
 license: MIT
-license_link: https://github.com/zfett/mico/blob/main/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 The mico theme for Jekyll is a clean, minimalist, and comfy theme for those seeking a simplistic yet familiar aesthetic. Similar to older styles of themes present in the mid-2010's, mico is meant to allude to an earlier time on the Internet, while retaining the modern comforts of today. Due to its basic design, mico is automatically suited to screens of any and all sizes, scaling comfortably without losing any content.

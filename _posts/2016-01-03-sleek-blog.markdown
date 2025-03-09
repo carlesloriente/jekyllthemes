@@ -11,7 +11,7 @@ download: https://github.com/bawn92/sleek_blog/archive/master.zip
 author: Gearoid O'Connor
 thumbnail: sleek-blog.webp
 license: MIT
-license_link: https://opensource.org/license/mit
+license_link: https://opensource.org/license/MIT
 ---
 
 Sleek is minimal blog template built using jade, sass and Gulp.

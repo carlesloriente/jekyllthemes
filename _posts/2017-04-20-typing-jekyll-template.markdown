@@ -12,7 +12,7 @@ demo: https://williamcanin.github.io/typing-jekyll-template/
 author: William Canin
 thumbnail: typing-jekyll-template-thumbnail.webp
 license: MIT
-license_link: https://github.com/williamcanin/typing-jekyll-template/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

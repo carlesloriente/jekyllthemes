@@ -12,7 +12,7 @@ demo: https://tybenz.github.io/exemplar/
 author: Tyler Benziger
 thumbnail: exemplar.webp
 license: MIT
-license_link: https://github.com/tybenz/exemplar/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

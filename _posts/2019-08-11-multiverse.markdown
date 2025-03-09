@@ -12,7 +12,7 @@ demo: https://joaomlneto.github.io/jekyll-multiverse-template/
 author: joaomlneto
 thumbnail: multiverse.webp
 license: MIT
-license_link: https://github.com/joaomlneto/jekyll-multiverse-template/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png' 
 ---

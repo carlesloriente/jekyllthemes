@@ -12,7 +12,7 @@ demo: https://golas.blog/
 author: Andrew Golasowski
 thumbnail: simplex.webp
 license: MIT
-license_link: https://github.com/andreondra/jekyll-theme-simplex/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'preview.gif'
 ---

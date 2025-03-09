@@ -12,7 +12,7 @@ demo: https://artemsheludko.github.io/reked/
 author: Artem Sheludko
 thumbnail: reked-small.webp
 license: MIT
-license_link: https://github.com/artemsheludko/reked/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'reked-preview.jpg'
 ---

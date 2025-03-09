@@ -12,7 +12,7 @@ demo: https://kkent030315.github.io/jekyll-darkred-theme
 author: Kento Oki
 thumbnail: darkred-theme.webp
 license: MIT
-license_link: https://github.com/kkent030315/jekyll-darkred-theme/blob/main/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
  - 'darkred-theme.png'
 ---

@@ -12,7 +12,7 @@ demo: http://t413.com/SinglePaged/
 author: Tim O'Brien
 thumbnail: singlepaged.webp
 license: MIT
-license_link: https://github.com/t413/SinglePaged/blob/gh-pages/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

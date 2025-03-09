@@ -12,7 +12,7 @@ demo: https://chesterhow.github.io/tale
 author: Chester How
 thumbnail: tale.webp
 license: MIT
-license_link: https://github.com/chesterhow/tale/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

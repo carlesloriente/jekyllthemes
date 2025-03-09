@@ -12,7 +12,7 @@ demo: https://utterson.alidcastano.com/
 author: Alid Castano
 thumbnail: utterson.webp
 license: MIT
-license_link: https://github.com/alidcast/Utterson/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel: 
   - '22c27794-f1cc-11e5-8a25-9bab1e7920f2.png'
 ---

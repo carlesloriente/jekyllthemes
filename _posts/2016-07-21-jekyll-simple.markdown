@@ -12,7 +12,7 @@ demo: https://wild-flame.github.io/jekyll-simple
 author: David Lin 
 thumbnail: jekyll-simple.webp
 license: MIT
-license_link: https://github.com/wild-flame/jekyll-simple/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

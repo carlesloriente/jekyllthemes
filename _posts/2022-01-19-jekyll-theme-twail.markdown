@@ -12,7 +12,7 @@ demo: https://leetaewook.github.io/jekyll-theme-twail/
 author: leetaewook
 thumbnail: twail.webp
 license: MIT
-license_link: https://github.com/leetaewook/jekyll-theme-twail/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

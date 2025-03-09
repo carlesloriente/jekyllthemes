@@ -12,7 +12,7 @@ demo: https://mmistakes.github.io/jekyll-theme-skinny-bones/
 author: Michael Rose
 thumbnail: skinny-bones-0000.webp
 license: MIT
-license_link: https://github.com/mmistakes/skinny-bones-jekyll/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

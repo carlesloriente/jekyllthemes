@@ -11,7 +11,7 @@ download: https://github.com/lukas-h/onepage/archive/master.zip
 author: Lukas Himsel
 thumbnail: onepage.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/lukas-h/onepage/refs/heads/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

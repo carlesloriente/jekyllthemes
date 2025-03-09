@@ -12,7 +12,7 @@ demo: https://kiko.gfjaru.com
 author: Gandara Fajar Umbara
 thumbnail: kiko.webp
 license: MIT
-license_link: https://github.com/gfjaru/Kiko/blob/gh-pages/README.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

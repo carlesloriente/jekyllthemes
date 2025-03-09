@@ -12,7 +12,7 @@ demo: https://bitbra.in/
 author: Miguel Gonzalez Sanchez
 thumbnail: dash.webp
 license: MIT
-license_link: https://github.com/bitbrain/jekyll-dash/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

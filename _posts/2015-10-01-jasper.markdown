@@ -12,7 +12,7 @@ demo: https://jekyllt.github.io/jasper/
 author: biomadeira
 thumbnail: jasper.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-1.png'
   - 'screenshot-2.png'

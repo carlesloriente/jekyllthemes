@@ -12,7 +12,7 @@ demo: https://itsrifat.github.io/rifyll/
 author: Moinul
 thumbnail: rifyll.webp
 license: MIT
-license_link: https://github.com/itsrifat/rifyll/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

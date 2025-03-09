@@ -13,7 +13,7 @@ download: https://github.com/yousinix/portfolYOU/archive/refs/tags/v2.3.0.zip
 author: Youssef
 thumbnail: portfolYOU.png
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-1.png'
   - 'screenshot-2.png'

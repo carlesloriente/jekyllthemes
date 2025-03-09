@@ -11,7 +11,7 @@ download: https://github.com/DigitalMindCH/gridster-jekyll-theme/archive/master.
 author: Digitalmind
 thumbnail: gridster.webp
 license: MIT
-license_link: https://github.com/DigitalMindCH/gridster-jekyll-theme/blob/master/LICENCE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.jpg'
 ---

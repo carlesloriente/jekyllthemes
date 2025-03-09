@@ -11,7 +11,7 @@ download: https://github.com/zivong/ockham/archive/refs/heads/master.zip
 author: Song-Zi Vong
 thumbnail: ockham.webp
 license: MIT
-license_link: https://github.com/zivong/ockham/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

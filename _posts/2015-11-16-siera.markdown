@@ -11,7 +11,7 @@ download: https://github.com/KazumaSATO/Siera/archive/master.zip
 author: Kazuma SATO
 thumbnail: siera.webp
 license: MIT
-license_link: https://github.com/KazumaSATO/Siera/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 Siera theme.

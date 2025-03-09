@@ -12,7 +12,7 @@ demo: https://www.jekyllnow.com/
 author: Barry Clark
 thumbnail: jekyll-now.webp
 license: MIT
-license_link: https://github.com/barryclark/jekyll-now/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

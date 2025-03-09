@@ -12,7 +12,7 @@ download: https://github.com/lavkumarv/feature-blog-jekyll/archive/master.zip
 author: Lav Kumar Vishwakarma
 thumbnail: feature-blog.webp
 license: MIT
-license_link: https://github.com/lavkumarv/feature-blog-jekyll/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.jpg'
 ---

@@ -12,7 +12,7 @@ demo: https://dashingcode.github.io/front-cover/
 author: DashingCode
 thumbnail: front-cover.webp
 license: MIT
-license_link: https://github.com/dashingcode/front-cover/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

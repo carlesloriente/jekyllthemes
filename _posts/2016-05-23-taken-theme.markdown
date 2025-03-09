@@ -11,7 +11,7 @@ download: https://github.com/vfalanis/taken/archive/master.zip
 author: Valentina Fernandez Alanis
 thumbnail: taken-theme.webp
 license: MIT
-license_link: https://github.com/vfalanis/taken/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

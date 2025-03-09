@@ -12,7 +12,7 @@ demo: https://www.hifreud.com/LessOrMore/
 author: Freud Kang
 thumbnail: less-or-more.webp
 license: MIT
-license_link: https://github.com/luoyan35714/LessOrMore/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

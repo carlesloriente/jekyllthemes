@@ -10,7 +10,7 @@ demo: https://fengwei2002.github.io
 author: fengwei
 thumbnail: psychonaut.png
 license: MIT
-license_link: https://github.com/fengwei2002/fengwei2002.github.io/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'https://raw.githubusercontent.com/fengwei2002/fengwei2002.github.io/master/public/image/template01.png'
   - 'https://raw.githubusercontent.com/fengwei2002/fengwei2002.github.io/master/public/image/template02.png'

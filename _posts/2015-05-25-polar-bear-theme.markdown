@@ -11,7 +11,7 @@ download: https://github.com/diezcami/polar-bear-theme/archive/master.zip
 author: Camille Diez
 thumbnail: polar-bear.webp
 license: MIT
-license_link: https://github.com/diezcami/polar-bear-theme/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 An open source minimal theme for Jekyll, ideal for blogging.

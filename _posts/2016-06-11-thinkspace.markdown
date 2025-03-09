@@ -12,7 +12,7 @@ demo: https://heiswayi.github.io/thinkspace/
 author: Heiswayi Nrird
 thumbnail: thinkspace.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/heiswayi/thinkspace/refs/heads/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

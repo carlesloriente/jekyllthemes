@@ -12,7 +12,7 @@ demo: https://github.com/jokinkuang/stepbystep#preview
 author: Jokin Kuang
 thumbnail: jekyll-stepbystep.webp
 license: MIT
-license_link: https://github.com/jokinkuang/stepbystep#license
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

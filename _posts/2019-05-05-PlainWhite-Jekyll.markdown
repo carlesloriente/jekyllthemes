@@ -12,7 +12,7 @@ demo: https://samarsault.com/
 author: samarsault
 thumbnail: plainwhite.webp
 license: MIT
-license_link: https://github.com/samarsault/plainwhite-jekyll/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

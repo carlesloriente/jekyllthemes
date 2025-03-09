@@ -10,7 +10,7 @@ demo: https://github.com/matej2/tiles-theme
 author: Matej J
 thumbnail: tiles.png
 license: MIT
-license_link: https://raw.githubusercontent.com/matej2/tiles-theme/master/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 Simple tile-based theme, intended for portfolios. Supports color theme selection, project and post lists.

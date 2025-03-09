@@ -12,7 +12,7 @@ demo: https://yamt.netlify.app/
 author: Alessio Franceschi
 thumbnail: yamt.webp
 license: MIT
-license_link: https://github.com/PandaSekh/Jekyll-YAMT/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

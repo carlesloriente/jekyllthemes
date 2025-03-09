@@ -11,7 +11,7 @@ download: https://github.com/fffabs/estivo/archive/master.zip
 author: Fabio Basile
 thumbnail: estivo.webp
 license: MIT
-license_link: https://github.com/fffabs/estivo/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 Estivo theme.

@@ -11,7 +11,7 @@ download: https://github.com/regmtait/Toasty-Jekyll/archive/master.zip
 author: Reg Tait
 thumbnail: toasty-jekyll.webp
 license: MIT
-license_link: https://github.com/regmtait/Toasty-Jekyll/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -12,7 +12,7 @@ demo: https://www.ghosind.com
 author: Chen Su
 thumbnail: jekyll-paper.webp
 license: MIT
-license_link: https://github.com/ghosind/Jekyll-Paper/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-1.png'
   - 'screenshot-2.png'

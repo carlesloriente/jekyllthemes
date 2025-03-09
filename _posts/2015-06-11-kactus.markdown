@@ -12,7 +12,7 @@ demo: https://nick.balestra.ch/2015/Kactus/
 author: Nick Balestra
 thumbnail: kactus.webp
 license: MIT
-license_link: https://github.com/nickbalestra/kactus/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

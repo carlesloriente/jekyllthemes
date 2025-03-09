@@ -11,7 +11,7 @@ download: https://github.com/gayanvirajith/harmony/archive/master.zip
 author: Gayan Virajith
 thumbnail: harmony.webp
 license: MIT
-license_link: https://github.com/gayanvirajith/harmony/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel: 
   - 'harmony-home-page.png'
   - 'harmony.png'

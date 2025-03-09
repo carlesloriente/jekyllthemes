@@ -11,7 +11,7 @@ download: https://github.com/enterthecrucible/materialized_jekyll_theme/archive/
 author: Crucible
 thumbnail: jekyll-plus-materialize.webp
 license: MIT
-license_link: https://github.com/enterthecrucible/materialized_jekyll_theme/blob/master/LISCENSE.md
+license_link: https://opensource.org/license/MIT
 ---
 
 A Jekyll theme that uses [Materialize.css](https://www.materializecss.com){:target="_blank"}{:rel="noopener noreferrer"}

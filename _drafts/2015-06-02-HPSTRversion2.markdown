@@ -10,7 +10,7 @@ demo: https://minhhuy150894.github.io
 author: David Ng (Nguyen Minh Huy) - Michael Rose
 thumbnail: HPSTRversion2.png
 license: MIT
-license_link: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 OpenTheme, starter theme using UI and Jekyll for creating awesome websites on GitHub Pages.

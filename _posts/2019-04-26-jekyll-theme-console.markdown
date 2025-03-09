@@ -12,7 +12,7 @@ demo: https://b2a3e8.github.io/jekyll-theme-console-demo-dark/
 author: Bryan
 thumbnail: jekyll-theme-console.webp
 license: MIT
-license_link: https://github.com/b2a3e8/jekyll-theme-console/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenrec.gif'
 ---

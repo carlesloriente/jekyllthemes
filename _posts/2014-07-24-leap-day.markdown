@@ -12,7 +12,7 @@ demo: https://madebygraham.com/leapday/
 author: Matt Graham
 thumbnail: leap-day.webp
 license: MIT
-license_link: https://github.com/mattgraham/Leap-Day/blob/master/LICENCE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

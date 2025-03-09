@@ -11,7 +11,7 @@ download: https://github.com/AkshayAgarwal007/Jekyll-Mono/archive/master.zip
 author: Akshay Agarwal
 thumbnail: jekyll-mono.webp
 license: MIT
-license_link: https://github.com/AkshayAgarwal007/Jekyll-Mono/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

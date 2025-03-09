@@ -12,7 +12,7 @@ demo: https://simpleyyt.github.io/jekyll-simpleyyt
 author: Yitao Yao
 thumbnail: simpleyyt.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

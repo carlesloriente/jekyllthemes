@@ -12,7 +12,7 @@ demo: https://nandomoreirame.github.io/nandomoreira-jekyll-theme/
 author: nandomoreira.me
 thumbnail: nandomoreira.me.webp
 license: MIT
-license_link: https://github.com/nandomoreirame/nandomoreira-jekyll-theme/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---
