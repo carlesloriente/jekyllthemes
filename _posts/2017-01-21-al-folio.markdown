@@ -11,7 +11,7 @@ forks: 11609
 stars: 12308
 download: https://github.com/alshedivat/al-folio/archive/refs/tags/v0.14.0.zip
 author: Maruan
-thumbnail: al-folio.png
+thumbnail: al-folio.webp
 license: MIT
 license_link: https://opensource.org/license/MIT
 carousel:

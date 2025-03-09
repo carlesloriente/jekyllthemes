@@ -11,7 +11,7 @@ forks: 5884
 stars: 7269
 download: https://github.com/Huxpro/huxpro.github.io/archive/refs/tags/v1.8.1.zip
 author: Huang Xuan
-thumbnail: hux-blog.png
+thumbnail: hux-blog.webp
 license: Aoache-2.0
 license_link: https://raw.githubusercontent.com/Huxpro/huxpro.github.io/refs/heads/master/LICENSE
 carousel:

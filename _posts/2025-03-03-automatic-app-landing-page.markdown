@@ -9,7 +9,7 @@ forks: 1704
 stars: 3503
 download: https://github.com/emilbaehr/automatic-app-landing-page/archive/refs/heads/master.zip
 author: Emil Baehr
-thumbnail: automatic-app-landing-page.png
+thumbnail: automatic-app-landing-page.webp
 license: MIT
 license_link: https://opensource.org/license/MIT
 carousel:

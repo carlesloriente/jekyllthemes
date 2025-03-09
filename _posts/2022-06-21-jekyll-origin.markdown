@@ -9,7 +9,7 @@ demo: https://jekyll-origin.netlify.app/
 download: https://zerostatic.lemonsqueezy.com/checkout/buy/cba773a3-e6e5-4780-862d-6ed3db7508e3
 author: Robert Austin
 thumbnail: jekyll-origin.png
-license: Propietary
+license: Proprietary
 price: $49
 license_link: https://www.zerostatic.io/license/
 carousel:
