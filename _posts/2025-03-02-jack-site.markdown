@@ -9,7 +9,7 @@ forks: 5
 stars: 3
 download: https://github.com/JackDougherty/jack-site/archive/refs/heads/master.zip
 author: Jack Dougherty
-thumbnail: jack-site.png
+thumbnail: jack-site.webp
 license: MIT
 license_link: https://opensource.org/license/MIT
 carousel:

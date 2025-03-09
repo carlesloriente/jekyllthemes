@@ -10,7 +10,7 @@ forks: 14
 stars: 7
 download: https://github.com/gbif/jekyll-hp-base-theme/archive/refs/heads/master.zip
 author: Global Biodiversity Information Facility
-thumbnail: hp-base.png
+thumbnail: hp-base.webp
 license: Apache-2.0
 license_link: https://opensource.org/license/apache-2-0
 carousel:

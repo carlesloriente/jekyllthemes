@@ -10,7 +10,7 @@ forks: 0
 stars: 0
 download: https://github.com/mmorga/comanche-hill-jekyll-theme/archive/refs/heads/master.zip
 author: Mark Morga
-thumbnail: comanche-hill.png
+thumbnail: comanche-hill.webp
 license: MIT
 license_link: https://opensource.org/license/MIT
 carousel:
