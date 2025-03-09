@@ -13,7 +13,7 @@ download: https://github.com/SwedbankPay/swedbank-pay-design-guide-jekyll-theme/
 author: SwedbankPay
 thumbnail: swedbankpay.png
 license: Apache-2.0
-license_link: https://opensource.org/licenses/Apache-2.0
+license_link: https://opensource.org/license/apache-2-0
 carousel:
   - 'screenshot.png'
 ---
