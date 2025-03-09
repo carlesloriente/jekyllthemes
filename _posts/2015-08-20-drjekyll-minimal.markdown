@@ -11,7 +11,8 @@ download: https://github.com/drjekyllthemes/jekyll-minimal-theme/archive/gh-page
 demo: https://henrythemes.github.io/jekyll-minimal-theme/
 author: Gerald Bauer
 thumbnail: drjekyll-minimal.webp
-license: Public Domain
+license: CC-1.0
+license_link: https://creativecommons.org/publicdomain/zero/1.0/
 carousel:
   - 'screenshot.png'
 ---

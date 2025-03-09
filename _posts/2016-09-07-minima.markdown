@@ -95,7 +95,7 @@ layout: base
 
 #### Home Layout
 
-`home.html` is a flexible HTML layout for the site's landing-page / home-page / index-page. 
+`home.html` is a flexible HTML layout for the site's landing-page / home-page / index-page.
 
 ##### *Main Heading and Content-injection*
 

@@ -11,7 +11,8 @@ download: https://github.com/planetjekyll/jekyll-starter-theme/archive/gh-pages.
 demo: https://henrythemes.github.io/jekyll-starter-theme/
 author: Gerald Bauer
 thumbnail: planetjekyll-starter.webp
-license: Public Domain
+license: CC-1.0
+license_link: https://creativecommons.org/publicdomain/zero/1.0/
 carousel:
   - 'screenshot.png'
 ---

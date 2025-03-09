@@ -11,7 +11,7 @@ download: https://github.com/Hammie217/LatexJekyll
 demo: https://unruffled-ardinghelli-55d901.netlify.app/
 author: Hamish Sams
 thumbnail: LatexJekyll.webp
-license: WTF
+license: WTFPL
 carousel:
   - 'screenshot.png'
 ---

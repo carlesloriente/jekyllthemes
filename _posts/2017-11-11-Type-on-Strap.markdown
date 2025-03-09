@@ -28,7 +28,3 @@ A free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chan
 * Portfolio, tags, search page layout
 * Disqus Comments and Google Analytics support
 * Free of rights images from [pexels](https://www.pexels.com/) included
-
-[![Default Type on Strap blog][2]][1]
-
-[1]: https://sylhare.github.io/Type-on-Strap/
