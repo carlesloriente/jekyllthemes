@@ -10,7 +10,7 @@ stars: 59
 download: https://github.com/nadjetey/GridGallery/archive/master.zip
 author: Nii Adjetey Sowah
 thumbnail: gridgallery.webp
-license: WTF
+license: WTFPL
 carousel:
   - 'screenshot.png'
 ---
