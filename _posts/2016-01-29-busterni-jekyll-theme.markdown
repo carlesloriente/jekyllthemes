@@ -11,7 +11,7 @@ download: https://github.com/muhajirframe/busterni-jekyll-theme/archive/gh-pages
 author: Muhammad Muhajir
 thumbnail: busterni-jekyll-theme.webp
 license: MIT
-license_link: https://github.com/muhajirframe/busterni-jekyll-theme/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 Busterni Jekyll Theme is a simple jekyll themes made by Muhammad Muhajir, inspired by Google Design website.

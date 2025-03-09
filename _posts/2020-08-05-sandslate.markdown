@@ -11,7 +11,7 @@ download: https://rubygems.org/downloads/sandslate-0.1.0.gem
 author: Tareq El Dandachi
 thumbnail: sandslate.webp
 license: MIT
-license_link: https://github.com/tareqdandachi/sandslate/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 A Minimal Portfolio Theme for Jekyll Sites.

@@ -12,7 +12,7 @@ demo: https://jekyller.github.io/PanelCV/
 author: Locky
 thumbnail: panelcv.webp
 license: MIT
-license_link: https://github.com/jekyller/PanelCV/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

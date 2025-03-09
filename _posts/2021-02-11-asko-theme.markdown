@@ -12,7 +12,7 @@ demo: https://asko-theme.netlify.app/
 author: Manuel Mazzuola
 thumbnail: asko.webp
 license: MIT
-license_link: https://github.com/manuelmazzuola/asko/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

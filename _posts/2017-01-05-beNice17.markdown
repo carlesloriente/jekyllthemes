@@ -12,7 +12,7 @@ demo: https://vietanhdev.com/beNice17/
 author: Viet Anh Nguyen
 thumbnail: beNice17.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/vietanhdev/beNice17/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

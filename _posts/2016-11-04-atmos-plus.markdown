@@ -12,7 +12,7 @@ demo: http://focx-o.github.io/
 author: Ankan Biswas
 thumbnail: atmosplus.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/Focx-o/Focx-o.github.io/refs/heads/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-1.png'
   - 'screenshot-2.png'

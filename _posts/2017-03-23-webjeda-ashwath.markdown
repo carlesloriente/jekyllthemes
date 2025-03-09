@@ -12,7 +12,7 @@ demo: https://ashwath.webjeda.com/
 author: Sharath Kumar
 thumbnail: webjeda-ashwath.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'Default.png'
 ---

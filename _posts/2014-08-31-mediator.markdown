@@ -12,7 +12,7 @@ demo: https://blog.base68.com
 author: Dirk Fabisch
 thumbnail: mediator.webp
 license: MIT
-license_link: https://github.com/dirkfabisch/mediator/blob/master/LICENCE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-1.jpg'
   - 'screenshot-2.jpg'

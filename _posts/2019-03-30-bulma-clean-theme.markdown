@@ -12,7 +12,7 @@ demo: https://www.csrhymes.com/bulma-clean-theme/
 author: chrisrhymes
 thumbnail: bulma-clean-theme.webp
 license: MIT
-license_link: https://github.com/chrisrhymes/bulma-clean-theme/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

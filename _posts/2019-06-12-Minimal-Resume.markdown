@@ -12,7 +12,7 @@ demo: https://jekyll-theme-minimal-resume.netlify.app/
 author: Mauricio Urraco <mauriurraco@gmail.com>
 thumbnail: minimal-resume.webp
 license: MIT
-license_link: https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

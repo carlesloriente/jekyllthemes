@@ -12,7 +12,7 @@ demo: https://andrewhwanpark.github.io/dark-poole/
 author: Andrew Park
 thumbnail: dark-poole.webp
 license: MIT
-license_link: https://github.com/andrewhwanpark/dark-poole/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

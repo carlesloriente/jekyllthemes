@@ -12,7 +12,7 @@ demo: https://salgnt.github.io/Travelogue/
 author: Salvatore Gentile
 thumbnail: travelogue.webp
 license: MIT
-license_link: https://github.com/SalGnt/Travelogue/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

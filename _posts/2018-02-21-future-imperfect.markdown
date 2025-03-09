@@ -12,7 +12,7 @@ demo: https://future-imperfect.kaptn.ru
 author: Kaptn
 thumbnail: future-imperfect.webp
 license: MIT
-license_link: https://github.com/kaptn3/future-imperfect/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

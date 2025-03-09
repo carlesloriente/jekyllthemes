@@ -12,7 +12,7 @@ demo: https://heliumjk.github.io/
 author: Antonio Trento
 thumbnail: helium.webp
 license: MIT
-license_link: https://github.com/heliumjk/heliumjk.github.io/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

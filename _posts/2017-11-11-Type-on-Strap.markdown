@@ -12,7 +12,7 @@ demo: https://sylhare.github.io/Type-on-Strap/
 author: Sylhare
 thumbnail: type-on-strap.webp
 license: MIT
-license_link: https://github.com/Sylhare/Type-on-Strap/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

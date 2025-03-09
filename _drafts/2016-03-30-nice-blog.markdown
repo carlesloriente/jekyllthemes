@@ -10,7 +10,7 @@ demo: https://gabriel-chen.github.io/Nice_Blog
 author: Gabriel
 thumbnail: nice-blog.png
 license: MIT
-license_link: https://github.com/gabriel-chen/Nice_Blog/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'https://i.imgur.com/BrmOMmv.png'
 ---

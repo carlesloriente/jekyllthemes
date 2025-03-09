@@ -12,7 +12,7 @@ demo: https://wkmn.gumroad.com/l/uobbk
 author: Clark Hacks
 thumbnail: minimal-text.webp
 license: MIT
-license_link: https://github.com/clarkhacks/Minimal-Text/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 price: $5
 carousel:
   - 'screenshot.png'

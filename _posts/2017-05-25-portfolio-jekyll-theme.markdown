@@ -12,7 +12,7 @@ demo: https://lenpaul.github.io/portfolio-jekyll-theme/
 author: Paul Le
 thumbnail: portfolio-jekyll-theme-thumb.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/LeNPaul/portfolio-jekyll-theme/refs/heads/gh-pages/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'f2583642-3c03-11e7-81c4-28a9353c91ae.jpg'
 ---

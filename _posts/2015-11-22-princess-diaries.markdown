@@ -12,7 +12,7 @@ demo: https://laixintao.github.io/Princess-Diaries.html
 author: laixintao
 thumbnail: princess-diaries.webp
 license: MIT
-license_link: https://github.com/laixintao/Princess-Diaries/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

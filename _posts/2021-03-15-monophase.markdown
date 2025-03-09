@@ -11,7 +11,7 @@ download: https://github.com/zivhub/monophase/archive/main.zip
 author: Song-Zi Vong
 thumbnail: monophase.webp
 license: MIT
-license_link: https://github.com/zivhub/monophase/blob/main/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-light.png'
 ---

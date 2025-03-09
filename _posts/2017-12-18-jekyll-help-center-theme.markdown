@@ -12,7 +12,7 @@ demo: https://gustavoquinalha.github.io/jekyll-help-center-theme/
 author: Gustavo Quinalha
 thumbnail: jekyll-help-center.webp
 license: MIT
-license_link: https://github.com/gustavoquinalha/jekyll-help-center-theme/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'responsive.png'
 ---

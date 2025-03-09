@@ -10,7 +10,7 @@ demo: https://pixyll.com
 author: John Otander
 thumbnail: pixyll.png
 license: MIT
-license_link: https://github.com/johnotander/pixyll/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 ---
 
 Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. Pixyll is mobile _first_, fluidly responsive, and delightfully lightweight.

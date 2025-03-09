@@ -12,7 +12,7 @@ demo: https://oinam.github.io/oinam-jekyll/
 author: "Brajeshwar"
 thumbnail: oinam-jekyll.webp
 license: MIT
-license_link: https://github.com/oinam/oinam-jekyll/blob/main/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

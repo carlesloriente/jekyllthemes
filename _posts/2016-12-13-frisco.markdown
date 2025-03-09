@@ -12,7 +12,7 @@ demo: https://brave-submarine.cloudvent.net/
 author: CloudCannon
 thumbnail: frisco.webp
 license: MIT
-license_link: https://github.com/CloudCannon/frisco-jekyll-template/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

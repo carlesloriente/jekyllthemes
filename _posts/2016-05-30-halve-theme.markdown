@@ -12,7 +12,7 @@ demo: https://tolgatatli.github.io/Halve/
 author: Taylan Tatlı
 thumbnail: halve-theme.webp
 license: MIT
-license_link: https://github.com/TaylanTatli/Halve/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'halve-home-image.png'
 ---

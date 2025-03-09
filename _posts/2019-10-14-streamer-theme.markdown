@@ -11,7 +11,7 @@ download: https://github.com/bradykondek/streamer/archive/master.zip
 author: Brady Kondek
 thumbnail: streamer-theme.webp
 license: MIT
-license_link: https://github.com/bradykondek/streamer/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 Used off the Jekyll theme, Twenty, Streamer Theme is a dynamic theme that can be used to make an awesome simple streamer site.  The theme runs off CSS, HTML, and JavaScript.

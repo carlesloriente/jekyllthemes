@@ -11,7 +11,7 @@ download: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/
 author: Sotirios Vrachas
 thumbnail: startbootstrap-agency.webp
 license: MIT
-license_link: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 ---
 
 jekyll-theme-startbootstrap-agency is a Jekyll theme based on Start Bootstrap - Agency.

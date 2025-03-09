@@ -12,7 +12,7 @@ demo: https://thephuse.github.io/strange_case/
 author: Phuse
 thumbnail: strange-case.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

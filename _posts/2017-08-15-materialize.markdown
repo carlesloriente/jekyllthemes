@@ -11,7 +11,7 @@ download: https://github.com/macrod68/jekyll-materialize-starter-template/archiv
 author: Marco Damiani
 thumbnail: jekyllmaterialize.webp
 license: MIT
-license_link: https://github.com/macrod68/jekyll-materialize-starter-template/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

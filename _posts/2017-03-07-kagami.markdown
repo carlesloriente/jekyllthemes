@@ -11,7 +11,7 @@ download: https://github.com/kamikat/jekyll-theme-kagami/releases
 author: Kamikat
 thumbnail: kagami.webp
 license: MIT
-license_link: https://opensource.org/license/mit
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.webp'
 ---

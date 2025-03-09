@@ -12,7 +12,7 @@ demo: https://bencentra.com/centrarium/
 author: Ben Centra
 thumbnail: centrarium.webp
 license: MIT
-license_link: https://github.com/bencentra/centrarium/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

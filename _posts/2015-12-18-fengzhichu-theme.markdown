@@ -12,7 +12,7 @@ demo: https://fengzhichu.com/fengzhichu-theme/
 author: 枫之楚 (@fengzhichu)
 thumbnail: fengzhichu-theme.webp
 license: MIT
-license_link: https://github.com/fengzhichu/fengzhichu-theme/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel: 
   - 'Screenshot1.png'
   - 'Screenshot2.png'

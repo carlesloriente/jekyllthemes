@@ -12,7 +12,7 @@ demo: https://aterenin.github.io/minima-reboot/
 author: Alexander Terenin
 thumbnail: minima-reboot.webp
 license: MIT
-license_link: https://github.com/aterenin/minima-reboot/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

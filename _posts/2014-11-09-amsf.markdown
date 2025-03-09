@@ -12,7 +12,7 @@ demo: https://sparanoid.com/lab/amsf/
 author: Tunghsiao Liu
 thumbnail: amsf.webp
 license: MIT
-license_link: https://github.com/sparanoid/almace-scaffolding/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

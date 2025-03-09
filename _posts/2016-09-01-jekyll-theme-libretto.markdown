@@ -12,7 +12,7 @@ demo: https://ferrolho.github.io/jekyll-theme-libretto/
 author: Henrique Ferrolho
 thumbnail: jekyll-theme-libretto.webp
 license: MIT
-license_link: https://github.com/ferrolho/jekyll-theme-libretto/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

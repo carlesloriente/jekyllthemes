@@ -12,7 +12,7 @@ demo: https://devlopr.netlify.app/#/
 author: Sujay Kundu
 thumbnail: devlopr.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

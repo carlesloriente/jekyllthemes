@@ -12,7 +12,7 @@ demo: https://mushishi78.github.io/jekyll-video/
 author: Max White
 thumbnail: jekyll-video.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/mushishi78/jekyll-video/refs/heads/gh-pages/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

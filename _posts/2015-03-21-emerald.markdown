@@ -12,7 +12,7 @@ demo: https://www.jacoporabolini.com/emerald/
 author: Jacopo Rabolini
 thumbnail: emerald.webp
 license: MIT
-license_link: https://github.com/KingFelix/emerald/blob/master/license.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

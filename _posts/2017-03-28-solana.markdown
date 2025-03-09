@@ -12,7 +12,7 @@ demo: https://rlue.github.io/jekyll-solana
 author: Ryan Lue
 thumbnail: solana.webp
 license: MIT
-license_link: https://github.com/rlue/jekyll-solana/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'device_mockup.png'
 ---

@@ -12,6 +12,7 @@ demo: https://ejjoo.github.io/
 author: Euijong Joo
 thumbnail: monos.webp
 license: MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-1.png'
   - 'screenshot-2.png'

@@ -12,7 +12,7 @@ demo: https://yveszenne.github.io/jekyll-html5up-fractal/
 author: Yves Espinosa
 thumbnail: fractal_thumbnail.webp
 license: MIT
-license_link: https://github.com/yveszenne/jekyll-html5up-fractal/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

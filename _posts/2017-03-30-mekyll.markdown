@@ -12,6 +12,7 @@ demo: https://ifedyukin.github.io/Mekyll
 author: Igor Fedyukin
 thumbnail: mekyll.webp
 license: MIT
+license_link: https://opensource.org/license/MIT
 carousel: 
   - 'screenshot.png'
 ---

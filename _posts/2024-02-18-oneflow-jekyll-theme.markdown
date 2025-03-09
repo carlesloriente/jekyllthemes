@@ -12,7 +12,7 @@ demo: https://oneflow-jekyll-theme.github.io/
 author: "Per Starke"
 thumbnail: oneflow.webp
 license: MIT
-license_link: https://opensource.org/license/mit/
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

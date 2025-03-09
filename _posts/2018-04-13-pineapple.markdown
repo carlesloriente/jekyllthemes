@@ -12,7 +12,7 @@ demo: https://arnolds.io/pineapple/
 author: Arnolds Kozlovskis
 thumbnail: pineapple.webp
 license: MIT
-license_link: https://github.com/arnolds/pineapple/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - '38713105-6dda8a74-3ec7-11e8-8062-8aa6cf24c795.jpg'
 ---

@@ -4,7 +4,6 @@ comments: true
 title: Ezora
 date: 2016-09-24 20:00:00 +01:00
 repo: https://github.com/ezrasavard/ezora-jekyll-theme
-update_date: 2020-09-08
 update_date: 2024-12-13
 forks: 14
 stars: 8
@@ -13,7 +12,7 @@ demo: https://ezrasavard.github.io/ezora-jekyll-theme
 author: Ezra Savard
 thumbnail: ezora.webp
 license: MIT
-license_link: https://github.com/poole/poole/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

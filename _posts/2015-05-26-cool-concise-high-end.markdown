@@ -12,7 +12,7 @@ demo: https://gaohaoyang.github.io/
 author: Gaohaoyang
 thumbnail: cool-concise-high-end.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang.github.io/refs/heads/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.jpg'
 ---

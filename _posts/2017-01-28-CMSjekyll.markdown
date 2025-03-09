@@ -11,7 +11,7 @@ download: https://github.com/Xu-Jian/Xu-Jian.github.io/archive/master.zip
 author: XuJian
 thumbnail: CMSjekyll.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 ---
 
 CMS-jekyll Theme.

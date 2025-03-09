@@ -10,7 +10,7 @@ demo: https://typesetting.vercel.app/
 author: livrth
 thumbnail: typeset.png
 license: MIT
-license_link: https://github.com/livrth/type/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 Typeset is an elegant, minimalistic Jekyll blogging theme based on [poole](https://github.com/poole/poole/tree/gh-pages). Since poole hasn't been updated in a long time, and it has some minor bugs and missing features. So I made minor modifications based on it to make the [CJK](https://en.wikipedia.org/wiki/CJK_characters) fonts typesetting more beautiful, added support for mathematical formulas, and fixed some minor bugs.

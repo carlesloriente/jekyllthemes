@@ -12,7 +12,7 @@ demo: https://joshuaavalon.github.io/Jekyll-Avalon/
 author: joshuaavalon
 thumbnail: jekyll-avalon.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

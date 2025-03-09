@@ -11,7 +11,7 @@ download: https://github.com/inelaah/rain/archive/master.zip
 author: Inela Avdic Hukic
 thumbnail: rain.webp
 license: MIT
-license_link: https://github.com/inelaah/rain/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

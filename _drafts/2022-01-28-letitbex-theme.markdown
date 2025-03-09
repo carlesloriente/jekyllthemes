@@ -10,7 +10,7 @@ download: https://gitlab.com/mrtsukim0t0-/letitbex-theme/-/raw/master/letitbex-t
 author: 0t0
 thumbnail: letitbex-theme.webp
 license: MIT
-license_link: https://gitlab.com/mrtsukim0t0-/letitbex-theme/-/blob/master/LICENSE.txt 
+license_link: https://opensource.org/license/MIT
 date: 2022-01-28 11:11:10 +01:00
 published: false
 ---

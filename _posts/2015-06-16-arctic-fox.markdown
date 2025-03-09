@@ -12,7 +12,7 @@ download: https://github.com/diezcami/arctic-fox-theme/archive/master.zip
 author: Camille Diez
 thumbnail: arctic-fox.webp
 license: MIT
-license_link: https://github.com/diezcami/arctic-fox-theme/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

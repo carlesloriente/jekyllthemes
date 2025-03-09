@@ -12,7 +12,7 @@ demo: https://nikrich.github.io/jekyll-wing-template/#
 author: Jannik Richter
 thumbnail: wing.webp
 license: MIT
-license_link: https://github.com/nikrich/jekyll-wing-template/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -11,7 +11,7 @@ download: https://github.com/thundergolfer/junior-theme/archive/master.zip
 author: Jonathon Belotti
 thumbnail: junior.webp
 license: MIT
-license_link: https://github.com/thundergolfer/junior-theme/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-1.png'
   - 'screenshot-2.png'

@@ -12,7 +12,7 @@ demo: https://wowthemesnet.github.io/mundana-theme-jekyll/
 author: wowthemesnet
 thumbnail: mundana.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/wowthemesnet/mediumish-theme-jekyll/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.jpg'
 ---

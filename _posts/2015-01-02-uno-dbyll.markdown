@@ -11,7 +11,7 @@ download: https://github.com/meliodus/uno-dbyll/archive/gh-pages.zip
 author: Ankan Biswas
 thumbnail: uno-dbyll.webp
 license: MIT
-license_link: https://raw.githubusercontent.com/meliodus/uno-dbyll/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-1.png'
   - 'screenshot-2.png'

@@ -12,7 +12,7 @@ demo: https://vincentchan.github.io/mickey/
 author: Vincent Chan
 thumbnail: mickey.webp
 license: MIT
-license_link: https://github.com/vincentchan/mickey/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

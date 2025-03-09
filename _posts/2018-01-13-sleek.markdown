@@ -12,7 +12,7 @@ demo: https://janczizikow.github.io/sleek/
 author: Jan Czizikow
 thumbnail: sleek.webp
 license: MIT
-license_link: https://github.com/janczizikow/sleek/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'sleek.jpg'
 ---

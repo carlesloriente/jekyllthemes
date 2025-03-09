@@ -12,7 +12,7 @@ demo: https://alexanderussell.github.io/progress-for-jekyll
 author: Alexander Russell
 thumbnail: progress-for-jekyll.webp
 license: MIT
-license_link: https://github.com/alexanderussell/progress-for-jekyll/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

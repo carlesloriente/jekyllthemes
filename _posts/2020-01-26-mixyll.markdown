@@ -12,7 +12,7 @@ demo: https://mixyll.saikiransripada.com/
 author: Sai Kiran Sripada
 thumbnail: mixyll.webp
 license: MIT
-license_link: https://github.com/saikiransripada/mixyll/blob/gh-pages/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

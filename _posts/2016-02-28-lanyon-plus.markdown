@@ -12,7 +12,7 @@ demo: https://dyndna.github.io/lanyon-plus
 author: Samir Amin
 thumbnail: lanyon-plus.webp
 license: MIT
-license_link: https://sbamin.com/disclosure/#theme-major-credit--license
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -12,7 +12,7 @@ demo: https://www.guovz.com
 author: Jaylin Wang
 thumbnail: guovz-pithy.webp
 license: MIT
-license_link: https://github.com/jaylinwang/jekyll-pithy/blob/gh-pages/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

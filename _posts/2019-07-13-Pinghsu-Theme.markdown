@@ -12,7 +12,7 @@ demo: https://lightfish.cn/
 author: Lightfish Zhang
 thumbnail: pinghsu-jekyll.webp
 license: MIT
-license_link: https://github.com/lightfish-zhang/pinghsu-jekyll/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-1.png'
   - 'screenshot-2.png'

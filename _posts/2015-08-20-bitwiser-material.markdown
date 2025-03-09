@@ -12,7 +12,7 @@ demo: https://bitwiser.in/bitwiser-material/
 author: Brijesh Bittu
 thumbnail: bitwiser-material.webp
 license: MIT
-license_link: https://github.com/brijeshb42/bitwiser-material/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

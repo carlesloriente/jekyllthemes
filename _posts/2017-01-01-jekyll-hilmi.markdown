@@ -12,7 +12,7 @@ demo: https://manojgautam.com.np/
 author: Manoj Gautam
 thumbnail: jekyll-hilmi.webp
 license: MIT
-license_link: https://github.com/nix1947/jekyll-hilmi/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -11,7 +11,7 @@ download: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme/archive/m
 author: ExchangeRate-API
 thumbnail: rlstevenson.webp
 license: MIT
-license_link: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-1.png'
   - 'screenshot-2.png'

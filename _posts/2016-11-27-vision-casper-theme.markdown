@@ -12,6 +12,7 @@ demo: https://hugocarreira.github.io/jekyll-vision-casper-theme/
 author: Hugo Carrereira
 thumbnail: vision-casper-theme.webp
 license: MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -12,7 +12,7 @@ demo: https://hmfaysal.github.io/Notepad/
 author: Hossain Mohd Faysal
 thumbnail: hmfaysal-notepad.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

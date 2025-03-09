@@ -12,7 +12,7 @@ demo: https://ddbullfrog.github.io/resumecard
 author: Dong Liang
 thumbnail: resumecard.webp
 license: MIT
-license_link: https://github.com/ddbullfrog/resumecard/blob/gh-pages/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.jpg'
 ---

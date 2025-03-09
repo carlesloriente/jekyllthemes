@@ -12,7 +12,7 @@ demo: https://jwillmer.github.io/jekyllDecent/
 author: Jens Willmer
 thumbnail: jekyllDecent.webp
 license: MIT
-license_link: https://github.com/jwillmer/jekyllDecent/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

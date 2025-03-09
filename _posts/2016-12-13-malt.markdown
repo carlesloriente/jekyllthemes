@@ -12,7 +12,7 @@ demo: https://whispering-boat.cloudvent.net/
 author: CloudCannon
 thumbnail: malt.webp
 license: MIT
-license_link: https://github.com/CloudCannon/malt-jekyll-template/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

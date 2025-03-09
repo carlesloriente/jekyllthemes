@@ -12,7 +12,7 @@ demo: https://starry99.github.io/catbook
 author: Starry99
 thumbnail: catbook.webp
 license: MIT
-license_link: https://github.com/starry99/catbook/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'lmode.jpg'
   - 'dmode.jpg'

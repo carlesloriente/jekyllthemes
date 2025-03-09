@@ -12,7 +12,7 @@ demo: https://jekyller.github.io/PopupTweets/
 author: Jun Lu
 thumbnail: popuptweets.webp
 license: MIT
-license_link: https://github.com/junlulocky/PopupTweets/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -12,7 +12,7 @@ demo: https://bluszcz.net
 author: "Rafał Zawadzki"
 thumbnail:  devcarpet-portfolio.webp
 license: MIT
-license_link: https://github.com/bluszcz/jekyll-theme-devcarpet-01/blob/main/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-01.png'
   - 'portfolio.png'

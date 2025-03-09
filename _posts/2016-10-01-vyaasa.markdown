@@ -12,7 +12,7 @@ demo: https://vyaasa.webjeda.com/
 author: webjeda
 thumbnail: vyaasa.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'vyaasa-jekyll-theme-1.png'
   - 'vyaasa-jekyll-theme-2.png'

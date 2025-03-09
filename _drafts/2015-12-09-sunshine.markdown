@@ -10,7 +10,7 @@ demo: https://limingyang2012.github.io/
 author: limingyang2012
 thumbnail: sunshine.jpg
 license: MIT
-license_link: https://github.com/limingyang2012/limingyang2012.github.io/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 A Jekyll theme.

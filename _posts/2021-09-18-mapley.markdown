@@ -12,7 +12,7 @@ demo: https://recoma96.github.io/mapley/
 author: "Ha Jeong Hyun"
 thumbnail: vector7-mapley.webp
 license: MIT
-license_link: https://github.com/Vector-7/mapley/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

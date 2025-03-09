@@ -12,7 +12,7 @@ demo: https://willianjusten.github.io/will-jekyll-template/
 author: Willian Justen
 thumbnail: will-jekyll-template.webp
 license: MIT
-license_link: https://github.com/willianjusten/will-jekyll-template/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

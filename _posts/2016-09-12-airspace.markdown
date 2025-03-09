@@ -3,19 +3,55 @@ layout: post
 comments: true
 title: Airspace
 date: 2016-09-12 20:00:00 +01:00
-repo: https://github.com/luminousrubyist/airspace-jekyll
-update_date: 2022-07-18
-forks: 88
-stars: 4
-download: https://github.com/luminousrubyist/airspace-jekyll/archive/master.zip
-demo: https://luminousrubyist.github.io/airspace-jekyll
-author: Andrew Lee
-thumbnail: airspace.webp
-license: ThemeFisher
-license_link: https://github.com/luminousrubyist/airspace-jekyll/blob/master/LICENSE.md
+repo: https://github.com/themefisher/airspace-jekyll
+update_date: 2022-09-16
+forks: 940
+stars: 25
+download: https://github.com/themefisher/airspace-jekyll/archive/refs/heads/main.zip
+demo: https://themefisher.com/demo?theme=airspace-jekyll
+author: ThemeFisher
+thumbnail: airspace.png
+license: MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---
 
-Airspace for Jekyll, a port of ThemeFisher's Airspace theme for agency or organization.
-Includes a homepage, works page, contact page, and Jekyll blog.
+Airspace Jekyll Creative Agency Template ported from [Airspace HTML Template](https://themefisher.com/products/airspace/){:target="_blank"}{:rel="noopener noreferrer"}.
+
+## Setup
+
+To start your project, fork this repository. After forking the repo, your site will be live immediately on your personal Github Pages account, e.g. `https://yourusername.github.io/your-repo-name/`.
+
+Make sure GitHub Pages is enabled for your repo. It might take some time for the site to propagate entirely.
+
+## Customize
+
+Things you can customize in `_data/settings.yml` (no HTML/CSS):
+
+- Theme General Settings ( name, logo, email, phone, address )
+- Hero Section
+- About Section
+- Team Section
+- Skills Section
+- Experience Section
+- Education Section
+- Services Section
+- Portfolio Section
+- Testimonials Section
+- Client Slider Section
+- Contact Section
+
+## Deployment
+
+To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
+I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/){:target="_blank"}{:rel="noopener noreferrer"} page on Jekyll's website.
+
+## Bugs and Issues
+
+We use GitHub Issues as the official bug tracker for **Airspace**. Please Search [existing issues](https://github.com/themefisher/airspace-jekyll/issues){:target="_blank"}{:rel="noopener noreferrer"}. It’s possible someone has already reported the same problem.
+If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/airspace-jekyll/issues/new){:target="_blank"}{:rel="noopener noreferrer"}
+
+## Contact
+
+If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.

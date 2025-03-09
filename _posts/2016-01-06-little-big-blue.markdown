@@ -11,7 +11,7 @@ download: https://github.com/ninapetrop/Little-Big-Blue/archive/master.zip
 author: Nina Petropoulos
 thumbnail: little-big-blue.webp
 license: MIT
-license_link: https://github.com/ninapetrop/Little-Big-Blue/blob/master/license.txt
+license_link: https://opensource.org/license/MIT
 ---
 
 A Jekyll theme for blogging. With built in category sorting and author blocks, this theme is perfect for collaborative projects.

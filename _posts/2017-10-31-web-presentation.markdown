@@ -12,7 +12,7 @@ demo: https://deepidea.github.io/web-presentation/
 author: DeepIdea
 thumbnail: web-presentation.webp
 license: MIT
-lincense_link: https://opensource.org/license/mit
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

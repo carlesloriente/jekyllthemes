@@ -13,7 +13,7 @@ author: "Steven Leabo"
 version: '1.0'
 thumbnail: opine.webp
 license: MIT
-license_link: https://github.com/leabs/jekyll-opine/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'theme.png'
   - 'post.jpg'

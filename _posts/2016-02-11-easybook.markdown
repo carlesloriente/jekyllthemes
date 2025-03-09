@@ -12,7 +12,7 @@ demo: https://laobubu.github.io/jekyll-theme-EasyBook
 author: laobubu
 thumbnail: easybook.webp
 license: MIT
-license_link: https://github.com/laobubu/jekyll-theme-EasyBook/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'easybook.png'
 ---

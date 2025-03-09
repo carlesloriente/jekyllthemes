@@ -11,7 +11,7 @@ download: https://github.com/kippt/jekyll-incorporated/archive/master.zip
 author: Kippt Inc.
 thumbnail: incorporated.webp
 license: MIT
-license_link: https://github.com/kippt/jekyll-incorporated/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 Modern Jekyll based blog. Great for companies, products or anything.

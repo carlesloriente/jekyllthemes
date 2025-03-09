@@ -12,7 +12,7 @@ demo: https://mateussmedeiros.github.io/blade-theme/
 author: Mateus Medeiros
 thumbnail: blade-theme.webp
 license: MIT
-license_link: https://github.com/mateussmedeiros/blade-theme/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

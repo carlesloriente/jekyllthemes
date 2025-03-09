@@ -12,7 +12,7 @@ demo: https://lucasgatsas.ch
 author: Lucas Gatsas
 thumbnail: library-amoklaufer.webp
 license: MIT
-license_link: https://github.com/SpaceG/library/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 ---
 
 The [Theme Demo of Library Jekyll Theme](https://github.com/SpaceG/library) show the main Theme. Feel free to Fork, Star it and make a New Version of it. it have a infinte Scroll. All my Themes are Infite Scrolling!

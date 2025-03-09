@@ -11,7 +11,7 @@ download: https://github.com/Jack614/Jalpc-A/archive/gh-pages.zip
 author: Kun Jia
 thumbnail: Jalpc-A-jekyll-theme.webp
 license: MIT
-license_link: https://github.com/ashutosh2k12/hcz-jekyll-blog/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

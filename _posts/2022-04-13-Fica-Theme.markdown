@@ -12,7 +12,7 @@ demo: https://aeziyehl.github.io/jekyll-theme-fica/
 author: aeziyehl
 thumbnail: Fica_Theme.webp
 license: MIT
-license_link: https://github.com/aeziyehl/jekyll-theme-fica/blob/main/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

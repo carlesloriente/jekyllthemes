@@ -12,7 +12,7 @@ demo: http://ninapetrop.github.io/Artist-Theme
 author: Nina Petropoulos
 thumbnail: artist-theme.webp
 license: MIT
-license_link: https://github.com/ninapetrop/Artist-Theme/blob/master/license.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

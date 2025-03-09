@@ -12,7 +12,7 @@ demo: https://jarrekk.github.io/Jalpc/
 author: Kun Jia
 thumbnail: Jalpc-jekyll-theme.webp
 license: MIT
-license_link: https://github.com/ashutosh2k12/hcz-jekyll-blog/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

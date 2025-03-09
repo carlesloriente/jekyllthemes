@@ -10,7 +10,7 @@ download: https://github.com/naye0ng/Grape-Theme/archive/v1.0.zip
 author: Nayeong Kim
 thumbnail: Grape-Theme.webp
 license: MIT
-license_link: https://github.com/naye0ng/Grape-Theme/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'Grape-Theme.png'
 ---

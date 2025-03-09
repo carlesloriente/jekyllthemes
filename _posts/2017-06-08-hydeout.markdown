@@ -4,7 +4,6 @@ comments: true
 title: Hydeout
 date: 2017-06-08 17:00:00 +01:00
 repo: https://github.com/fongandrew/hydeout
-update_date: 2024-12-23
 update_date: 2024-12-28
 forks: 770
 stars: 594
@@ -13,7 +12,7 @@ demo: https://fongandrew.github.io/hydeout/
 author: Andrew Fong
 thumbnail: hydeout.webp
 license: MIT
-license_link: https://github.com/fongandrew/hydeout/blob/master/LICENSE.md
+license_link: https://opensource.org/license/MIT
 carousel:
   - '1.png'
 ---

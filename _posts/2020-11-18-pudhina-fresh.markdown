@@ -12,7 +12,7 @@ demo: https://ritijjain.github.io/pudhina-fresh/
 author: Ritij Jain
 thumbnail: pudhina-fresh.webp
 license: MIT
-license_link: https://github.com/ritijjain/pudhina-fresh/blob/master/LICENSE
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

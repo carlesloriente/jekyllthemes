@@ -12,7 +12,7 @@ demo: https://sergiokopplin.github.io/violet/
 author: Sérgio Kopplin
 thumbnail: violet.webp
 license: MIT
-license_link: https://kopplin.mit-license.org/
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

@@ -11,7 +11,7 @@ download: https://github.com/codinfox/codinfox-lanyon/archive/dev.zip
 author: codinfox
 thumbnail: codinfox-lanyon.webp
 license: MIT
-license_link: https://github.com/codinfox/codinfox-lanyon/blob/dev/LICENSE.md
+license_link: https://opensource.org/license/MIT
 ---
 
 Simple Jekyll theme based on Lanyon.

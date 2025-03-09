@@ -12,7 +12,7 @@ download: https://github.com/sorphwer/jekyll-theme-panda/archive/refs/tags/Relea
 author: Riino Zhang
 thumbnail: jekyll-theme-panda.webp
 license: MIT
-license_link: https://opensource.org/licenses/MIT
+license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot.png'
 ---

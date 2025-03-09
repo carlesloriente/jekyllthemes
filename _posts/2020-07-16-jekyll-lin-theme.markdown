@@ -11,7 +11,7 @@ download: https://github.com/ssokurenko/jekyllthemes/archive/1.0.0.zip
 author: Sergey Sokurenko
 thumbnail: jekyll-lin-theme.webp
 license: MIT
-license_link: https://github.com/ssokurenko/jekyll-lin-theme/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/MIT
 ---
 
 A slick minimalist theme for Jekyll.

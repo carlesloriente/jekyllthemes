@@ -11,7 +11,7 @@ download: https://github.com/francescobianco/jekyll-html-pages/archive/gh-pages.
 demo: https://yafb.net/jekyll-html-pages/
 author: Francesco Bianco
 license: MIT
-license_link: https://francescobianco/jekyll-html-pages/blob/main/LICENSE
+license_link: https://opensource.org/license/MIT
 thumbnail: jekyll-html-pages.webp
 carousel:
  - 'jekyll-html-pages.png'
