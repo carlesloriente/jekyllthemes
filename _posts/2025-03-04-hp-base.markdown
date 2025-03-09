@@ -1,0 +1,24 @@
+---
+layout: post
+comments: true
+title: HP Base
+date: 2025-03-04 20:40:18 +02:00
+update_date: 2025-03-04
+repo: https://github.com/gbif/jekyll-hp-base-theme
+demo: https://hp-theme.gbif-staging.org/
+forks: 14
+stars: 7
+download: https://github.com/gbif/jekyll-hp-base-theme/archive/refs/heads/master.zip
+author: Global Biodiversity Information Facility
+thumbnail: hp-base.png
+license: Apache-2.0
+license_link: https://opensource.org/license/apache-2-0
+carousel:
+  - 'screenshot.png'
+---
+
+HP Base a Jekyll theme for hosted websites (under development).
+
+## Acknowledgement
+
+This project was inspired by [Petridish](https://github.com/peterdesmet/petridish) - Jekyll theme for research project websites.
