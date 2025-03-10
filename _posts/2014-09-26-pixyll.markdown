@@ -191,7 +191,7 @@ And lastly - if you happen to write in language other than English be sure to ch
 
 Pixyll supports features of a progressive web app (PWA).  As a PWA, your site's home page can be installed as a shortcut or an app icon on a mobile device.  Also, certain assets are cached so the site can be accessed should the device be offline from the network.
 
-Pixyll supports these features because it provides a Javascript file that acts as a *service worker* in the browser and has a JSON file with a **web manifest**. By default, these are configured to the settings of Pixyll, but you should consider cutomizing them to your specific site:
+Pixyll supports these features because it provides a Javascript file that acts as a _service worker_ in the browser and has a JSON file with a _web manifest_. By default, these are configured to the settings of Pixyll, but you should consider cutomizing them to your specific site:
 
 1. Provide a different version of `splash-512x512.png` which is the loading screen for your offline app.
 2. A `favicon-192x192.png` for the app icon (if you haven't already).

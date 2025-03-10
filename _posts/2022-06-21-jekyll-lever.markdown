@@ -26,13 +26,6 @@ The theme’s strength lies in its flexibility, enabling users to effortlessly s
 
 With Jekyll Lever, users can curate their personal brand and highlight key aspects of their career, projects, and interests in a visually cohesive manner. It includes multiple high visibility CTAs so clients can easily contact you.
 
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Features](#features)
-- [Other Jekyll Themes by Zerostatic](#other-jekyll-themes-by-zerostatic)
-- [Contact](#contact)
-
 ## Features
 
 - Jekyll 4.3.2+

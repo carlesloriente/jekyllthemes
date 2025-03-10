@@ -19,16 +19,6 @@ carousel:
 
 Chulapa, A full flexible Jekyll theme for Github Pages. A great alternative for blogs, news, portfolios and personal sites.
 
-## Table Of Contents
-
-- [Table Of Contents](#table-of-contents)
-- [Features](#features)
-- [Installation](#installation)
-  - [A. Use our Github Template](#a-use-our-github-template)
-  - [B. Remote theme method](#b-remote-theme-method)
-  - [C. Gem-based method 💎](#c-gem-based-method-)
-- [Configuration and Layouts](#configuration-and-layouts)
-
 ## Features
 
 - **Bootstrap 4** - Fully responsive

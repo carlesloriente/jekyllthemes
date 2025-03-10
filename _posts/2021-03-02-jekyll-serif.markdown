@@ -1,7 +1,6 @@
 ---
 layout: post
 comments: true
-toc: true
 title: Serif
 date: 2021-03-02 00:40:18 +02:00
 update_date: 2023-12-08
@@ -22,19 +21,6 @@ carousel:
 ---
 
 Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
-
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Features](#features)
-- [Installation](#installation)
-- [Deployment](#deployment)
-  - [Netlify](#netlify)
-  - [Github Pages](#github-pages)
-- [Credits](#credits)
-- [Support My Work](#support-my-work)
-- [Other Jekyll Themes by Zerostatic](#other-jekyll-themes-by-zerostatic)
-- [Contact](#contact)
 
 ## Features
 
@@ -89,7 +75,7 @@ Use Netlify to deploy this theme. This theme contains a valid and tested `netlif
 
 This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
 
-For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would have `baseurl: "/jekyll-serif-theme/"`
+For example the site `https://zerostaticthemes.github.io/jekyll-serif-theme` would have `baseurl: "/jekyll-serif-theme/"`
 
 ## Credits
 

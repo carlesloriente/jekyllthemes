@@ -32,22 +32,6 @@ Using the [NOCC Bootstrap theme](https://www.npmjs.com/package/nocc-bootstrap-th
 
 ![NOCC Jekyll Bundle webshots](/screenshots/2024-12-09-nocc-bootstrap-theme-jekyll/nocc-showcase.webp){:.img-fluid}
 
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Features](#features)
-- [Installation](#installation)
-  - [Configuration](#configuration)
-  - [Add your content](#add-your-content)
-  - [Setup local environment](#setup-local-environment)
-    - [Use HTTPS](#use-https)
-  - [Host your site](#host-your-site)
-    - [in GitHub-Pages](#in-github-pages)
-    - [in Amazon S3 bucket](#in-amazon-s3-bucket)
-- [Bugs and Issues](#bugs-and-issues)
-- [Contribute](#contribute)
-- [Contact](#contact)
-
 ## Features
 
 - **A complete website ready to roll out**
