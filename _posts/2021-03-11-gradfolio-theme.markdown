@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Gradfolio
 date: 2021-03-11 12:33:00 +01:00
 repo: https://github.com/jitinnair1/gradfolio

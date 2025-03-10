@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Fengzhichu
 date: 2015-12-18 17:10:00 +01:00
 repo: https://github.com/fengzhichu/fengzhichu-theme

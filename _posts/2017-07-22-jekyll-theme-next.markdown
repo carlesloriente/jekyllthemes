@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: NexT
 date: 2017-07-22 17:19:00 +01:00
 repo: https://github.com/Simpleyyt/jekyll-theme-next

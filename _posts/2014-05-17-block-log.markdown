@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Block-log
 date: 2014-05-17 20:00:00 +01:00
 repo: https://github.com/anandubajith/block-log

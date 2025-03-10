@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Swedbank Pay Design Guide
 date: 2020-02-07 21:15:18 +02:00
 updated: 2021-09-07

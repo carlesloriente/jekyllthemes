@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Grayscale
 date: 2015-02-04 18:00:00 +01:00
 repo: https://github.com/jeromelachaud/grayscale-theme

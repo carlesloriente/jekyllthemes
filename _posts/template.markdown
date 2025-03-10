@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Post template
 description: Short theme description 
 date: 2030-01-01 20:00:00 +01:00

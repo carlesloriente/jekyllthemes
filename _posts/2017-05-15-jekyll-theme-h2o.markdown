@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: H2O
 date: 2017-05-15 20:00:00 +01:00
 repo: https://github.com/kaeyleo/jekyll-theme-H2O

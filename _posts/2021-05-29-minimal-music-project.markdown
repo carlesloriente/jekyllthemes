@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: minimal-music-project
 date: 2021-05-29 17:22:00 +01:00
 repo: https://github.com/ItsPatrq/minimal-music-project

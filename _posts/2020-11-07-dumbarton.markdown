@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Dumbarton
 date: 2020-11-07 16:00:00 +01:00
 repo: https://github.com/tcbutler320/Jekyll-Theme-Dumbarton

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Simple Texture
 date: 2017-05-30 20:00:00 +01:00
 repo: https://github.com/yizeng/jekyll-theme-simple-texture

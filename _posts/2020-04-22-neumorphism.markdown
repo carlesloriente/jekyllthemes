@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Neumorphism
 date: 2020-04-22 14:00:00 +01:00
 repo: https://github.com/longpdo/neumorphism

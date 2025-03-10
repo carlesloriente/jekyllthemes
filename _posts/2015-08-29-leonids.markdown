@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Leonids
 date: 2015-08-29 21:22:00 +01:00
 repo: https://github.com/renyuanz/leonids

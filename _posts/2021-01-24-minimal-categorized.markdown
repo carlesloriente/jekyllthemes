@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: minimal-categorized
 date: 2021-01-24 16:47:00 +01:00
 repo: https://github.com/ItsPatrq/minimal-categorized

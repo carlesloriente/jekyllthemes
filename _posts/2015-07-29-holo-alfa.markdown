@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Holo Alfa
 date: 2015-07-29 02:19:00 +01:00
 repo: https://github.com/stijnvc/holo-alfa

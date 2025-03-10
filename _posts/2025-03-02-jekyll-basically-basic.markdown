@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekyll Basically Basic
 date: 2025-03-02 00:55:18 +02:00
 repo: https://github.com/attajak/jekyll-basically-basic

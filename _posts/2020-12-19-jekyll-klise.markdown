@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekyll Klisé
 date: 2020-12-19 20:00:00 +01:00
 repo: https://github.com/piharpi/jekyll-klise

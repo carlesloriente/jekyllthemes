@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Architect
 date: 2014-04-07 08:31:00 +01:00
 repo: https://github.com/pietromenna/jekyll-architect-theme

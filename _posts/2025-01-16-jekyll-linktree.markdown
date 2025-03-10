@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekyll Linktree
 date: 2025-01-16 20:40:18 +03:00
 repo: https://github.com/lazypwny751/jekyll-linktree

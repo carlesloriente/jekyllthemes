@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Plainwhite
 date: 2019-05-05 09:20:00 +01:00
 repo: https://github.com/samarsault/plainwhite-jekyll

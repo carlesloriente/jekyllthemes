@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Koru Jekyll
 date: 2025-03-07 20:40:18 +02:00
 update_date: 2025-03-07

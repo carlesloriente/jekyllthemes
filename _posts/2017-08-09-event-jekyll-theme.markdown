@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Event
 date: 2017-08-09 20:00:00 +01:00
 repo: https://github.com/melvinchng/event-jekyll-theme

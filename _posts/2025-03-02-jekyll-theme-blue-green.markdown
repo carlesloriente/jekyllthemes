@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: BlueGreen
 date: 2025-03-02 00:40:18 +02:00
 repo: https://github.com/bjkawecki/jekyll-theme-bluegreen

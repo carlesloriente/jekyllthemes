@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: TechDoc
 date: 2021-05-08 09:30:00 +01:00
 repo: https://github.com/jianmin-chen/techdoc

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Type on Strap
 date: 2017-11-11 07:00:00 +01:00
 repo: https://github.com/Sylhare/Type-on-Strap

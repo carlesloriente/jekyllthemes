@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekyll BlogFolio
 date: 2018-1-21 21:00:00 +01:00
 repo: https://github.com/lamccloskey/jekyll-theme-blogfolio

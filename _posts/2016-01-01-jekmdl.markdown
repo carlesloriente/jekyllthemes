@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekmdl
 date: 2016-01-01 22:51:45 +01:00
 repo: https://github.com/tigefa4u/jekmdl
@@ -25,6 +26,7 @@ The [Jekyll](https://jekyllrb.com) best bloging platform using command line (CLI
 ---
 layout: post
 comments: true
+toc: true
 title: "All Posts Components"
 date: 2016-01-01 18:54:28 +01:00
 author: sugeng tigefa

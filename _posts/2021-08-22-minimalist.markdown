@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Minimalist
 date: 2021-08-22 20:00:00 +01:00
 repo: https://github.com/BDHU/minimalist

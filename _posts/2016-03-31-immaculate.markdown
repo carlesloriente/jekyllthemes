@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Immaculate
 date: 2016-03-31 13:46:00 +01:00
 repo: https://github.com/siawyoung/immaculate

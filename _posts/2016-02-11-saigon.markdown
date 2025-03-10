@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Saigon
 date: 2016-02-11 09:52:00 +01:00
 repo: https://github.com/hoffli/saigon-jekyll-theme

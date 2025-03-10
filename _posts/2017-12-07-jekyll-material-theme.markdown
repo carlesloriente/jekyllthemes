@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekyll Material
 date: 2017-12-07 17:00:00 +01:00
 repo: https://github.com/jameshamann/jekyll-material-theme

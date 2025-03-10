@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Stack Problems
 date: 2016-04-21 01:16:00 +01:00
 repo: https://github.com/agusmakmun/agusmakmun.github.io

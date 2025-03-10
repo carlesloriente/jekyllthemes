@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Whiteglass
 date: 2017-02-10 17:03:43 +01:00
 repo: https://github.com/yous/whiteglass

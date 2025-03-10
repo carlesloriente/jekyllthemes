@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: no style, please
 date: 2020-07-24 12:00:00 +01:00
 repo: https://github.com/riggraz/no-style-please

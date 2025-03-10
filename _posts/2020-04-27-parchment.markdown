@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Parchment
 date: 2020-04-27 22:18:00 +01:00
 repo: https://github.com/rhl-bthr/parchment

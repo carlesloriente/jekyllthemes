@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: YAMT
 date: 2020-05-21 16:00:00 +01:00
 repo: https://github.com/PandaSekh/Jekyll-YAMT

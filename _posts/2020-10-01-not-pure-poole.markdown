@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Not Pure Poole
 date: 2020-10-01 20:00:00 +01:00
 repo: https://github.com/vszhub/not-pure-poole

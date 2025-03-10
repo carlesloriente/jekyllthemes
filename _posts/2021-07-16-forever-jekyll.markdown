@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Forever
 date: 2021-07-16 03:50:00 +05:30
 repo: https://github.com/forever-jekyll/forever-jekyll

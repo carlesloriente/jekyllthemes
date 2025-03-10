@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Bootstrap-based Resume
 date: 2020-10-11 02:11:04 +02:00
 repo: https://github.com/zemmyang/Bootstrap-Resume-Jekyll

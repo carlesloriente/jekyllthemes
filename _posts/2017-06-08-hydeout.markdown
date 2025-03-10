@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Hydeout
 date: 2017-06-08 17:00:00 +01:00
 repo: https://github.com/fongandrew/hydeout

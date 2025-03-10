@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Modern Blog
 date: 2017-03-13 20:00:00 +01:00
 repo: https://github.com/Open-SL/Jekyll-Modern-Blog

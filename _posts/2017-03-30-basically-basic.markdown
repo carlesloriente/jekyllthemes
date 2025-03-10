@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Basically Basic
 date: 2017-03-30 11:32:00 +01:00
 repo: https://github.com/mmistakes/jekyll-theme-basically-basic

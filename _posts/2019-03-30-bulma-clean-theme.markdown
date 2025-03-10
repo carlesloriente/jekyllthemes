@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Bulma Clean
 date: 2019-03-30 10:11:00 +01:00
 repo: https://github.com/chrisrhymes/bulma-clean-theme

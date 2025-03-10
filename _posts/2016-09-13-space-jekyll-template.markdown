@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Space
 date: 2016-09-13 16:08:00 +01:00
 repo: https://github.com/victorvoid/space-jekyll-template

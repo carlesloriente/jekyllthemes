@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Massively
 date: 2017-11-12 07:00:00 +01:00
 repo: https://github.com/iwiedenm/jekyll-theme-massively-src

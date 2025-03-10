@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: pRoJEct-NeGYa
 date: 2019-06-28 16:00:00 +01:00
 repo: https://github.com/gmkzwwg/pRoJEct-NeGYa

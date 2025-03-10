@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: OneFlow
 date: 2024-02-18 03:00:00 +01:00
 repo: https://github.com/perstarke-webdev/oneflow-jekyll-theme

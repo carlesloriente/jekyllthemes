@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: HMFaysal
 date: 2013-12-14 01:36:00 +01:00
 repo: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme

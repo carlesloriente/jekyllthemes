@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Princess Diaries
 date: 2015-11-22 20:00:00 +01:00
 repo: https://github.com/laixintao/Princess-Diaries

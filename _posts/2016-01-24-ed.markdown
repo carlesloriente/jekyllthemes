@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Ed
 date: 2016-01-24 10:00:00 +01:00
 repo: https://github.com/elotroalex/ed

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: ResumeCards
 date: 2015-01-15 11:00:00 +01:00
 repo: https://github.com/ellekasai/resumecards

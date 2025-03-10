@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Feeling Responsive
 date: 2015-03-02 20:00:00 +01:00
 repo: https://github.com/Phlow/feeling-responsive
