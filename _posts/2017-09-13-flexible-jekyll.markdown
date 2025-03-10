@@ -13,7 +13,7 @@ demo: https://artemsheludko.github.io/flexible-jekyll/
 author: Artem Sheludko
 thumbnail: flexible-jekyll.webp
 license: GPLv3
-license_link: https://raw.githubusercontent.com/artemsheludko/flexible-jekyll/refs/heads/master/LICENSE
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'home-page.jpg'
   - 'post-example.jpg'

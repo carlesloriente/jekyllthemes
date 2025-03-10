@@ -92,14 +92,6 @@ I've been building open source themes for all the main static site generators fo
 3. Mention this theme on twitter [@zerostaticio](https://twitter.com/zerostaticio){:target="_blank"}{:rel="noopener noreferrer"} 📢
 4. Purchase a premium theme 🔥
 
-## Other Jekyll Themes by Zerostatic
-
-- [Jekyll Atlantic (Open Source)](https://www.zerostatic.io/theme/jekyll-atlantic/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Advance (Premium)](https://www.zerostatic.io/theme/jekyll-advance/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Origin (Premium)](https://www.zerostatic.io/theme/jekyll-origin/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Curate (Premium)](https://www.zerostatic.io/theme/jekyll-curate/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Lever (Premium)](https://www.zerostatic.io/theme/jekyll-lever/){:target="_blank"}{:rel="noopener noreferrer"}
-
 ## Contact
 
 🇦🇺 **Made in Australia** by Robert Austin

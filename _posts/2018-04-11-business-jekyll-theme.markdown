@@ -13,7 +13,7 @@ demo: https://business-jekyll-theme.github.io/
 author: Melvin Ch'ng
 thumbnail: business-jekyll-theme.webp
 license: GPLv3
-license_link: https://www.gnu.org/licenses/gpl-3.0.txt
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'screenshot.png'
 ---

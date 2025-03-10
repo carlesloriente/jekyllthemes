@@ -13,7 +13,7 @@ demo: https://carte-noire.jacobtomlinson.co.uk/
 author: Jacob Tomlinson
 thumbnail: carte-noire.webp
 license: GPLv3
-license_link: https://github.com/jacobtomlinson/carte-noire/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'screenshot.png'
 ---

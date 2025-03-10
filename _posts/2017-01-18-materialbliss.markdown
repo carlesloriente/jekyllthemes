@@ -13,7 +13,7 @@ demo: https://code.liquidthink.net
 author: Andrew Plaza
 thumbnail: materialbliss.webp
 license: GPLv3
-license_link: https://github.com/insipx/material-bliss-jekyll-theme/blob/master/LICENSE
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'GfFoLXS.png'
   - 'cdIgtax.png'

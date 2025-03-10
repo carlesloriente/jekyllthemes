@@ -13,7 +13,7 @@ demo: https://cyevgeniy.github.io/jekyll-true-minimal/
 author: Yevgeniy Chaban
 thumbnail: true-minimal.webp
 license: GPLv2 
-license_link: https://github.com/cyevgeniy/jekyll-true-minimal/blob/master/LICENSE
+license_link: https://opensource.org/license/GPL-2.0
 carousel:
   - 'screenshot.png'
 ---

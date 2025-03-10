@@ -13,7 +13,7 @@ demo: https://thedevslot.github.io/WhatATheme/
 author: Sneha Omer, Harsh Trivedi
 thumbnail: what-a-theme.webp
 license: GPLv2
-license_link: https://github.com/thedevslot/WhatATheme/blob/master/LICENSE
+license_link: https://opensource.org/license/GPL-2.0
 carousel:
   - 'meta.jpg'
 ---

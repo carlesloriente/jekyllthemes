@@ -12,7 +12,7 @@ download: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/archive/master.zip
 author: Hossain Mohd Faysal
 thumbnail: hmfaysal.webp
 license: GPLv2
-license_link: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/blob/master/LICENSE
+license_link: https://opensource.org/license/GPL-2.0
 carousel:
   - 'screenshot.png'
 ---
