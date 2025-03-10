@@ -21,22 +21,6 @@ carousel:
 
 Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker){:target="_blank"}{:rel="noopener noreferrer"}, or even [use it today](#usage).
 
-## Table Of Contents
-
-- [Table Of Contents](#table-of-contents)
-- [Usage](#usage)
-- [Customizing](#customizing)
-  - [Configuration variables](#configuration-variables)
-  - [Stylesheet](#stylesheet)
-  - [Layouts](#layouts)
-  - [Customizing Google Analytics code](#customizing-google-analytics-code)
-  - [Overriding GitHub-generated URLs](#overriding-github-generated-urls)
-  - [Previewing the theme locally](#previewing-the-theme-locally)
-  - [Running tests](#running-tests)
-- [Roadmap](#roadmap)
-- [Project philosophy](#project-philosophy)
-- [Contributing](#contributing)
-
 ## Usage
 
 To use the Hacker theme:

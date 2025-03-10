@@ -22,13 +22,6 @@ carousel:
 
 Curate is a finely tuned portfolio theme with multiple layouts. Great for creative, technical and product focused websites.
 
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Features](#features)
-- [Other Jekyll Themes by Zerostatic](#other-jekyll-themes-by-zerostatic)
-- [Contact](#contact)
-
 ## Features
 
 - Jekyll 4.3+

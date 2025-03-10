@@ -21,14 +21,6 @@ carousel:
 
 A Jekyll theme for personal blogs. It's responsive, modern, and easy to customize.
 
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Installation](#installation)
-  - [Getting Started](#getting-started)
-  - [Development (Build From Source)](#development-build-from-source)
-  - [Other Resources](#other-resources)
-
 ## Installation
 
 ### Getting Started

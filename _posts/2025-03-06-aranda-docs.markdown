@@ -20,13 +20,6 @@ carousel:
 
 Aranda Docs is a Jekyll theme used to create the documentation portal. It has been developed to be a customizable minimalistic theme.
 
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Installation](#installation)
-  - [Remote installation](#remote-installation)
-  - [Local installation](#local-installation)
-
 ## Installation
 
 You can start to use this theme using one of three methods:

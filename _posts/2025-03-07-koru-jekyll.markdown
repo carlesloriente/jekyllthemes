@@ -21,18 +21,6 @@ carousel:
 
 Koru is a theme based on UCAR/NCAR's custom 'koru' design. It is built on top the Foundation framework. This provides users and developers with responsiveness and accessibility.
 
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Layouts](#layouts)
-  - [Default](#default)
-  - [Front page](#front-page)
-- [Main menu](#main-menu)
-- [Update Koru base to Latest Version](#update-koru-base-to-latest-version)
-- [Jekyll Development](#jekyll-development)
-- [New Release for downstream sites](#new-release-for-downstream-sites)
-- [Google Analytics](#google-analytics)
-
 ## Layouts
 
 ### Default
@@ -101,7 +89,7 @@ menu:
 
 - Commit and push your changes to GitHub
 - Create a new version on GitHub
-- Pull in the new release at https://github.com/NCAR/jekyll-koru-test in the _config.yml file.
+- Pull in the new release at `https://github.com/NCAR/jekyll-koru-test` in the `_config.yml` file.
 
 ## Google Analytics
 

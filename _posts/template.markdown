@@ -22,16 +22,7 @@ carousel:
   - 'screenshot-3.webp'
 ---
 
-Description
-
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Features](#features)
-- [Installation](#installation)
-- [Bugs and Issues](#bugs-and-issues)
-- [Contribute](#contribute)
-- [Contact](#contact)
+Description of the theme.
 
 ## Features
 

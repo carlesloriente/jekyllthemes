@@ -21,35 +21,6 @@ carousel:
 
 Minima is a one-size-fits-all Jekyll theme for writers. It's Jekyll's default (and first) theme.
 
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Installation](#installation)
-- [Contents At-A-Glance](#contents-at-a-glance)
-  - [Layouts](#layouts)
-    - [Base Layout](#base-layout)
-    - [Home Layout](#home-layout)
-      - [*Main Heading and Content-injection*](#main-heading-and-content-injection)
-      - [*Post Listing*](#post-listing)
-  - [Includes](#includes)
-  - [Sass](#sass)
-  - [Assets](#assets)
-  - [Plugins](#plugins)
-- [Usage](#usage)
-  - [Customizing templates](#customizing-templates)
-    - [Skins](#skins)
-      - [Available skins](#available-skins)
-  - [Customize navigation links](#customize-navigation-links)
-  - [Change default date format](#change-default-date-format)
-  - [Extending the `<head />`](#extending-the-head-)
-  - [Enabling comments (via Disqus)](#enabling-comments-via-disqus)
-  - [Author Metadata](#author-metadata)
-  - [Social networks](#social-networks)
-  - [Enabling Google Analytics](#enabling-google-analytics)
-  - [Enabling Excerpts on the Home Page](#enabling-excerpts-on-the-home-page)
-- [Contributing](#contributing)
-- [Development](#development)
-
 ## Installation
 
 Add this line to your Jekyll site's Gemfile:

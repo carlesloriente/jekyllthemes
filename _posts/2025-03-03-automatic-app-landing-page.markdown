@@ -19,23 +19,6 @@ carousel:
 
 A Jekyll theme for automatically generating and deploying landing page sites for mobile apps. **Create and deploy an iOS app landing page on GitHub Pages in only five minutes.**
 
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-  - [Step 1: Fork this repo](#step-1-fork-this-repo)
-  - [Step 2: Enter iOS App ID in `_config.yml`](#step-2-enter-ios-app-id-in-_configyml)
-  - [Step 3: Add screenshot or video](#step-3-add-screenshot-or-video)
-    - [Adding a screenshot](#adding-a-screenshot)
-    - [Adding video](#adding-video)
-    - [Resolutions](#resolutions)
-  - [Step 4: Edit (or remove) Privacy Policy and Changelog](#step-4-edit-or-remove-privacy-policy-and-changelog)
-- [Bugs and Issues](#bugs-and-issues)
-- [Credits](#credits)
-- [Donations](#donations)
-- [Contact](#contact)
-
 ## Installation
 
 🔧 Fork this repo
