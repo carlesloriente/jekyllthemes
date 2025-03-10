@@ -13,7 +13,7 @@ demo: https://shawnteoh.github.io/matjek
 author: Shawn Teoh
 thumbnail: matjek.webp
 license: GPLv3
-license_link: https://github.com/ShawnTeoh/matjek/blob/gh-pages/COPYING
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'screenshot.png'
 ---

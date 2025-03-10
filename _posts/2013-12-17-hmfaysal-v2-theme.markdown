@@ -12,7 +12,7 @@ download: https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/archive/master.zi
 author: Hossain Mohd Faysal
 thumbnail: hmfaysal-v2.webp
 license: GPLv2
-license_link: https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/blob/master/LICENSE
+license_link: https://opensource.org/license/GPL-2.0
 ---
 
 HMFaysal V2 is a responsive, minimal theme for Jekyll, featuring big feature images and a slide out drawer menu in mobile browsers.

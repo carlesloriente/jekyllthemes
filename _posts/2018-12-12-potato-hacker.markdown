@@ -13,7 +13,7 @@ demo: https://luxedo.github.io/jekyll-theme-potato-hacker/
 author: Luiz Amaral
 thumbnail: potato-hacker.webp
 license: GPLv3
-license_link: https://github.com/luxedo/jekyll-theme-potato-hacker/blob/master/LICENSE.md
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'screenshot.png'
 ---

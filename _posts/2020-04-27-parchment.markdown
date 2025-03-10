@@ -13,7 +13,7 @@ demo: https://rahulbothra.com/parchment/
 author: rhl-bthr
 thumbnail: parchment.webp
 license: GPLv3
-license_link: https://github.com/rhl-bthr/parchment/blob/master/LICENSE
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'screenshot.png'
 ---

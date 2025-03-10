@@ -13,7 +13,7 @@ demo: https://qwtel.com/hydejack/
 author: Florian Klampfer (@qwtel)
 thumbnail: hydejack.webp
 license: GPLv3
-license_link: https://qwtel.com/hydejack/LICENSE/
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'default.jpg'
 ---

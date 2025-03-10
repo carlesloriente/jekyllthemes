@@ -31,14 +31,6 @@ Curate is a finely tuned portfolio theme with multiple layouts. Great for creati
 - 100% responsive design
 - Configure logo, colors, fonts all from `_config.yml`
 
-## Other Jekyll Themes by Zerostatic
-
-- [Jekyll Atlantic (Open Source)](https://www.zerostatic.io/theme/jekyll-atlantic/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Serif (Open Source)](https://www.zerostatic.io/theme/jekyll-serif/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Advance (Premium)](https://www.zerostatic.io/theme/jekyll-advance/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Origin (Premium)](https://www.zerostatic.io/theme/jekyll-origin/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Lever (Premium)](https://www.zerostatic.io/theme/jekyll-lever/){:target="_blank"}{:rel="noopener noreferrer"}
-
 ## Contact
 
 🇦🇺 **Made in Australia** by Robert Austin

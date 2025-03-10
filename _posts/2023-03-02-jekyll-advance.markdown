@@ -35,14 +35,6 @@ Jekyll Advance is our flagship Jekyll theme. It’s designed to be highly config
 - Highly configurable homepage, configure every section from the frontmatter
 - Highly configurable Hero image section on most pages, configure the text, color, background image, blending effects, alignment etc and more.
 
-## Other Jekyll Themes by Zerostatic
-
-- [Jekyll Atlantic (Open Source)](https://www.zerostatic.io/theme/jekyll-atlantic/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Serif (Open Source)](https://www.zerostatic.io/theme/jekyll-serif/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Origin (Premium)](https://www.zerostatic.io/theme/jekyll-origin/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Curate (Premium)](https://www.zerostatic.io/theme/jekyll-curate/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Lever (Premium)](https://www.zerostatic.io/theme/jekyll-lever/){:target="_blank"}{:rel="noopener noreferrer"}
-
 ## Contact
 
 🇦🇺 **Made in Australia** by Robert Austin

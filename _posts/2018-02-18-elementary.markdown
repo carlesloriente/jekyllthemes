@@ -13,6 +13,7 @@ demo: https://elementary-jekyll.github.io/
 author: Abhishek Nagekar
 thumbnail: elementary.webp
 license: GPLv3
+lincense_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'screenshot.png'
 ---
