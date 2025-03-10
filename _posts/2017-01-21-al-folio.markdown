@@ -34,30 +34,6 @@ A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 ![al-folio](/screenshots/2025-03-03-al-folio/al-folio-preview.png){:.img-fluid}
 
-## Table Of Contents
-
-- [Table Of Contents](#table-of-contents)
-- [Features](#features)
-- [Getting started](#getting-started)
-- [Installation](#installation)
-  - [CV](#cv)
-  - [People](#people)
-  - [Publications](#publications)
-  - [Collections](#collections)
-  - [Layouts](#layouts)
-    - [The iconic style of Distill](#the-iconic-style-of-distill)
-    - [Full support for math \& code](#full-support-for-math--code)
-    - [Photos, Audio, Video and more](#photos-audio-video-and-more)
-  - [Other features](#other-features)
-    - [GitHub's repositories and user stats](#githubs-repositories-and-user-stats)
-    - [Theming](#theming)
-    - [Social media previews](#social-media-previews)
-    - [Atom (RSS-like) Feed](#atom-rss-like-feed)
-    - [Related posts](#related-posts)
-    - [Code quality checks](#code-quality-checks)
-- [FAQ](#faq)
-- [Contributing](#contributing)
-
 ## Features
 
 - **Light/Dark Mode**: This template has a built-in light/dark mode. It detects the user preferred color scheme and automatically switches to it. You can also manually switch between light and dark mode by clicking on the sun/moon icon in the top right corner of the page.

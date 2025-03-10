@@ -22,13 +22,6 @@ carousel:
 
 Jekyll Origin is fully featured premium blog theme.
 
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Features](#features)
-- [Other Jekyll Themes by Zerostatic](#other-jekyll-themes-by-zerostatic)
-- [Contact](#contact)
-
 ## Features
 
 - Jekyll 4.3.2+

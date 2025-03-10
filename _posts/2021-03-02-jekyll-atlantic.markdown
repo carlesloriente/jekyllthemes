@@ -23,21 +23,9 @@ carousel:
 
 Atlantic is a beutiful minimal blog theme for Jekyll. It is an excellent Jekyll + Tailwind boilerplate to start from.
 
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Features](#features)
-- [Installation](#installation)
-- [Deployment](#deployment)
-  - [Netlify](#netlify)
-  - [Github Pages](#github-pages)
-- [Credits](#credits)
-- [Other Jekyll Themes by Zerostatic](#other-jekyll-themes-by-zerostatic)
-- [Contact](#contact)
-
 ## Features
 
-- Uses PostCSS with autoprefixer, nested css, cssnano (minify css) 
+- Uses PostCSS with autoprefixer, nested css, cssnano (minify css)
 - Works with native Jekyll commands `jekyll serve` and `jekyll build`
 - Correctly uses Tailwind to purge CSS in production
 - Full blog functionality
@@ -96,7 +84,7 @@ Use Netlify to deploy this theme. This theme contains a valid and tested `netlif
 
 This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
 
-For example the site https://zerostaticthemes.github.io/jekyll-atlantic-theme would have `baseurl: "/jekyll-atlantic-theme/"`
+For example the site `https://zerostaticthemes.github.io/jekyll-atlantic-them` would have `baseurl: "/jekyll-atlantic-theme/"`
 
 ## Credits
 

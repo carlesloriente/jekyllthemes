@@ -25,13 +25,6 @@ carousel:
 
 Jekyll Advance is our flagship Jekyll theme. It’s designed to be highly configurable with multiple content types, which means you can build more than a blog or a portfolio. This theme will let you build business, marketing & landing-page type websites. The theme is built by Jekyll experts using best practices and clean, easy to understand code. All content is editable via markdown or config files, not hardcoded in the HTML.
 
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Features](#features)
-- [Other Jekyll Themes by Zerostatic](#other-jekyll-themes-by-zerostatic)
-- [Contact](#contact)
-
 ## Features
 
 - Jekyll 4.2+

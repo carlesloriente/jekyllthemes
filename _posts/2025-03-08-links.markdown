@@ -21,14 +21,6 @@ carousel:
 
 A Beautiful Jekyll Theme For Links.
 
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Installation](#installation)
-  - [Want to set this up **locally**?](#want-to-set-this-up-locally)
-  - [Want to set this up on **Docker**?](#want-to-set-this-up-on-docker)
-- [Content Credits](#content-credits)
-
 ## Installation
 
 - Fork this [Repository](https://github.com/harsh98trivedi/Links){:target="_blank"}{:rel="noopener noreferrer"}
