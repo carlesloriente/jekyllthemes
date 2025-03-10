@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Omega
 date: 2014-01-12 09:37:16 +01:00
 repo: https://github.com/hmfaysal/hmfaysal-omega-theme

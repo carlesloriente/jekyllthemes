@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Notepad
 date: 2014-07-19 20:31:50 +01:00
 repo: https://github.com/hmfaysal/Notepad

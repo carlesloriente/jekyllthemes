@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Wiki Blog
 date: 2015-12-30 20:00:00 +01:00
 repo: https://github.com/lixizhi/lixizhi.github.io

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Helium Jekyll
 date: 2017-10-09 12:32:00 +01:00
 repo: https://github.com/heliumjk/heliumjk.github.io

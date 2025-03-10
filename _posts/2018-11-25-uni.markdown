@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Uni One-Page Jekyll
 date: 2018-11-25 21:09:00 +01:00
 repo: https://github.com/brianmaierjr/uni

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Conference
 date: 2023-08-27 10:00:00 +01:00
 repo: https://github.com/DigitaleGesellschaft/jekyll-theme-conference

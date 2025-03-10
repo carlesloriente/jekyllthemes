@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Blade Theme
 date: 2017-01-31 12:02:00 +01:00
 repo: https://github.com/mateussmedeiros/blade-theme

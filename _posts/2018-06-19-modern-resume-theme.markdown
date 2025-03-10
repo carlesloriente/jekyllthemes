@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: modern-resume-theme
 date: 2018-06-19 02:40:18 +02:00
 update_date: 2021-09-26

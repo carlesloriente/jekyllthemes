@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekyll Help Center
 date: 2017-12-18 17:00:00 +01:00
 repo: https://github.com/gustavoquinalha/jekyll-help-center-theme
@@ -56,6 +57,7 @@ localhost:4000/jekyll-help-center-theme/
 ---
 layout: post
 comments: true
+toc: true
 title: 'First category'
 description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 date: 2017-11-12 17:46:41 -0300

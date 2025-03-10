@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Prologue
 date: 2017-12-07 20:00:00 +01:00
 repo: https://github.com/chrisbobbe/jekyll-theme-prologue

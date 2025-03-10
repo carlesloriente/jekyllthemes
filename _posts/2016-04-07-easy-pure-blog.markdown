@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Easy Pure Blog
 date: 2016-04-07 12:00:00 +01:00
 repo: https://github.com/liungkejin/liungkejin.github.io

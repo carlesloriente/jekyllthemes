@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Minimal Mistakes
 date: 2016-04-15 10:12:46 +01:00
 repo: https://github.com/mmistakes/minimal-mistakes

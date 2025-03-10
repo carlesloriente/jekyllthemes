@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Taken
 date: 2016-05-23 08:14:00 +01:00
 repo: https://github.com/vfalanis/taken

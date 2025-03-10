@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Sleek Blog
 date: 2016-01-03 15:45:45 +05:30
 repo: https://github.com/bawn92/sleek_blog

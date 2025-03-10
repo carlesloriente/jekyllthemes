@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: DIARY
 date: 2019-08-09 19:53:00 +01:00
 repo: https://github.com/soyaine/jekyll-theme-diary

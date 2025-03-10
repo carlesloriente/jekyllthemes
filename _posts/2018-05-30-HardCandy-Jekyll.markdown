@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: HardCandy-Jekyll
 date: 2018-05-30 09:20:00 +01:00
 repo: https://github.com/xukimseven/HardCandy-Jekyll

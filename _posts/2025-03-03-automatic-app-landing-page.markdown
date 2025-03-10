@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Automatic App Landing Page
 date: 2025-03-03 20:40:18 +02:00
 repo: https://github.com/emilbaehr/automatic-app-landing-page

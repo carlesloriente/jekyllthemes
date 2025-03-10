@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Trading
 date: 2016-04-08 11:43:00 +01:00
 repo: https://github.com/altcointrading/trading

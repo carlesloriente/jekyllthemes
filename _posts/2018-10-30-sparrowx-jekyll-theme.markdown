@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: SparrowX 
 date: 2018-10-30 09:20:00 +01:00
 repo: https://github.com/verfasor/sparrowx

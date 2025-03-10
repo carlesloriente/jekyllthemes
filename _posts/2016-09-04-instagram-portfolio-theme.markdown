@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Instagram portfolio
 date: 2016-09-04 20:00:00 +01:00
 repo: https://github.com/portfolio-central/jekyll-instagram-portfolio-theme

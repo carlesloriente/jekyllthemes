@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekyll Material Design Lite
 date: 2015-07-22 10:10:10 +01:00
 repo: https://github.com/gdgmanagua/jekyll-mdl

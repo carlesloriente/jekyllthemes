@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Mediumish
 date: 2018-01-13 20:00:00 +01:00
 repo: https://github.com/wowthemesnet/mediumish-theme-jekyll

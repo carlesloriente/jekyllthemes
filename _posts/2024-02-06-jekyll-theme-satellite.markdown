@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Satellite
 date: 2024-02-06 20:00:00 +01:00
 repo: https://github.com/byanko55/jekyll-theme-satellite

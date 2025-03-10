@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Panel CV
 date: 2017-07-29 11:32:00 +01:00
 repo: https://github.com/jekyller/PanelCV

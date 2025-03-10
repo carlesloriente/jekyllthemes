@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Papyrus
 date: 2016-11-05 22:35:00 +01:00
 repo: https://github.com/hugoferreira/papyrus-theme

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Twail
 date: 2022-01-19 20:00:00 +01:00
 repo: https://github.com/leetaewook/jekyll-theme-twail

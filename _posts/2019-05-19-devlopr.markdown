@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Devlopr 
 date: 2019-05-19 20:00:00 +01:00
 repo: https://github.com/sujaykundu777/devlopr-jekyll

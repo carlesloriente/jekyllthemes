@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekyll Clean Dark
 date: 2015-07-26 19:07:11 +01:00
 repo: https://github.com/streetturtle/jekyll-clean-dark

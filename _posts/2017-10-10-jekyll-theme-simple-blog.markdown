@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Simple Blog
 date: 2017-10-10 08:00:00 +01:00
 repo: https://gitlab.com/lorepirri/jekyll-theme-simple-blog

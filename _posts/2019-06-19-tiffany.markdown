@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Tiffany
 date: 2019-06-19 11:48:00 +01:00
 repo: https://github.com/bit-ranger/blog

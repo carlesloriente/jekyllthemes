@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Freshman21
 date: 2014-12-20 16:55:00 +01:00
 repo: https://github.com/yulijia/freshman21

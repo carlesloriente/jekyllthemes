@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekyll Garden
 date: 2021-08-01 01:42:00 +01:00
 repo: https://github.com/Jekyll-Garden/jekyll-garden.github.io

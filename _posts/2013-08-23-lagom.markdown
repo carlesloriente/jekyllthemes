@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Lagom
 date: 2013-08-23 12:00:00 +01:00
 repo: https://github.com/swanson/lagom

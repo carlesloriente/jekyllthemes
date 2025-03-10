@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Clean Blog
 date: 2014-09-27 15:09:00 +01:00
 repo: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll

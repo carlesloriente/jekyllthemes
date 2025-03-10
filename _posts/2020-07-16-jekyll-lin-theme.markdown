@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Lin
 date: 2019-07-16 22:30:00 +01:00
 repo: https://github.com/ssokurenko/jekyll-lin-theme

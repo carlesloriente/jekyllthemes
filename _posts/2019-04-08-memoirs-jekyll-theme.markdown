@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Memoirs Jekyll
 date: 2019-04-08 09:20:00 +01:00
 repo: https://github.com/wowthemesnet/jekyll-theme-memoirs

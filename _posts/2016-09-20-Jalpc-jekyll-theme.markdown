@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jalpc
 date: 2016-09-20 20:00:00 +01:00
 repo: https://github.com/jarrekk/Jalpc

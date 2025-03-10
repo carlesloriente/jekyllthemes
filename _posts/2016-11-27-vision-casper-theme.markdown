@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekyll Vision Casper
 date: 2016-11-27 11:42:00 +01:00
 repo: https://github.com/hugocarreira/jekyll-vision-casper-theme

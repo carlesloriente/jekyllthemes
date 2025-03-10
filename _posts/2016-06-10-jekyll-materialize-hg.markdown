@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: MaterializeHG
 date: 2016-06-10 04:43:00 +01:00
 repo: https://github.com/hugocarreira/jekyll-materializecss

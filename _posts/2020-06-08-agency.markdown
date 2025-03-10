@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Agency
 date: 2020-06-08 04:20:00 +01:00
 repo: https://github.com/raviriley/agency-jekyll-theme

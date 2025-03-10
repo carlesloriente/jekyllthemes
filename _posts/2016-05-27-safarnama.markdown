@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Safarnama
 date: 2016-05-27 21:24:48 +01:00
 repo: https://github.com/hemangsk/safarnama

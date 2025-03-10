@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Violet
 date: 2016-07-16 16:35:00 +01:00
 repo: https://github.com/sergiokopplin/violet

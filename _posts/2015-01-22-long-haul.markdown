@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Long Haul
 date: 2015-01-22 12:00:00 +01:00
 repo: https://github.com/brianmaierjr/long-haul

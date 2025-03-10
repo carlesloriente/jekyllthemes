@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Ultralight
 date: 2017-12-26 12:00:00 +01:00
 repo: https://github.com/kotet/ultralight

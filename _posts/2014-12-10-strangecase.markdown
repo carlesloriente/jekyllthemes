@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Strange Case
 date: 2014-12-10 20:00:00 +01:00
 repo: https://github.com/thephuse/strange_case

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Thunder
 date: 2016-05-15 18:50:00 +01:00
 repo: https://github.com/sharu725/thunder

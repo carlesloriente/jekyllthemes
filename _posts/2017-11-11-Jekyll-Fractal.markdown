@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Fractal
 date: 2017-11-11 09:10:00 +01:00
 repo: https://github.com/yveszenne/jekyll-html5up-fractal

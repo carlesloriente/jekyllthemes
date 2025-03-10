@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: project-pages
 date: 2016-09-17 22:01:03 +01:00
 repo: https://github.com/projectpages/project-pages

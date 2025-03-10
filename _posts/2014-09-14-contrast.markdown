@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Contrast
 date: 2014-09-14 00:03:00 +01:00
 repo: https://github.com/niklasbuschmann/contrast

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Future Imperfect
 date: 2018-02-21 13:26:00 +01:00
 repo: https://github.com/kaptn3/future-imperfect

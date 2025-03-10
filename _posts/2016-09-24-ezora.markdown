@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Ezora
 date: 2016-09-24 20:00:00 +01:00
 repo: https://github.com/ezrasavard/ezora-jekyll-theme

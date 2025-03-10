@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Creative
 date: 2020-03-03 10:21:00 +01:00
 repo: https://github.com/vvalchev/creative-theme-jekyll-new

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Hydrogen
 date: 2019-02-20 13:30:00 +01:00
 repo: https://github.com/link9596/hydrogen

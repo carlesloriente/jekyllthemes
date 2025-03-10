@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Yellowblue
 date: 2015-10-18 21:00:00 +01:00
 repo: https://github.com/chalatz/yellowblue
