@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Portfolio Jekyll
 date: 2017-05-25 20:00:00 +01:00
 repo: https://github.com/LeNPaul/portfolio-jekyll-theme

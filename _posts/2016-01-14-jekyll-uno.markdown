@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekyll-Uno
 date: 2016-01-14 10:00:00 +01:00
 repo: https://github.com/joshgerdes/jekyll-uno

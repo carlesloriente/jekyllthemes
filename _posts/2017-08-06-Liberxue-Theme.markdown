@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Liberxue
 date: 2017-08-06 13:45:39 +01:00
 repo: https://github.com/Liberxue/liberxue.github.io

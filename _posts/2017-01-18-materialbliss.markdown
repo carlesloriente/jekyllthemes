@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Material Bliss
 date: 2017-01-18 20:17:14 +01:00
 repo: https://github.com/insipx/material-bliss-jekyll-theme

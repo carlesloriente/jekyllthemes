@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Mdui
 date: 2017-05-30 17:25:00 +01:00
 repo: https://github.com/KeJunMao/jekyll-theme-mdui

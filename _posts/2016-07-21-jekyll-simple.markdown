@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Simple
 date: 2016-07-21 19:01:03 +01:00
 repo: https://github.com/wild-flame/jekyll-simple

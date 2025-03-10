@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: HP Base
 date: 2025-03-04 20:40:18 +02:00
 update_date: 2025-03-04

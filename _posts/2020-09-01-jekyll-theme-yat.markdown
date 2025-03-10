@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Yet Another Theme (YAT)
 date: 2020-09-01 19:38:24 +01:00
 repo: https://github.com/jeffreytse/jekyll-theme-yat

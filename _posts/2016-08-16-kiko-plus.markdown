@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Kiko Plus
 date: 2016-08-16 01:45:03 +01:00
 repo: https://github.com/AWEEKJ/Kiko-plus

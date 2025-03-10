@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Kross Portfolio
 date: 2019-07-20 22:30:00 +01:00
 repo: https://github.com/themefisher/kross-jekyll

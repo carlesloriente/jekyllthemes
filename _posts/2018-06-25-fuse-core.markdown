@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Fuse Core
 date: 2018-06-25 20:00:00 +01:00
 repo: https://github.com/tsjensen/fuse-core

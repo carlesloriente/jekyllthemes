@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Joon
 date: 2015-10-31 19:50:00 +01:00
 repo: https://github.com/vormwald/joon

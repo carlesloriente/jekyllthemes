@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Arctic Fox
 date: 2015-06-16 07:42:00 +01:00
 repo: https://github.com/diezcami/arctic-fox-theme

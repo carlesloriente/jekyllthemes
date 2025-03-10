@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekyll Now
 date: 2015-08-20 15:00:00 +01:00
 repo: https://github.com/barryclark/jekyll-now

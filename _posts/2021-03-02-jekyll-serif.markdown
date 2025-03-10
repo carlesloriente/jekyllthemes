@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Serif
 date: 2021-03-02 00:40:18 +02:00
 update_date: 2023-12-08

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Planet Jekyll's Starter (Minimal)
 date: 2015-08-20 20:00:00 +01:00
 repo: https://github.com/planetjekyll/jekyll-starter-theme

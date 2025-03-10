@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekyll Materialize
 date: 2017-08-15 00:08:00 +01:00
 repo: https://github.com/macrod68/jekyll-materialize-starter-template

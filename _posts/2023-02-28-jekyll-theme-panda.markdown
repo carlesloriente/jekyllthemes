@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Panda
 date: 2023-02-28 7:00:00 +01:00
 repo: https://github.com/sorphwer/jekyll-theme-panda

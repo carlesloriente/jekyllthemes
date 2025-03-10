@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jekyll-Mono
 date: 2016-08-06 05:45:10 +01:00
 repo: https://github.com/AkshayAgarwal007/Jekyll-Mono

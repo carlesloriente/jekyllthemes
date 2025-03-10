@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Texture
 date: 2019-06-30 08:00:00 +01:00
 repo: https://github.com/samarsault/texture

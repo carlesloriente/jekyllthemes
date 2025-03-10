@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Skinny Bones
 date: 2014-09-03 21:00:00 +01:00
 repo: https://github.com/mmistakes/skinny-bones-jekyll

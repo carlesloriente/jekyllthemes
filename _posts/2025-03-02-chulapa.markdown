@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Chulapa
 date: 2025-03-02 00:42:18 +02:00
 repo: https://github.com/dieghernan/chulapa

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: New-ity
 date: 2022-02-01 20:24:00 UTC+03:00
 repo: https://github.com/themecreator/newity-jeykll

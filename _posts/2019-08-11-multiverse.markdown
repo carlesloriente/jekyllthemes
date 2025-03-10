@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Multiverse
 date: 2019-08-11 20:00:00 +01:00
 repo: https://github.com/joaomlneto/jekyll-multiverse-template

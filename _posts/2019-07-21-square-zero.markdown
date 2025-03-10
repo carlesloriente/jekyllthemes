@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Square Zero
 date: 2019-07-21 22:30:00 +01:00
 repo: https://github.com/squarezero/squarezero.github.io

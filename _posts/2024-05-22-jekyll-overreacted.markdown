@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Overreacted
 date: 2024-05-22 03:00:00 +01:00
 repo: https://github.com/foodgy/jekyll-overreacted

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Gravity
 date: 2016-04-02 11:43:00 +01:00
 repo: https://github.com/hemangsk/Gravity

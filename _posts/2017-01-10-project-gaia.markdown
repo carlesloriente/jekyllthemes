@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Project Gaia
 date: 2017-01-10 20:00:00 +01:00
 repo: https://github.com/szhshp/JekyllTheme-ProjectGaia

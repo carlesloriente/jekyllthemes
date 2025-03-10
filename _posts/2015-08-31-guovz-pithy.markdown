@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Guovz Pithy
 date: 2015-08-31 14:37:00 +01:00
 repo: https://github.com/jaylinwang/jekyll-pithy

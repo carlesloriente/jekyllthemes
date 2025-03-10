@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Carte Noire
 date: 2015-04-24 15:00:00 +01:00
 repo: https://github.com/jacobtomlinson/carte-noire

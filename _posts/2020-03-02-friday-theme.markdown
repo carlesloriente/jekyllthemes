@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Friday
 date: 2020-03-02 18:00:00 +01:00
 repo: https://github.com/sfreytag/friday-theme

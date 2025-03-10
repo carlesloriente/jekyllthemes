@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Kactus
 date: 2015-06-11 12:40:00 +01:00
 repo: https://github.com/nickbalestra/kactus

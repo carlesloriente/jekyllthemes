@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: OpenTheme
 date: 2014-12-16 12:00:00 +01:00
 repo: https://github.com/manavsehgal/opentheme

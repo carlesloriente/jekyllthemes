@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Sustain
 date: 2015-10-03 20:00:00 +01:00
 repo: https://github.com/biomadeira/sustain

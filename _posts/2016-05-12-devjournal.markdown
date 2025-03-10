@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: DevJournal
 date: 2016-05-12 21:24:48 +01:00
 repo: https://github.com/hemangsk/DevJournal

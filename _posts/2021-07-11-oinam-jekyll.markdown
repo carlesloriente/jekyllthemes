@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Oinam
 date: 2021-07-11 01:01:01 +01:30
 repo: https://github.com/oinam/oinam-jekyll

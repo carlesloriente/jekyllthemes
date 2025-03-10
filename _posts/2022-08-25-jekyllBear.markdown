@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: jekyllBear
 date: 2022-08-25 01:23:45 +01:00
 repo: https://github.com/Knhash/jekyllBear

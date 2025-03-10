@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Lokmont
 date: 2018-08-02 20:00:00 +01:00
 repo: https://github.com/artemsheludko/lokmont

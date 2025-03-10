@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Resumecard
 date: 2016-01-28 08:08:00 +01:00
 repo: https://github.com/ddbullfrog/resumecard

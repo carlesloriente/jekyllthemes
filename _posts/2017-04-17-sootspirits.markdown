@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Soot Spirits
 date: 2017-04-17 20:00:00 +01:00
 repo: https://github.com/abhn/Soot-Spirits

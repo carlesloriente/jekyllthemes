@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Monophase
 date: 2021-03-15 19:45 +01:00
 repo: https://github.com/zivhub/monophase

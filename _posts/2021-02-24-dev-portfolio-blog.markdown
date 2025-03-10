@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Dev-Blog-Portfolio
 date: 2021-02-24 20:00:00 +01:00
 repo: https://github.com/rohitjain00/dev-portfolio-blog

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Naringu
 date: 2015-02-21 02:30:00 +01:00
 repo: https://github.com/ariestiyansyah/naringu

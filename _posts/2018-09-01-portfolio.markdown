@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Portfolio
 date: 2018-09-01 20:00:00 +01:00
 repo: https://github.com/abhn/portfolio

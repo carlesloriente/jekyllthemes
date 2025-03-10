@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Cayman
 date: 2016-04-05 21:40:00 +01:00
 repo: https://github.com/pietromenna/jekyll-cayman-theme

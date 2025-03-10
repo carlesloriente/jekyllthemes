@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Jalpc-A
 date: 2016-06-27 12:30:00 +01:00
 repo: https://github.com/Jack614/Jalpc-A

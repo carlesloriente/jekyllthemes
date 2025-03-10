@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Robotkang
 date: 2018-01-08 15:00:00 +01:00
 repo: https://github.com/MengZheK/kangblog.github.io

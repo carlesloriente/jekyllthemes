@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Catbook
 date: 2019-12-22 02:30:00 +01:00
 repo: https://github.com/starry99/catbook

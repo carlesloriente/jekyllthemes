@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Typewriter
 date: 2014-06-09 17:37:30 +01:00
 repo: https://github.com/alixedi/typewriter

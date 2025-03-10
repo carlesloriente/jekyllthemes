@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Slate+Simple
 date: 2017-05-28 11:44:00 +01:00
 repo: https://github.com/benradford/Slate-and-Simple-Jekyll-Theme

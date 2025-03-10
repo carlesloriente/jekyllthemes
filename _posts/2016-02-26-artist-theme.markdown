@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Artist Theme
 date: 2016-02-26 15:45:45 +05:30
 repo: https://github.com/ninapetrop/Artist-Theme

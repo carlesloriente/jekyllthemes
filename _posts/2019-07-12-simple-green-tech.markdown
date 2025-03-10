@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Simple Green Techblog
 date: 2019-07-12 22:30:00 +01:00
 repo: https://github.com/alainpham/alainpham.github.io

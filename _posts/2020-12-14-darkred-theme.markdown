@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: DarkRed
 date: 2020-12-14 20:00:00 +01:00
 repo: https://github.com/kkent030315/jekyll-darkred-theme

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Startbootstrap Agency
 date: 2018-05-29 20:00:00 +01:00
 repo: https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency

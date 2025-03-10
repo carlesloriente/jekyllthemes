@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: wblearn blog
 date: 2018-07-13 12:00:00 +01:00
 repo: https://github.com/wblearn/wblearn.github.io

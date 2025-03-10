@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Typing
 date: 2017-04-20 14:08:10 +01:00
 repo: https://github.com/williamcanin/typing-jekyll-template

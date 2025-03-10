@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: DevConf
 date: 2021-10-10 20:21:10 +01:00
 repo: https://github.com/la-rebelion/DevConf-Jekyll-Theme

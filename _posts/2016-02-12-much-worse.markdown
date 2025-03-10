@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Much-Worse
 date: 2016-02-12 22:00:00 +01:00
 repo: https://github.com/gchauras/much-worse-jekyll-theme

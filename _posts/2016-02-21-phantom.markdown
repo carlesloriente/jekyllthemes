@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Phantom
 date: 2016-02-21 16:06:00 +01:00
 repo: https://github.com/jamigibbs/phantom

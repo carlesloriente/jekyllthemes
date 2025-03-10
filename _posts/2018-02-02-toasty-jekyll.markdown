@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+toc: true
 title: Toasty Jekyll
 date: 2018-02-02 20:00:00 +01:00
 repo: https://github.com/regmtait/Toasty-Jekyll
