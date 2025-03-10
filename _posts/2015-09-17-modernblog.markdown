@@ -13,7 +13,7 @@ demo: https://inded.github.io/Jekyll_modern-blog/
 author: Wferr
 thumbnail: modernblog.webp
 license: GPLv3
-license_link: https://www.gnu.org/licenses/gpl-3.0.html
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'screenshot.png'
 ---

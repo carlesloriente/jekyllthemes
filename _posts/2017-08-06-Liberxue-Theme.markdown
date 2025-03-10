@@ -13,7 +13,7 @@ demo: https://liberxue.github.io/
 author:  Liberxue Theme
 thumbnail: liberxue.webp
 license: GPLv2
-license_link: https://github.com/joytou/joytou.github.io/blob/master/LICENSE
+license_link: https://opensource.org/license/GPL-2.0
 carousel:
   - 'ui.jpg'
   - '01.gif'

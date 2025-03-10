@@ -12,7 +12,7 @@ download: https://github.com/abhn/portfolio/archive/master.zip
 demo: https://abhn.io
 author: Abhishek Nagekar
 license: GPLv3
-license_link: https://github.com/abhn/portfolio/blob/master/LICENSE
+license_link: https://opensource.org/license/GPL-3.0
 thumbnail: portfolio.webp
 carousel:
   - 'screenshot.jpg'

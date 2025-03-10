@@ -13,7 +13,7 @@ demo: https://gildasio.github.io/clyell/
 author: gildasio
 thumbnail: clyell.webp
 license: GPLv3
-license_link: https://github.com/gildasio/clyell/blob/gh-pages/LICENSE
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'screenshot.png'
 ---

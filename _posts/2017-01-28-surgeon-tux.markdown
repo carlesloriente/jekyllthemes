@@ -13,7 +13,7 @@ demo: https://lahirus.com/surgeon-tux/
 author: Lahiru Pathirage
 thumbnail: surgeon-tux.webp
 license: GPLv3
-license_link: https://github.com/lpsandaruwan/surgeon-tux/blob/master/LICENSE
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'screenshot.png'
 ---

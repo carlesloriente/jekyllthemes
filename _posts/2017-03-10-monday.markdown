@@ -13,7 +13,7 @@ demo: http://artemsheludko.com/monday
 author: Artem Sheludko
 thumbnail: monday.webp
 license: GPLv3
-license_link: https://github.com/artemsheludko/monday/blob/master/LICENSE
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'dark.png'
   - 'light.png'

@@ -31,14 +31,6 @@ Jekyll Origin is fully featured premium blog theme.
 - Clean yet simple code - We intentionally write code that is easier for enthusiast and junior level programmers to understand and copy.
 - Configure logo, colors, fonts all from `_config.yml`
 
-## Other Jekyll Themes by Zerostatic
-
-- [Jekyll Atlantic (Open Source)](https://www.zerostatic.io/theme/jekyll-atlantic/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Serif (Open Source)](https://www.zerostatic.io/theme/jekyll-serif/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Advance (Premium)](https://www.zerostatic.io/theme/jekyll-advance/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Curate (Premium)](https://www.zerostatic.io/theme/jekyll-curate/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Lever (Premium)](https://www.zerostatic.io/theme/jekyll-lever/){:target="_blank"}{:rel="noopener noreferrer"}
-
 ## Contact
 
 🇦🇺 **Made in Australia** by Robert Austin

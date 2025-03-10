@@ -13,7 +13,7 @@ demo: https://mumuxme.github.io/materialize-jekyll/
 author: mumu
 thumbnail: material-blog.webp
 license: GPLv3
-license_link: https://github.com/mumuxme/materialize-jekyll/blob/master/LICENSE
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'screenshot.png'
 ---

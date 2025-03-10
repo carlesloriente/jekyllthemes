@@ -13,7 +13,7 @@ demo: https://jekyll-podcaster.netlify.app/
 author: Alessio Franceschi
 thumbnail: podcaster.webp
 license: GPLv3
-license_link: https://raw.githubusercontent.com/PandaSekh/Jekyll-Podcaster/refs/heads/master/LICENSE
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'screenshot.png'
 ---

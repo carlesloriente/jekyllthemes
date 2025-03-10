@@ -13,7 +13,7 @@ demo: https://mattvh.github.io/solar-theme-jekyll/
 author: Matt Harzewski
 thumbnail: solar.webp
 license: GPLv2
-license_link: https://github.com/mattvh/solar-theme-jekyll#license
+license_link: https://opensource.org/license/GPL-2.0
 carousel:
   - 'solar.png'
 ---

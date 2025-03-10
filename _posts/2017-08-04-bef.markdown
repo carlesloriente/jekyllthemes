@@ -13,7 +13,7 @@ demo: https://artemsheludko.github.io/bef/
 author: Artem Sheludko
 thumbnail: bef.webp
 license: GPLv3
-license_link: https://github.com/artemsheludko/bef/blob/master/LICENSE.txt
+license_link: https://opensource.org/license/GPL-3.0
 carousel:
   - 'bef_main_page.jpg'
   - 'bef_post.jpg'

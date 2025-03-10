@@ -34,14 +34,6 @@ With Jekyll Lever, users can curate their personal brand and highlight key aspec
 - Configure global logo, colors, fonts all from `config.yml`
 - Configure global header, footer, menu, dark mode, seo, og meta, cookie banner, analytics and more from `config.yml`
 
-## Other Jekyll Themes by Zerostatic
-
-- [Jekyll Atlantic (Open Source)](https://www.zerostatic.io/theme/jekyll-atlantic/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Serif (Open Source)](https://www.zerostatic.io/theme/jekyll-serif/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Advance (Premium)](https://www.zerostatic.io/theme/jekyll-advance/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Origin (Premium)](https://www.zerostatic.io/theme/jekyll-origin/){:target="_blank"}{:rel="noopener noreferrer"}
-- [Jekyll Curate (Premium)](https://www.zerostatic.io/theme/jekyll-curate/){:target="_blank"}{:rel="noopener noreferrer"}
-
 ## Contact
 
 🇦🇺 **Made in Australia** by Robert Austin
