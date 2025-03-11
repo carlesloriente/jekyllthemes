@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Butane
 date: 2015-11-29 14:03:00 +01:00
 repo: https://github.com/alexcarpenter/butane-jekyll-theme

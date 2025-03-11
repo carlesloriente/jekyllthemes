@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: jekyllDecent
 date: 2016-06-04 23:03:00 +0300
 repo: https://github.com/jwillmer/jekyllDecent

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Photorama
 date: 2016-03-28 20:00:00 +01:00
 repo: https://github.com/sunbliss/photorama

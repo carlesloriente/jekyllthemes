@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Thinkspace
 date: 2016-06-11 21:13:00 +01:00
 repo: https://github.com/heiswayi/thinkspace

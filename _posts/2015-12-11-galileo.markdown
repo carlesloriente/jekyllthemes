@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Galileo
 date: 2015-12-11 14:03:00 +01:00
 repo: https://github.com/rowanoulton/galileo-theme

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Cayman Blog
 date: 2016-01-29 10:00:00
 repo: https://github.com/adueck/cayman-blog

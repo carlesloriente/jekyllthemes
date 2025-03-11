@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: ModernBlog
 date: 2015-09-17 01:01:00 +01:00
 repo: https://github.com/inded/Jekyll_modern-blog

@@ -19,6 +19,8 @@ carousel:
   - 'hagura-dark-jekyll-theme.png'
 ---
 
+Webjeda Hagura.
+
 ## Installation
 
 [**Detailed Installation and Theme Guidelines**](https://blog.webjeda.com/jekyll-themes/)

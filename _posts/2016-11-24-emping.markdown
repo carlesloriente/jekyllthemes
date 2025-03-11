@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Emping
 date: 2016-11-24 19:40:00 +01:00
 repo: https://github.com/rmsubekti/emping

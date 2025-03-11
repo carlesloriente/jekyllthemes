@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Simpleyyt
 date: 2014-04-09 21:00:00 +01:00
 repo: https://github.com/Simpleyyt/jekyll-simpleyyt

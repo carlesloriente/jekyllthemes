@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Stepbystep
 date: 2016-08-31 14:32:18 +01:00
 repo: https://github.com/jokinkuang/stepbystep#stepbystep

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Libretto
 date: 2016-09-01 14:00:00 +01:00
 repo: https://github.com/ferrolho/jekyll-theme-libretto

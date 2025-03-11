@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: YAX-Coming-soon
 date: 2015-11-18 19:50:00 +01:00
 repo: https://github.com/yonojoy/YAX-Coming-soon-Jekyll-Template

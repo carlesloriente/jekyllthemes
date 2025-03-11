@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Progress
 date: 2016-06-24 11:25:00 +01:00
 repo: https://github.com/alexanderussell/progress-for-jekyll

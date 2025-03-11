@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: nandomoreira.me
 date: 2015-11-12 20:00:00 +01:00
 repo: https://github.com/nandomoreirame/nandomoreira-jekyll-theme

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Material blog
 date: 2016-11-05 20:00:00 +01:00
 repo: https://github.com/mumuxme/materialize-jekyll
@@ -18,3 +18,4 @@ carousel:
   - 'screenshot.png'
 ---
 
+Material blog.

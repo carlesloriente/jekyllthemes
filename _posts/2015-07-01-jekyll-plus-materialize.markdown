@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Jekyll Plus Materialize
 date: 2015-07-01 20:00:00 +01:00
 repo: https://github.com/enterthecrucible/materialized_jekyll_theme

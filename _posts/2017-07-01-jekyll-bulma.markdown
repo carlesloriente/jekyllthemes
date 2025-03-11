@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Jekyll Bulma
 date: 2017-07-01 07:46:00 +01:00
 repo: https://github.com/erayaydin/jekyll-bulma

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Urban
 date: 2016-02-28 23:30:00 +01:00
 repo: https://github.com/midzer/urban-theme

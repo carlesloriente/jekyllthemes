@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Smart Material
 date: 2016-09-20 20:00:00 +01:00
 repo: https://github.com/ssokurenko/jekyll-smart-material

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Incorporated
 date: 2014-02-27 20:00:00 +01:00
 repo: https://github.com/kippt/jekyll-incorporated

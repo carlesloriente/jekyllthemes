@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Sandslate
 date: 2020-08-05 13:25:29 +01:00
 repo: https://github.com/tareqdandachi/sandslate

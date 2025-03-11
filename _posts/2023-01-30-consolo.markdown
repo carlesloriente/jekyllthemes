@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: consolo
 date: 2023-01-30 15:50:00 +01:00
 repo: https://github.com/Forthoney/consolo

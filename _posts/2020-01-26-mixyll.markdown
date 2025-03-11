@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Mixyll
 date: 2020-01-26 03:33:00 +01:00
 repo: https://github.com/saikiransripada/mixyll
