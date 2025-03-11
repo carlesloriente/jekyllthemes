@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Business
 date: 2018-04-11 20:00:00 +01:00
 repo: https://github.com/melvinchng/business-jekyll-theme

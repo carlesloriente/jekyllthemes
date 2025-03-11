@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Ttskch
 date: 2016-09-23 20:00:00 +01:00
 repo: https://github.com/ttskch/jekyll-ttskch-theme

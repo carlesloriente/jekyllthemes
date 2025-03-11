@@ -18,6 +18,8 @@ carousel:
   - 'karna-jekyll-theme-screenshot.png'
 ---
 
+Webjeda Karna.
+
 ## Installation
 
 [**Detailed Installation and Theme Guidelines**](https://blog.webjeda.com/jekyll-themes/)

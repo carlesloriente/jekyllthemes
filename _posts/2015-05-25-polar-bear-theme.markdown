@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Polar Bear
 date: 2015-05-25 07:42:00 +01:00
 repo: https://github.com/diezcami/polar-bear-theme

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Wing
 date: 2016-07-28 21:28:00 +01:00
 repo: https://github.com/nikrich/jekyll-wing-template

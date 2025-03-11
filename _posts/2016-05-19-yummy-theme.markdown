@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Yummy
 date: 2016-05-19 11:40:00 +01:00
 repo: https://github.com/DONGChuan/Yummy-Jekyll

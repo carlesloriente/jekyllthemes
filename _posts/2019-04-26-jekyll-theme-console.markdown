@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Console
 date: 2019-04-26 13:45:00 +01:00
 repo: https://github.com/b2a3e8/jekyll-theme-console

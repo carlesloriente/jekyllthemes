@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Jekyll-hilmi
 date: 2017-01-01 21:20:00 +01:00
 repo: https://github.com/nix1947/jekyll-hilmi

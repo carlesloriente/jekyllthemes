@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Light Material
 date: 2016-09-25 20:00:00 +01:00
 repo: https://github.com/lukas-h/material-theme

@@ -20,6 +20,8 @@ carousel:
   - 'webjeda-gatok-jekyll-theme-screenshot-2.png'
 ---
 
+Webjeda Gatok.
+
 ## Installation
 
 [**Detailed Installation and Theme Guidelines**](https://gatok.webjeda.com/documentation/)

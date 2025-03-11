@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: panthera-jekyll
 date: 2019-06-08 21:45:00 +01:00
 repo: https://github.com/christianezeani/panthera-jekyll

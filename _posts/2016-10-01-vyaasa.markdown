@@ -19,6 +19,8 @@ carousel:
   - 'vyaasa-jekyll-theme-2.png'
 ---
 
+Vyaasa.
+
 ## Installation
 
 [Detailed Installation and Theme Guidelines](https://vyaasa.webjeda.com/documentation/#installation)

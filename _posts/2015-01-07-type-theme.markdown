@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Type
 date: 2015-01-07 09:00:00 +01:00
 repo: https://github.com/sergiokopplin/indigo
