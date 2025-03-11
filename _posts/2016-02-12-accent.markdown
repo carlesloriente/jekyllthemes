@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Accent
 date: 2016-02-12 21:00:00 +01:100
 repo: https://github.com/ankitsultana/accent

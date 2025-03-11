@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: RLStevenson
 date: 2016-09-08 20:00:00 +01:00
 repo: https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Webjeda Slides
 date: 2016-07-08 21:40:00 +01:00
 repo: https://github.com/sharu725/slides

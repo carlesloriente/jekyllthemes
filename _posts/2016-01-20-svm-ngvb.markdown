@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Steve's NGVB
 date: 2016-01-20 22:00:00 +01:00
 repo: https://github.com/svmiller/steve-ngvb-jekyll-template

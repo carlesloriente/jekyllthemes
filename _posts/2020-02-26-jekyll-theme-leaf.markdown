@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Leaf
 date: 2020-02-26 22:00:00 +01:00
 repo: https://github.com/supun-io/jekyll-theme-leaf

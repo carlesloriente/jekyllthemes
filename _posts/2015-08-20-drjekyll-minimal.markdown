@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Dr Jekyll's Minimal
 date: 2015-08-20 20:00:00 +01:00
 repo: https://github.com/drjekyllthemes/jekyll-minimal-theme

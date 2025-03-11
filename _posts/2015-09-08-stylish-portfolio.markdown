@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Stylish Portfolio
 date: 2015-09-08 01:03:00 +01:00
 repo: https://github.com/volny/stylish-portfolio-jekyll

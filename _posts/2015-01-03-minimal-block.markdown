@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Minimal-block
 date: 2015-01-03 13:46:00 +01:00
 repo: https://github.com/drvy/minimal-block

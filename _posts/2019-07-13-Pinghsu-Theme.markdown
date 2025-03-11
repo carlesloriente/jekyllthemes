@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Pinghsu
 date: 2019-07-13 13:30:00 +01:00
 repo: https://github.com/lightfish-zhang/pinghsu-jekyll

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Tech Blog
 date: 2025-03-02 00:55:18 +02:00
 repo: https://github.com/glegoux/jekyll-tech-blog

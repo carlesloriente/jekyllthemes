@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Pithy
 date: 2015-05-08 12:42:00 +01:00
 repo: https://github.com/smallmuou/Jekyll-Pithy

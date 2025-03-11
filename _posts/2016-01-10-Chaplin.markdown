@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-toc: true
-title: Chaplin 
+toc: false
+title: Chaplin
 date: 2016-01-10 21:00:00 +01:00
 repo: https://github.com/ankitsultana/Chaplin
 update_date: 2024-02-06

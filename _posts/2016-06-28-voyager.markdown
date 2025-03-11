@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Voyager
 date: 2016-06-28 14:05:03 +01:00
 repo: https://github.com/redVi/voyager

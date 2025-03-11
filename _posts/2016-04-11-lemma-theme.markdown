@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Lemma
 date: 2016-04-11 07:17:27 +01:00
 repo: https://github.com/neizod/lemma-theme

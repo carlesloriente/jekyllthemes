@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: True Minimal
 date: 2018-11-14 12:17:00 +01:00
 repo: https://github.com/cyevgeniy/jekyll-true-minimal

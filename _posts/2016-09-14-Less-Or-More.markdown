@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Less Or More
 date: 2016-09-14 22:22:00 +01:00
 repo: https://github.com/luoyan35714/LessOrMore

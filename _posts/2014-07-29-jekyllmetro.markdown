@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-toc: true
+toc: false
 title: Jekyll Metro
 date: 2014-07-29 20:00:00 +01:00
 repo: https://github.com/olakara/JekyllMetro
