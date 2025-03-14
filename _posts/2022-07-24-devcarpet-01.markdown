@@ -20,7 +20,7 @@ carousel:
   - 'screenshot-02.png'
 ---
 
-Devcarpet Portfolio 01 is a Jekyll Bootstrap 5 Template designed for Portfolio websites. It is being developed having in mind integration with Strapi 4.
+Devcarpet Portfolio is a Jekyll Bootstrap 5 Template designed for Portfolio websites. It is being developed having in mind integration with Strapi 4.
 
 ## Features
 
