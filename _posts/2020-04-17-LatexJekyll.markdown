@@ -13,6 +13,7 @@ demo: https://unruffled-ardinghelli-55d901.netlify.app/
 author: Hamish Sams
 thumbnail: LatexJekyll.webp
 license: WTFPL
+license_link: https://choosealicense.com/licenses/wtfpl/
 carousel:
   - 'screenshot.png'
 ---

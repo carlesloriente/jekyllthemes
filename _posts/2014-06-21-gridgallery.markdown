@@ -12,6 +12,7 @@ download: https://github.com/nadjetey/GridGallery/archive/master.zip
 author: Nii Adjetey Sowah
 thumbnail: gridgallery.webp
 license: WTFPL
+license_link: https://choosealicense.com/licenses/wtfpl/
 carousel:
   - 'screenshot.png'
 ---
