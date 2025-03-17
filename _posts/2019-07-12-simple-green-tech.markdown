@@ -13,7 +13,7 @@ demo: https://alainpham.github.io
 author: Alain Pham
 thumbnail: simple-green-techblog.webp
 license: WTFPL
-license_link: https://github.com/alainpham/alainpham.github.io/blob/master/LICENSE
+license_link: https://choosealicense.com/licenses/wtfpl/
 carousel:
   - 'screenshot.png'
 ---
