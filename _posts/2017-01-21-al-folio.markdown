@@ -32,7 +32,7 @@ carousel:
 
 A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-![al-folio](/screenshots/2016-12-24-al-folio/al-folio-preview.png){:.img-fluid}
+![al-folio](/screenshots/2017-01-21-al-folio/al-folio-preview.png){:.img-fluid}
 
 ## Features
 
