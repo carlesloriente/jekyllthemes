@@ -136,7 +136,7 @@ Use the `picture.html` template to insert an image in the AMP format for automat
 The template also wraps the image with a `<figure>` tag with an optional caption element.
 
 ```ruby
-{% include picture.html img="welcome.jpg" height="400" width="800" %}
+&#123;% include picture.html img="welcome.jpg" height="400" width="800" %&#125;
 ```
 
 - [OPTIONS](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/media/#using-include-picturehtml){:target="_blank"}{:rel="noopener noreferrer"}
@@ -154,14 +154,13 @@ amp:
 To embed a single video, use the following tag to include the `youtube.html` template.
 
 ```ruby
-{% include youtube.html id="<YOUTUBE_VIDEO_UID>" title="Welcome to Watch this Video" %}
+&#123;% include youtube.html id="&lt;YOUTUBE_VIDEO_UID&gt;" title="Welcome to Watch this Video" %&#125;
 ```
 
 To embed a playlist, you need to set both the _playlist ID_ and the _ID of the first video within the playlist_.
 
 ```ruby
-{% include youtube.html id="<YOUTUBE_VIDEO_UID>" \
-   playlist="<YOUTUBE_PLAYLIST_UID>" title="Welcome to Watch this Video" %}
+&#123;% include youtube.html id="&lt;YOUTUBE_VIDEO_UID&gt;" playlist="&lt;YOUTUBE_PLAYLIST_UID&gt;" title="Welcome to Watch this Video" %&#125;
 ```
 
 ### Code
@@ -184,11 +183,11 @@ css:
 A shortcode for creating a colored box, e.g. tips/memo.
 
 ```ruby
-{% capture label %}
+&#123;% capture label %&#125;
    PUT YOUR MARKDOWN CONTENT HERE...
-{% endcapture %}
+&#123;% endcapture %&#125;
 
-{% include callout.html content=label %}
+&#123;% include callout.html content=label %&#125;
 ```
 
 ## Front Matters
