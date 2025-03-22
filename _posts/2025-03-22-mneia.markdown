@@ -1,0 +1,47 @@
+---
+layout: post
+comments: true
+toc: true
+title: Mneia
+date: 2025-03-22 00:51:18 +02:00
+repo: https://github.com/mneia-gr/mneia-theme
+demo: https://mneia.gr/
+forks: 0
+stars: 1
+download: https://github.com/mneia-gr/mneia-theme/archive/refs/heads/main.zip
+author: Mneia
+thumbnail: mneia.png
+license: MIT
+license_link: https://opensource.org/license/MIT
+carousel:
+  - 'screenshot-0.png'
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+---
+
+**Mneia Theme** is a [Jekyll](https://jekyllrb.com/){:target="_blank"}{:rel="noopener noreferrer"} theme for [mneia.gr](https://mneia.gr/){:target="_blank"}{:rel="noopener noreferrer"} based on [Bootstrap](https://getbootstrap.com/){:target="_blank"}{:rel="noopener noreferrer"}. The contents of the website are in separate repository [mneia-jekyll](https://github.com/mneia-gr/mneia-jekyll){:target="_blank"}{:rel="noopener noreferrer"}.
+
+## Installation
+
+To install the Ruby Gem locally, run:
+
+```bash
+bundle exec rake build
+bundle exec rake install
+```
+
+Then, in the Jekyll website directory run:
+
+```bash
+bundle add mneia-theme
+```
+
+Finally, set the value of `theme` in `_config.yml` to `mneia-theme`.
+
+## Development
+
+To compile the Sass source files into the styles that will be used on the website run:
+
+```bash
+bundle exec jekyll build
+```

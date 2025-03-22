@@ -13,7 +13,7 @@ demo: https://jeromelachaud.github.io/freelancer-theme
 author: Jerome Lachaud
 thumbnail: freelancer.webp
 license: Apache 2.0
-license_link: https://github.com/jeromelachaud/freelancer-theme/blob/master/LICENCE
+license_link: https://opensource.org/license/apache-2-0
 carousel:
   - 'screenshot.png'
 ---
