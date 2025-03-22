@@ -1,0 +1,176 @@
+---
+layout: post
+comments: true
+toc: true
+title: Oscailte
+date: 2019-10-01 21:20:18 +02:00
+update_date: 2025-03-21
+version: '3.2.0'
+repo: https://github.com/coogie/oscailte
+demo: https://coog.ie/oscailte
+forks: 55
+stars: 219
+download: https://github.com/coogie/oscailte/archive/refs/tags/3.2.0.zip
+author: Stephen Coogan
+thumbnail: oscailte.png
+license: MIT
+license_link: https://opensource.org/license/MIT
+carousel:
+  - 'screenshot-0.png'
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+---
+
+Oscailte ([IPA: [ˈɔsˠkɪlʲtʲɪ]](http://en.wiktionary.org/wiki/Appendix:Irish_pronunciation){:target="_blank"}{:rel="noopener noreferrer"} Gaeilge for "Open") is a light and clean theme for use on [Jekyll](https://jekyllrb.org/){:target="_blank"}{:rel="noopener noreferrer"} sites, released under the MIT Licence.
+
+## Installation
+
+### as Remote Theme
+
+Using [Jekyll Remote Theme](https://github.com/benbalter/jekyll-remote-theme) (enabled
+by default on Github Pages) is the quickest way to install Oscailte.
+
+Add the following to your site's `_config.yml` to activate Oscailte
+
+  ```yaml
+  remote_theme: coogie/oscailte
+  ```
+
+### via Gemfile
+
+1.- Add this line to your Jekyll site's `Gemfile`:
+
+```ruby
+gem "oscailte"
+```
+
+2.- And add this line to your Jekyll site's `_config.yml`:
+
+```yaml
+theme: oscailte
+```
+
+3.- And then execute:
+
+```bash
+bundle
+```
+
+4.- Or install it yourself as:
+
+```bash
+gem install oscailte
+```
+
+## Usage
+
+The majority of Oscailte's settings are nested under the `oscailte` key.
+Below are a list of all available ones, and their default values.
+
+```yml
+oscailte:
+  posts_url:
+  google_analytics:
+  social:
+    twitter: username
+    github: username
+    dribbble: username
+    facebook: username
+    flickr: username
+    instagram: username
+    linkedin: username
+    mastodon: https://instance.url/@username
+    pinterest: username
+    telegram: username
+    keybase: username
+    rss: rss
+  strings:
+    skip_to_main_content: "Skip to main content"
+    x_minute_read: "$x$ minute read"
+    hero_title: "Welcome to Oscailte!<br> A powerful, clean, and responsive Jekyll theme."
+    recent_posts: "Recent posts"
+    view_all: "View all"
+    read_full: "Read full"
+    disqus_enable_javascript: 'Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus</a>.'
+```
+
+### Enabling Comments (via Disqus)
+
+Optionally, if you have a Disqus account, you can tell Jekyll to use it to show a comments
+section below each post.
+
+To enable it, add the following lines to your Jekyll site:
+
+```yaml
+disqus:
+  shortname: my_disqus_shortname
+```
+
+You can find out more about Disqus' shortnames [here](https://help.disqus.com/installation/whats-a-shortname){:target="_blank"}{:rel="noopener noreferrer"}.
+
+Comments are enabled by default and will only appear in production, i.e.,
+`JEKYLL_ENV=production`
+
+If you don't want to display comments for a particular post you can disable them by adding
+`comments: false` to that post's YAML Front Matter.
+
+> **&#9940;** `url`, e.g. `https://example.com`, must be set in you config file for Disqus to work
+{:.alert .alert-danger}
+
+### Social Networks
+
+You can add links to the accounts you have on other sites, with respective icon, by adding
+one or more of the following options in your config. These usernames are nested under
+`oscailte.social`, with the keys being simply the social network's name:
+
+```yaml
+oscailte:
+  social:
+    twitter: jekyllrb
+    github: jekyll
+    dribbble: jekyll
+    facebook: jekyll
+    flickr: jekyll
+    instagram: jekyll
+    linkedin: jekyll
+    pinterest: jekyll
+    telegram: jekyll
+    keybase: jekyll
+    rss: rss
+```
+
+### Enabling Google Analytics
+
+To enable Google Analytics, add the following lines to your `_config.yml`:
+
+```yaml
+oscailte:
+  google_analytics: UA-NNNNNNNN-N
+```
+
+Google Analytics will only appear in production, i.e., `JEKYLL_ENV=production`
+Oscailte will also inform Google Analytics of your user's request for DNT.
+
+### Enabling Excerpts on the Home Page
+
+To display post-excerpts on the Home Page, simply add the following to your `_config.yml`:
+
+```yaml
+show_excerpts: true
+```
+
+## Customising Oscailte
+
+### Site Colours
+
+Oscailte makes extensive use of [CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*){:target="_blank"}{:rel="noopener noreferrer"}
+for various parts of its look and feel. A full list of the properties used throughout can be found in `/_sass/_oscailte.scss`.
+_Some_ of these properties are generated via SCSS (such as typography), but are still Custom Properties
+in-browser (not Sass variables).
+
+## Contributing
+
+Bug reports and pull requests are welcome on [GitHub](https://github.com/coogie/oscailte){:target="_blank"}{:rel="noopener noreferrer"}.
+This project is intended to be a safe, welcoming space for collaboration, and contributors
+are expected to adhere to the [Contributor Covenant](https://contributor-covenant.org){:target="_blank"}{:rel="noopener noreferrer"}
+code of conduct.
