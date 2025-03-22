@@ -194,8 +194,8 @@ A shortcode for creating a colored box, e.g. tips/memo.
 
 - [Set Featured Image for a Page/Post](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/#set-featured-image){:target="_blank"}{:rel="noopener noreferrer"}
 - [Pin Featured Posts](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter/#pin-featured-posts){:target="_blank"}{:rel="noopener noreferrer"}
-- [Add Custom Codes to HTML <head> Section](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter/#add-custom-css-to-html-head-section){:target="_blank"}{:rel="noopener noreferrer"}
-- [Add Custom CSS Styles to HTML <head> Section](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter/#add-custom-codes-to-html-head-section){:target="_blank"}{:rel="noopener noreferrer"}
+- [Add Custom Codes to HTML &lt;head&gt; Section](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter/#add-custom-css-to-html-head-section){:target="_blank"}{:rel="noopener noreferrer"}
+- [Add Custom CSS Styles to HTML &lt;head&gt; Section](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter/#add-custom-codes-to-html-head-section){:target="_blank"}{:rel="noopener noreferrer"}
 - [Display Download Buttons in a Post's Sidebar](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter/#display-download-buttons){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Using AMP Components
