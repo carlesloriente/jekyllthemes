@@ -4,8 +4,9 @@ comments: true
 toc: true
 title: Alembic
 date: 2016-11-26 20:00:00 +01:00
+update_date: 2025-02-01
+version: '4.1.0'
 repo: https://github.com/daviddarnes/alembic
-update_date: 2024-12-26
 forks: 914
 stars: 772
 download: https://github.com/daviddarnes/alembic/archive/master.zip

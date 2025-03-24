@@ -4,8 +4,9 @@ comments: true
 toc: true
 title: Bulma Clean
 date: 2019-03-30 10:11:00 +01:00
+update_date: 2025-01-19
+version: '1.2.0'
 repo: https://github.com/chrisrhymes/bulma-clean-theme
-update_date: 2024-12-16
 forks: 494
 stars: 389
 download: https://rubygems.org/downloads/bulma-clean-theme-1.1.0.gem

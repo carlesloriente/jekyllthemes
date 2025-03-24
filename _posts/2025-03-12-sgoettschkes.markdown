@@ -4,6 +4,7 @@ comments: true
 toc: true
 title: Sgoettschkes
 date: 2025-03-12 21:20:18 +02:00
+update_date: 2025-03-24
 repo: https://github.com/Sgoettschkes/sgoettschkes.github.io
 demo: http://sgoettschkes.me/
 forks: 0

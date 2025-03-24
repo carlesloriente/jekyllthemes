@@ -4,12 +4,12 @@ comments: true
 toc: true
 title: Hux Blog
 date: 2019-03-03 21:40:18 +02:00
-update_date: 2019-09-26
+update_date: 2025-02-10
 version: '1.8.1'
 repo: https://github.com/Huxpro/huxpro.github.io
 demo: https://huangxuan.me/
-forks: 5884
-stars: 7269
+forks: 5997
+stars: 7316
 download: https://github.com/Huxpro/huxpro.github.io/archive/refs/tags/v1.8.1.zip
 author: Huang Xuan
 thumbnail: hux-blog.webp
