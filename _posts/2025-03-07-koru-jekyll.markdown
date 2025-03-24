@@ -4,7 +4,6 @@ comments: true
 toc: true
 title: Koru Jekyll
 date: 2025-03-07 20:40:18 +02:00
-update_date: 2025-03-07
 version: '1.0.48'
 repo: https://github.com/NCAR/koru-jekyll-template
 demo: https://ncar.github.io/koru-jekyll-template/
