@@ -4,7 +4,6 @@ comments: true
 toc: true
 title: Aranda Docs
 date: 2025-03-06 20:40:18 +02:00
-update_date: 2025-03-06
 repo: https://github.com/aranda-docs/aranda-jekyll-theme
 demo: https://aranda-docs.github.io/aranda-jekyll-theme/
 forks: 1

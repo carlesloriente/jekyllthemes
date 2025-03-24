@@ -4,7 +4,6 @@ comments: true
 toc: true
 title: Jekyll Bhautiki
 date: 2025-02-25 21:20:18 +02:00
-update_date: 2025-02-25
 version: '0.1.7'
 repo: https://github.com/pawanmsr/jekyll-bhautiki/
 forks: 0
