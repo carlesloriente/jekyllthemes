@@ -4,8 +4,9 @@ comments: true
 toc: false
 title: Bay
 date: 2020-07-19 13:54:30 +01:00
+update_date: 2025-01-02
+version: '1.2.2'
 repo: https://github.com/eliottvincent/bay
-update_date: 2024-12-22
 forks: 388
 stars: 155
 download: https://rubygems.org/downloads/bay_jekyll_theme-1.1.5.gem

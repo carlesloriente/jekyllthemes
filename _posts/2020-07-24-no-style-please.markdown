@@ -5,7 +5,7 @@ toc: true
 title: no style, please
 date: 2020-07-24 12:00:00 +01:00
 repo: https://github.com/riggraz/no-style-please
-update_date: 2024-12-28
+update_date: 2025-03-15
 forks: 566
 stars: 1149
 download: https://github.com/riggraz/no-style-please/archive/master.zip

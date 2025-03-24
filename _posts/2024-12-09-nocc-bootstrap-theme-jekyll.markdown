@@ -5,17 +5,17 @@ toc: true
 title: NOCC Jekyll Bundle
 description: A responsive Bootstrap 5 dual theme
 date: 2024-12-09 17:20:01 +01:00
+update_date: 2025-02-06
+version: '1.1.9'
 repo: https://github.com/carlesloriente/bootstrap-theme-jekyll
-update_date: 2024-12-26
 forks: 0
-stars: 4
+stars: 5
 download: https://github.com/carlesloriente/bootstrap-theme-jekyll/archive/refs/heads/main.zip
 demo: http://bootstrap-theme.notesoncloudcomputing.com/
 author: Carles Loriente
 thumbnail: nocc-thumbnail.webp
 license: MIT
 license_link: https://opensource.org/license/MIT
-version: '1.3.8'
 carousel:
   - '1-bootstrap-theme.notesoncloudcomputing.com.png'
   - '2-bootstrap-theme.notesoncloudcomputing.com.png'

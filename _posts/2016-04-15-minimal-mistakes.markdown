@@ -4,8 +4,9 @@ comments: true
 toc: true
 title: Minimal Mistakes
 date: 2016-04-15 10:12:46 +01:00
+update_date: 2025-02-14
+version: '4.26.2'
 repo: https://github.com/mmistakes/minimal-mistakes
-update_date: 2024-12-28
 forks: 26193
 stars: 12742
 download: https://github.com/mmistakes/minimal-mistakes/archive/master.zip

@@ -4,7 +4,7 @@ comments: true
 toc: false
 title: Stepbystep
 date: 2016-08-31 14:32:18 +01:00
-repo: https://github.com/jokinkuang/stepbystep#stepbystep
+repo: https://github.com/jokinkuang/stepbystep
 update_date: 2023-07-21
 forks: 52
 stars: 38
