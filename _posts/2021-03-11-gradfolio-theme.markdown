@@ -4,8 +4,9 @@ comments: true
 toc: true
 title: Gradfolio
 date: 2021-03-11 12:33:00 +01:00
+update_date: 2025-02-04
+version: '1.4.0'
 repo: https://github.com/jitinnair1/gradfolio
-update_date: 2024-12-27
 forks: 85
 stars: 248
 download: https://github.com/jitinnair1/gradfolio/releases/latest/

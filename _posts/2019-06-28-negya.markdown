@@ -4,8 +4,8 @@ comments: true
 toc: false
 title: pRoJEct-NeGYa
 date: 2019-06-28 16:00:00 +01:00
+update_date: 2025-01-03
 repo: https://github.com/gmkzwwg/pRoJEct-NeGYa
-update_date: 2024-12-16
 forks: 4
 stars: 16
 download: https://github.com/gmkzwwg/pRoJEct-NeGYa/archive/refs/heads/main.zip

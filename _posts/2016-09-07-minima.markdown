@@ -8,7 +8,7 @@ repo: https://github.com/jekyll/minima
 demo: https://jekyll.github.io/minima/
 forks: 3738
 stars: 3559
-update_date: 2025-03-01
+update_date: 2025-03-24
 version: '2.5.2'
 download: https://github.com/jekyll/minima/archive/refs/tags/v2.5.2.zip
 author: Jekyll

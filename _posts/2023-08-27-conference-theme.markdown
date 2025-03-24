@@ -4,8 +4,9 @@ comments: true
 toc: true
 title: Conference
 date: 2023-08-27 10:00:00 +01:00
+update_date: 2025-02-02
+version: '3.6.6'
 repo: https://github.com/DigitaleGesellschaft/jekyll-theme-conference
-update_date: 2024-11-26
 forks: 67
 stars: 71
 download: https://github.com/DigitaleGesellschaft/jekyll-theme-conference/releases/
