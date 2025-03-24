@@ -4,7 +4,6 @@ comments: true
 toc: true
 title: HP Base
 date: 2025-03-04 20:40:18 +02:00
-update_date: 2025-03-04
 repo: https://github.com/gbif/jekyll-hp-base-theme
 demo: https://hp-theme.gbif-staging.org/
 forks: 14

@@ -4,7 +4,6 @@ comments: true
 toc: true
 title: Comanche Hill
 date: 2025-03-06 20:40:18 +02:00
-update_date: 2025-03-06
 repo: https://github.com/mmorga/comanche-hill-jekyll-theme
 demo: https://www.markmorga.com/
 forks: 0
