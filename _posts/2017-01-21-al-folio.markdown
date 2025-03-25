@@ -95,6 +95,7 @@ Photo formatting is made simple using [Bootstrap's grid system](https://getboots
 Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories to the `/repositories/` page.
 
 You may also use the following codes for displaying this in any other pages.
+{% raw %}
 
 ```html
 <!-- code for GitHub users -->
@@ -120,6 +121,8 @@ You may also use the following codes for displaying this in any other pages.
 </div>
 {% endif %}
 ```
+
+{% endraw %}
 
 #### Theming
 

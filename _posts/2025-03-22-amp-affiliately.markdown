@@ -134,10 +134,13 @@ You cannot use Markdown format or normal HTML tags. AMP provides its own custom 
 
 Use the `picture.html` template to insert an image in the AMP format for automatically serving the image in the **WebP** format.
 The template also wraps the image with a `<figure>` tag with an optional caption element.
+{% raw %}
 
 ```ruby
-&#123;% include picture.html img="welcome.jpg" height="400" width="800" %&#125;
+{% include picture.html img="welcome.jpg" height="400" width="800" %}
 ```
+
+{% endraw %}
 
 - [OPTIONS](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/media/#using-include-picturehtml){:target="_blank"}{:rel="noopener noreferrer"}
 - [DEMOS - Image in AMP](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/media/#image-in-amp){:target="_blank"}{:rel="noopener noreferrer"}
@@ -152,16 +155,21 @@ amp:
 ```
 
 To embed a single video, use the following tag to include the `youtube.html` template.
+{% raw %}
 
 ```ruby
-&#123;% include youtube.html id="&lt;YOUTUBE_VIDEO_UID&gt;" title="Welcome to Watch this Video" %&#125;
+{% include youtube.html id="&lt;YOUTUBE_VIDEO_UID&gt;" title="Welcome to Watch this Video" }
 ```
 
+{% endraw %}
 To embed a playlist, you need to set both the _playlist ID_ and the _ID of the first video within the playlist_.
+{% raw %}
 
 ```ruby
-&#123;% include youtube.html id="&lt;YOUTUBE_VIDEO_UID&gt;" playlist="&lt;YOUTUBE_PLAYLIST_UID&gt;" title="Welcome to Watch this Video" %&#125;
+{% include youtube.html id="&lt;YOUTUBE_VIDEO_UID&gt;" playlist="&lt;YOUTUBE_PLAYLIST_UID&gt;" title="Welcome to Watch this Video" %}
 ```
+
+{% endraw %}
 
 ### Code
 
@@ -181,14 +189,17 @@ css:
 ### Callout _beta_
 
 A shortcode for creating a colored box, e.g. tips/memo.
+{% raw %}
 
 ```ruby
-&#123;% capture label %&#125;
+{% capture label %}
    PUT YOUR MARKDOWN CONTENT HERE...
-&#123;% endcapture %&#125;
+{% endcapture %}
 
-&#123;% include callout.html content=label %&#125;
+{% include callout.html content=label %}
 ```
+
+{% endraw %}
 
 ## Front Matters
 
