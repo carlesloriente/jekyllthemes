@@ -104,21 +104,23 @@ This will ensure that the the correct relative path is constructed for your asse
 
 ##### If you don't want the header to link back to the root url
 
-You will also need to tweak the header include `/{{ site.baseurl }}`:
+You will also need to tweak the header include {% raw %}`{{ site.baseurl }}`{% endraw %}:
+{% raw %}
 
 ```html
 <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
+      <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
       <nav class="site-nav">
-        {&#37; include navigation.html &#37;}
+        {% include navigation.html %}
       </nav>
     </div>
   </div>
 </header>
 ```
 
+{% endraw %}
 A relevant Jekyll Github Issue: <https://github.com/jekyll/jekyll/issues/332>
 
 ### Contact Form
