@@ -22,7 +22,7 @@ Carte Noire, a dark blog theme for Jekyll focusing on a clear reading experience
 
 ## Installation
 
-Carte Noire may be installed by simply downloading the [zip file]({{ page.download }}) from the [repository on Github]({{ page.repo }}).
+Carte Noire may be installed by simply downloading the [zip file](https://github.com/jacobtomlinson/carte-noire/archive/gh-pages.zip){:target="_blank"}{:rel="noopener noreferrer"} from the [repository on Github](https://github.com/jacobtomlinson/carte-noire){:target="_blank"}{:rel="noopener noreferrer"}.
 
 Extract the zip to your desired location and then open that location in your terminal, you can then type `jekyll serve` from the terminal and open `https://localhost:4000/` in your browser to see Carte Noire.
 
