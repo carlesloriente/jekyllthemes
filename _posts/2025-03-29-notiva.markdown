@@ -1,0 +1,73 @@
+---
+layout: post
+comments: true
+toc: true
+title: Emojification
+date: 2025-03-29 22:00:00 +01:00
+repo: https://github.com/songano/jekyll-theme-notiva
+demo: https://songano.github.io/jekyll-theme-notiva/
+forks: 0
+stars: 0
+download: https://github.com/songano/jekyll-theme-notiva/archive/refs/heads/main.zip
+author:  Gano Song
+thumbnail: notiva.png
+license: MIT
+license_link: https://opensource.org/license/MIT
+carousel:
+  - 'screenshot-0.png'
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
+  - 'screenshot-4.png'
+  - 'screenshot-5.png'
+  - 'screenshot-6.png'
+  - 'screenshot-7.png'
+---
+
+Notiva is a minimalistic two-column theme for Jekyll. It is designed to be simple and easy to use, with a focus on readability and usability.
+It is perfect for personal blogs, portfolios, and documentation sites. The theme is fully responsive and looks great on all devices.
+
+## Features
+
+- Two-column layout
+- Responsive design
+- Syntax highlighting
+
+## Installation
+
+Add this line to your Jekyll site's `Gemfile`:
+
+```ruby
+gem "jekyll-theme-notiva"
+```
+
+And add this line to your Jekyll site's `_config.yml`:
+
+```yaml
+theme: jekyll-theme-notiva
+```
+
+And then execute:
+
+```bash
+bundle
+```
+
+Or install it yourself as:
+
+```bash
+gem install jekyll-theme-notiva
+```
+
+## Development
+
+To set up your environment to develop this theme, run `bundle install`.
+
+Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+
+When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
+To add a custom directory to your theme-gem, please edit the regexp in `jekyll-theme-notiva.gemspec` accordingly.
+
+## Contributing
+
+Bug reports and pull requests are welcome on [GitHub](https://github.com/[USERNAME]/jekyll-theme-notiva){:target="_blank"}{:rel="noopener noreferrer"}. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/){:target="_blank"}{:rel="noopener noreferrer"} code of conduct.
