@@ -1,0 +1,49 @@
+---
+layout: post
+comments: true
+toc: true
+title: Spring
+date: 2025-03-29 22:00:00 +01:00
+repo: https://github.com/connor-baer/spring
+demo: https://connor-baer.github.io/spring/
+forks: 9
+stars: 14
+download: https://github.com/connor-baer/spring/archive/refs/heads/main.zip
+author: Connor Bär
+thumbnail: spring.png
+license: MIT
+license_link: https://opensource.org/license/MIT
+carousel:
+  - 'screenshot-0.png'
+  - 'screenshot-1.png'
+---
+
+Spring is a one-page, two-column [Jekyll](http://jekyllrb.com){:target="_blank"}{:rel="noopener noreferrer"} theme that pairs beautifully styled content with contextual media.
+
+## Features
+
+- Responsive design
+- Dark mode
+- Syntax highlighting
+
+## Usage
+
+You'll need to have [Jekyll](https://jekyllrb.com/){:target="_blank"}{:rel="noopener noreferrer"}, the `bundler` gem, and [`yarn`](https://yarnpkg.com/){:target="_blank"}{:rel="noopener noreferrer"} installed on our computer. Spring provides a fully furnished Jekyll setup - just clone and install the dependencies:
+
+```bash
+# Ruby gems
+bundle install
+# Node modules
+yarn
+```
+
+Then simply run `yarn start` to start the Jekyll server on port `4000`.
+
+## Options
+
+Spring includes some customizable options, applied via options in the `_config.yml` file. A standout feature is the dark theme.
+Have a look at the `_config.yml` file for all available options.
+
+## Contributing
+
+**This theme is no longer actively maintained.** However, I welcome bug fixes and feature request through [pull requests](https://github.com/connor-baer/spring/compare){:target="_blank"}{:rel="noopener noreferrer"}. If you don't feel comfortable making code changes, feel free to [open an issue](https://github.com/connor-baer/spring/issues/new){:target="_blank"}{:rel="noopener noreferrer"}, perhaps somebody else will help out.

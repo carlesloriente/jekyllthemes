@@ -1,0 +1,103 @@
+---
+layout: post
+comments: true
+toc: true
+title: Overreacted
+date: 2024-09-07 22:00:00 +01:00
+repo: https://github.com/ale-depi/jekyll-theme-anatole
+update_date: 2025-03-30
+version: '0.1.2'
+forks: 0
+stars: 0
+download: https://github.com/ale-depi/jekyll-theme-anatole/archive/refs/tags/v0.1.2.zip
+demo: https://ale-depi.github.io/jekyll-theme-anatole/
+author: Alessandro De Piccoli
+thumbnail: jekyll-anatole.webp
+license: MIT
+license_link: https://opensource.org/license/MIT
+carousel:
+  - 'screenshot-0.png'
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
+  - 'screenshot-4.png'
+  - 'screenshot-5.png'
+---
+
+Anatole is a minimalistic two-column theme [(even)](#credits) for Jekyll.
+
+## Features
+
+- Two-column layout
+- Responsive design
+- Syntax highlighting
+
+## Installation
+
+Add this line to your Jekyll site's `Gemfile`:
+
+```ruby
+gem "jekyll-theme-anatole"
+```
+
+And add this line to your Jekyll site's `_config.yml`:
+
+```yaml
+theme: jekyll-theme-anatole
+```
+
+And then execute:
+
+```bash
+bundle
+```
+
+Or install it yourself as:
+
+```bash
+gem install jekyll-theme-anatole
+```
+
+## Development
+
+In order to ensure a unique environment for developing the theme, the following steps can be applied:
+
+Clone the repository:
+
+```bash
+docker compose create
+docker start -ia anatole-container
+```
+
+Install the dependencies:
+
+```bash
+docker exec -it anatole-container bash
+```
+
+To set up your environment to develop this theme, run:
+
+```bash
+bundle install
+```
+
+Your theme is setup just like a normal Jekyll site! To test your theme, run:
+
+```bash
+bundle exec jekyll serve
+```
+
+This will build your site and make it available on a local server. You can view your site opening your browser at: `http://localhost:4000`.
+
+Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+
+When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
+To add a custom directory to your theme-gem, please edit the regexp in `jekyll-theme-anatole.gemspec` accordingly.
+
+## Contributing
+
+Bug reports and pull requests are welcome on [GitHub](https://github.com/ale-depi/jekyll-theme-anatole){:target="_blank"}{:rel="noopener noreferrer"}. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/){:target="_blank"}{:rel="noopener noreferrer"} code of conduct.
+
+## Credits
+
+Anatole Jekyll Theme, is the porting from [Hugo](https://gohugo.io/){:target="_blank"}{:rel="noopener noreferrer"} to [Jekyll](https://jekyllrb.com/){:target="_blank"}{:rel="noopener noreferrer"} of [Anatole](https://github.com/lxndrblz/anatole){:target="_blank"}{:rel="noopener noreferrer"}.
