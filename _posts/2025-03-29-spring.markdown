@@ -28,7 +28,7 @@ Spring is a one-page, two-column [Jekyll](http://jekyllrb.com){:target="_blank"}
 
 ## Usage
 
-You'll need to have [Jekyll](https://jekyllrb.com/){:target="_blank"}{:rel="noopener noreferrer"}, the `bundler` gem, and [`yarn`](https://yarnpkg.com/){:target="_blank"}{:rel="noopener noreferrer"} installed on our computer. Spring provides a fully furnished Jekyll setup - just clone and install the dependencies:
+You'll need to have [Jekyll](https://jekyllrb.com/){:target="_blank"}{:rel="noopener noreferrer"}, the `bundler` gem, and [`yarn` or `npm`](https://yarnpkg.com/){:target="_blank"}{:rel="noopener noreferrer"} installed on our computer. Spring provides a fully furnished Jekyll setup - just clone and install the dependencies:
 
 ```bash
 # Ruby gems
