@@ -29,7 +29,7 @@ Summer is a simple [Jekyll](http://jekyllrb.com) theme with a photo sidebar.
 
 ## Usage
 
-You'll need to have [Jekyll](https://jekyllrb.com/){:target="_blank"}{:rel="noopener noreferrer"}, the `bundler` gem, and [`yarn`](https://yarnpkg.com/) (`npm` also works){:target="_blank"}{:rel="noopener noreferrer"} installed on our computer. Summer provides a fully furnished Jekyll setup - just clone and install the dependencies:
+You'll need to have [Jekyll](https://jekyllrb.com/){:target="_blank"}{:rel="noopener noreferrer"}, the `bundler` gem, and [`yarn` or `npm`](https://yarnpkg.com/){:target="_blank"}{:rel="noopener noreferrer"} installed on our computer. Summer provides a fully furnished Jekyll setup - just clone and install the dependencies:
 
 ```bash
 # Ruby gems
