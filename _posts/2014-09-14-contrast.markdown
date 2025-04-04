@@ -7,8 +7,8 @@ date: 2014-09-14 00:03:00 +01:00
 update_date: 2025-02-08
 version: '3.0.0'
 repo: https://github.com/niklasbuschmann/contrast
-forks: 2172
-stars: 427
+forks: 2269
+stars: 434
 download: https://github.com/niklasbuschmann/contrast/archive/gh-pages.zip
 demo: https://niklasbuschmann.github.io/contrast
 author: Niklas Buschmann

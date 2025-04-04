@@ -6,8 +6,8 @@ title: Automatic App Landing Page
 date: 2025-03-03 20:40:18 +02:00
 repo: https://github.com/emilbaehr/automatic-app-landing-page
 demo: https://emilbaehr.github.io/automatic-app-landing-page/
-forks: 1704
-stars: 3503
+forks: 1719
+stars: 3522
 download: https://github.com/emilbaehr/automatic-app-landing-page/archive/refs/heads/master.zip
 author: Emil Baehr
 thumbnail: automatic-app-landing-page.webp

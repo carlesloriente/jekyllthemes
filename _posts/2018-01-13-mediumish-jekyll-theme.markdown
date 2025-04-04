@@ -6,8 +6,8 @@ title: Mediumish
 date: 2018-01-13 20:00:00 +01:00
 repo: https://github.com/wowthemesnet/mediumish-theme-jekyll
 update_date: 2024-12-28
-forks: 1551
-stars: 1327
+forks: 1589
+stars: 1353
 download: https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip
 demo: https://wowthemesnet.github.io/mediumish-theme-jekyll/
 author: WowThemesNet
@@ -47,4 +47,4 @@ carousel:
 
 ## Installation
 
-More information on [GitHub](https://github.com/wowthemesnet/mediumish-theme-jekyll/)
+More information on [GitHub](https://github.com/wowthemesnet/mediumish-theme-jekyll/){:target="_blank"}{:rel="noopener noreferrer"}

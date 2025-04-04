@@ -6,8 +6,8 @@ title: Prologue
 date: 2017-12-07 20:00:00 +01:00
 repo: https://github.com/chrisbobbe/jekyll-theme-prologue
 update_date: 2024-12-16
-forks: 941
-stars: 437
+forks: 932
+stars: 443
 download: https://github.com/chrisbobbe/jekyll-theme-prologue/archive/master.zip
 demo: https://chrisbobbe.github.io/jekyll-theme-prologue/
 author: HTML5 UP, Chris Bobbe

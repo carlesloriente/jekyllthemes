@@ -8,8 +8,8 @@ update_date: 2021-07-26
 version: '0.2.0'
 repo: https://github.com/pages-themes/hacker
 demo: https://pages-themes.github.io/hacker/
-forks: 1230
-stars: 1033
+forks: 1233
+stars: 1052
 download: https://github.com/pages-themes/hacker/archive/refs/tags/v0.2.0.zip
 author: Ben Balter
 thumbnail: hacker.png

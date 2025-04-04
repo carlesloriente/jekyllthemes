@@ -6,8 +6,8 @@ title: Gitbook
 date: 2021-01-23 23:44:51 +01:00
 repo: https://github.com/sighingnow/jekyll-gitbook
 update_date: 2024-12-28
-forks: 1041
-stars: 541
+forks: 1001
+stars: 578
 download: https://github.com/sighingnow/jekyll-gitbook/archive/master.zip
 demo: https://sighingnow.github.io/jekyll-gitbook/
 author: Tao He

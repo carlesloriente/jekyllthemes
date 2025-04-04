@@ -46,7 +46,7 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 
 To create a new post, you can create a new markdown file inside the _posts directory by following the [recommended file structure](https://jekyllrb.com/docs/posts/#creating-post-files).
 
-```sh
+```bash
   ---
   layout: post
   title: 10 Best books of all time
@@ -69,7 +69,7 @@ You can add other authors for your posts. In the beginning, create the author in
 
 **For example:**
 
-```sh
+```bash
   # Other Authors - here you can add Other authors. For example Natali_Braxton
   authors:
     Natali_Braxton:
@@ -85,7 +85,7 @@ You can add other authors for your posts. In the beginning, create the author in
 
 Then add the author in a post. Save and you are done.
 
-```sh
+```bash
   ---
   layout: post
   title: 10 Best books of all time
@@ -102,7 +102,7 @@ Lokmont Theme comes with Disqus comments enabled.
 
 Open `_config.yml` file, and change the `mr-brown` value on line 52 with your [Disqus account shortname](https://help.disqus.com/customer/portal/articles/466208).
 
-```sh
+```bash
   # Comment Section (Disqus)
   disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 ```
@@ -115,7 +115,7 @@ And also check [Disqus troubleshooting guide](https://help.disqus.com/customer/p
 
 To integrate Google Analytics, open `_config.yml`, and add your Google Analytics identifier.
 
-```sh
+```bash
   # Google Analytics
   google-analytics: # Add your identifier. For example UA-99631805-1
 ```

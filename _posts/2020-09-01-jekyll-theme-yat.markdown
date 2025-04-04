@@ -6,8 +6,8 @@ title: Yet Another Theme (YAT)
 date: 2020-09-01 19:38:24 +01:00
 repo: https://github.com/jeffreytse/jekyll-theme-yat
 update_date: 2024-12-20
-forks: 931
-stars: 1024
+forks: 959
+stars: 1084
 download: https://github.com/jeffreytse/jekyll-theme-yat/releases/latest/
 demo: https://jeffreytse.github.io/jekyll-theme-yat/
 author: Jeffrey Tse
