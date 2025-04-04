@@ -6,8 +6,8 @@ title: Devlopr
 date: 2019-05-19 20:00:00 +01:00
 repo: https://github.com/sujaykundu777/devlopr-jekyll
 update_date: 2024-12-24
-forks: 991
-stars: 693
+forks: 1007
+stars: 711
 download: https://rubygems.org/downloads/devlopr-0.4.5.gem
 demo: https://devlopr.netlify.app/#/
 author: Sujay Kundu

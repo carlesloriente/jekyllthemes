@@ -6,8 +6,8 @@ title: Jalpc
 date: 2016-09-20 20:00:00 +01:00
 repo: https://github.com/jarrekk/Jalpc
 update_date: 2024-12-08
-forks: 1098
-stars: 1027
+forks: 1097
+stars: 1039
 download: https://github.com/jarrekk/Jalpc/archive/master.zip
 demo: https://jarrekk.github.io/Jalpc/
 author: Kun Jia

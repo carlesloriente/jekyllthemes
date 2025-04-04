@@ -8,8 +8,8 @@ update_date: 2022-11-22
 version: '2.14.1'
 repo: https://github.com/johno/pixyll
 demo: http://pixyll.com/
-forks: 1349
-stars: 2046
+forks: 1345
+stars: 2050
 download: https://github.com/johno/pixyll/archive/refs/tags/v2.14.1.zip
 author: John Otander 
 thumbnail: pixyll.png

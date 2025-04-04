@@ -6,8 +6,8 @@ title: Chalk
 date: 2016-10-31 20:00:00 +01:00
 repo: https://github.com/nielsenramon/chalk
 update_date: 2024-12-26
-forks: 443
-stars: 1243
+forks: 445
+stars: 1250
 download: https://github.com/nielsenramon/chalk
 demo: https://chalk.nielsenramon.com
 author: Nielsen Ramon

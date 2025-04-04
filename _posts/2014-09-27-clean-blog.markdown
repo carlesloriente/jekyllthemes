@@ -6,8 +6,8 @@ title: Clean Blog
 date: 2014-09-27 15:09:00 +01:00
 repo: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll
 update_date: 2024-12-28
-forks: 2692
-stars: 2104
+forks: 2740
+stars: 2122
 download: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll/archive/gh-pages.zip
 demo: https://startbootstrap.github.io/startbootstrap-clean-blog-jekyll/
 author: Start Bootstrap

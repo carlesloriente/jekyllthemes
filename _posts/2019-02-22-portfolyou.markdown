@@ -8,8 +8,8 @@ update_date: 2021-08-26
 version: '2.3.0'
 repo: https://github.com/yousinix/portfolYOU
 demo: https://yousinix.github.io/portfolYOU
-forks: 613
-stars: 1049
+forks: 623
+stars: 1070
 download: https://github.com/yousinix/portfolYOU/archive/refs/tags/v2.3.0.zip
 author: Youssef
 thumbnail: portfolYOU.png

@@ -6,8 +6,8 @@ title: So Simple
 date: 2013-07-13 21:42:00 +01:00
 repo: https://github.com/mmistakes/so-simple-theme
 update_date: 2024-12-26
-forks: 2494
-stars: 2056
+forks: 2461
+stars: 2073
 download: https://github.com/mmistakes/so-simple-theme/archive/master.zip
 demo: https://mmistakes.github.io/so-simple-theme/
 author: Michael Rose
