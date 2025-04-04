@@ -18,4 +18,4 @@ carousel:
  - 'screenshot.png'
 ---
 
-Steve's NGVB Theme - This is my no-good-very-bad template for Jekyll (modified from jekyll-new and Alex King's Favepersonal). See it in action at [svmiller](https://svmiller.com).
+Steve's NGVB Theme - This is my no-good-very-bad template for Jekyll (modified from jekyll-new and Alex King's Favepersonal). See it in action at [svmiller](https://svmiller.com){:target="_blank"}{:rel="noopener noreferrer"}.

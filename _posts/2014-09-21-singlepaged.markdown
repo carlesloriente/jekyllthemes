@@ -6,8 +6,8 @@ title: SinglePaged
 date: 2014-09-21 08:20:00 +01:00
 repo: https://github.com/t413/SinglePaged
 update_date: 2024-12-01
-forks: 1168
-stars: 872
+forks: 1165
+stars: 879
 download: https://github.com/t413/SinglePaged/archive/gh-pages.zip
 demo: http://t413.com/SinglePaged/
 author: Tim O'Brien

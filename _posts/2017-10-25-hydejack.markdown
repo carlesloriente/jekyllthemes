@@ -6,8 +6,8 @@ title: Hydejack
 date: 2017-10-25 20:00:00 +01:00
 repo: https://github.com/qwtel/hydejack
 update_date: 2024-12-28
-forks: 805
-stars: 1430
+forks: 812
+stars: 1469
 download: https://github.com/qwtel/hydejack/archive/v7.zip
 demo: https://qwtel.com/hydejack/
 author: Florian Klampfer (@qwtel)

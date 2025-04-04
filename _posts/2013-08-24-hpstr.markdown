@@ -6,8 +6,8 @@ title: HPSTR
 date: 2013-08-24 18:18:00 +01:00
 repo: https://github.com/mmistakes/hpstr-jekyll-theme
 update_date: 2024-11-19
-forks: 1435
-stars: 980
+forks: 1432
+stars: 981
 download: https://github.com/mmistakes/hpstr-jekyll-theme/archive/master.zip
 demo: https://mmistakes.github.io/jekyll-theme-hpstr/
 author: Michael Rose

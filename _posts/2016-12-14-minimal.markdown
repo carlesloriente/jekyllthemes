@@ -8,8 +8,8 @@ update_date: 2021-08-26
 version: '0.2.0'
 repo: https://github.com/pages-themes/minimal
 demo: https://pages-themes.github.io/minimal/
-forks: 6105
-stars: 1645
+forks: 6156
+stars: 1654
 download: https://github.com/pages-themes/minimal/archive/refs/tags/v0.2.0.zip
 author: Ben Balter
 thumbnail: minimal.png

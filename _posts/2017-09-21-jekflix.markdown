@@ -6,8 +6,8 @@ title: Jekflix
 date: 2017-09-21 09:10:00 +01:00
 repo: https://github.com/thiagorossener/jekflix-template
 update_date: 2024-12-27
-forks: 1198
-stars: 868
+forks: 1221
+stars: 894
 download: https://github.com/thiagorossener/jekflix-template/archive/master.zip
 demo: https://jekflix.rossener.com/
 author: Thiago Rossener

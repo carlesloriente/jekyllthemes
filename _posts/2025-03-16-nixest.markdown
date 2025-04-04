@@ -85,7 +85,7 @@ gem "jekyll-remote-theme", group: [:jekyll_plugins]
 
 Then run `bundle` in your terminal.
 
-```sh
+```bash
 bundle
 ```
 
