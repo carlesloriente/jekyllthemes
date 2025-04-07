@@ -2,7 +2,7 @@
 layout: post
 comments: true
 toc: true
-title: Dogwood
+title: Insights4you
 date: 2025-04-07 22:02:00 +01:00
 repo: https://github.com/marciopaiva/insights4you-jekyll-themev
 version: '0.4.0'
