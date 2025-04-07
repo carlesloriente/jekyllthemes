@@ -1,0 +1,36 @@
+---
+layout: post
+comments: true
+toc: true
+title: Ober
+date: 2025-04-07 22:12:00 +01:00
+repo: https://github.com/leetaewon/ober
+demo: https://leetaewon.github.io/ober/
+forks: 0
+stars: 0
+download: https://github.com/leetaewon/ober/archive/refs/heads/main.zip
+author: Taewon Lee
+thumbnail: ober.png
+license: MIT
+license_link: https://opensource.org/license/MIT
+carousel:
+  - 'screenshot-0.png'
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
+  - 'screenshot-4.png'
+  - 'screenshot-5.png'
+---
+
+Ober is a one-page resume and CV Jekyll theme that is perfect for showcasing your skills, experience, and portfolio. It features a clean and modern design, making it easy to navigate and visually appealing.
+
+## Features
+
+- **One Page Design**: A single-page layout that provides a seamless user experience.
+- **Responsive**: Fully responsive design that looks great on all devices.
+- **Easy to Customize**: Simple customization options to match your personal style.
+- **SEO Optimized**: Built with SEO best practices in mind to help you rank higher in search engines.
+- **Fast Loading**: Optimized for speed to ensure quick loading times.
+- **Cross-Browser Compatibility**: Works well on all major browsers.
+- **Clean Code**: Well-structured and clean code for easy maintenance.
+- **Documentation**: Comprehensive documentation to help you get started quickly.
