@@ -1,0 +1,139 @@
+---
+layout: post
+comments: true
+toc: true
+title: Zeta
+date: 2025-04-07 22:14:00 +01:00
+repo: https://github.com/Lorem3/jekyll-zeta
+forks: 0
+stars: 0
+download: https://github.com/Lorem3/jekyll-zeta/archive/refs/heads/master.zip
+author: Vittoz
+thumbnail: zeta.png
+license: GPL-3.0
+license_link: https://opensource.org/license/gpl-3-0/
+carousel:
+  - 'screenshot.png'
+---
+
+Zeta, a concise and elegant Jekyll theme.
+
+## Features
+
+- paginate support
+- tags support
+- mathjax , inluce_code post_link support, include  support, link to other post
+- encrytion support. Only those who know the password can view the article
+  
+### how to encrypt your posts
+
+1.- generate your own public & private key to protect your password
+
+```bash
+ltectool g
+```
+
+You will get a file like below:
+
+```bash
+publickey: AAA
+privatekey: BBBBB
+```
+
+2.- encrypt your password:
+
+```bash
+# ltectool e [your publickey] [your password]
+# like below
+ltectool e Arkuf0hG0sjifj+G57o4gwPgnXXD72kIhjhSGjyyGCdS 123
+
+# output
+AQAQACAAIQCVKE9YHFT4pzyMa84kqGK+4Olo3EeDlymDa0oZcsQ48j8S4D4fMFb37gUT4LgrxZQDCFLa402i9VhhMIYWXZP+WSsv2Ia+uQpEH5vYKgDR5vL4xXC/76wXl3K7abU7u9du
+```
+
+You get your encrypted password, then put it in  `_config.yml`
+
+```yaml
+enc_tags:
+  - tag: encrypt1 
+    password: "123"  # plain text ,NOT recommended
+
+  - tag: encrypt2
+    # 123
+    password: AQAQACAAIQCVKE9YHFT4pzyMa84kqGK+4Olo3EeDlymDa0oZcsQ48j8S4D4fMFb37gUT4LgrxZQDCFLa402i9VhhMIYWXZP+WSsv2Ia+uQpEH5vYKgDR5vL4xXC/76wXl3K7abU7u9du
+```
+
+add JEKYLL_EC_PRIVATEKEY to ENV   before you run jekyll build or set JEKYLL_EC_PRIVATEKEY to your CI environment.
+
+``` bash
+#export set JEKYLL_EC_PRIVATEKEY=[Private key]
+export set JEKYLL_EC_PRIVATEKEY="NWWtiQbDnSDvTdogCzAjqNqHGTZrRXdmXQrEKiv3vNs="
+```
+
+**for security, I recommend you to use different repos to store your source files and the `_site` files**
+
+## Installation
+
+If you haven't already created your blog using Jekyll, follow the [instructions](https://jekyllrb.com/docs/){:target="_blank"}{:rel="noopener noreferrer"} to do so from Jekyll's documentation.
+
+NOTE: if you are using Jekyll with GitHub Pages, see the [GitHub Pages installation](https://docs.github.com/en/pages/quickstart){:target="_blank"}{:rel="noopener noreferrer"}.
+
+Then, to style your blog with this theme, add this line to your Jekyll site's `Gemfile`:
+
+```ruby
+gem "jekyll-zeta"
+```
+
+And add this line to your Jekyll site's `_config.yml`:
+
+```yaml
+theme: jekyll-zeta
+```
+
+Then, execute:
+
+```bash
+bundle
+```
+
+Or install it yourself as:
+
+```bash
+gem install jekyll-zeta
+```
+
+### Customize the menu
+
+Edit the `theme_config > menu` in  _config.yml, here bellow is the default value.
+
+```yaml
+theme_config:
+  menu:
+    - title: Home
+      url: /
+    - title: Achive
+      url: /archive.html
+    - title: Tags
+      url: /tags.html
+    - title: About
+      url: /about.html
+```
+
+### Show all tags
+
+Create a `tags.md` with content below:
+
+```yaml
+---
+title: TAGS
+layout: tags
+permalink: /tags/index.html
+---
+```
+
+Add an entry in the _data/menu.yml
+
+```yaml
+- title: tags
+  url: tags
+```
