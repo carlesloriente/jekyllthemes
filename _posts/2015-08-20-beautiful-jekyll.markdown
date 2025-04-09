@@ -8,8 +8,8 @@ update_date: 2025-03-23
 version: '6.0.1'
 repo: https://github.com/daattali/beautiful-jekyll
 update_date: 2024-12-27
-forks: 16758
-stars: 5550
+forks: 16774
+stars: 5557
 download: https://github.com/daattali/beautiful-jekyll/archive/master.zip
 demo: https://beautifuljekyll.com/
 author: Dean Attali
