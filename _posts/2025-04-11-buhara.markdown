@@ -1,0 +1,26 @@
+---
+layout: post
+comments: true
+toc: false
+title: Buhara
+date: 2025-04-11 21:14:00 +01:00
+repo: https://github.com/mtnzorlu/buhara
+demo: https://mtnzorlu.github.io/buhara
+forks: 0
+stars: 0
+download: https://github.com/mtnzorlu/buhara/archive/refs/heads/main.zip
+author: Metin Zorlu
+thumbnail: buhara.png
+license: MIT
+license_link: https://opensource.org/license/mit
+carousel:
+  - 'screenshot-0.png'
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+---
+
+Buhara is a Jekyll theme designed for personal blogs. It is simple, clean, and easy to use. The theme is fully responsive and looks great on all devices. Buhara is built with Bootstrap 5 and includes features such as a customizable sidebar, social media links, and a contact form.
+
+## Features
+
+- Fully responsive design

@@ -1,0 +1,50 @@
+---
+layout: post
+comments: true
+toc: true
+title: Tail
+date: 2022-10-10 01:23:45 +01:00
+update_date: 2025-04-11
+version: '1.2.0'
+repo: https://github.com/jitinnair1/tail/
+forks: 5
+stars: 17
+download: https://github.com/jitinnair1/tail/archive/refs/tags/v1.2.zip
+demo: https://jitinnair1.github.io/tail
+author: Jitin
+thumbnail: tail.png
+license: MIT
+license_link: https://opensource.org/license/MIT
+carousel:
+  - 'screenshot-0.png'
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
+---
+
+Tail is a minimal Jekyll blog theme heavily based on [Tale](https://github.com/chesterhow/tale){:target="_blank"}{:rel="noopener noreferrer"} (and hence the name). Apart from the minor fixes to Tale and significant changes under the hood, this theme is designed to make it easier to maintain a blog.
+
+If you already have a bunch of files in `*.md` format, you can simply copy them to the `_posts` folder after forking this theme and making a few changes to `_config.yml`, your blog is ready to go!
+
+## Features
+
+- Dark Mode
+- Support for posts without the `YYYY-MM-DD` in the post's filename
+- Popup Footnotes
+- Bi-directional Wiki-style linking support compatible with Obsidian (Planned)
+- Easy installation
+- Compatible with GitHub Pages
+- Responsive design
+- Pagination of posts
+- Sticky posts
+- Tags
+- Excerpt management
+
+## Contributing
+
+Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
+
+### Also, check out
+
+- [autoCV](https://github.com/jitinnair1/autocv){:target="_blank"}{:rel="noopener noreferrer"} - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
+- [gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"}{:rel="noopener noreferrer"} - a minimal, quick-setup template for a personal website/portfolio
