@@ -5,8 +5,8 @@ toc: true
 title: Zeta
 date: 2025-04-07 22:14:00 +01:00
 repo: https://github.com/Lorem3/jekyll-zeta
-forks: 0
-stars: 0
+forks: 2
+stars: 1
 download: https://github.com/Lorem3/jekyll-zeta/archive/refs/heads/master.zip
 author: Vittoz
 thumbnail: zeta.png
