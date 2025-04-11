@@ -4,6 +4,7 @@ comments: true
 toc: true
 title: Emojification
 date: 2025-03-23 22:00:00 +01:00
+update_date: 2025-04-09
 repo: https://github.com/michaelnordmeyer/jekyll-theme-emojification
 demo: https://jekyll-theme-emojification.michaelnordmeyer.com/
 forks: 0

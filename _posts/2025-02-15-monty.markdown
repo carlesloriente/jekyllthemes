@@ -1,0 +1,88 @@
+---
+layout: post
+comments: true
+toc: true
+title: Monty
+date: 2025-02-15 17:40:18 +03:00
+update_date: 2025-02-15
+version: '1.2.4'
+repo: https://github.com/brolun/jekyll-theme-monty/
+demo: https://brolun.github.io/jekyll-theme-monty/
+forks: 1
+stars: 1
+download: https://github.com/brolun/jekyll-theme-monty/archive/refs/tags/v1.2.4.zip
+author: Luna Brodersen
+thumbnail: monty.png
+license: MIT
+license_link: https://opensource.org/license/MIT
+carousel:
+  - 'screenshot-0.png'
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+---
+
+Monty is a Jekyll theme inspired by [CSS Naked Day](https://css-naked-day.github.io/){:target="_blank"}{:rel="noopener noreferrer"}. It has just enough styling to make it appealing and different, yet is almost as stripped back as [the Emperor parading in his full monty](https://andersen.sdu.dk/vaerk/hersholt/TheEmperorsNewClothes_e.html){:target="_blank"}{:rel="noopener noreferrer"}.
+
+Monty is designed for [blogging on GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll){:target="_blank"}{:rel="noopener noreferrer"}. It is a simple theme consisting of only a home page and your blog posts. You can [preview the theme here](https://brolun.github.io/jekyll-theme-monty/){:target="_blank"}{:rel="noopener noreferrer"}.
+
+## Installation
+
+To use the Monty theme, add the following to your site's `_config.yaml`:
+
+```yaml
+remote_theme: brolun/jekyll-theme-monty
+plugins:
+    - jekyll-remote-theme
+    - jekyll-feed
+    - jekyll-seo-tag
+```
+
+Optionally, if you would like to preview your site locally, add the following to your site's `Gemfile`:
+
+```ruby
+gem "github-pages", group: :jekyll_plugins
+```
+
+## Customizing
+
+### Configuration variables
+
+Monty requires the following variable to be set in your site's `_config.yml`:
+
+```yaml
+title: [Your site's title]
+```
+
+Additionally, you may choose to set the following optional variable:
+
+```yaml
+locale: [A locale code; 'en_US' is default]
+```
+
+### Front matter variables
+
+Monty is **not** designed for sorting blog posts according to `categories`, `tags`, or other front matter variables.
+
+### Favicon
+
+If you want your site to display a favicon, simply add a `favicon.ico` image to the root folder.
+
+### SEO tag and RSS Feed plugins
+
+Monty uses the Jekyll SEO tag plugin. You can [read about how to further configure the SEO tag plugin here](https://github.com/jekyll/jekyll-seo-tag){:target="_blank"}{:rel="noopener noreferrer"}.
+
+Monty also uses the Jekyll Feed plugin. The plugin generates an Atom/RSS feed of your blog posts. You can [read about the Feed plugin here](https://github.com/jekyll/jekyll-feed){:target="_blank"}{:rel="noopener noreferrer"}.
+
+## Development
+
+If you would like to preview the theme locally (for example, in the process of proposing a change):
+
+1. Clone the theme's repository using `git clone https://github.com/brolun/jekyll-theme-monty.git`.
+2. `cd` into the theme's directory.
+3. Run `bundle install` to install the necessary dependencies.
+4. Run `bundle exec jekyll serve` to start the preview server.
+5. Visit `http://localhost:4000` in your browser to preview the theme.
+
+## Contributing
+
+Bug reports and pull requests are welcome on [GitHub](https://github.com/brolun/jekyll-theme-monty){:target="_blank"}{:rel="noopener noreferrer"}.

@@ -6,8 +6,8 @@ title: Tale
 date: 2017-03-29 20:00:00 +01:00
 repo: https://github.com/chesterhow/tale
 update_date: 2024-12-26
-forks: 880
-stars: 965
+forks: 897
+stars: 981
 download: https://github.com/chesterhow/tale/archive/master.zip
 demo: https://chesterhow.github.io/tale
 author: Chester How

@@ -4,6 +4,7 @@ comments: true
 toc: true
 title: Dogwood
 date: 2025-04-07 22:00:00 +01:00
+update_date: 2025-04-10
 repo: https://github.com/osmus/dogwood
 demo: https://osmus.github.io/dogwood/
 forks: 2
