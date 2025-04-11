@@ -16,7 +16,11 @@ thumbnail: simplicity.png
 license: MIT
 license_link: https://opensource.org/license/MIT
 carousel:
-  - 'screenshot.png'
+  - 'screenshot-0.png'
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
+  - 'screenshot-4.png'
 ---
 
 *Simplicity* is a Jekyll Theme for minimalists focused on essentials avoiding unnecessary clutter. But still giving you all you need to build wonderful pages for your content.
