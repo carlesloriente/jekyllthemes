@@ -3,7 +3,7 @@ layout: post
 comments: true
 toc: true
 title: Simplicity
-date: 2016-11-11 11:42:00 +01:00
+date: 2016-11-25 11:42:00 +01:00
 repo: https://github.com/Phlow/simplicity
 update_date: 2024-01-06
 version: '1.1.0'
