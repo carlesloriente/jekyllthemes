@@ -1,0 +1,83 @@
+---
+layout: post
+comments: true
+toc: true
+title: Pavo
+date: 2025-04-17 20:14:00 +01:00
+repo: https://github.com/mankec/jekyll-theme-pavo
+demo: https://mankec.github.io/jekyll-theme-pavo/
+forks: 0
+stars: 0
+download: https://github.com/mankec/jekyll-theme-pavo/archive/refs/heads/main.zip
+author: Milan Kecman
+thumbnail: pavo.png
+license: MIT
+license_link: https://opensource.org/license/mit
+carousel:
+  - 'screenshot-0.png'
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
+  - 'screenshot-4.png'
+  - 'screenshot-5.png'
+---
+
+Pavo template adapted for usage in Jekyll and GitHub Pages.
+
+## Features
+
+- Responsive design
+- Dark mode
+- Light mode
+- Syntax highlighting
+
+## Installation
+
+```bash
+git clone git@github.com:mankec/jekyll-theme-pavo.git my-new-repo
+cd my-new-repo
+git remote rm origin
+git remote add origin your-git-ssh-url
+```
+
+Now you can make changes and push them to your own repo.
+
+I used Yarn. You can remove `yarn.lock` and run `npm` if you prefer it over Yarn.
+
+```bash
+bundle
+yarn
+bundle exec jekyll s --livereload
+```
+
+## GitHub Pages
+
+This is an updated setup I took from this [blog post](https://mzrn.sh/2023/10/26/how-to-use-tailwind-css-with-jekyll-on-github-pages/){:target="_blank"}{:rel="noopener noreferrer"}. You are encouraged to read it. It's well-written and easy to understand.
+
+This project almost has everything set up, but there's a few things you will need to do on your own.
+Go to your repo's settings and [enable](https://docs.github.com/en/pages/quickstart){:target="_blank"}{:rel="noopener noreferrer"} GitHub Pages.
+
+After that you will need to set [SSH Private Key](https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#%EF%B8%8F-set-ssh-private-key-deploy_key){:target="_blank"}{:rel="noopener noreferrer"} or [Personal Access Token](https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#%EF%B8%8F-set-personal-access-token-personal_token){:target="_blank"}{:rel="noopener noreferrer"}.
+
+GitHub Workflow is in `.github/workflows/github-pages.yml`.
+
+Update `url` and `baseurl` in `_config.production.yml`.
+
+```yaml
+url: 'https://your-username.github.io'
+baseurl: 'your-repo-name'
+```
+
+## Liquid syntax highlighting
+
+[Extension](https://marketplace.visualstudio.com/items/?itemName=sissel.shopify-liquid){:target="_blank"}{:rel="noopener noreferrer"} for Liquid that I use doesn't support HTML. Therefore, I added in `.vscode/settings.json`.
+
+```json
+{
+  "files.associations": {
+    "*.html": "liquid"
+  }
+}
+```
+
+Now every HTML file have their Language Mode set to Liquid.
