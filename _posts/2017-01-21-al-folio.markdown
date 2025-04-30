@@ -9,7 +9,7 @@ version: '0.14.4'
 repo: https://github.com/alshedivat/al-folio
 demo: https://alshedivat.github.io/al-folio/
 forks: 11706
-stars: 12649
+stars: 12861
 download: https://github.com/alshedivat/al-folio/archive/refs/tags/v0.14.0.zip
 author: Maruan
 thumbnail: al-folio.webp

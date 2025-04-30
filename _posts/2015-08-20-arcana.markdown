@@ -9,7 +9,7 @@ update_date: 2023-05-07
 forks: 64
 stars: 26
 download: https://github.com/CloudCannon/Arcana-Jekyll-Theme/archive/master.zip
-author: HTML5 UP (html5up.net), @n33co
+author: HTML5 UP
 thumbnail: arcana.webp
 license: CC-BY-3.0
 license_link: https://github.com/CloudCannon/Arcana-Jekyll-Theme/blob/master/LICENSE.txt

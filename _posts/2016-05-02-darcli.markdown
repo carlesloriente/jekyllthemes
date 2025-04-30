@@ -9,7 +9,7 @@ update_date: 2024-12-23
 forks: 43
 stars: 66
 download: https://github.com/gjuniioor/darcli/archive/master.zip
-author: Gildásio Júnior aka gjuniioor
+author: Gildásio Júnior
 thumbnail: darcli.webp
 license: GPLv3
 license_link: https://opensource.org/license/GPL-3.0

@@ -10,7 +10,7 @@ forks: 593
 stars: 535
 download: https://github.com/murraco/jekyll-theme-minimal-resume/archive/master.zip
 demo: https://jekyll-theme-minimal-resume.netlify.app/
-author: Mauricio Urraco <mauriurraco@gmail.com>
+author: Mauricio Urraco
 thumbnail: minimal-resume.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

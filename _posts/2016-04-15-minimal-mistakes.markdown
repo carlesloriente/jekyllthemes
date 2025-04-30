@@ -8,7 +8,7 @@ update_date: 2025-02-14
 version: '4.26.2'
 repo: https://github.com/mmistakes/minimal-mistakes
 forks: 26401
-stars: 12832
+stars: 12879
 download: https://github.com/mmistakes/minimal-mistakes/archive/master.zip
 demo: https://mmistakes.github.io/minimal-mistakes/
 author: Michael Rose
