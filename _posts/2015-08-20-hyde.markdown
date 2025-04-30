@@ -7,7 +7,7 @@ date: 2015-08-20 20:00:00 +01:00
 repo: https://github.com/poole/hyde
 update_date: 2024-12-28
 forks: 4008
-stars: 3728
+stars: 3731
 download: https://github.com/poole/hyde/archive/master.zip
 demo: https://hyde.getpoole.com/
 author: Mark Otto

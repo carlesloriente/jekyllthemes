@@ -10,7 +10,7 @@ update_date: 2024-12-01
 forks: 67
 stars: 96
 download: https://github.com/pietromenna/jekyll-architect-theme/archive/master.zip
-author: Jason Long, ported by Pietro Menna
+author: Jason Long
 thumbnail: architect.webp
 license: CC-BY-4.0
 license_link: https://github.com/pietromenna/jekyll-architect-theme/blob/master/README.md#license

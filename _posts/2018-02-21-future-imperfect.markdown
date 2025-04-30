@@ -10,7 +10,7 @@ forks: 41
 stars: 22
 download: https://github.com/kaptn3/future-imperfect/archive/master.zip
 demo: https://future-imperfect.kaptn.ru
-author: Kaptn
+author: Victoria Kapitonenko
 thumbnail: future-imperfect.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

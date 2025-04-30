@@ -9,7 +9,7 @@ version: '1.8.1'
 repo: https://github.com/Huxpro/huxpro.github.io
 demo: https://huangxuan.me/
 forks: 6039
-stars: 7340
+stars: 7355
 download: https://github.com/Huxpro/huxpro.github.io/archive/refs/tags/v1.8.1.zip
 author: Huang Xuan
 thumbnail: hux-blog.webp

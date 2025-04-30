@@ -10,7 +10,7 @@ forks: 4
 stars: 16
 download: https://github.com/gmkzwwg/pRoJEct-NeGYa/archive/refs/heads/main.zip
 demo: https://gmkzwwg.github.io/pRoJEct-NeGYa/
-author: DeerRIDER
+author: Gomi Kuzu
 thumbnail: pn.webp
 license: MIT
 license_link: https://opensource.org/license/MIT
