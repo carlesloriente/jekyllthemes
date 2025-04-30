@@ -10,7 +10,7 @@ forks: 69
 stars: 27
 download: https://github.com/CloudCannon/Read-Only-Jekyll-Theme/archive/master.zip
 demo: https://html5up.net/read-only
-author: HTML5 UP (html5up.net), @n33co
+author: HTML5 UP
 thumbnail: read-only.webp
 license: CC-BY-3.0
 license_link: https://github.com/CloudCannon/Read-Only-Jekyll-Theme/blob/master/LICENSE.txt

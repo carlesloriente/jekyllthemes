@@ -10,7 +10,7 @@ forks: 290
 stars: 115
 download: https://github.com/lorepirri/cayman-blog/archive/master.zip
 demo: https://lorepirri.github.io/cayman-blog/
-author: Lorenzo Pirritano (@lorepirri)
+author: Lorenzo Pirritano
 thumbnail: thumbnail-cayman-blog-250.webp
 license: CC-BY-1.0
 license_link: https://github.com/lorepirri/cayman-blog/blob/master/LICENSE

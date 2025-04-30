@@ -10,7 +10,7 @@ forks: 61
 stars: 61
 download: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme/archive/master.zip
 demo: https://html5up.net/dopetrope
-author: HTML5 UP (html5up.net), @n33co
+author: HTML5 UP
 thumbnail: dopetrope.webp
 license: CC-BY-3.0
 license_link: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme/blob/master/LICENSE.txt

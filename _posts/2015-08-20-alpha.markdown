@@ -9,7 +9,7 @@ update_date: 2024-09-19
 forks: 53
 stars: 36
 download: https://github.com/CloudCannon/Alpha-Jekyll-Theme/archive/master.zip
-author: HTML5 UP (html5up.net), @n33co
+author: HTML5 UP
 thumbnail: alpha.webp
 license: CC-BY-3.0
 license_link: https://github.com/CloudCannon/Alpha-Jekyll-Theme/blob/master/LICENSE.txt

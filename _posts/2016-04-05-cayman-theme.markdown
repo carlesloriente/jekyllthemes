@@ -10,7 +10,7 @@ forks: 224
 stars: 242
 download: https://github.com/pietromenna/jekyll-cayman-theme/archive/master.zip
 demo: https://jasonlong.github.io/cayman-theme/
-author: Pietro Menna
+author: Jason Long
 thumbnail: cayman-theme.webp
 license: CC-BY-4.0
 license_link: https://creativecommons.org/licenses/by/4.0/
@@ -19,3 +19,5 @@ carousel:
 ---
 
 This is a Jekyll theme for @jasonlong's Cayman theme on GitHub Pages.
+
+Theme is ported to Jekyll by Pietro Menna.

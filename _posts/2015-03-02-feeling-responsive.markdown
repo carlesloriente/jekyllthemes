@@ -10,7 +10,7 @@ forks: 1341
 stars: 927
 download: https://github.com/Phlow/feeling-responsive/archive/gh-pages.zip
 demo: https://phlow.github.io/feeling-responsive/
-author: Phlow – Moritz »mo.« Sauer
+author: "Moritz »mo.« Sauer"
 thumbnail: feeling-responsive.webp
 license: MIT
 license_link: https://opensource.org/license/MIT
