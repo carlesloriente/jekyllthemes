@@ -15,8 +15,8 @@ price: $99
 license: Proprietary
 license_link: https://tortoizthemes.com/theme/sandbox/
 carousel:
-  - 'sandbox-multipurpose-1.png'
-  - 'sandbox-multipurpose-2.png'
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
 ---
 
 A premium, feature-rich Jekyll theme designed for creative businesses, startups, and agencies.
