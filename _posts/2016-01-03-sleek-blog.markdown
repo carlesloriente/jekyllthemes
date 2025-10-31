@@ -9,7 +9,7 @@ update_date: 2022-10-31
 forks: 73
 stars: 40
 download: https://github.com/bawn92/sleek_blog/archive/master.zip
-author: Gearoid O'Connor
+author: Gearoid O-Connor
 thumbnail: sleek-blog.webp
 license: MIT
 license_link: https://opensource.org/license/MIT
