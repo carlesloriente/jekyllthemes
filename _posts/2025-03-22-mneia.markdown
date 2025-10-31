@@ -16,7 +16,6 @@ license_link: https://opensource.org/license/MIT
 carousel:
   - 'screenshot-0.png'
   - 'screenshot-1.png'
-  - 'screenshot-2.png'
 ---
 
 **Mneia Theme** is a [Jekyll](https://jekyllrb.com/){:target="_blank"}{:rel="noopener noreferrer"} theme for [mneia.gr](https://mneia.gr/){:target="_blank"}{:rel="noopener noreferrer"} based on [Bootstrap](https://getbootstrap.com/){:target="_blank"}{:rel="noopener noreferrer"}. The contents of the website are in separate repository [mneia-jekyll](https://github.com/mneia-gr/mneia-jekyll){:target="_blank"}{:rel="noopener noreferrer"}.
