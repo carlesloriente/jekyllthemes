@@ -10,7 +10,7 @@ forks: 28
 stars: 24
 download: https://github.com/melvinchng/jekyll-for-everyone/archive/master.zip
 demo: https://jekyll-for-everyone.github.io/
-author: Melvin Ch'ng
+author: Melvin Chng
 thumbnail: jekyll-for-everyone.webp
 license: GPLv3
 license_link: https://opensource.org/license/GPL-3.0
