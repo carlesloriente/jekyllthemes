@@ -10,7 +10,7 @@ forks: 203
 stars: 137
 download: https://github.com/melvinchng/event-jekyll-theme/archive/master.zip
 demo: https://event-jekyll-theme.github.io/
-author: Melvin Ch'ng
+author: Melvin Chng
 thumbnail: event-jekyll-theme.webp
 license: GPLv3
 license_link: https://opensource.org/license/GPL-3.0

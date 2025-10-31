@@ -10,7 +10,7 @@ forks: 1165
 stars: 879
 download: https://github.com/t413/SinglePaged/archive/gh-pages.zip
 demo: http://t413.com/SinglePaged/
-author: Tim O'Brien
+author: Tim O-Brien
 thumbnail: singlepaged.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

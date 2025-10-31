@@ -10,7 +10,7 @@ forks: 117
 stars: 60
 download: https://github.com/melvinchng/business-jekyll-theme/archive/master.zip
 demo: https://business-jekyll-theme.github.io/
-author: Melvin Ch'ng
+author: Melvin Chng
 thumbnail: business-jekyll-theme.webp
 license: GPLv3
 license_link: https://opensource.org/license/GPL-3.0
