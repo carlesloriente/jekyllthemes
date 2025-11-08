@@ -4,7 +4,7 @@ comments: true
 toc: true
 title: Midnight Glow
 date: 2025-10-08 12:00:00 +01:00
-homepage: https://github.com/gitforfabianv/midnightglow
+repo: https://github.com/gitforfabianv/midnightglow
 download: https://github.com/gitforfabianv/midnightglow/archive/refs/heads/main.zip
 demo: https://gitforfabianv.github.io/midnightglow/
 forks: 0

@@ -4,7 +4,7 @@ comments: true
 toc: true
 title: JS-Free Dark
 date: 2025-10-05 12:00:00 +01:00
-homepage: https://github.com/jawadnassar/jekyll-jsfree-dark-theme
+repo: https://github.com/jawadnassar/jekyll-jsfree-dark-theme
 download: https://github.com/jawadnassar/jekyll-jsfree-dark-theme/archive/refs/heads/main.zip
 demo: https://jawad.ca/jekyll-jsfree-dark-theme
 forks: 0
