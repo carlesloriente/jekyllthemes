@@ -60,7 +60,7 @@ The theme is made generally so you should get into the codes and change some det
   * For social icons visit [Ui Kit Icon](https://getuikit.com/docs/icon)
   * For skill icons visit [Dev Icon](https://devicon.dev/)
 
-* For informations on deploying your website [click here](https://jekyllrb.com/docs/github-pages/) or [click here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) or [click here](https://www.moncefbelyamani.com/making-github-pages-work-with-latest-jekyll/)
+* For informations on [deploying your website](https://jekyllrb.com/docs/github-pages/) or [creating a github-pages site with jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) or [making github-pages work with latest jekyll](https://www.moncefbelyamani.com/making-github-pages-work-with-latest-jekyll/)
 
 ## Contribute
 

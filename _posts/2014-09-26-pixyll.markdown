@@ -77,7 +77,7 @@ Now you can navigate to `localhost:4000` in your browser to see the site.
 
 ### Using Github Pages
 
-You can host your Jekyll site for free with Github Pages. [Click here](https://pages.github.com/){:target="_blank"}{:rel="noopener noreferrer"} for more information.
+You can host your Jekyll site for free with [Github Pages](https://pages.github.com/){:target="_blank"}{:rel="noopener noreferrer"} for more information.
 
 #### A configuration tweak if you're using a gh-pages sub-folder
 
