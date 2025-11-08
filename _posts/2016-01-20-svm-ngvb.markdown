@@ -10,7 +10,7 @@ forks: 100
 stars: 47
 download: https://github.com/svmiller/steve-ngvb-jekyll-template/archive/master.zip
 demo: https://svmiller.com
-author: Steven V. Miller
+author: Steven V Miller
 thumbnail: svm-ngvb.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

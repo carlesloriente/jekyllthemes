@@ -9,7 +9,7 @@ download: https://github.com/gitforfabianv/midnightglow/archive/refs/heads/main.
 demo: https://gitforfabianv.github.io/midnightglow/
 forks: 0
 stars: 0
-author: Fabian V.
+author: Fabian V
 thumbnail: midnightglowthumb.webp
 license: MIT
 license_link: https://opensource.org/license/MIT
