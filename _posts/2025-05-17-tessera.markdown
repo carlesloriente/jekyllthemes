@@ -3,7 +3,6 @@ layout: post
 comments: true
 toc: true
 title: Tessera
-description: Short theme description 
 date: 2025-05-17 16:00:00 +01:00
 update_date: 2025-05-21 16:00:00 +01:00
 repo: https://github.com/ItsZariep/Tessera
@@ -241,7 +240,7 @@ Create `assets/css/custom.css`, this file will serve as override without having 
 
 You can see common modifications on [Wiki](https://github.com/ItsZariep/Tessera/wiki/Common-modifications-and-additions:)
 
-You can also see guides on [Tessera site](itszariep.github.io/Tessera)
+You can also see guides on [Tessera site](https://itszariep.github.io/Tessera)
 
 ## Bugs and Issues
 

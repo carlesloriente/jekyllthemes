@@ -10,7 +10,7 @@ forks: 782
 stars: 679
 download: https://github.com/brianmaierjr/long-haul/archive/master.zip
 demo: https://brianmaierjr.com/long-haul/
-author: Brian Maier Jr.
+author: rian Maier
 thumbnail: long-haul.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

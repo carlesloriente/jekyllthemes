@@ -11,7 +11,7 @@ demo: https://dieghernan.github.io/chulapa/
 forks: 22
 stars: 80
 download: https://github.com/dieghernan/chulapa/archive/refs/heads/main.zip
-author: Diego H.
+author: Diego H
 thumbnail: chulapa.jpg
 license: MIT
 license_link: https://opensource.org/license/MIT

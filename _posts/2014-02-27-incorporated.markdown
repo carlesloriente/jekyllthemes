@@ -9,7 +9,7 @@ update_date: 2024-09-29
 forks: 370
 stars: 1063
 download: https://github.com/kippt/jekyll-incorporated/archive/master.zip
-author: Kippt Inc.
+author: Kippt Inc
 thumbnail: incorporated.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

@@ -9,7 +9,7 @@ update_date: 2022-07-31
 forks: 7
 stars: 5
 download: https://github.com/prio101/metaphor-jekyll/archive/master.zip
-author: Mahabub I.
+author: Mahabub I
 thumbnail: metaphor.webp
 license: MIT
 license_link: https://opensource.org/license/MIT
