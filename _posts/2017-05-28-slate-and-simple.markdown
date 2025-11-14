@@ -10,7 +10,7 @@ forks: 47
 stars: 31
 download: https://github.com/benradford/Slate-and-Simple-Jekyll-Theme/archive/refs/heads/master.zip
 demo: https://benradford.github.io
-author: Benjamin J. Radford
+author: Benjamin J Radford
 thumbnail: slate-and-simple.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

@@ -9,7 +9,7 @@ update_date: 2024-05-10
 forks: 17
 stars: 18
 download: https://github.com/RedL0tus/Biu-Jekyll-Theme
-author: KayMW (RedL0tus) & alexcarpenter
+author: KayMW (RedL0tus) and alexcarpenter
 thumbnail: biu.webp
 license: MIT
 license_link: https://opensource.org/license/MIT
