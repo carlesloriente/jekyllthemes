@@ -10,7 +10,7 @@ forks: 0
 stars: 4
 download: https://github.com/junjizhi/peak-panda/archive/refs/heads/main.zip
 demo: https://junjizhi.github.io/peak-panda/
-author: "Junji Zhi, Linghao Lin"
+author: Junji Zhi, Linghao Lin
 thumbnail: peak-panda.webp
 version: '1.0'
 license: MIT

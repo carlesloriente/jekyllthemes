@@ -9,7 +9,7 @@ update_date: 2024-09-04
 forks: 39
 stars: 30
 download: https://github.com/yonojoy/YAX-Coming-soon-Jekyll-Template/archive/v0.1-beta.zip
-author: yonojoy, M. Aghili, Ilya B. & others
+author: Yonojoy, M Aghili, Ilya B and others
 thumbnail: YAX-Coming-soon.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

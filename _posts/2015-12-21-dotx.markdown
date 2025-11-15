@@ -10,7 +10,7 @@ forks: 54
 stars: 92
 download: https://github.com/nandomoreirame/dotX/archive/master.zip
 demo: https://nandomoreirame.github.io/dotX/
-author: nandomoreira.me
+author: Nando Moreira
 thumbnail: dotx.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

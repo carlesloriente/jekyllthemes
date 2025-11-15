@@ -10,7 +10,7 @@ forks: 31
 stars: 35
 download: https://github.com/nandomoreirame/lora/archive/master.zip
 demo: https://nandomoreirame.github.io/lora/
-author: nandomoreira.me
+author: Nando Moreira
 thumbnail: lora.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

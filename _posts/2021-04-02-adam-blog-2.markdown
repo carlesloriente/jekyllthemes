@@ -10,7 +10,7 @@ forks: 436
 stars: 91
 download: https://github.com/the-mvm/the-mvm.github.io/archive/refs/heads/main.zip
 demo: https://the-mvm.github.io/
-author: "Armando Maynez"
+author: Armando Maynez
 license: GPLv3
 license_link: https://opensource.org/license/GPL-3.0
 thumbnail: adam-blog.webp

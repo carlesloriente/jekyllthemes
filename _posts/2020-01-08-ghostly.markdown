@@ -10,7 +10,7 @@ forks: 1
 stars: 11
 download: https://github.com/jonathanlilly/ghostly/archive/master.zip
 demo: https://www.jmlilly.net/ghostly
-author: Jonathan M. Lilly
+author: Jonathan M Lilly
 thumbnail: ghostly.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

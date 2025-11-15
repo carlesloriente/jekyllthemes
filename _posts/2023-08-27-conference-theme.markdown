@@ -11,7 +11,7 @@ forks: 67
 stars: 71
 download: https://github.com/DigitaleGesellschaft/jekyll-theme-conference/releases/
 demo: https://www.winterkongress.ch/2024/
-author: "Lorenz Schmid"
+author: Lorenz Schmid
 thumbnail: jekyll-theme-conference.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

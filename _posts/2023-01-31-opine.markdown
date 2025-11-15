@@ -10,7 +10,7 @@ forks: 0
 stars: 1
 download: https://github.com/leabs/jekyll-opine/archive/refs/tags/v1.zip
 demo: https://jekyll-opine.vercel.app/
-author: "Steven Leabo"
+author: Steven Leabo
 version: '1.0'
 thumbnail: opine.webp
 license: MIT

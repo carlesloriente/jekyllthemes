@@ -10,7 +10,7 @@ forks: 39
 stars: 44
 download: https://github.com/nandomoreirame/zetsu/archive/master.zip
 demo: https://nandomoreirame.github.io/zetsu/
-author: nandomoreira.me
+author: Nando Moreira
 thumbnail: zetsu.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

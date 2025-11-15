@@ -11,7 +11,7 @@ stars: 41
 download: https://github.com/byanko55/jekyll-theme-satellite/releases
 demo: https://byanko55.github.io/
 thumbnail: jekyll-theme-satellite.webp
-author: "Yankos"
+author: Yankos
 license: MIT
 license_link: https://opensource.org/license/MIT
 carousel:

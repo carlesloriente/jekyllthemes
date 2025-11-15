@@ -10,7 +10,7 @@ forks: 75
 stars: 103
 download: https://github.com/nandomoreirame/nandomoreira-jekyll-theme/archive/master.zip
 demo: https://nandomoreirame.github.io/nandomoreira-jekyll-theme/
-author: nandomoreira.me
+author: Nando Moreira
 thumbnail: nandomoreira.me.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

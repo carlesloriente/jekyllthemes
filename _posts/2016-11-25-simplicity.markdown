@@ -11,7 +11,7 @@ forks: 31
 stars: 75
 download: https://github.com/Phlow/simplicity/archive/refs/tags/V1.1.zip
 demo: https://phlow.github.io/simplicity
-author: "Moritz »mo.« Sauer"
+author: Moritz (mo) Sauer
 thumbnail: simplicity.png
 license: MIT
 license_link: https://opensource.org/license/MIT

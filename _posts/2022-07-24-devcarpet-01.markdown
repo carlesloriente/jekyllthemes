@@ -10,7 +10,7 @@ forks: 0
 stars: 0
 download: https://rubygems.org/downloads/jekyll-theme-devcarpet-01-0.2.1.gem
 demo: https://bluszcz.net
-author: "Rafał Zawadzki"
+author: Rafał Zawadzki
 thumbnail:  devcarpet-portfolio.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

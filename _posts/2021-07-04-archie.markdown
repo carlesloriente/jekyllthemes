@@ -9,7 +9,7 @@ update_date: 2024-12-28
 forks: 2
 stars: 6
 download: https://github.com/Slashformotion-s-Graveyard/jekyll-archie/archive/refs/heads/main.zip
-author: "Slashformotion"
+author: Slashformotion
 thumbnail: archie.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

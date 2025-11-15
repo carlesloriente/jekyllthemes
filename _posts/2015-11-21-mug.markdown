@@ -10,7 +10,7 @@ forks: 34
 stars: 44
 download: https://github.com/nandomoreirame/mug/archive/master.zip
 demo: https://nandomoreirame.github.io/mug/
-author: nandomoreira.me
+author: Nando Moreira
 thumbnail: mug.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

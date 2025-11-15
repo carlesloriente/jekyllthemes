@@ -10,7 +10,7 @@ forks: 45
 stars: 93
 download: https://github.com/onepase/Ephesus/archive/refs/heads/master.zip
 demo: https://pardin.us/ephesus/
-author: "Hakan Torun"
+author: Hakan Torun
 thumbnail: ephesus-jekyll-theme.webp
 license: MIT
 license_link: https://opensource.org/license/MIT

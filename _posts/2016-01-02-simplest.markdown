@@ -10,7 +10,7 @@ forks: 47
 stars: 128
 download: https://github.com/nandomoreirame/simplest/archive/master.zip
 demo: https://nandomoreirame.github.io/simplest/
-author: nandomoreira.me
+author: Nando Moreira
 thumbnail: simplest.webp
 license: MIT
 license_link: https://opensource.org/license/MIT
