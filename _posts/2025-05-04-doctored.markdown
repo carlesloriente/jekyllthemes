@@ -1,0 +1,79 @@
+---
+layout: post
+comments: true
+toc: true
+title: Doctored
+date: 2025-05-04 22:00:00 +01:00
+update_date: 2025-11-22
+repo: https://github.com/matmanna/doctored
+demo: https://matmanna.github.io/doctored/
+forks: 0
+stars: 2
+download: https://github.com/matmanna/doctored/archive/refs/heads/main.zip
+author: Mat Manna
+thumbnail: doctored.png
+license: MIT
+license_link: https://opensource.org/license/MIT
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
+  - 'screenshot-4.png'
+  - 'screenshot-5.png'
+  - 'screenshot-6.png'
+---
+
+A blog theme prioritizing uniqueness, technical complexity, and sophistication.
+
+Made using Jekyll and Tailwind following the [Tonic](https://tonic.hackclub.com){:target="_blank"}{:rel="noopener noreferrer"} starter guide and [template](https://github.com/hackclub/tonic-starter){:target="_blank"}{:rel="noopener noreferrer"}. No other jekyll theme really felt like it matched what I would have wanted so I created my own!
+
+## Features
+
+- 20+ color schemes & dark/light/system modes
+- Projects, blog, now, and contact pages
+- GFM support (tables, admonitions, etc.)
+- Git metadata access
+- Floating Table of Contents
+- Side & foot notes
+- RSS feed & sitemap
+- Responsive nav, footer sections
+
+## Installation
+
+> [!NOTE]
+> Additional installation/usage instructions are WIP
+
+To add to an existing Jekyll site using the packaged gem (recommended):
+
+1. add the `gem "jekyll-theme-doctored` dependency to your `Gemfile`
+2. run `bundle install`
+3. add `theme: jekyll-theme-doctored` to your Jekyll `_config.yml`
+4. follow the usage instructions below to serve (or continue customizing) your site!
+
+## ⌨️ Usage
+
+### ▶️ Running
+
+Run `npm install` and `npm run dev` to develop. Run `npm run build` to build. Postinstall and other scripts have been configured to use `bundle install`, `bundle exec jekyll serve --watch`, and `bundle exec jekyll build` respectively.
+
+### 🖼️ Formatting posts
+
+If you want to use sidenotes in your posts/pages, begin by copying the `utils/postMarkdown.py` script and creating a `_drafts` directory within your project.
+
+To post a new post, run `python utils/postMarkdown.py _drafts/_posts/example-001.md`, which will  format and copy it to `_posts/` (or root if page!)
+
+- **Foot/sidenotes:**
+
+  To add a foot/side note, include the following in your draft markdown:
+
+  ```html
+  <small>Richly-formatted (html) content of note</small>
+  ```
+
+## Contributing
+
+Please create Issues and PRs for bugs/feature requests and updated code respectively.
+
+## License
+
+Doctored is licensed under the MIT, which means you can do (almost) anything with it!!

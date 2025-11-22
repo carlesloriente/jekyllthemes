@@ -19,6 +19,6 @@ carousel:
   - 'screenshot-3.png'
 ---
 
-A JavaScript-free, dark mode, and minimalistic [Jekyll](https://jekyllrb.com) theme built with [Bootstrap](https://getbootstrap.com) and designed for speed, clarity, and simplicity.
+A JavaScript-free, dark mode, and minimalistic [Jekyll](https://jekyllrb.com){:target="_blank"}{:rel="noopener noreferrer"} theme built with [Bootstrap](https://getbootstrap.com){:target="_blank"}{:rel="noopener noreferrer"} and designed for speed, clarity, and simplicity.
 
 Ideal for developers who want a fast, lightweight blog that is optimal for slow internet connections.
