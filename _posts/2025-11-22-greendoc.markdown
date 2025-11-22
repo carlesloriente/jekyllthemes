@@ -1,0 +1,29 @@
+---
+layout: post
+comments: true
+toc: true
+title: GreenDoc
+date: 2025-11-22 12:00:00 +01:00
+repo: https://github.com/open-and-sustainable/greendoc_theme
+download: https://github.com/open-and-sustainable/greendoc_theme/archive/refs/heads/main.zip
+demo: https://open-and-sustainable.github.io/greendoc_theme/
+forks: 0
+stars: 1
+author: Open and Sustainable
+thumbnail: greendoc.png
+license: MIT
+license_link: https://opensource.org/license/MIT
+carousel:
+  - 'screenshot-1.png'
+  - 'screenshot-2.png'
+  - 'screenshot-3.png'
+  - 'screenshot-4.png'
+---
+
+GreenDoc is a Jekyll theme designed to create environmentally friendly and sustainable documentation websites. It emphasizes minimalism, efficiency, and accessibility, ensuring that your documentation is not only easy to read but also has a reduced environmental impact.
+
+It can be used for GitHub Pages by referencing the theme in the `_config.yml` file:
+
+remote_theme: `Open-and-Sustainable/greendoc_theme`
+
+Further instructions and a preview can be accessed at [GreenDoc site]{https://open-and-sustainable.github.io/greendoc_theme}{:target="_blank"}{:rel="noopener noreferrer"}.
