@@ -10,7 +10,7 @@ forks: 309
 stars: 240
 download: https://github.com/themefisher/kross-jekyll/archive/refs/heads/main.zip
 demo: https://themefisher.com/demo?theme=kross-jekyll
-author: Themefisher
+author: ThemeFisher
 thumbnail: kross-portfolio-template.webp
 license: MIT
 license_link: https://opensource.org/license/MIT
