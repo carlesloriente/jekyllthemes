@@ -4,12 +4,12 @@ comments: true
 toc: true
 title: Book
 date: 2015-08-28 07:11:00 +01:00
-repo: https://github.com/kkninjae/book
+repo: https://github.com/langxyzxyz/book
 update_date: 2024-11-14
 forks: 61
 stars: 133
-download: https://github.com/kkninjae/book/archive/master.zip
-demo: https://kkninjae.github.io/book
+download: https://github.com/langxyzxyz/book/archive/master.zip
+demo: https://langxyzxyz.github.io/book
 author: Lang Liu
 thumbnail: book.webp
 license: MIT
