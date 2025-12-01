@@ -231,24 +231,6 @@ your-site/
         └── workflow.excalidraw
 ```
 
-#### 3. Embed Diagrams
-
-**Static SVG (recommended for most cases):**
-
-`{% include excalidraw-static.html file="/assets/excalidraw/architecture.excalidraw" %}`
-
-**Interactive iframe:**
-
-`{% include excalidraw-embed.html file="/assets/excalidraw/architecture.excalidraw" height="800px" %}`
-
-**Smart embed with mode selection:**
-
-`{% include excalidraw.html file="/assets/excalidraw/diagram.excalidraw" %}`
-
-`{% include excalidraw.html file="/assets/excalidraw/diagram.excalidraw" mode="interactive" height="800px" %}`
-
-`{% include excalidraw.html file="/assets/excalidraw/diagram.excalidraw" mode="link" %}`
-
 ## Customization
 
 The theme provides three customization hooks that you can override in your site:
@@ -298,22 +280,6 @@ Add copyright, legal links, or additional content:
 ### Tailwind Components
 
 The theme includes reusable Tailwind components:
-
-#### Alert
-
-`{% include alert.html type="info" message="This is an informational alert." %}`
-
-Types: `info`, `warning`, `error`, `success`
-
-#### Button
-
-`{% include button.html text="Click Me" url="/page" style="primary"%}`
-
-Styles: `primary`, `secondary`, `outline`
-
-#### Card
-
-`{% include card.html title="Card Title" content="Card content goes here." image="/assets/images/card-image.jpg" %}`
 
 ### Blog Sidebar
 
