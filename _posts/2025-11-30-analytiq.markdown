@@ -235,31 +235,19 @@ your-site/
 
 **Static SVG (recommended for most cases):**
 
-```liquid
-{% include excalidraw-static.html file="/assets/excalidraw/architecture.excalidraw" %}
-```
+`{% include excalidraw-static.html file="/assets/excalidraw/architecture.excalidraw" %}`
 
 **Interactive iframe:**
 
-```liquid
-{% include excalidraw-embed.html
-   file="/assets/excalidraw/architecture.excalidraw"
-   height="800px"
-%}
-```
+`{% include excalidraw-embed.html file="/assets/excalidraw/architecture.excalidraw" height="800px" %}`
 
 **Smart embed with mode selection:**
 
-```liquid
-<!-- Default: static -->
-{% include excalidraw.html file="/assets/excalidraw/diagram.excalidraw" %}
+`{% include excalidraw.html file="/assets/excalidraw/diagram.excalidraw" %}`
 
-<!-- Interactive -->
-{% include excalidraw.html file="/assets/excalidraw/diagram.excalidraw" mode="interactive" height="800px" %}
+`{% include excalidraw.html file="/assets/excalidraw/diagram.excalidraw" mode="interactive" height="800px" %}`
 
-<!-- Just a link -->
-{% include excalidraw.html file="/assets/excalidraw/diagram.excalidraw" mode="link" %}
-```
+`{% include excalidraw.html file="/assets/excalidraw/diagram.excalidraw" mode="link" %}`
 
 ## Customization
 
@@ -313,36 +301,19 @@ The theme includes reusable Tailwind components:
 
 #### Alert
 
-```liquid
-{% include alert.html
-   type="info"
-   message="This is an informational alert."
-%}
-```
+`{% include alert.html type="info" message="This is an informational alert." %}`
 
 Types: `info`, `warning`, `error`, `success`
 
 #### Button
 
-```liquid
-{% include button.html
-   text="Click Me"
-   url="/page"
-   style="primary"
-%}
-```
+`{% include button.html text="Click Me" url="/page" style="primary"%}`
 
 Styles: `primary`, `secondary`, `outline`
 
 #### Card
 
-```liquid
-{% include card.html
-   title="Card Title"
-   content="Card content goes here."
-   image="/assets/images/card-image.jpg"
-%}
-```
+`{% include card.html title="Card Title" content="Card content goes here." image="/assets/images/card-image.jpg" %}`
 
 ### Blog Sidebar
 
