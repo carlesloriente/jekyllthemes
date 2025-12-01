@@ -73,7 +73,3 @@ To post a new post, run `python utils/postMarkdown.py _drafts/_posts/example-001
 ## Contributing
 
 Please create Issues and PRs for bugs/feature requests and updated code respectively.
-
-## License
-
-Doctored is licensed under the MIT, which means you can do (almost) anything with it!!
