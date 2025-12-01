@@ -26,4 +26,4 @@ It can be used for GitHub Pages by referencing the theme in the `_config.yml` fi
 
 remote_theme: `Open-and-Sustainable/greendoc_theme`
 
-Further instructions and a preview can be accessed at [GreenDoc site]{https://open-and-sustainable.github.io/greendoc_theme}{:target="_blank"}{:rel="noopener noreferrer"}.
+Further instructions and a preview can be accessed at [GreenDoc site](https://open-and-sustainable.github.io/greendoc_theme){:target="_blank"}{:rel="noopener noreferrer"}.

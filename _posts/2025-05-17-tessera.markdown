@@ -39,51 +39,53 @@ Tessera features three main components: two side panels and a central content ar
 
 ## Installation
 
-1. Add this line to your Jekyll site's `Gemfile`:
+1.Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
 gem "tessera-jekyll-theme"
 ```
 
-2. Then add this line to your Jekyll site's `_config.yml`:
+2.Then add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
 theme: tessera-jekyll-theme
 ```
 
-3. And then execute:
+3.And then execute:
 
-```
-$ bundle
+```bash
+bundle
 ```
 
-3. Or install it manually with:
+3.Or install it manually with:
 
-```
-$ gem install tessera-jekyll-theme
+```bash
+gem install tessera-jekyll-theme
 ```
 
 ### GitHub Pages
+
 Instead of doing the above steps, define this in your `_config.yml`, removing also `theme`:
 
-```
+```yaml
 # theme: something # remove this
 remote_theme: itszariep/Tessera # add this
 ```
 
 ## Dependencies
+
 Tessera needs the following Jekyll plugins to function properly:
 
-  - jekyll-paginate (Pagination in main page)
-  - jekyll-archives (See posts matching category)
-  
-  
+- jekyll-paginate (Pagination in main page)
+- jekyll-archives (See posts matching category)
+
 ## Post-install setup
 
 ### Search
+
 Search needs /`search.json`:
 
-```
+```yaml
 {% raw %}
 ---
 layout: null
@@ -103,8 +105,10 @@ layout: null
 ```
 
 ### Social Media Preview on non-post pages
+
 set this on your `_config.yml`:
-```
+
+```yaml
 defaults:
   -
     scope:
@@ -116,12 +120,11 @@ defaults:
 
 > Image need to be always /preview.jpg
 
-
 ## Authors
 
-1.  Optionally set default author in `_.config.yml`:
+1.Optionally set default author in `_.config.yml`:
 
-```
+```yaml
 defaults:
   - 
     scope:
@@ -139,11 +142,11 @@ defaults:
 
 ```
 
-2. Create `assets/img/authors/[Author Name].webp`
-3. Create `about/[Author Name].md`
-4. Create `_includes/authors.html and set your data`:
+2.Create `assets/img/authors/[Author Name].webp`
+3.Create `about/[Author Name].md`
+4.Create `_includes/authors.html and set your data`:
 
-```
+```html
 {% raw %}
 {% case include.author %}
 	{% when "[YOUR NAME]" %}
@@ -159,18 +162,19 @@ defaults:
 > You can add multiple authors, for example with "Tessera", files would be `assets/img/authors/Tessera.webp` and `about/Tessera.md`
 
 ### Pagination
+
 Pagination needs setup on two files:
 
 on `_config.yml`:
 
-```
+```yaml
 paginate: 9
 paginate_path: "/page:num/"
 ```
 
 on `index.html`
 
-```
+```html
 ---
 layout: home
 title: [Your index title]
@@ -180,11 +184,11 @@ paginate: 9
 
 > 9 is the number of post per section, you can change it to have more o less post on grid per section
 
-
 ### Archives (Categories)
+
 Archives needs setup on `_config.yml`:
 
-```
+```yaml
 jekyll-archives:
   enabled:
     - categories
@@ -193,20 +197,22 @@ jekyll-archives:
     category: '/categories/:name/'
 ```
 
-> [!NOTE]  
+> [!NOTE]
 > Github Pages does not support Jekyll Archives, if you want this feature please use Github Actions instead
 
 ### Date format
+
 Date format is configurable on `_config.yml`:
 
-```
+```yaml
 date_format: "%d/%m/%Y" # dd/mm/yy
 ```
 
 ### Social links
+
 Like any other Jekyll theme, you need to setup your social links on `_config.yml`:
 
-```
+```bash
 social_links:
   - name: Twitter
     url: https://twitter.com/yourprofile
@@ -222,30 +228,32 @@ social_links:
 ## Customizing
 
 ### Layouts
+
 To start customizing Tessera, copy any of the `_includes` components you'd like to modify:
 
-* `toppane.html`: Header
-* `leftpane.html`: Left side of the page
-* `postgrid.html`: Post grid of the main page
-* `pagination-controls.html`: Pagination controls for the main page
-* `postcontent.html`: Content of a post
-* `userbox.html`: User box displayed below the post content
-* `comments.html`: Optional (currently unimplemented) comments section; by default, an example using Utterances is commented out. You can integrate any custom comment system via JavaScript.
-* `rightpane.html`: Right side of the page
-* `searchbar.html`: Search bar (requires JavaScript)
-* `bottompane.html`: Footer for all pages
+- `toppane.html`: Header
+- `leftpane.html`: Left side of the page
+- `postgrid.html`: Post grid of the main page
+- `pagination-controls.html`: Pagination controls for the main page
+- `postcontent.html`: Content of a post
+- `userbox.html`: User box displayed below the post content
+- `comments.html`: Optional (currently unimplemented) comments section; by default, an example using Utterances is commented out. You can integrate any custom comment system via JavaScript.
+- `rightpane.html`: Right side of the page
+- `searchbar.html`: Search bar (requires JavaScript)
+- `bottompane.html`: Footer for all pages
 
 ### Styles
+
 Create `assets/css/custom.css`, this file will serve as override without having to modify entire CSS, so you can edit specific elements you want.
 
-You can see common modifications on [Wiki](https://github.com/ItsZariep/Tessera/wiki/Common-modifications-and-additions:)
+You can see common modifications on [Wiki](https://github.com/ItsZariep/Tessera/wiki/Common-modifications-and-additions:){:target="_blank"}{:rel="noopener noreferrer"}
 
-You can also see guides on [Tessera site](https://itszariep.github.io/Tessera)
+You can also see guides on [Tessera site](https://itszariep.github.io/Tessera){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Bugs and Issues
 
-Report issues on [Tessera GitHub](https://github.com/ItsZariep/Tessera/issues)
+Report issues on [Tessera GitHub](https://github.com/ItsZariep/Tessera/issues){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Contribute
 
-Contribute o [Tessera GitHub](https://github.com/ItsZariep/Tessera/pulls)
+Contribute o [Tessera GitHub](https://github.com/ItsZariep/Tessera/pulls){:target="_blank"}{:rel="noopener noreferrer"}

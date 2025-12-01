@@ -10,7 +10,7 @@ forks: 422
 stars: 125
 download: https://github.com/vszhub/not-pure-poole/zipball/master
 demo: https://vszhub.github.io/not-pure-poole/
-author: Songzi Vong
+author: Song-Zi Vong
 thumbnail: not-pure-poole.webp
 license: MIT
 license_link: https://opensource.org/license/MIT
